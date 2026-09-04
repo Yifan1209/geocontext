@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,格拉西亚站,Gràcia station,Gràcia,Q2501185,0.744,4,,3,3
+0.5-1.5km,high,桂尔公园,Park Güell,桂尔公园,Q212867,0.879,5,,3,3
+0.5-1.5km,high,对角线大道,Avinguda Diagonal,对角线大道,Q791045,1.298,5,,3,3
+0.5-1.5km,mid,圣格瓦西站,Sant Gervasi station,Sant Gervasi,Q1841199,0.623,3,,7,4
+0.5-1.5km,mid,,Vallcarca metro station,Vallcarca,Q1813621,0.731,3,,7,4
+0.5-1.5km,mid,阿方索十世站,Alfons X station,Alfons X,Q784989,1.471,3,,7,4
+0.5-1.5km,mid,高迪故居博物馆,Gaudí House Museum,Gaudi House Museum,Q1968399,0.989,2,,7,4
+1.5-3.0km,high,加泰罗尼亚广场,Plaça de Catalunya,加泰罗尼亚广场,Q822881,2.732,5,,14,4
+1.5-3.0km,high,加泰罗尼亚议会大道,Gran Via de les Corts Catalanes,加泰罗尼亚议会大道,Q263293,2.894,4,,14,4
+1.5-3.0km,high,普罗旺斯-对角线大道站,Provença–Diagonal station,普羅旺斯-對角線大道站,Q2472213,1.575,4,,14,4
+1.5-3.0km,high,巴塞罗那当代艺术博物馆,Barcelona Museum of Contemporary Art,巴塞隆納當代美術館,Q1067140,2.939,4,,14,4
+1.5-3.0km,mid,,La Bonanova station,La Bonanova,Q2647730,1.502,2,,16,4
+1.5-3.0km,mid,巴塞罗那宇宙科学馆,CosmoCaixa Barcelona,巴塞隆納宇宙科學館,Q2625747,1.713,3,,16,4
+1.5-3.0km,mid,莫雷拉之家,Casa Lleó Morera,狮子与桑树之家,Q2330791,2.129,2,,16,4
+1.5-3.0km,mid,奥尔塔站,Horta station,Horta,Q2643379,2.819,2,,16,4
+3.0-6.0km,high,巴塞罗内塔,La Barceloneta,巴塞罗内塔,Q377070,4.447,5,,44,4
+3.0-6.0km,high,皇家广场,Royal Square,皇家广场,Q1519964,3.602,4,,44,4
+3.0-6.0km,high,桂尔宫,Palau Güell,桂尔宫,Q597051,3.68,4,,44,4
+3.0-6.0km,high,旧港,Port Vell,旧港,Q1114612,4.391,5,,44,4
+3.0-6.0km,mid,圣安德鲁站,Sant Andreu (Barcelona Metro),Sant Andreu,Q2536679,4.813,3,,64,4
+3.0-6.0km,mid,新三一站,Trinitat Nova station,新三一站,Q747555,5.497,3,,64,4
+3.0-6.0km,mid,四只猫,Els Quatre Gats,四只猫,Q1333395,3.032,2,,64,4
+3.0-6.0km,mid,加泰罗尼亚国家艺术博物馆,Museu Nacional d'Art de Catalunya,加泰罗尼亚国家艺术博物馆,Q861252,4.213,3,,64,4
+3.0-6.0km,low,加泰罗尼亚语语言学院,Institute for Catalan Studies,加泰羅尼亞語語言學院,Q756890,3.613,1,,3,3
+3.0-6.0km,low,加泰罗尼亚开放大学,Open University of Catalonia,加泰罗尼亚开放大学,Q3042433,3.752,1,,3,3
+3.0-6.0km,low,迷你球场,Mini Estadi,迷你球場,Q725581,3.933,1,,3,3

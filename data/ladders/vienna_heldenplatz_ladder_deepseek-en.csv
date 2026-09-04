@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,维也纳市政厅,Vienna City Hall,维也纳市政厅,Q686468,0.689,4,,27,4
+0.5-1.5km,high,卡尔广场,Karlsplatz,卡尔广场,Q700753,0.913,5,,27,4
+0.5-1.5km,high,卡尔广场城铁站,Karlsplatz station,卡尔广场城铁站,Q335894,0.704,4,,27,4
+0.5-1.5km,high,施度本门站,Stubentor station,施度本門站,Q1287077,1.154,4,,27,4
+0.5-1.5km,mid,,Architekturzentrum Wien,Architekturzentrum Wien,Q635399,0.502,3,,22,4
+0.5-1.5km,mid,奥地利科学院,Austrian Academy of Sciences,奧地利科學院,Q299015,1.027,2,,22,4
+0.5-1.5km,mid,维也纳莫扎特之家,Mozarthaus Vienna,維也納莫扎特之家,Q387667,0.852,3,,22,4
+0.5-1.5km,mid,大众剧场,"Volkstheater, Vienna",大眾劇場,Q688555,0.516,3,,22,4
+0.5-1.5km,low,基本人权机构,Fundamental Rights Agency,基本人權公署,Q48790,1.205,1,,2,2
+0.5-1.5km,low,奥地利宪法法院,Constitutional Court (Austria),奧地利憲法法院,Q873868,0.604,1,,2,2
+1.5-3.0km,high,维也纳中心车站,Wien Mitte railway station,维也纳中心车站,Q677576,1.553,5,,16,4
+1.5-3.0km,high,皮尔格拉姆巷站,Pilgramgasse station,皮爾格拉姆巷站,Q873079,1.669,5,,16,4
+1.5-3.0km,high,奥地利美景宫美术馆,Österreichische Galerie Belvedere,奥地利美景宫美术馆,Q303139,2.084,4,,16,4
+1.5-3.0km,high,普拉特公园,Prater,普拉特公园,Q264752,2.597,5,,16,4
+1.5-3.0km,mid,马尔加雷滕,Margareten,马尔加雷滕,Q252731,2.264,3,,14,4
+1.5-3.0km,mid,玛格丽滕古尔特尔站,Margaretengürtel station,瑪格麗滕古爾特爾站,Q2465739,2.501,3,,14,4
+1.5-3.0km,mid,乌剌尼亚天文台,"Urania, Vienna",乌剌尼亚天文台,Q259553,1.589,3,,14,4
+1.5-3.0km,mid,库格尔穆格尔共和国,Kugelmugel,庫格爾穆格爾共和國,Q877579,2.56,2,,14,4
+1.5-3.0km,low,人文科学研究院,Institute for Human Sciences,人文科學研究院,Q1077495,2.321,1,,1,1
+3.0-6.0km,high,开普勒广场站,Keplerplatz station,開普勒廣場站,Q1573137,3.092,4,,17,4
+3.0-6.0km,high,维也纳经济与商业大学,Vienna University of Economics and Business,維也納經濟與商業大學,Q278044,3.406,4,,17,4
+3.0-6.0km,high,美泉宫站,Schönbrunn station,美泉宮站,Q2465770,4.012,5,,17,4
+3.0-6.0km,high,多瑙塔,Donauturm,多瑙塔,Q686544,5.099,4,,17,4
+3.0-6.0km,mid,韦灵犹太公墓,"Jewish Cemetery, Währing",Jewish cemetery in Währing,Q872769,3.044,2,,17,4
+3.0-6.0km,mid,维也纳天文台,Vienna Observatory,維也納天文台,Q532127,3.593,3,,17,4
+3.0-6.0km,mid,中欧大学,Central European University,中欧大学,Q757391,4.034,3,,17,4
+3.0-6.0km,mid,旧多瑙站,Alte Donau station,舊多瑙站,Q2465673,5.743,3,,17,4

@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,马林莱恩斯火车站,Marine Lines railway station,Marine Lines railway station,Q6764160,0.688,5,,20,4
+0.5-1.5km,high,卡佛市场,Crawford Market,卡佛市场,Q5182895,1.416,5,,20,4
+0.5-1.5km,high,圣沙勿略学院,"St. Xavier's College, Mumbai",孟買大學聖沙勿略學院,Q7592174,1.377,4,,20,4
+0.5-1.5km,high,孟买皇家歌剧院,"Royal Opera House, Mumbai",Royal Opera House,Q3210038,0.828,4,,20,4
+0.5-1.5km,mid,真纳人民纪念堂,Jinnah's People's Memorial Hall,Jinnah's People's Memorial Hall,Q6202634,1.225,2,,11,4
+0.5-1.5km,mid,,PJ Hindu Gymkhana Ground,PJ Hindu Gymkhana Ground,Q23073956,0.614,2,,11,4
+0.5-1.5km,mid,纳纳朝克,Nana Chowk,Nana Chowk,Q17077124,1.433,3,,11,4
+0.5-1.5km,mid,莫卧儿清真寺,Moghal Masjid,"Moghal Masjid, Mumbai",Q123232177,1.443,3,,11,4
+0.5-1.5km,low,,Dedh galli,Dedh galli,Q48729589,1.261,1,,1,1
+1.5-3.0km,high,弗洛拉喷泉,Flora Fountain,Flora Fountain,Q5460296,2.398,4,,41,4
+1.5-3.0km,high,桑赫斯特路站,Sandhurst Road railway station,桑赫斯特路站,Q5226365,2.063,4,,41,4
+1.5-3.0km,high,孟买市政大楼,"Municipal Corporation Building, Mumbai",孟買市政大樓,Q6936220,1.926,5,,41,4
+1.5-3.0km,high,印度航空大厦,Air India Building,印度航空大厦,Q3172573,2.404,5,,41,4
+1.5-3.0km,mid,戈帕尔拉奥·德什穆克路,Gopalrao Deshmukh Marg,Gopalrao Deshmukh Marg,Q2991167,2.612,2,,48,4
+1.5-3.0km,mid,以利亚会堂,Knesset Eliyahoo Synagogue,以利亚会堂 (孟买),Q6421993,2.879,3,,48,4
+1.5-3.0km,mid,新印度保险大楼,New India Assurance Building,New India Assurance Building,Q7008948,2.608,2,,48,4
+1.5-3.0km,mid,埃尔芬斯通学院,Elphinstone College,埃尔芬斯通学院,Q1333283,2.937,3,,48,4
+1.5-3.0km,low,波兰共和国驻孟买总领事馆,Consulate General of the Republic of Poland in Mumbai,Consulate General of the Republic of Poland in Mumbai,Q48851327,2.745,1,,2,2
+1.5-3.0km,low,,Orchid Enclave,Orchid Enclave,Q7100281,1.73,1,,2,2
+3.0-6.0km,high,沃里村,Worli,沃里村,Q1934607,5.379,5,,33,4
+3.0-6.0km,high,钦奇波卡利站,Chinchpokli railway station,钦奇波卡利站,Q5100314,4.011,5,,33,4
+3.0-6.0km,high,拉尔巴格查拉贾,Lalbaugcha Raja,Lalbaugcha Raja,Q12061085,4.538,4,,33,4
+3.0-6.0km,high,孟买世界贸易中心,"World Trade Centre, Mumbai",孟買世界貿易中心,Q8036349,4.206,4,,33,4
+3.0-6.0km,mid,巴乌·达吉·拉德博物馆,Dr. Bhau Daji Lad Museum,Dr. Bhau Daji Lad Museum,Q5303985,3.32,3,,34,4
+3.0-6.0km,mid,卡斯图尔巴医院,Kasturba Hospital (Mumbai),Kasturba Hospital (Mumbai),Q91060422,3.652,2,,34,4
+3.0-6.0km,mid,库里路站,Currey Road railway station,库里路站,Q5121321,4.754,3,,34,4
+3.0-6.0km,mid,合十礼大厦,Namaste Tower,Namaste Tower,Q621675,4.382,3,,34,4
+3.0-6.0km,low,孟买拆船厂,Mumbai ship-breaking yard,Mumbai ship-breaking yard,Q336327,3.966,1,,2,2
+3.0-6.0km,low,,INS Sardar Patel,INS Sardar Patel,Q24943494,3.248,1,,2,2

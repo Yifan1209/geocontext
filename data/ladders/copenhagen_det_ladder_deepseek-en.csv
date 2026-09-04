@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,哥本哈根火车总站,Copenhagen Central Station,哥本哈根火车总站,Q1495052,0.578,5,,18,4
+0.5-1.5km,high,韦斯特布罗,Vesterbro,韋斯特布羅,Q521187,0.69,4,,18,4
+0.5-1.5km,high,腓特烈斯贝大道站,Frederiksberg Allé station,腓特烈斯贝大道站,Q11970037,0.934,4,,18,4
+0.5-1.5km,high,哥本哈根论坛,Forum Copenhagen,哥本哈根論壇,Q2879779,0.874,4,,18,4
+0.5-1.5km,mid,,Liberty Column,Liberty Column,Q3441954,0.511,3,,17,4
+0.5-1.5km,mid,西门站 (哥本哈根),Vesterport railway station,西门站 (哥本哈根),Q2039347,0.535,3,,17,4
+0.5-1.5km,mid,丹麦皇家音乐学院,Royal Danish Academy of Music,丹麦皇家音乐学院,Q1201057,1.025,2,,17,4
+0.5-1.5km,mid,码头大桥,Bryggebroen,碼頭大橋,Q2927205,1.494,3,,17,4
+0.5-1.5km,low,丹麦皇家科学院,Royal Danish Academy of Sciences and Letters,丹麦皇家科学院,Q1636237,1.171,1,,1,1
+1.5-3.0km,high,国王新广场,Kongens Nytorv,國王新廣場,Q1589941,2.066,5,,48,4
+1.5-3.0km,high,阿马林堡宫,Amalienborg,阿马林堡宫,Q211053,2.666,5,,48,4
+1.5-3.0km,high,安格勒特酒店,Hotel d'Angleterre,安格勒特酒店,Q3121408,2.008,4,,48,4
+1.5-3.0km,high,丹麦艺术与设计博物馆,Designmuseum Denmark,丹麥藝術與設計博物館,Q834603,2.793,4,,48,4
+1.5-3.0km,mid,哥本哈根音乐厅,Koncerthuset,哥本哈根音乐厅,Q1783715,2.719,3,,43,4
+1.5-3.0km,mid,,Vestre Cemetery,Vestre Cemetery,Q3305530,2.294,3,,43,4
+1.5-3.0km,mid,赫希斯普龙收藏馆,Hirschsprung Collection,Hirschsprung Collection,Q2982867,2.308,3,,43,4
+1.5-3.0km,mid,哥本哈根信息技术大学,IT University of Copenhagen,哥本哈根資訊科技大學,Q124882,2.716,2,,43,4
+1.5-3.0km,low,丹麦亚洲公司,Danish Asiatic Company,Danish Asia Company,Q2492041,2.12,1,,5,4
+1.5-3.0km,low,丹麦哥本哈根圣殿,Copenhagen Denmark Temple,丹麦哥本哈根圣殿,Q1783903,2.539,1,,5,4
+1.5-3.0km,low,欧洲环境署,European Environment Agency,歐洲環境署,Q632988,2.151,1,,5,4
+1.5-3.0km,low,,Jazzhus Montmartre,Jazzhus Montmartre,Q1684536,1.889,1,,5,4
+3.0-6.0km,high,帕肯球场,Parken Stadium,帕肯球场,Q33003,3.409,5,,24,4
+3.0-6.0km,high,阿迈厄山,Amager Bakke,Amager Bakke,Q16002749,4.284,4,,24,4
+3.0-6.0km,high,大众公园,Fælledparken,大眾公園,Q2562401,3.074,5,,24,4
+3.0-6.0km,high,田野购物中心,Field's,田野购物中心,Q3504718,4.98,4,,24,4
+3.0-6.0km,mid,措恩比站,Tårnby railway station,措恩比站,Q1924055,5.666,3,,32,4
+3.0-6.0km,mid,哥本哈根大清真寺,Grand Mosque of Copenhagen,Grand Mosque of Copenhagen,Q16957737,3.913,3,,32,4
+3.0-6.0km,mid,布伦斯霍伊,Brønshøj,Brønshøj,Q3354065,4.958,3,,32,4
+3.0-6.0km,mid,AC贝拉天空酒店,AC Hotel Bella Sky Copenhagen,Bella Sky Hotel,Q545283,4.017,3,,32,4
+3.0-6.0km,low,丹麦气象研究所,Danish Meteorological Institute,丹麥氣象研究所,Q1164325,4.695,1,,1,1

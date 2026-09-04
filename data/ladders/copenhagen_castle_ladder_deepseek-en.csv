@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,新嘉士伯美术馆,Ny Carlsberg Glyptotek,新嘉士伯美術館,Q1140507,0.729,5,,28,4
+0.5-1.5km,high,克里斯蒂安尼亚自由城,Freetown Christiania,克里斯蒂安尼亞自由城,Q202206,1.3,5,,28,4
+0.5-1.5km,high,新港,Nyhavn,新港,Q943946,0.716,5,,28,4
+0.5-1.5km,high,阿马林堡宫,Amalienborg,阿马林堡宫,Q211053,1.128,5,,28,4
+0.5-1.5km,mid,圣伯多禄教堂,"St. Peter's Church, Copenhagen",聖伯多祿教堂,Q1433264,0.66,2,,27,4
+0.5-1.5km,mid,大卫收藏馆,The David Collection,David Collection,Q536499,0.798,2,,27,4
+0.5-1.5km,mid,丹麦电影学院,Danish Film Institute,丹麥電影學院,Q1201043,0.671,2,,27,4
+0.5-1.5km,mid,哥本哈根大學天文台,Østervold Observatory,哥本哈根大學天文台,Q844957,1.104,3,,27,4
+0.5-1.5km,low,欧洲环境署,European Environment Agency,歐洲環境署,Q632988,0.607,1,,4,4
+0.5-1.5km,low,丹麦国立血清研究所,Statens Serum Institut,丹麥國立血清研究所,Q3378353,1.426,1,,4,4
+0.5-1.5km,low,丹麦皇家科学院,Royal Danish Academy of Sciences and Letters,丹麦皇家科学院,Q1636237,0.593,1,,4,4
+0.5-1.5km,low,丹麦亚洲公司,Danish Asiatic Company,Danish Asia Company,Q2492041,0.628,1,,4,4
+1.5-3.0km,high,会展中心站,Forum station,会展中心站,Q800764,1.779,4,,27,4
+1.5-3.0km,high,美人鱼雕像,The Little Mermaid,美人魚雕像,Q214619,2.117,5,,27,4
+1.5-3.0km,high,卡斯特雷特,Kastellet,卡斯特雷特,Q221812,1.812,4,,27,4
+1.5-3.0km,high,努克广场站,Nuuks Plads station,努克广场站,Q11992758,2.664,4,,27,4
+1.5-3.0km,mid,欧斯特莱安蓝格公园,Østre Anlæg,歐斯特萊安藍格公園,Q3089054,1.518,3,,18,4
+1.5-3.0km,mid,丹麦国家电影学校,National Film School of Denmark,丹麥國家電影學校,Q936354,1.662,2,,18,4
+1.5-3.0km,mid,哥本哈根音乐厅,Koncerthuset,哥本哈根音乐厅,Q1783715,2.216,3,,18,4
+1.5-3.0km,mid,,HDMS Peder Skram (F352),HDMS Peder Skram,Q3378551,2.005,2,,18,4
+3.0-6.0km,high,腓特烈斯贝站,Frederiksberg station,腓特烈斯贝站,Q800788,3.028,4,,18,4
+3.0-6.0km,high,北港站,Nordhavn railway station,北港站,Q686519,3.193,4,,18,4
+3.0-6.0km,high,阿迈厄海滩站,Amager Strand station,阿迈厄海滩站,Q800380,4.001,4,,18,4
+3.0-6.0km,high,Superkilen,Superkilen,Superkilen,Q3466525,3.515,4,,18,4
+3.0-6.0km,mid,布伦斯霍伊,Brønshøj,Brønshøj,Q3354065,5.94,3,,36,4
+3.0-6.0km,mid,瓦厂桥,Teglværksbroen,瓦厂桥 (哥本哈根),Q3076002,3.794,2,,36,4
+3.0-6.0km,mid,比斯佩布杰格,Bispebjerg,比斯佩布杰格,Q339420,4.563,3,,36,4
+3.0-6.0km,mid,厄勒斯塔兹,Ørestad,厄勒斯塔兹,Q260675,5.44,3,,36,4
+3.0-6.0km,low,丹麦气象研究所,Danish Meteorological Institute,丹麥氣象研究所,Q1164325,4.415,1,,2,2
+3.0-6.0km,low,丹麦哥本哈根圣殿,Copenhagen Denmark Temple,丹麦哥本哈根圣殿,Q1783903,3.364,1,,2,2

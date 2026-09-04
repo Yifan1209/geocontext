@@ -1,0 +1,35 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,诺布山,Nob Hill,诺布山,Q7466,1.237,5,,23,4
+0.5-1.5km,high,金融区,Financial District,金融區 (三藩市),Q599301,1.05,4,,23,4
+0.5-1.5km,high,旧金山联合广场希尔顿酒店,Hilton San Francisco Union Square,舊金山聯合廣場希爾頓酒店,Q3498798,0.618,5,,23,4
+0.5-1.5km,high,泛美金字塔,Transamerica Pyramid,泛美金字塔,Q216865,1.044,5,,23,4
+0.5-1.5km,mid,美国艺术剧院,American Conservatory Theater,美國藝術劇院,Q463781,0.544,3,,17,4
+0.5-1.5km,mid,金门大学,Golden Gate University,金門大學,Q1534879,0.58,3,,17,4
+0.5-1.5km,mid,千禧塔,Millennium Tower,千禧塔,Q1833555,0.854,3,,17,4
+0.5-1.5km,mid,加利福尼亚州最高法院,Supreme Court of California,加利福尼亞州最高法院,Q2629503,1.344,2,,17,4
+0.5-1.5km,low,,333 Bush Street,333 Bush Street,Q2816211,0.541,1,,7,4
+0.5-1.5km,low,雪佛龙大厦,Chevron Tower,Chevron Tower,Q3499097,0.55,1,,7,4
+0.5-1.5km,low,美国联邦第九巡回上诉法院,United States Court of Appeals for the Ninth Circuit,美国联邦第九巡回上诉法院,Q2358778,0.899,1,,7,4
+0.5-1.5km,low,市场街425号,425 Market Street,425 Market Street,Q2545137,0.787,1,,7,4
+1.5-3.0km,high,科伊特塔,Coit Tower,科伊特塔,Q1107297,1.864,4,,24,4
+1.5-3.0km,high,海湾水族馆,Aquarium of the Bay,海湾水族馆,Q4782760,2.595,4,,24,4
+1.5-3.0km,high,甲骨文球场,Oracle Park,甲骨文球場,Q298585,1.525,5,,24,4
+1.5-3.0km,high,16街米慎站,16th Street Mission station,16街米慎站,Q4552246,2.726,4,,24,4
+1.5-3.0km,mid,旧金山军械库,San Francisco Armory,旧金山军火库,Q7413920,2.498,2,,15,4
+1.5-3.0km,mid,旧金山铸币局,San Francisco Mint,旧金山铸币局,Q3109253,2.691,2,,15,4
+1.5-3.0km,mid,旧金山战争纪念及演艺中心,San Francisco War Memorial and Performing Arts Center,舊金山戰爭紀念及演藝中心,Q3471445,1.639,2,,15,4
+1.5-3.0km,mid,旧金山海事国家历史公园,San Francisco Maritime National Historical Park,旧金山国立海事历史公园,Q1535460,2.917,2,,15,4
+1.5-3.0km,low,潘帕尼托号,USS Pampanito,USS Pampanito,Q2548504,2.903,1,,2,2
+1.5-3.0km,low,杰里迈亚·奥布莱恩号,SS Jeremiah O'Brien,歐布萊恩號,Q2464180,2.557,1,,2,2
+3.0-6.0km,high,米慎区,"Mission District, San Francisco",舊金山教會區,Q7469,3.195,5,,19,4
+3.0-6.0km,high,卡斯特罗区,"Castro District, San Francisco",卡斯楚街,Q956169,3.89,5,,19,4
+3.0-6.0km,high,金银岛,"Treasure Island, San Francisco",金銀島,Q778565,5.153,4,,19,4
+3.0-6.0km,high,梅森堡,Fort Mason,梅森堡,Q948933,3.329,4,,19,4
+3.0-6.0km,mid,佛蒙特街,Vermont Street,佛蒙特街,Q4010087,3.036,2,,22,4
+3.0-6.0km,mid,伯纳尔高地山顶,Bernal Heights Summit,Bernal Heights Summit,Q2745820,4.875,2,,22,4
+3.0-6.0km,mid,旧金山大学,University of San Francisco,旧金山大学,Q1887879,4.272,3,,22,4
+3.0-6.0km,mid,圣方济各传教站,Mission San Francisco de Asís,圣方济各传教站,Q1000321,3.122,3,,22,4
+3.0-6.0km,low,卡斯特罗相机店,Castro Camera,Castro Camera,Q3272800,3.973,1,,4,4
+3.0-6.0km,low,互联网档案馆,Internet Archive,互聯網檔案館,Q461,5.952,1,,4,4
+3.0-6.0km,low,,Balclutha,Balclutha,Q804713,3.131,1,,4,4
+3.0-6.0km,low,KPIX-TV,KPIX-TV,KPIX-TV,Q721602,5.48,1,,4,4

@@ -1,0 +1,34 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,还剑湖,Hoàn Kiếm Lake,还剑湖,Q1151254,1.257,5,,23,4
+0.5-1.5km,high,列宁公园,Lenin Park (Hanoi),列宁公园,Q10752053,1.118,4,,23,4
+0.5-1.5km,high,火炉监狱,Hỏa Lò Prison,火爐監獄,Q1359941,0.512,4,,23,4
+0.5-1.5km,high,越南美术馆,Vietnam National Museum of Fine Arts,越南美术馆,Q3654706,1.116,4,,23,4
+0.5-1.5km,mid,禅光湖,Thiền Quang Lake,禅光湖,Q7349899,0.502,3,,17,4
+0.5-1.5km,mid,越南最高人民法院,Supreme People's Court of Vietnam,越南最高人民法院,Q4120183,0.54,2,,17,4
+0.5-1.5km,mid,征王初中,Trưng Vương Junior Secondary School,Trung Vuong secondary school,Q10828934,1.01,2,,17,4
+0.5-1.5km,mid,潘周桢街,Phan Chu Trinh Street,Phan Chu Trinh,Q10805014,1.476,3,,17,4
+0.5-1.5km,low,越南原子能研究所,Vietnam Atomic Energy Institute,越南原子能研究所,Q7928490,0.556,1,,3,3
+0.5-1.5km,low,越南考古研究所,Vietnam Institute of Archaeology,Vietnam Institute of Archaeology,Q7928518,1.344,1,,3,3
+0.5-1.5km,low,大罗城,Đại La,大羅城,Q8079948,1.367,1,,3,3
+1.5-3.0km,high,竹帛湖,Trúc Bạch Lake,竹帛湖,Q1320141,2.65,4,,32,4
+1.5-3.0km,high,胡志明主席故居,Presidential Palace Historical Site,胡志明主席故居,Q5370392,1.998,5,,32,4
+1.5-3.0km,high,越南国立经济大学,National Economics University,越南國立經濟大學,Q6972380,2.501,4,,32,4
+1.5-3.0km,high,龙编站,Long Biên station,龙编站,Q5962539,2.104,4,,32,4
+1.5-3.0km,mid,罗城站,La Thanh station,羅城站,Q56670523,1.829,3,,26,4
+1.5-3.0km,mid,栋多丘,Đống Đa Mound,Đống Đa Mound,Q10763516,2.253,3,,26,4
+1.5-3.0km,mid,河内药学大学,Hanoi University of Pharmacy,河內藥學大學,Q16944333,1.588,3,,26,4
+1.5-3.0km,mid,越南人民空军博物馆,"Vietnam People's Air Force Museum, Hanoi","Vietnam People's Air Force Museum, Hanoi",Q7928536,2.876,3,,26,4
+1.5-3.0km,low,努尔清真寺,Al-Noor Mosque (Hanoi),Al-Noor Mosque,Q124982776,1.834,1,,3,3
+1.5-3.0km,low,越南银行业协会,Vietnam Banking Association,越南银行业协会,Q10771894,2.079,1,,3,3
+1.5-3.0km,low,,Institut de la Francophonie pour l'Informatique,Institut de la Francophonie pour l'Informatique,Q2496369,2.175,1,,3,3
+3.0-6.0km,high,纸桥,Paper Bridge,Paper Bridge,Q10752363,4.42,4,,14,4
+3.0-6.0km,high,越南民族博物馆,Vietnam Museum of Ethnology,越南民族博物館,Q1048345,5.048,5,,14,4
+3.0-6.0km,high,,Ngã Tư Sở,Ngã Tư Sở,Q10800295,3.031,5,,14,4
+3.0-6.0km,high,嘉林站,Gia Lâm station,嘉林站,Q5557794,5.217,4,,14,4
+3.0-6.0km,mid,盛光,Thịnh Quang,Thịnh Quang,Q10826521,3.131,2,,22,4
+3.0-6.0km,mid,河内-阿姆斯特丹高中,Hanoi–Amsterdam High School,Hanoiamsterdam High School,Q29712,4.942,3,,22,4
+3.0-6.0km,mid,象伏祠,Voi Phục Temple,象伏祠,Q10841709,4.122,3,,22,4
+3.0-6.0km,mid,,Khương Mai,Khương Mai,Q10779747,3.165,2,,22,4
+3.0-6.0km,low,白梅机场,Bach Mai Airfield,白梅機場,Q2886528,3.048,1,,3,3
+3.0-6.0km,low,越南数学高等研究院,Vietnam Institute for Advanced Study in Mathematics,Vietnam Institute for Advanced Study in Mathematics,Q49054837,4.093,1,,3,3
+3.0-6.0km,low,密码技术学院,Academy of Cryptography Techniques,Academy of Cryptography Techniques,Q10771890,4.24,1,,3,3

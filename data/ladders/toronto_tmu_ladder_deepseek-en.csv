@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,多伦多华埠,"Chinatown, Toronto",多伦多華埠,Q2963746,1.424,5,,31,4
+0.5-1.5km,high,韦尔斯利站,Wellesley station,韋斯里站,Q1041179,1.024,4,,31,4
+0.5-1.5km,high,前街,Front Street,前街,Q1470041,1.251,4,,31,4
+0.5-1.5km,high,冰球名人堂,Hockey Hall of Fame,冰球名人堂,Q1136687,1.11,4,,31,4
+0.5-1.5km,mid,斯科细亚广场,Scotia Plaza,斯科細亞廣場,Q1327514,0.826,3,,27,4
+0.5-1.5km,mid,商业仲裁大厦,Commerce Court,商业仲裁大厦,Q1115331,0.955,3,,27,4
+0.5-1.5km,mid,,One King West Hotel & Residence,One King Street West,Q2024006,0.892,2,,27,4
+0.5-1.5km,mid,加拿大皇家银行总部,RBC Centre,加拿大皇家银行总部,Q1224878,1.247,3,,27,4
+0.5-1.5km,low,,IIHF Hall of Fame,IIHF Hall of Fame,Q58818,1.11,1,,3,3
+0.5-1.5km,low,多伦多磁学和气象学观测站,Toronto Magnetic and Meteorological Observatory,多伦多磁学和气象学观测站,Q7826439,1.32,1,,3,3
+0.5-1.5km,low,菲尔兹研究所,Fields Institute,Fields Institute,Q544545,1.355,1,,3,3
+1.5-3.0km,high,博物馆站,Museum station,博物館站,Q1041205,1.516,4,,22,4
+1.5-3.0km,high,酿酒厂区,Distillery District,釀酒廠區,Q934422,1.838,4,,22,4
+1.5-3.0km,high,皇后码头站,Queens Quay station,皇后碼頭站,Q3414031,1.701,4,,22,4
+1.5-3.0km,high,肯辛顿市场,Kensington Market,堅盛頓市場,Q3195260,1.593,4,,22,4
+1.5-3.0km,mid,,One Bloor,One Bloor East,Q612340,1.554,2,,22,4
+1.5-3.0km,mid,芝兰街,Gerrard Street,芝蘭街,Q3104294,2.15,3,,22,4
+1.5-3.0km,mid,多伦多四季酒店,Four Seasons Hotel and Residences Toronto,多倫多四季酒店,Q593320,1.775,3,,22,4
+1.5-3.0km,mid,多伦多大学三一学院,"Trinity College, Toronto",多倫多大學三一學院,Q3551685,1.557,3,,22,4
+1.5-3.0km,low,安大略法语大学,Université de l'Ontario français,安省法文大學,Q83804736,1.661,1,,2,2
+1.5-3.0km,low,,One Bloor West,One Bloor West,Q28163699,1.562,1,,2,2
+3.0-6.0km,high,BMO球场,BMO Field,BMO球場,Q796351,4.016,4,,14,4
+3.0-6.0km,high,中城区,"Midtown, Toronto",中城區,Q6843067,5.132,5,,14,4
+3.0-6.0km,high,克里斯蒂站,Christie station,克里斯蒂站,Q367503,3.119,4,,14,4
+3.0-6.0km,high,艾靈頓站,Eglinton station,艾靈頓站,Q1040637,5.691,4,,14,4
+3.0-6.0km,mid,彼普站,Pape station,彼普站,Q1042388,3.897,2,,25,4
+3.0-6.0km,mid,汉兰角海滩,Hanlan's Point Beach,漢倫點,Q5648577,4.656,3,,25,4
+3.0-6.0km,mid,成瘾与精神健康中心,Centre for Addiction and Mental Health,癖癮及精神健康中心,Q2945513,3.231,3,,25,4
+3.0-6.0km,mid,意大利大街,Corso Italia (Toronto),意大利大街 (多倫多),Q5173185,5.774,3,,25,4
+3.0-6.0km,low,贾米清真寺,Jami Mosque,Jami Mosque,Q6146372,5.923,1,,2,2
+3.0-6.0km,low,加拿大皇家游艇俱乐部,Royal Canadian Yacht Club,加拿大皇家遊艇俱樂部,Q7373916,3.714,1,,2,2

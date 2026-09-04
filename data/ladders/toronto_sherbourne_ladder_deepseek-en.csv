@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,书院街站,College station,書院街站,Q728520,1.385,4,,10,4
+0.5-1.5km,high,教堂街与韦尔斯利,Church and Wellesley,教堂街夾韋斯里,Q1089761,0.813,4,,10,4
+0.5-1.5km,high,布罗尔街,Bloor Street,布羅爾街,Q885416,0.863,5,,10,4
+0.5-1.5km,high,布罗尔－央街站,Bloor–Yonge station,布羅爾－央街站,Q885413,0.765,5,,10,4
+0.5-1.5km,mid,加德纳博物馆,Gardiner Museum,賈丁納博物館,Q2043270,1.424,3,,13,4
+0.5-1.5km,mid,椰菜城,Cabbagetown,椰菜城,Q738848,1.263,3,,13,4
+0.5-1.5km,mid,弗兰克堡站,Castle Frank station,弗蘭克堡站,Q653615,0.623,3,,13,4
+0.5-1.5km,mid,艾伦花园,Allan Gardens,Allan Gardens,Q1635335,1.184,3,,13,4
+1.5-3.0km,high,杜邦站,Dupont station,杜邦站,Q1041606,2.462,4,,42,4
+1.5-3.0km,high,圣帕特里克站,St. Patrick Station,聖柏德烈站,Q1041132,2.158,4,,42,4
+1.5-3.0km,high,多伦多大学,University of Toronto,多倫多大學,Q180865,1.869,5,,42,4
+1.5-3.0km,high,奥斯古站,Osgoode station,奧斯古站,Q1040650,2.518,4,,42,4
+1.5-3.0km,mid,巴瑟斯特站,Bathurst station,巴佛士站,Q810804,2.874,3,,38,4
+1.5-3.0km,mid,皇家亚历山大剧场,Royal Alexandra Theatre,皇家亚历山大剧场,Q3527553,2.922,3,,38,4
+1.5-3.0km,mid,多伦多大学三一学院,"Trinity College, Toronto",多倫多大學三一學院,Q3551685,1.731,3,,38,4
+1.5-3.0km,mid,切斯特站,Chester station,切斯特站,Q1042207,2.038,3,,38,4
+1.5-3.0km,low,多伦多磁学和气象学观测站,Toronto Magnetic and Meteorological Observatory,多伦多磁学和气象学观测站,Q7826439,1.775,1,,3,3
+1.5-3.0km,low,菲尔兹研究所,Fields Institute,Fields Institute,Q544545,2.264,1,,3,3
+1.5-3.0km,low,,Anshei Minsk,Anshei Minsk,Q4770667,2.72,1,,3,3
+3.0-6.0km,high,费尔蒙皇家约克酒店,Fairmont Royal York,費爾蒙皇家約克酒店,Q1393350,3.0,4,,22,4
+3.0-6.0km,high,约克堡,Fort York,Fort York,Q204083,4.305,4,,22,4
+3.0-6.0km,high,小意大利,"Little Italy, Toronto",小意大利,Q3125013,3.513,5,,22,4
+3.0-6.0km,high,多伦多联合车站,Union Station (Toronto),多倫多聯合車站,Q511316,3.015,5,,22,4
+3.0-6.0km,mid,艾灵顿西站,Cedarvale station,艾靈頓西站,Q1041600,5.643,3,,29,4
+3.0-6.0km,mid,成瘾与精神健康中心,Centre for Addiction and Mental Health,癖癮及精神健康中心,Q2945513,4.524,3,,29,4
+3.0-6.0km,mid,格林伍德站,Greenwood station (Toronto),格林伍德站,Q1042118,3.88,3,,29,4
+3.0-6.0km,mid,GO會展車站,Exhibition GO Station,GO會展車站,Q3061930,5.301,3,,29,4
+3.0-6.0km,low,加拿大皇家游艇俱乐部,Royal Canadian Yacht Club,加拿大皇家遊艇俱樂部,Q7373916,5.38,1,,2,2
+3.0-6.0km,low,安大略法语大学,Université de l'Ontario français,安省法文大學,Q83804736,3.134,1,,2,2

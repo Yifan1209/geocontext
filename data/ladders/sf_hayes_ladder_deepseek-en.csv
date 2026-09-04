@@ -1,0 +1,35 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,市场南,South of Market,市场南,Q1507644,1.141,4,,12,4
+0.5-1.5km,high,日本城,Japantown,日本町,Q6159207,1.133,4,,12,4
+0.5-1.5km,high,旧金山市政厅,San Francisco City Hall,旧金山市政厅,Q1093944,0.552,4,,12,4
+0.5-1.5km,high,田德隆,Tenderloin,田德隆,Q7464,1.039,4,,12,4
+0.5-1.5km,mid,尤里卡谷区,"Eureka Valley, San Francisco",歐瑞卡谷區,Q1819474,1.274,3,,13,4
+0.5-1.5km,mid,旧金山联邦大楼,San Francisco Federal Building,舊金山聯邦大樓,Q7414007,1.117,2,,13,4
+0.5-1.5km,mid,福克斯广场,Fox Plaza,Fox Plaza,Q5476861,0.627,2,,13,4
+0.5-1.5km,mid,旧金山军械库,San Francisco Armory,旧金山军火库,Q7413920,0.949,2,,13,4
+0.5-1.5km,low,美国联邦第九巡回上诉法院,United States Court of Appeals for the Ninth Circuit,美国联邦第九巡回上诉法院,Q2358778,1.221,1,,2,2
+0.5-1.5km,low,先驱纪念碑,Pioneer Monument,Pioneer Monument,Q14683658,0.66,1,,2,2
+1.5-3.0km,high,城市之光书店,City Lights Bookstore,城市之光書店,Q2394278,2.851,4,,31,4
+1.5-3.0km,high,洛塔喷泉,Lotta's Fountain,羅塔噴泉,Q12061379,2.238,5,,31,4
+1.5-3.0km,high,蒙哥马利街,Montgomery Street,蒙哥馬利街,Q3322721,2.83,4,,31,4
+1.5-3.0km,high,皇宫酒店,Palace Hotel,皇宮酒店,Q2046752,2.378,4,,31,4
+1.5-3.0km,mid,加利福尼亚街555号,555 California Street,加利福尼亞街555號,Q243921,2.522,2,,23,4
+1.5-3.0km,mid,蒙哥马利一号大厦,One Montgomery Tower,One Montgomery Tower,Q3498806,2.351,2,,23,4
+1.5-3.0km,mid,美国艺术剧院,American Conservatory Theater,美國藝術劇院,Q463781,1.735,3,,23,4
+1.5-3.0km,mid,麦克森广场,McKesson Plaza,McKesson Plaza,Q252160,2.324,2,,23,4
+1.5-3.0km,low,卡斯特罗相机店,Castro Camera,Castro Camera,Q3272800,2.044,1,,7,4
+1.5-3.0km,low,,333 Bush Street,333 Bush Street,Q2816211,2.458,1,,7,4
+1.5-3.0km,low,加利福尼亚中心345号,345 California Center,加利福尼亞中心345號,Q680905,2.77,1,,7,4
+1.5-3.0km,low,蒙哥马利街44号,44 Montgomery,蒙哥马利街44号,Q2613795,2.478,1,,7,4
+3.0-6.0km,high,格伦公园站,Glen Park station,葛連公園站,Q14682028,4.846,4,,31,4
+3.0-6.0km,high,旧金山渡轮大厦,San Francisco Ferry Building,旧金山渡轮大厦,Q1408117,3.444,5,,31,4
+3.0-6.0km,high,旧金山植物园,San Francisco Botanical Garden,San Francisco Botanical Garden,Q589884,4.132,4,,31,4
+3.0-6.0km,high,旧金山探索馆,Exploratorium,舊金山探索館,Q206518,3.655,4,,31,4
+3.0-6.0km,mid,,One Rincon Hill,One Rincon Hill,Q3352644,3.004,2,,22,4
+3.0-6.0km,mid,机械博物馆,Musée Mécanique,Musée Mécanique,Q3329291,3.874,2,,22,4
+3.0-6.0km,mid,旧金山海事国家历史公园,San Francisco Maritime National Historical Park,旧金山国立海事历史公园,Q1535460,3.538,2,,22,4
+3.0-6.0km,mid,圣伯多禄圣保禄教堂,Saints Peter and Paul Church,圣伯多禄圣保禄教堂,Q251522,3.098,3,,22,4
+3.0-6.0km,low,KPIX-TV,KPIX-TV,KPIX-TV,Q721602,3.433,1,,5,4
+3.0-6.0km,low,互联网档案馆,Internet Archive,互聯網檔案館,Q461,4.24,1,,5,4
+3.0-6.0km,low,潘帕尼托号,USS Pampanito,USS Pampanito,Q2548504,3.839,1,,5,4
+3.0-6.0km,low,,50 California Street,50 California Street,Q3493608,3.104,1,,5,4

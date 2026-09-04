@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,巴黎圣母院,Notre-Dame de Paris,巴黎聖母院,Q2981,1.405,5,,9,4
+0.5-1.5km,high,巴黎毕加索博物馆,Musée Picasso Paris,巴黎畢卡索美術館,Q743206,0.889,4,,9,4
+0.5-1.5km,high,巴黎市政厅,Hôtel de Ville,巴黎市政厅,Q640968,1.284,5,,9,4
+0.5-1.5km,high,圣马丁运河,Canal Saint-Martin,圣马丁运河,Q860172,0.665,4,,9,4
+0.5-1.5km,mid,卡纳瓦莱博物馆,Musée Carnavalet,卡纳瓦莱博物馆,Q640447,0.668,3,,6,4
+0.5-1.5km,mid,圣路易岛,Île Saint-Louis,聖路易島,Q211034,0.935,3,,6,4
+0.5-1.5km,mid,国立现代艺术博物馆,Musée National d'Art Moderne,國立現代藝術博物館,Q1895953,1.489,3,,6,4
+0.5-1.5km,mid,巴黎第六大学,Pierre and Marie Curie University,巴黎第六大学,Q1144549,1.124,2,,6,4
+1.5-3.0km,high,拉雪兹神父公墓,Père Lachaise Cemetery,拉雪兹神父公墓,Q311,2.05,4,,25,4
+1.5-3.0km,high,圣叙尔皮斯教堂,Saint-Sulpice,圣叙尔皮斯教堂,Q295844,2.503,5,,25,4
+1.5-3.0km,high,西岱岛,Île de la Cité,西岱岛,Q190063,1.585,5,,25,4
+1.5-3.0km,high,巴黎东站,Gare de l'Est,巴黎东站,Q757180,2.758,5,,25,4
+1.5-3.0km,mid,巴黎先贤祠-阿萨斯大学,Paris-Panthéon-Assas University,巴黎先贤祠-阿萨斯大学,Q662976,1.9,3,,25,4
+1.5-3.0km,mid,巴黎第三大学,Sorbonne Nouvelle University,巴黎第三大学,Q571293,2.238,3,,25,4
+1.5-3.0km,mid,国家自然历史博物馆,"National Museum of Natural History, France",国家自然历史博物馆,Q838691,1.525,3,,25,4
+1.5-3.0km,mid,法国巴黎东方语言文化学院,Institut national des langues et civilisations orientales,法国巴黎东方语言文化学院,Q1430113,2.898,2,,25,4
+3.0-6.0km,high,亚历山大三世桥,Pont Alexandre III,亚历山大三世桥,Q390418,4.22,5,,34,4
+3.0-6.0km,high,红磨坊,Moulin Rouge,红磨坊,Q151030,4.387,4,,34,4
+3.0-6.0km,high,凯布朗利博物馆,Musée du Quai Branly – Jacques Chirac,布朗利河岸博物館,Q167863,5.303,4,,34,4
+3.0-6.0km,high,蒙索公园,Parc Monceau,蒙索公園,Q1414059,5.266,4,,34,4
+3.0-6.0km,mid,小皇宫,Petit Palais,小皇宮,Q820892,4.238,3,,28,4
+3.0-6.0km,mid,阿尔克伊,Arcueil,阿尔克伊,Q467132,5.713,3,,28,4
+3.0-6.0km,mid,罗丹博物馆,Musée Rodin,羅丹美術館,Q650519,3.9,3,,28,4
+3.0-6.0km,mid,马恩河,Marne,马恩河,Q41983,5.094,3,,28,4
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,3.643,1,,2,2
+3.0-6.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,3.23,1,,2,2

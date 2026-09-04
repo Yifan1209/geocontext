@@ -1,0 +1,26 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,小印度站,Little India MRT station,小印度站,Q3194232,1.13,5,,42,4
+0.5-1.5km,high,苏丹皇宫,Istana Kampong Glam,苏丹皇宫,Q1674820,0.868,5,,42,4
+0.5-1.5km,high,梧槽站,Rochor MRT station,梧槽站,Q1117735,0.684,4,,42,4
+0.5-1.5km,high,维拉马卡里拉曼庙,Sri Veeramakaliamman Temple,维拉马卡里拉曼庙,Q7586311,1.134,4,,42,4
+0.5-1.5km,mid,新加坡集邮博物馆,Children's Museum Singapore,新加坡集邮博物馆,Q4420043,0.797,3,,25,4
+0.5-1.5km,mid,滨海桥,Esplanade Bridge,滨海桥,Q1368284,1.112,3,,25,4
+0.5-1.5km,mid,明古连回教堂,Masjid Bencoolen,Masjid Bencoolen,Q6783333,0.503,2,,25,4
+0.5-1.5km,mid,加冷河,Kallang River,加冷河,Q1094417,1.43,3,,25,4
+1.5-3.0km,high,诺维娜站,Novena MRT station,诺维娜站,Q2404134,2.763,5,,36,4
+1.5-3.0km,high,马里安曼兴都庙,"Sri Mariamman Temple, Singapore",马里安曼兴都庙,Q2428845,1.961,4,,36,4
+1.5-3.0km,high,欧南园站,Outram Park MRT station,歐南園站,Q2524803,2.468,5,,36,4
+1.5-3.0km,high,爱雍·乌节,ION Orchard,ION Orchard,Q3146786,2.555,5,,36,4
+1.5-3.0km,mid,华侨银行大厦,OCBC Centre,華僑銀行大廈,Q2790093,1.522,3,,17,4
+1.5-3.0km,mid,惹兰勿刹体育场,Jalan Besar Stadium,惹蘭勿剎體育場,Q3270373,1.533,3,,17,4
+1.5-3.0km,mid,电信中心（新加坡）,Comcentre,電信中心（新加坡）,Q5151021,1.785,2,,17,4
+1.5-3.0km,mid,加冷机场,Kallang Airport,加冷機場,Q6353550,2.43,2,,17,4
+3.0-6.0km,high,大巴窑站,Toa Payoh MRT station,大巴窑站,Q2672672,3.958,4,,28,4
+3.0-6.0km,high,新加坡环球影城,Universal Studios Singapore,新加坡環球影城,Q1186714,5.962,4,,28,4
+3.0-6.0km,high,阿裕尼站,Aljunied MRT station,阿裕尼站,Q3272290,3.832,4,,28,4
+3.0-6.0km,high,直落布兰雅站,Telok Blangah MRT station,直落布兰雅站,Q7697798,5.782,4,,28,4
+3.0-6.0km,mid,内政部,Ministry of Home Affairs,內政部,Q4294312,3.072,2,,22,4
+3.0-6.0km,mid,布莱德站,Braddell MRT station,布莱德站,Q1914874,4.801,3,,22,4
+3.0-6.0km,mid,红山站,Redhill MRT station,红山站,Q1055296,4.246,3,,22,4
+3.0-6.0km,mid,新加坡警察部队,Singapore Police Force,新加坡警察部队,Q11081257,3.104,2,,22,4
+3.0-6.0km,low,新加坡内部安全局,Internal Security Department (Singapore),新加坡内部安全局,Q1112557,3.073,1,,1,1

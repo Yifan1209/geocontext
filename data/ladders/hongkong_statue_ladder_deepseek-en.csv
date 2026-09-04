@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,香港公园,Hong Kong Park,香港公園,Q2918611,0.52,5,,21,4
+0.5-1.5km,high,维多利亚港,Victoria Harbour,維多利亞港,Q155643,1.383,5,,21,4
+0.5-1.5km,high,湾仔,Wan Chai,灣仔,Q281527,1.282,5,,21,4
+0.5-1.5km,high,金钟站,Admiralty station (MTR),金鐘站,Q15167,0.566,5,,21,4
+0.5-1.5km,mid,東華醫院,Tung Wah Hospital,東華醫院,Q2151127,1.399,3,,13,4
+0.5-1.5km,mid,地利根德阁,Tregunter Towers,地利根德閣,Q3751504,1.171,2,,13,4
+0.5-1.5km,mid,香港海事博物馆,Hong Kong Maritime Museum,香港海事博物館,Q866615,0.562,3,,13,4
+0.5-1.5km,mid,猶太教莉亞堂,Ohel Leah Synagogue,猶太教莉亞堂,Q583651,1.153,3,,13,4
+1.5-3.0km,high,M+博物馆,M+,M+博物館,Q10851500,2.147,4,,37,4
+1.5-3.0km,high,國際廣場,ISQUARE,國際廣場,Q3010006,2.095,5,,37,4
+1.5-3.0km,high,半山區,Mid-Levels,半山區,Q2918627,1.797,4,,37,4
+1.5-3.0km,high,柯士甸站,Austin station (MTR),柯士甸站,Q838876,2.54,5,,37,4
+1.5-3.0km,mid,名铸,The Masterpiece,名鑄,Q1983016,2.266,3,,25,4
+1.5-3.0km,mid,石塘咀,Shek Tong Tsui,石塘咀,Q1307298,2.547,3,,25,4
+1.5-3.0km,mid,香港杜莎夫人蜡像馆,Madame Tussauds Hong Kong,香港杜莎夫人蠟像館,Q2262481,1.53,3,,25,4
+1.5-3.0km,mid,九龍玫瑰堂,Rosary Church,九龍玫瑰堂,Q4672514,2.85,2,,25,4
+1.5-3.0km,low,中國網絡中心,China Online Centre,中國網絡中心,Q3756298,1.868,1,,3,3
+1.5-3.0km,low,奇力岛,Kellett Island,奇力島,Q287404,2.307,1,,3,3
+1.5-3.0km,low,松林炮台,Pinewood Battery,松林炮台,Q2891719,2.512,1,,3,3
+3.0-6.0km,high,九龙,Kowloon,九龍,Q239143,4.572,5,,47,4
+3.0-6.0km,high,深水埗站,Sham Shui Po station,深水埗站,Q838842,5.459,5,,47,4
+3.0-6.0km,high,海怡半岛站,South Horizons station,海怡半島站,Q7567503,4.496,4,,47,4
+3.0-6.0km,high,太古站,Tai Koo station,太古站,Q838774,5.777,5,,47,4
+3.0-6.0km,mid,宝马山,Braemar Hill,寶馬山,Q4955326,4.122,3,,24,4
+3.0-6.0km,mid,黄泥涌水塘公园,Wong Nai Chung Reservoir Park,黃泥涌水塘公園,Q6575655,4.536,3,,24,4
+3.0-6.0km,mid,香港中央图书馆,Hong Kong Central Library,香港中央圖書館,Q616184,3.054,3,,24,4
+3.0-6.0km,mid,廉政公署,ICAC Headquarters,廉政公署,Q30999,4.852,3,,24,4
+3.0-6.0km,low,香港板球总会,Hong Kong Cricket Club,香港板球總會,Q5894461,4.235,1,,1,1

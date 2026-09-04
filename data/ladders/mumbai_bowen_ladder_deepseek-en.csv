@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,卡拉戈达,Kala Ghoda,Kala Ghoda,Q6349947,0.522,5,,22,4
+0.5-1.5km,high,印度国家大剧院,National Centre for the Performing Arts (India),印度国家大剧院,Q17057162,1.283,4,,22,4
+0.5-1.5km,high,弗洛拉喷泉,Flora Fountain,Flora Fountain,Q5460296,1.024,4,,22,4
+0.5-1.5km,high,科拉巴站,Colaba railway station,科拉巴站,Q24948218,0.584,4,,22,4
+0.5-1.5km,mid,悉达多法学院,"Siddharth College of Law, Mumbai","Siddharth College of Law, Mumbai",Q7508100,0.88,2,,25,4
+0.5-1.5km,mid,孟买造船厂,Naval Dockyard (Mumbai),孟買造船廠,Q891830,1.061,2,,25,4
+0.5-1.5km,mid,以利亚会堂,Knesset Eliyahoo Synagogue,以利亚会堂 (孟买),Q6421993,0.534,3,,25,4
+0.5-1.5km,mid,座堂及约翰·康农学校,Cathedral and John Connon School,座堂及约翰·康农学校,Q5052294,1.428,3,,25,4
+0.5-1.5km,low,波兰共和国驻孟买总领事馆,Consulate General of the Republic of Poland in Mumbai,Consulate General of the Republic of Poland in Mumbai,Q48851327,1.185,1,,2,2
+0.5-1.5km,low,,INS Sardar Patel,INS Sardar Patel,Q24943494,0.521,1,,2,2
+1.5-3.0km,high,万克赫德体育场,Wankhede Stadium,Wankhede Stadium,Q177067,1.88,5,,24,4
+1.5-3.0km,high,卡佛市场,Crawford Market,卡佛市场,Q5182895,2.686,5,,24,4
+1.5-3.0km,high,巴拉德庄园,Ballard Estate,Ballard Estate,Q4851507,1.549,4,,24,4
+1.5-3.0km,high,科拉巴,Colaba,科拉巴,Q3632559,2.807,5,,24,4
+1.5-3.0km,mid,J·J爵士应用艺术学院,Sir J. J. Institute of Applied Art,J·J爵士应用艺术学院,Q7527351,2.466,2,,10,4
+1.5-3.0km,mid,,Sterling Cineplex,Sterling Cineplex,Q7611381,1.631,3,,10,4
+1.5-3.0km,mid,乔治堡,"Fort George, Mumbai",Fort George,Q5471207,2.021,3,,10,4
+1.5-3.0km,mid,孟买吉姆卡纳,Bombay Gymkhana,Bombay Gymkhana,Q4940560,1.575,3,,10,4
+3.0-6.0km,high,贾斯洛克医院,Jaslok Hospital,Jaslok Hospital,Q6161662,5.886,4,,33,4
+3.0-6.0km,high,拉明顿路,Lamington Road,Lamington Road,Q6481987,4.658,4,,33,4
+3.0-6.0km,high,默泽冈,Mazgaon,默泽冈,Q5121900,5.5,4,,33,4
+3.0-6.0km,high,空中花园,Hanging Gardens,Hanging Gardens of Mumbai,Q5647995,4.721,5,,33,4
+3.0-6.0km,mid,马拉塔·曼迪尔,Maratha Mandir,马拉塔·曼迪尔,Q5320999,5.435,3,,46,4
+3.0-6.0km,mid,约瑟夫·巴普蒂斯塔花园,Joseph Baptista Gardens,Joseph Baptista Gardens,Q15229742,4.821,2,,46,4
+3.0-6.0km,mid,马扎冈堡垒,Mazgaon Fort,Mazagon Fort,Q6798200,4.821,2,,46,4
+3.0-6.0km,mid,林肯宫,Lincoln House,Lincoln House,Q25212558,5.983,2,,46,4
+3.0-6.0km,low,Edubridge国际学校,Edubridge International School,Edubridge International School,Q16966806,4.445,1,,4,4
+3.0-6.0km,low,孟买拆船厂,Mumbai ship-breaking yard,Mumbai ship-breaking yard,Q336327,5.855,1,,4,4
+3.0-6.0km,low,,Seth Cowasji Behramji Banaji Atash Behram,Seth Cowasji Behramji Banaji Atash Behram,Q140315151,3.373,1,,4,4
+3.0-6.0km,low,E.E.E. 沙逊高中,E.E.E. Sassoon High School,E.E.E. Sassoon High School,Q5321594,4.854,1,,4,4

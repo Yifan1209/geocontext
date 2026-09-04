@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,圣老楞佐圣殿,Basilica of San Lorenzo,圣老楞佐圣殿 (米兰),Q810080,0.594,4,,18,4
+0.5-1.5km,high,圣拉匝禄布罗洛圣殿,San Nazaro in Brolo,圣拉匝禄布罗洛圣殿,Q1255904,0.637,4,,18,4
+0.5-1.5km,high,大教堂站,Duomo (Milan Metro),大教堂站,Q2519375,1.166,5,,18,4
+0.5-1.5km,high,米兰王宫,Royal Palace of Milan,米兰王宫,Q51105,1.0,5,,18,4
+0.5-1.5km,mid,圣嘉禄堂,San Carlo al Corso,圣嘉禄堂,Q731479,1.475,2,,29,4
+0.5-1.5km,mid,商人广场,Piazza Mercanti,商人广场,Q929968,1.138,3,,29,4
+0.5-1.5km,mid,圣斯德望圣殿,Basilica di Santo Stefano Maggiore,圣斯德望圣殿,Q384032,1.082,3,,29,4
+0.5-1.5km,mid,米兰考古博物馆,"Archaeological Museum, Milan",米蘭考古博物館,Q604908,1.43,3,,29,4
+0.5-1.5km,low,圣彼得罗·因·杰萨泰教堂,San Pietro in Gessate,San Pietro in Gessate Church,Q901469,1.441,1,,1,1
+1.5-3.0km,high,圣巴比拉站,San Babila metro station,San Babila,Q1087622,1.565,4,,22,4
+1.5-3.0km,high,森皮奥内公园,Parco Sempione,森皮奥内公园,Q133963,2.317,5,,22,4
+1.5-3.0km,high,斯福尔扎古堡,Sforza Castle,斯福尔扎古堡,Q23354,1.949,5,,22,4
+1.5-3.0km,high,圣巴比拉教堂,San Babila Church,San Babila Church,Q1255602,1.633,5,,22,4
+1.5-3.0km,mid,巴加蒂·瓦尔塞基博物馆,Bagatti Valsecchi Museum,巴加蒂·瓦爾塞基博物館,Q838986,1.795,2,,25,4
+1.5-3.0km,mid,卡斯蒂廖尼宫,Palazzo Castiglioni (Milan),卡斯蒂廖尼宫 (米兰),Q1228184,2.094,3,,25,4
+1.5-3.0km,mid,贝尔吉奥伊奥索宫,Palazzo Belgioioso,贝尔吉奥伊奥索宫,Q730981,1.511,2,,25,4
+1.5-3.0km,mid,市民竞技场,Arena Civica,Arena Civica,Q1088761,2.448,3,,25,4
+1.5-3.0km,low,诺悠翩雅,Loro Piana,诺悠翩雅,Q1686544,2.526,1,,1,1
+3.0-6.0km,high,垂直森林,Bosco Verticale,垂直森林,Q2501413,3.502,4,,8,4
+3.0-6.0km,high,洛雷托广场,Piazzale Loreto,洛雷托广场,Q525297,4.205,4,,8,4
+3.0-6.0km,high,米兰加里波第门站,Milano Porta Garibaldi railway station,米蘭加里波底門站,Q801187,3.358,5,,8,4
+3.0-6.0km,high,圣西罗球场站,San Siro Stadio (Milan Metro),聖西路球場站,Q3947983,5.926,4,,8,4
+3.0-6.0km,mid,米兰体育馆,PalaItalia,米兰体育馆,Q64825395,5.482,2,,9,4
+3.0-6.0km,mid,安联大厦,Allianz Tower,安聯大廈,Q3995200,3.504,3,,9,4
+3.0-6.0km,mid,塞韦索河,Seveso River,塞韋索河,Q597454,4.224,2,,9,4
+3.0-6.0km,mid,裕信银行大楼,UniCredit Tower,裕信银行大楼,Q963111,3.279,3,,9,4

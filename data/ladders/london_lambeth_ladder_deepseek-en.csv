@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,威斯敏斯特宫,Palace of Westminster,威斯敏斯特宫,Q62408,0.53,5,,17,4
+0.5-1.5km,high,威斯敏斯特桥,Westminster Bridge,西敏橋,Q456960,0.606,4,,17,4
+0.5-1.5km,high,滑铁卢地铁站,Waterloo tube station,滑鐵盧站,Q10319641,0.901,5,,17,4
+0.5-1.5km,high,查令十字,Charing Cross,查令十字,Q216185,1.413,4,,17,4
+0.5-1.5km,mid,林荫路,The Mall,林荫路,Q842930,1.441,3,,10,4
+0.5-1.5km,mid,帝国战争博物馆,Imperial War Museum,帝国战争博物馆,Q749808,0.77,3,,10,4
+0.5-1.5km,mid,椭圆体育场,The Oval,橢圓體育場,Q1155836,1.357,3,,10,4
+0.5-1.5km,mid,泰特不列颠美术馆,Tate Britain,泰特不列顛,Q195436,0.75,3,,10,4
+0.5-1.5km,low,威斯敏斯特圣玛格丽特教堂,"St Margaret's, Westminster",威斯敏斯特圣玛格丽特教堂,Q823412,0.683,1,,3,3
+0.5-1.5km,low,外交、联邦及发展事务部,"Foreign, Commonwealth and Development Office",外交及聯邦事務部,Q358834,1.003,1,,3,3
+0.5-1.5km,low,英国皇家学会,Royal Society,英国皇家学会,Q123885,1.458,1,,3,3
+1.5-3.0km,high,大英博物馆,British Museum,大英博物馆,Q6373,2.702,5,,30,4
+1.5-3.0km,high,伦敦西区,West End of London,西區,Q460735,2.07,5,,30,4
+1.5-3.0km,high,梅费尔,Mayfair,梅费尔,Q124184,2.51,4,,30,4
+1.5-3.0km,high,舰队街,Fleet Street,弗利特街,Q846686,2.104,4,,30,4
+1.5-3.0km,mid,威斯敏斯特大学,University of Westminster,威斯敏斯特大學,Q1247544,2.874,2,,14,4
+1.5-3.0km,mid,伦敦城墙,London Wall,伦敦城墙,Q60308,2.905,3,,14,4
+1.5-3.0km,mid,圣马丁教堂,St Martin-in-the-Fields,圣马田教堂,Q1335201,1.564,3,,14,4
+1.5-3.0km,mid,伦敦大学,University of London,倫敦大學,Q170027,2.911,2,,14,4
+3.0-6.0km,high,伦敦帕丁顿车站,London Paddington station,倫敦帕丁頓車站,Q214788,4.62,5,,35,4
+3.0-6.0km,high,科学博物馆,"Science Museum, London",科学博物馆,Q674773,3.814,5,,35,4
+3.0-6.0km,high,肯辛顿花园,Kensington Gardens,肯辛顿花园,Q822607,4.388,5,,35,4
+3.0-6.0km,high,南肯辛顿,South Kensington,南肯辛顿,Q1045096,3.988,4,,35,4
+3.0-6.0km,mid,尼尔球场,The Den,尼尔球场,Q908481,4.89,2,,9,4
+3.0-6.0km,mid,皇家戏剧艺术学院,Royal Academy of Dramatic Art,皇家戏剧艺术学院,Q523926,3.028,2,,9,4
+3.0-6.0km,mid,英国皇家音乐学院,Royal Academy of Music,英國皇家音樂學院,Q1144673,3.804,2,,9,4
+3.0-6.0km,mid,伦敦大学亚非学院,SOAS University of London,倫敦大學亞非學院,Q220144,3.015,3,,9,4

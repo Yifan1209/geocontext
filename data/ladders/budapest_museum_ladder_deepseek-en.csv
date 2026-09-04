@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,匈牙利福音信義教堂,Evangelical-Lutheran Church in Hungary,匈牙利福音信義教堂,Q896993,0.603,4,,20,4
+0.5-1.5km,high,布拉哈·卢伊扎广场站,Blaha Lujza tér metro station,布拉哈·盧伊扎廣場車站,Q285913,1.247,5,,20,4
+0.5-1.5km,high,烟草街会堂,Dohány Street Synagogue,烟草街会堂,Q754397,1.23,5,,20,4
+0.5-1.5km,high,加爾文廣場站,Kálvin tér metro station,加爾文廣場站,Q2524860,0.626,5,,20,4
+0.5-1.5km,mid,匈牙利广播电台,Magyar Rádió,匈牙利广播电台,Q765515,0.627,3,,20,4
+0.5-1.5km,mid,考尔岑街犹太会堂,Kazinczy Street Synagogue,考爾岑街猶太會堂,Q725839,1.424,2,,20,4
+0.5-1.5km,mid,佩斯内城教堂,Inner City Parish Church in Pest,佩斯内城教堂,Q792586,1.384,3,,20,4
+0.5-1.5km,mid,帕兹马尼·彼得天主教大学,Pázmány Péter Catholic University,帕兹马尼·彼得天主教大学,Q255285,0.643,3,,20,4
+1.5-3.0km,high,安德拉什大街,Andrássy út,安德拉什大街,Q367395,2.728,5,,45,4
+1.5-3.0km,high,八角广场,Oktogon (intersection),八角广场,Q1072717,2.168,5,,45,4
+1.5-3.0km,high,恐怖之屋,House of Terror,恐怖之屋,Q372376,2.317,4,,45,4
+1.5-3.0km,high,普斯卡什竞技场,Puskás Aréna,費倫斯柏克斯球場,Q39069592,2.913,5,,45,4
+1.5-3.0km,mid,多瑙宫,Danube Palace,多瑙宮,Q18150365,2.134,3,,27,4
+1.5-3.0km,mid,国立塞切尼图书馆,National Széchényi Library,国立塞切尼图书馆,Q1063819,2.401,3,,27,4
+1.5-3.0km,mid,新布达中央站,Újbuda-központ metro station,新布達中央站,Q2908334,2.138,3,,27,4
+1.5-3.0km,mid,巴扎街站,Bajza utca metro station,巴扎街站,Q2414439,2.795,3,,27,4
+1.5-3.0km,low,,Constitution Protection Office,Constitution Protection Office,Q652871,2.815,1,,2,2
+1.5-3.0km,low,匈牙利铸币厂,Hungarian Mint,匈牙利鑄幣廠,Q585461,2.383,1,,2,2
+3.0-6.0km,high,阿帕德桥站,Göncz Árpád városközpont metro station,阿帕德橋站,Q2632500,5.16,4,,30,4
+3.0-6.0km,high,布达佩斯南站,Budapest Déli station,布达佩斯南站,Q764685,3.577,5,,30,4
+3.0-6.0km,high,墨西哥大街站,Mexikói út metro station,墨西哥大街站,Q2271776,4.082,4,,30,4
+3.0-6.0km,high,勒海尔广场站,Lehel tér metro station,勒海爾廣場站,Q2523452,3.6,5,,30,4
+3.0-6.0km,mid,埃切尔大街站,Ecseri út metro station,埃切爾大街站,Q2635058,3.533,3,,28,4
+3.0-6.0km,mid,福格克大街站,Forgách utca metro station,福格克大街站,Q2632101,5.807,3,,28,4
+3.0-6.0km,mid,公牛公园站,Bikás park metro station,公牛公園站,Q3546888,3.529,3,,28,4
+3.0-6.0km,mid,布达佩斯商学院,Budapest University of Economics and Business,布达佩斯商学院,Q573061,4.889,3,,28,4
+3.0-6.0km,low,武器及机械制造公司,Fegyver- és Gépgyár,武器及機械製造公司,Q727963,4.625,1,,2,2
+3.0-6.0km,low,匈牙利宪法法院,Constitutional Court of Hungary,匈牙利宪法法院,Q923292,3.089,1,,2,2

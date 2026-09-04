@@ -1,0 +1,37 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,智利前国会大厦,Former National Congress of Chile building,前国会大厦,Q2595661,0.844,4,,27,4
+0.5-1.5km,high,智利大学站,Universidad de Chile metro station,Universidad de Chile,Q3569732,1.097,4,,27,4
+0.5-1.5km,high,圣地亚哥主教座堂,Santiago Metropolitan Cathedral,圣地亚哥主教座堂,Q15042373,1.012,5,,27,4
+0.5-1.5km,high,巴黎-伦敦街区,Barrio París-Londres,巴黎-伦敦街区,Q4863744,1.306,4,,27,4
+0.5-1.5km,mid,殖民博物馆,Museo Colonial,殖民博物馆,Q16494156,1.351,2,,32,4
+0.5-1.5km,mid,圣地亚哥总主教宫,Archbishop's Palace of Santiago de Chile,圣地亚哥总主教宫,Q6057576,1.029,3,,32,4
+0.5-1.5km,mid,爱德华兹商业大厦,Edificio Comercial Edwards,爱德华兹商业大厦,Q5573695,1.18,2,,32,4
+0.5-1.5km,mid,永盖街区,Barrio Yungay,Barrio Yungay,Q5720989,1.095,3,,32,4
+0.5-1.5km,low,工人保险大楼,Edificio del Seguro Obrero,Seguro Obrero Building,Q17629734,0.804,1,,5,4
+0.5-1.5km,low,ARCIS大学,ARCIS University,University of Art and Social Sciences,Q7895089,1.21,1,,5,4
+0.5-1.5km,low,,Edificio Ex Hotel Mundial,Edificio Ex Hotel Mundial,Q5338047,0.945,1,,5,4
+0.5-1.5km,low,阿隆索·德·埃尔西利亚学校,Colegio Alonso de Ercilla,Instituto Alonso de Ercilla,Q5142775,0.647,1,,5,4
+1.5-3.0km,high,帕特罗纳托站,Patronato metro station,Patronato,Q7148151,1.883,5,,26,4
+1.5-3.0km,high,幻想乐园,Fantasilandia,Fantasilandia,Q3066554,2.032,5,,26,4
+1.5-3.0km,high,智利国家图书馆,National Library of Chile,智利国家图书馆,Q2901485,1.5,4,,26,4
+1.5-3.0km,high,贝拉维斯塔街区,Barrio Bellavista,Barrio Bellavista,Q4863718,2.589,4,,26,4
+1.5-3.0km,mid,卢尔德石窟地铁站,Gruta de Lourdes metro station,Gruta de Lourdes,Q5491966,2.726,3,,35,4
+1.5-3.0km,mid,埃斯塔西翁森特拉尔,Estación Central,埃斯塔西翁森特拉爾,Q13045,1.979,3,,35,4
+1.5-3.0km,mid,医院站,Hospitales metro station,Hospitales,Q5903204,2.656,3,,35,4
+1.5-3.0km,mid,雷科莱塔多明我会教堂,Iglesia de la Recoleta Dominica,Iglesia de la Recoleta Dominica,Q5912521,2.499,2,,35,4
+1.5-3.0km,low,,Centenario Tower,Torre Centenario,Q6150080,1.56,1,,4,4
+1.5-3.0km,low,圣菲洛梅娜教堂,Parroquia de Santa Filomena,Parroquia de Santa Filomena,Q7139835,2.136,1,,4,4
+1.5-3.0km,low,智利共济会总会,Grand Lodge of Chile,Grand Lodge of Chile,Q1155329,1.555,1,,4,4
+1.5-3.0km,low,维拉克鲁斯教堂,Church of the Vera Cruz (Santiago),Church of the Vera Cruz,Q5118066,1.919,1,,4,4
+3.0-6.0km,high,国家体育场,Estadio Nacional Julio Martínez Prádanos,國家體育場,Q594994,5.406,5,,14,4
+3.0-6.0km,high,圣巴勃罗地铁站,San Pablo metro station,San Pablo,Q5248997,5.709,4,,14,4
+3.0-6.0km,high,圣地亚哥总公墓,Santiago General Cemetery,Santiago General Cemetery,Q1053309,3.156,4,,14,4
+3.0-6.0km,high,科斯塔内拉中心,Costanera Center,科斯塔内拉中心,Q906170,5.76,5,,14,4
+3.0-6.0km,mid,蒙塞尼奥尔·埃萨吉雷站,Monseñor Eyzaguirre metro station,Monseñor Eyzaguirre,Q6022112,4.635,3,,48,4
+3.0-6.0km,mid,圣米格尔站,San Miguel metro station,San Miguel,Q9073628,5.374,3,,48,4
+3.0-6.0km,mid,纽布莱地铁站,Ñuble metro station,Ñuble,Q602955,4.495,3,,48,4
+3.0-6.0km,mid,塞里略斯站,Cerrillos metro station,塞里略斯站,Q5762791,5.634,3,,48,4
+3.0-6.0km,low,何塞·多明戈·卡尼亚斯记忆之家,José Domingo Cañas Memory House,Casa Memoria José Domingo Cañas,Q6406008,4.441,1,,7,4
+3.0-6.0km,low,智利体育部,Ministry of Sports (Chile),智利體育部,Q16494119,4.91,1,,7,4
+3.0-6.0km,low,海德堡拉丁美洲中心,Heidelberg Center for Latin America,Heidelberg Center Lateinamerika,Q1594001,5.514,1,,7,4
+3.0-6.0km,low,智利公共卫生研究院,Public Health Institute of Chile,Public Health Institute of Chile,Q5918337,4.916,1,,7,4

@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,仁慈圣母圣殿,Basilica and Convent of Nuestra Señora de la Merced,仁慈圣母圣殿 (利马),Q4867359,0.733,5,,28,4
+0.5-1.5km,high,秘鲁最高法院,Supreme Court of Peru,秘鲁最高法院,Q5789494,1.472,4,,28,4
+0.5-1.5km,high,弗朗西斯科·皮萨罗骑马雕像,Equestrian statue of Francisco Pizarro (Lima),Equestrian statue of Francisco Pizarro,Q75161514,0.662,4,,28,4
+0.5-1.5km,high,纳萨雷纳斯圣殿,Sanctuary and Monastery of Las Nazarenas,Sanctuary of Las Nazarenas,Q5201720,1.263,4,,28,4
+0.5-1.5km,mid,哈维尔·阿尔萨莫拉·巴尔德斯大厦,Javier Alzamora Valdez Building,Edificio Javier Alzamora Valdez,Q5817991,0.835,3,,40,4
+0.5-1.5km,mid,格劳海军博物馆,Casa Grau Naval Museum,Museo Naval Casa Grau,Q91588975,0.807,2,,40,4
+0.5-1.5km,mid,拉蒙·卡斯蒂利亚纪念碑,Monument to Ramón Castilla (Plazoleta de la Merced),Monument to Ramón Castilla (Plazoleta de la Merced),Q98071461,0.755,3,,40,4
+0.5-1.5km,mid,耶稣、玛利亚和若瑟教堂,"Church of Jesus, Mary, and Joseph","Jesús, María y José",Q6141092,1.009,3,,40,4
+0.5-1.5km,low,圣托马斯·阿奎那学校,"Saint Thomas Aquinas School, Lima","Saint Thomas Aquinas School, Lima",Q75135772,0.863,1,,3,3
+0.5-1.5km,low,,Banco Comercial,Banco Comercial,Q123159337,0.931,1,,3,3
+0.5-1.5km,low,自由女神像,Statue of Liberty (Peru),Statue of Liberty,Q75053182,1.438,1,,3,3
+1.5-3.0km,high,马图西塔之家,Casa Matusita,Casa Matusita,Q3661126,1.742,4,,25,4
+1.5-3.0km,high,利马大都会博物馆,Metropolitan Museum of Lima,Metropolitan Museum of Lima,Q20021983,2.136,5,,25,4
+1.5-3.0km,high,利马市政中心,Lima Civic Center,Civic Center of Lima,Q5761214,1.546,5,,25,4
+1.5-3.0km,high,利马保留公园,Park of the Reserve,Park of the Reserve,Q5201334,2.703,5,,25,4
+1.5-3.0km,mid,阿尔贝托·加利亚多体育场,Estadio Alberto Gallardo,Estadio Alberto Gallardo,Q930349,2.326,3,,23,4
+1.5-3.0km,mid,拉蒙·卡斯蒂利亚广场,Plaza Ramón Castilla,Plaza Ramón Castilla,Q20747901,1.911,3,,23,4
+1.5-3.0km,mid,奇迹圣基督教堂,Church of the Holy Christ of Wonders,Santo Cristo,Q5912871,1.528,3,,23,4
+1.5-3.0km,mid,洛艾萨总主教国家医院,Archbishop Loayza National Hospital,Archbishop Loayza National Hospital,Q5902543,1.88,3,,23,4
+3.0-6.0km,high,,Arriola metro station,Nicolás Arriola Station,Q6042096,3.474,4,,17,4
+3.0-6.0km,high,利马自然历史博物馆,"Museum of Natural History, Lima","Museum of Natural History, Lima",Q1684512,3.538,4,,17,4
+3.0-6.0km,high,Interbank大厦,Edificio Interbank,Torre Interbank,Q5818145,4.666,4,,17,4
+3.0-6.0km,high,圣伊西德罗区,"San Isidro District, Lima",聖伊西德羅區,Q2632912,5.811,5,,17,4
+3.0-6.0km,mid,秘鲁卫生部,Ministry of Health (Peru),秘鲁卫生部,Q3065012,3.259,2,,21,4
+3.0-6.0km,mid,圣费利佩住宅区,Residencial San Felipe,Residencial San Felipe,Q84767060,5.422,3,,21,4
+3.0-6.0km,mid,秘鲁文化部大楼,"Ministry of Culture Building, Lima","Ministry of Culture Building, Lima",Q99762318,5.086,2,,21,4
+3.0-6.0km,mid,,Medicinal Botanical Garden of Lima,Jardín botánico de Plantas Medicinales de Lima,Q122203810,3.34,2,,21,4
+3.0-6.0km,low,,Circolo Sportivo Italiano,Circolo Sportivo Italiano,Q4115664,4.173,1,,3,3
+3.0-6.0km,low,乔卡文托大厦,Chocavento Tower,Chocavento Tower,Q5103499,5.591,1,,3,3
+3.0-6.0km,low,利马坦博国际机场,Limatambo International Airport,Limatambo International Airport,Q6548902,5.729,1,,3,3

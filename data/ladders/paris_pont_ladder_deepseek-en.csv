@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,卢森堡宫,Luxembourg Palace,卢森堡宫,Q329852,1.064,5,,23,4
+0.5-1.5km,high,巴黎,Paris,巴黎,Q90,0.778,5,,23,4
+0.5-1.5km,high,西岱岛,Île de la Cité,西岱岛,Q190063,0.527,5,,23,4
+0.5-1.5km,high,巴黎圣母院,Notre-Dame de Paris,巴黎聖母院,Q2981,0.777,5,,23,4
+0.5-1.5km,mid,巴黎政治学院,Sciences Po,巴黎政治学院,Q859363,1.025,3,,15,4
+0.5-1.5km,mid,巴黎先贤祠-阿萨斯大学,Paris-Panthéon-Assas University,巴黎先贤祠-阿萨斯大学,Q662976,1.195,3,,15,4
+0.5-1.5km,mid,巴黎国立高等美术学院,Beaux-Arts de Paris,國立巴黎美術學院,Q273593,0.619,2,,15,4
+0.5-1.5km,mid,工艺美术博物馆,Musée des Arts et Métiers,工藝美術博物館,Q1538826,1.381,2,,15,4
+1.5-3.0km,high,巴黎植物园,Jardin des Plantes,巴黎植物園,Q730948,2.009,4,,24,4
+1.5-3.0km,high,巴黎大皇宫,Grand Palais,巴黎大皇宫,Q457318,2.339,5,,24,4
+1.5-3.0km,high,巴黎毕加索博物馆,Musée Picasso Paris,巴黎畢卡索美術館,Q743206,1.54,4,,24,4
+1.5-3.0km,high,巴黎东站,Gare de l'Est,巴黎东站,Q757180,2.513,5,,24,4
+1.5-3.0km,mid,马提尼翁府,Hôtel Matignon,马提尼翁府,Q912192,1.562,2,,20,4
+1.5-3.0km,mid,巴斯德研究院,Pasteur Institute,巴斯德研究院,Q391083,2.944,3,,20,4
+1.5-3.0km,mid,巴黎奥斯特里茨车站,Gare d'Austerlitz,巴黎奧斯特里茨車站,Q734017,2.452,3,,20,4
+1.5-3.0km,mid,橘园美术馆,Musée de l'Orangerie,橘園美術館,Q726781,1.567,3,,20,4
+1.5-3.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,2.938,1,,1,1
+3.0-6.0km,high,红磨坊,Moulin Rouge,红磨坊,Q151030,3.045,4,,16,4
+3.0-6.0km,high,战神广场,Champ de Mars,戰神廣場,Q217925,3.196,5,,16,4
+3.0-6.0km,high,巴黎现代艺术博物馆,Musée d'Art Moderne de Paris,巴黎现代艺术博物馆,Q857276,3.297,4,,16,4
+3.0-6.0km,high,拉维莱特公园,Parc de la Villette,拉维莱特公园,Q246448,5.331,5,,16,4
+3.0-6.0km,mid,让蒂伊,"Gentilly, Val-de-Marne",让蒂伊,Q640102,4.915,3,,25,4
+3.0-6.0km,mid,勒普雷圣热尔韦,Le Pré-Saint-Gervais,勒普雷圣热尔韦,Q175999,5.483,2,,25,4
+3.0-6.0km,mid,社会科学高等学院,School for Advanced Studies in the Social Sciences,社会科学高等学院,Q273518,3.259,2,,25,4
+3.0-6.0km,mid,圣芒代,Saint-Mandé,圣芒代,Q18102,5.85,3,,25,4
+3.0-6.0km,low,法国电视台,France Télévisions,法國電視台,Q1124861,5.543,1,,2,2
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,5.116,1,,2,2

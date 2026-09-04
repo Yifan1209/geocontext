@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,马拉喀什车站,Marrakesh Railway Station,馬拉喀什車站,Q2457933,0.7,5,,7,4
+0.5-1.5km,high,皇家剧院,Royal Theatre,Royal Theatre,Q113627642,0.852,4,,7,4
+0.5-1.5km,high,马若雷勒花园,Majorelle Garden,馬若雷勒花園,Q1395431,1.387,5,,7,4
+0.5-1.5km,high,盖利兹,Guéliz,Guéliz,Q3122412,0.876,5,,7,4
+0.5-1.5km,mid,马拉喀什提什卡酒店,Hotel Marrakech le Tichka,Hotel Marrakech le Tichka,Q111121417,1.087,3,,11,4
+0.5-1.5km,mid,阿维森纳军事医院,Avicenne Military Hospital,Hôpital militaire Avicenne,Q30281418,0.507,3,,11,4
+0.5-1.5km,mid,马拉喀什伊斯兰艺术博物馆,Museum of Islamic Art of Marrakech,Museum of Islamic Art of Marrakech,Q3329633,1.39,3,,11,4
+0.5-1.5km,mid,柏柏尔博物馆,Berber Museum,Berber Museum,Q30081497,1.401,2,,11,4
+1.5-3.0km,high,马拉喀什城墙,Walls of Marrakesh,馬拉喀什城牆,Q58977891,2.659,5,,23,4
+1.5-3.0km,high,梅纳拉花园,Menara Gardens,梅纳拉花园,Q1920259,2.391,4,,23,4
+1.5-3.0km,high,巴布杜卡拉门,Bab Doukkala,Bab Dukkala,Q12195551,1.714,4,,23,4
+1.5-3.0km,high,,Menara Mall,Menara Mall,Q21971419,2.242,4,,23,4
+1.5-3.0km,mid,巴布杜卡拉喷泉,Bab Doukkala Fountain,Bab Doukkala Fountain,Q58974452,1.714,2,,18,4
+1.5-3.0km,mid,西迪优素福·本·阿里体育场,Sidi Youssef Ben Ali Stadium,Sidi-Youssef-Ben-Ali stadium,Q595025,1.77,3,,18,4
+1.5-3.0km,mid,,Riad Palais Sebban,Riad Palais Sebban,Q111409207,2.562,2,,18,4
+1.5-3.0km,mid,塔格祖特门,Bab Taghzout,Bab Taghzout,Q91901862,2.454,3,,18,4
+1.5-3.0km,low,,Riad Jennah Rouge,Riad Jennah Rouge,Q111121347,2.425,1,,2,2
+1.5-3.0km,low,马拉喀什集中营,Marrakech concentration camp,Marrakech concentration camp,Q45509383,1.603,1,,2,2
+3.0-6.0km,high,阿格瑙门,Bab Agnaou,阿格瑙门,Q4837210,3.288,5,,17,4
+3.0-6.0km,high,卡迪·伊亚德大学,Cadi Ayyad University,卡迪·伊亚德大学,Q737095,3.349,4,,17,4
+3.0-6.0km,high,马拉喀什,Marrakesh,马拉喀什,Q101625,3.477,5,,17,4
+3.0-6.0km,high,阿格达尔花园,Agdal Gardens,Agdal Gardens,Q392057,4.919,4,,17,4
+3.0-6.0km,mid,本·萨拉赫清真寺,Ben Salah Mosque,Ibn Salah Mosque,Q15958582,3.335,3,,26,4
+3.0-6.0km,mid,斯拉特·阿扎马犹太会堂,Slat al-Azama Synagogue,Slat Al Azama Synagogue,Q3508008,3.758,3,,26,4
+3.0-6.0km,mid,,Hotel & Ryad Art Place Marrakech,Hotel & Ryad Art Place Marrakech,Q111409170,3.003,2,,26,4
+3.0-6.0km,mid,HEM商学院,HEM Business School,HEM,Q3152162,5.463,3,,26,4
+3.0-6.0km,low,,Riad Elizabeth,Riad Elizabeth,Q111409127,3.013,1,,1,1

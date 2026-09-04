@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,,Magasin du Nord,Magasin du Nord,Q3276565,0.938,5,,34,4
+0.5-1.5km,high,安格勒特酒店,Hotel d'Angleterre,安格勒特酒店,Q3121408,1.025,4,,34,4
+0.5-1.5km,high,救主堂,Church of Our Saviour,救主堂,Q29157,1.345,4,,34,4
+0.5-1.5km,high,羅森堡城堡,Rosenborg Castle,羅森堡城堡,Q206101,1.296,5,,34,4
+0.5-1.5km,mid,大犹太会堂,Great Synagogue (Copenhagen),大猶太會堂 (哥本哈根),Q4346882,0.757,2,,28,4
+0.5-1.5km,mid,丹麦皇家海军博物馆,Royal Danish Naval Museum,Royal Danish Naval Museum,Q3375972,1.373,2,,28,4
+0.5-1.5km,mid,小岛教堂,Holmen Church,小岛教堂,Q284914,0.736,3,,28,4
+0.5-1.5km,mid,夏洛特堡宫,Charlottenborg Palace,夏洛特堡宮,Q1280223,1.144,3,,28,4
+0.5-1.5km,low,欧洲环境署,European Environment Agency,歐洲環境署,Q632988,1.164,1,,2,2
+0.5-1.5km,low,,Jazzhus Montmartre,Jazzhus Montmartre,Q1684536,0.98,1,,2,2
+1.5-3.0km,high,哥本哈根歌剧院,Copenhagen Opera House,哥本哈根歌劇院,Q838297,1.946,5,,28,4
+1.5-3.0km,high,三角广场站,Trianglen station,三角广场站,Q12007414,2.771,4,,28,4
+1.5-3.0km,high,丹麦艺术与设计博物馆,Designmuseum Denmark,丹麥藝術與設計博物館,Q834603,1.866,4,,28,4
+1.5-3.0km,high,长堤公园,Langelinie,Langelinie,Q2983172,2.59,5,,28,4
+1.5-3.0km,mid,丹麥皇家劇場,Royal Danish Playhouse,丹麥皇家劇場,Q4568402,1.52,3,,21,4
+1.5-3.0km,mid,青年宫,Ungdomshuset,青年宫,Q849232,2.658,3,,21,4
+1.5-3.0km,mid,尼尔斯·玻尔研究所,Niels Bohr Institute,尼爾斯·波耳研究所,Q263761,2.515,2,,21,4
+1.5-3.0km,mid,丹麦皇家音乐学院,Royal Danish Academy of Music,丹麦皇家音乐学院,Q1201057,1.53,2,,21,4
+3.0-6.0km,high,腓特烈斯貝宮,Frederiksberg Palace,腓特烈斯貝宮,Q665954,3.0,4,,19,4
+3.0-6.0km,high,Superkilen,Superkilen,Superkilen,Q3466525,3.492,4,,19,4
+3.0-6.0km,high,阿迈厄海滩站,Amager Strand station,阿迈厄海滩站,Q800380,4.222,4,,19,4
+3.0-6.0km,high,帕肯球场,Parken Stadium,帕肯球场,Q33003,3.129,5,,19,4
+3.0-6.0km,mid,措恩比,Tårnby,措恩比,Q28173,5.504,3,,32,4
+3.0-6.0km,mid,厄勒海峡站,Øresund station,厄勒海峡站 (哥本哈根地铁),Q801686,3.784,3,,32,4
+3.0-6.0km,mid,比斯佩布杰格,Bispebjerg,比斯佩布杰格,Q339420,4.555,3,,32,4
+3.0-6.0km,mid,伊玛目阿里清真寺,Imam Ali Mosque,Imam Ali Mosque,Q12318161,3.828,2,,32,4
+3.0-6.0km,low,丹麦气象研究所,Danish Meteorological Institute,丹麥氣象研究所,Q1164325,4.629,1,,2,2
+3.0-6.0km,low,丹麦哥本哈根圣殿,Copenhagen Denmark Temple,丹麦哥本哈根圣殿,Q1783903,3.173,1,,2,2

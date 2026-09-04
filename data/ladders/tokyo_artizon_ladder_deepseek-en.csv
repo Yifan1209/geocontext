@@ -1,0 +1,25 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,有乐町站,Yūrakuchō Station,有樂町站,Q801655,0.872,4,,11,4
+0.5-1.5km,high,东京站,Tokyo Station,東京站,Q283196,0.501,5,,11,4
+0.5-1.5km,high,神田站,Kanda Station (Tokyo),神田站,Q800989,1.429,4,,11,4
+0.5-1.5km,high,帝国饭店,"Imperial Hotel, Tokyo",帝國飯店,Q712476,1.456,4,,11,4
+0.5-1.5km,mid,货币博物馆,Currency Museum of the Bank of Japan,貨幣博物館,Q865607,0.721,3,,3,3
+0.5-1.5km,mid,东京国际论坛,Tokyo International Forum,東京國際論壇,Q1359892,0.735,3,,3,3
+0.5-1.5km,mid,东京证券交易所,Tokyo Stock Exchange,東京證券交易所,Q217475,0.75,2,,3,3
+1.5-3.0km,high,筑地,Tsukiji,築地,Q1201337,1.591,4,,19,4
+1.5-3.0km,high,筑地市场,Tsukiji fish market,築地市場,Q859471,1.956,4,,19,4
+1.5-3.0km,high,国会议事堂前站,Kokkai-gijidō-mae Station,國會議事堂前站,Q1192508,2.469,4,,19,4
+1.5-3.0km,high,日比谷公园,Hibiya Park,日比谷公園,Q1378533,1.707,4,,19,4
+1.5-3.0km,mid,中银胶囊塔,Nakagin Capsule Tower,中银胶囊塔,Q1633586,1.661,3,,17,4
+1.5-3.0km,mid,淡路町站,Awajichō Station,淡路町站,Q1078432,1.828,3,,17,4
+1.5-3.0km,mid,汐留,Shiodome,汐留,Q1185910,2.098,3,,17,4
+1.5-3.0km,mid,日本国立剧场,National Theatre of Japan,日本国立剧场,Q1369225,2.624,3,,17,4
+3.0-6.0km,high,国立新美术馆,"The National Art Center, Tokyo",國立新美術館,Q1362638,4.389,4,,42,4
+3.0-6.0km,high,上野站,Ueno Station,上野站,Q801551,3.865,5,,42,4
+3.0-6.0km,high,市谷站,Ichigaya Station,市谷站,Q800947,3.549,5,,42,4
+3.0-6.0km,high,东京国立博物馆,Tokyo National Museum,東京國立博物館,Q653433,4.466,4,,42,4
+3.0-6.0km,mid,西日暮里站,Nishi-Nippori Station,西日暮里站,Q636845,5.916,3,,33,4
+3.0-6.0km,mid,有明体操竞技场,Ariake Gymnastics Centre,有明體操競技場,Q55532859,4.535,3,,33,4
+3.0-6.0km,mid,吉原,Yoshiwara,吉原,Q1859550,5.454,3,,33,4
+3.0-6.0km,mid,浅草神社,Asakusa Shrine,淺草神社,Q670049,4.642,3,,33,4
+3.0-6.0km,low,日本学士院,Japan Academy,日本学士院,Q1683229,4.166,1,,1,1

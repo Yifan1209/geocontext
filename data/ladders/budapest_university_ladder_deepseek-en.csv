@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,盖勒特酒店,Hotel Gellért,蓋勒特酒店,Q1799636,0.533,4,,20,4
+0.5-1.5km,high,匈牙利福音信義教堂,Evangelical-Lutheran Church in Hungary,匈牙利福音信義教堂,Q896993,1.462,4,,20,4
+0.5-1.5km,high,伊丽莎白桥,Elisabeth Bridge (Budapest),伊丽莎白桥,Q699098,1.327,5,,20,4
+0.5-1.5km,high,裴多菲桥,Petőfi Bridge,裴多菲桥,Q781659,0.555,4,,20,4
+0.5-1.5km,mid,盖勒特山洞,Gellért Hill Cave,蓋勒特山洞,Q839142,0.636,2,,17,4
+0.5-1.5km,mid,莫里茲·日格蒙德圓環站,Móricz Zsigmond körtér metro station,莫里茲·日格蒙德圓環站,Q930433,0.708,3,,17,4
+0.5-1.5km,mid,应用艺术博物馆,Museum of Applied Arts (Budapest),应用艺术博物馆,Q1088467,1.154,3,,17,4
+0.5-1.5km,mid,布达佩斯安德拉什·久拉德语大学,Andrássy University Budapest,布达佩斯安德拉什·久拉德语大学,Q281572,1.461,2,,17,4
+1.5-3.0km,high,科苏特·拉约什广场站,Kossuth Lajos tér metro station,科蘇特·拉約什廣場站,Q2524878,2.945,5,,38,4
+1.5-3.0km,high,布达城堡区,Castle Quarter (Budapest),Buda Castle Quarter,Q463332,2.972,4,,38,4
+1.5-3.0km,high,多瑙河滨大道,Danube Promenade,多瑙河滨大道,Q5221261,1.834,4,,38,4
+1.5-3.0km,high,戴阿克·费伦茨广场站,Deák Ferenc tér metro station,戴阿克·费伦茨广场站,Q1028696,1.965,5,,38,4
+1.5-3.0km,mid,,Glass House,Glass House,Q5567049,2.879,2,,30,4
+1.5-3.0km,mid,马提亚斯喷泉,Matthias Fountain,馬提亞斯噴泉,Q6791545,2.216,2,,30,4
+1.5-3.0km,mid,埃克尔剧场,Erkel Theatre,埃克爾劇場,Q727749,2.451,3,,30,4
+1.5-3.0km,mid,匈牙利自然历史博物馆,Hungarian Natural History Museum,匈牙利自然历史博物馆,Q778686,2.231,3,,30,4
+1.5-3.0km,low,,Constitution Protection Office,Constitution Protection Office,Q652871,1.715,1,,1,1
+3.0-6.0km,high,玛格丽特桥,Margaret Bridge,玛格丽特桥,Q916120,3.989,5,,37,4
+3.0-6.0km,high,安德拉什大街,Andrássy út,安德拉什大街,Q367395,3.601,5,,37,4
+3.0-6.0km,high,布达佩斯东站,Budapest Keleti station,布达佩斯东站,Q841167,3.095,5,,37,4
+3.0-6.0km,high,贡德勒餐厅,Gundel,贡德勒餐厅,Q752482,4.471,4,,37,4
+3.0-6.0km,mid,阿尔弗雷德·哈约什国家游泳馆,Alfréd Hajós National Swimming Stadium,阿爾弗雷德-哈約什國家游泳館,Q509841,4.726,3,,35,4
+3.0-6.0km,mid,巴扎街站,Bajza utca metro station,巴扎街站,Q2414439,3.682,3,,35,4
+3.0-6.0km,mid,圣卢卡奇温泉,Lukács Baths,聖盧卡奇溫泉,Q1296555,4.42,3,,35,4
+3.0-6.0km,mid,布达佩斯艺术厅,"Hall of Art, Budapest",布達佩斯藝術廳,Q368537,4.162,2,,35,4
+3.0-6.0km,low,匈牙利宪法法院,Constitutional Court of Hungary,匈牙利宪法法院,Q923292,3.033,1,,3,3
+3.0-6.0km,low,匈牙利铸币厂,Hungarian Mint,匈牙利鑄幣廠,Q585461,3.105,1,,3,3
+3.0-6.0km,low,武器及机械制造公司,Fegyver- és Gépgyár,武器及機械製造公司,Q727963,4.483,1,,3,3

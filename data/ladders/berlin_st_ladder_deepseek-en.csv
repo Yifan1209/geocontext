@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,柏林腓特烈大街车站,Berlin Friedrichstraße station,柏林腓特烈大街车站,Q702402,0.722,4,,26,4
+0.5-1.5km,high,巴黎广场,Pariser Platz,巴黎广场,Q156716,1.073,4,,26,4
+0.5-1.5km,high,柏林新博物馆,Neues Museum,柏林新博物馆,Q157316,0.523,5,,26,4
+0.5-1.5km,high,波茨坦广场,Potsdamer Platz,波茨坦广场,Q152252,1.461,5,,26,4
+0.5-1.5km,mid,柏林喜歌剧院,Komische Oper Berlin,柏林喜歌劇院,Q687694,0.526,3,,20,4
+0.5-1.5km,mid,纳粹时期被迫害同性恋者纪念碑,Memorial to Homosexuals Persecuted Under Nazism,纳粹时期被迫害同性恋者纪念碑,Q568945,1.293,2,,20,4
+0.5-1.5km,mid,德意志剧院,Deutsches Theater,德意志劇院,Q703955,1.278,3,,20,4
+0.5-1.5km,mid,马克思-恩格斯广场,Marx-Engels Forum,马克思-恩格斯广场,Q31752,0.698,3,,20,4
+0.5-1.5km,low,柏林天文台,Berlin Observatory,柏林天文台,Q698950,1.329,1,,1,1
+1.5-3.0km,high,柏林爱乐厅,Berliner Philharmonie,柏林愛樂廳,Q32653910,1.794,4,,8,4
+1.5-3.0km,high,柏林墙纪念馆,Berlin Wall Memorial,柏林牆紀念碑,Q95517,2.158,4,,8,4
+1.5-3.0km,high,夏里特,Charité,夏里特,Q162684,1.711,4,,8,4
+1.5-3.0km,high,柏林东站,Berlin Ostbahnhof,柏林东站,Q683239,2.782,4,,8,4
+1.5-3.0km,mid,柏林犹太博物馆,Jewish Museum Berlin,柏林猶太博物館,Q157003,1.504,3,,21,4
+1.5-3.0km,mid,卡尔·马克思大街,Karl-Marx-Allee,卡尔·马克思大道,Q683226,2.75,3,,21,4
+1.5-3.0km,mid,柏林荣军公墓,Invalids' Cemetery,柏林荣军公墓,Q643891,2.4,2,,21,4
+1.5-3.0km,mid,共和广场,Platz der Republik (Berlin),共和廣場,Q131995,1.535,2,,21,4
+3.0-6.0km,high,胜利纪念柱,Berlin Victory Column,胜利纪念柱,Q154987,3.022,5,,21,4
+3.0-6.0km,high,滕珀尔霍夫,Tempelhof,滕珀爾霍夫,Q363830,5.518,4,,21,4
+3.0-6.0km,high,舍讷贝格,Schöneberg,舍讷贝格,Q313189,4.75,4,,21,4
+3.0-6.0km,high,克罗伊茨贝格,Kreuzberg,克罗伊茨贝格,Q308928,3.244,4,,21,4
+3.0-6.0km,mid,六月十七日大街,Straße des 17. Juni,六月十七日大街,Q317094,3.126,3,,16,4
+3.0-6.0km,mid,马克斯·施梅林体育馆,Max-Schmeling-Halle,馬克斯－斯邁林大廳,Q705353,3.287,3,,16,4
+3.0-6.0km,mid,赫尔曼广场站,Hermannplatz station,赫尔曼广场站,Q658929,3.856,3,,16,4
+3.0-6.0km,mid,潘科,Pankow,潘科,Q163012,5.664,3,,16,4
+3.0-6.0km,low,伊本·鲁世德-歌德清真寺,Ibn Rushd-Goethe Mosque,Ibn Rushd-Goethe mosque,Q30447692,3.229,1,,1,1

@@ -1,0 +1,25 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,水晶宫,Palacio de Cristal del Retiro,水晶宮 (馬德里),Q2420025,1.485,4,,1,1
+0.5-1.5km,mid,梅嫩德斯·佩拉约站,Menéndez Pelayo (Madrid Metro),Menéndez Pelayo,Q2479001,0.588,3,,3,3
+0.5-1.5km,mid,新努曼西亚站,Nueva Numancia (Madrid Metro),Nueva Numancia,Q2696516,1.24,3,,3,3
+0.5-1.5km,mid,国家人类学博物馆,National Museum of Anthropology (Madrid),国家人类学博物馆,Q2917041,1.375,3,,3,3
+1.5-3.0km,high,丘埃卡,Chueca,丘埃卡,Q284642,2.985,4,,29,4
+1.5-3.0km,high,西贝莱斯喷泉,Fountain of Cybele,Fountain of Cybele,Q2736564,2.519,4,,29,4
+1.5-3.0km,high,安东·马丁站,Antón Martín (Madrid Metro),Antón Martín,Q2473940,2.382,4,,29,4
+1.5-3.0km,high,西班牙国家图书馆,National Library of Spain,西班牙国家图书馆,Q750403,2.813,4,,29,4
+1.5-3.0km,mid,O'Donnell球场,Campo de O'Donnell,O'Donnell球場,Q663849,2.291,2,,24,4
+1.5-3.0km,mid,萨尔苏埃拉剧院,Teatro de la Zarzuela,Teatro de la Zarzuela,Q3321632,2.549,3,,24,4
+1.5-3.0km,mid,死难者树林,Forest of Remembrance,死難者樹林,Q833213,1.552,2,,24,4
+1.5-3.0km,mid,委拉斯开兹站,Velázquez (Madrid Metro),委拉斯开兹站,Q2481170,2.718,3,,24,4
+1.5-3.0km,low,西班牙皇家历史学院,Royal Academy of History,西班牙王室历史学院,Q2720582,2.432,1,,2,2
+1.5-3.0km,low,西班牙皇家造币厂,Royal Mint (Spain),西班牙皇家造幣廠,Q733486,2.123,1,,2,2
+3.0-6.0km,high,运河站,Canal (Madrid Metro),運河站,Q2479455,4.811,4,,35,4
+3.0-6.0km,high,迭戈·德·莱昂站,Diego de León (Madrid Metro),迭戈·德·萊昂站,Q2055658,3.725,4,,35,4
+3.0-6.0km,high,国家自然科学博物馆,"National Museum of Natural Sciences, Madrid",國家自然科學博物館,Q1966699,4.601,4,,35,4
+3.0-6.0km,high,皮奥王子站,Príncipe Pío,皮奧王子站,Q2527066,4.331,4,,35,4
+3.0-6.0km,mid,维斯塔莱格雷宫,Palacio Vistalegre,維斯塔萊格雷宮,Q1635932,5.662,3,,45,4
+3.0-6.0km,mid,利里亚宫,Liria Palace,利里亚宫,Q3288223,4.313,3,,45,4
+3.0-6.0km,mid,科米利亚斯主教大学,Comillas Pontifical University,科米利亚斯主教大学,Q1687025,4.431,2,,45,4
+3.0-6.0km,mid,古斯曼·埃尔布埃诺站,Guzmán el Bueno,Guzmán el Bueno,Q2482402,5.91,3,,45,4
+3.0-6.0km,low,西班牙宪法法院,Constitutional Court of Spain,西班牙宪法法院,Q1566394,5.739,1,,2,2
+3.0-6.0km,low,西班牙皇家科学院,"Royal Academy of Exact, Physical and Natural Sciences",西班牙皇家科学院,Q427318,3.931,1,,2,2

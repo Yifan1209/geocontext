@@ -1,0 +1,33 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,粉红区,"Zona Rosa, Mexico City",粉红区,Q181649,0.786,5,,6,4
+0.5-1.5km,high,孔德萨,Condesa,Condesa,Q1020125,1.06,5,,6,4
+0.5-1.5km,high,改革塔,Torre Reforma,改革塔,Q3433389,1.432,4,,6,4
+0.5-1.5km,high,独立纪念柱,Angel of Independence,独立纪念柱,Q928541,1.072,5,,6,4
+0.5-1.5km,mid,BBVA墨西哥大厦,Torre BBVA México,BBVA墨西哥大厦,Q6150039,1.394,3,,10,4
+0.5-1.5km,mid,塞维利亚站,Sevilla metro station (Mexico City),塞维利亚站,Q3356943,0.956,3,,10,4
+0.5-1.5km,mid,少年英雄站,Niños Héroes/Poder Judicial CDMX metro station,Niños Héroes / Poder Judicial CDMX,Q6824647,1.199,3,,10,4
+0.5-1.5km,mid,小首尔,Pequeño Seúl,小首尔,Q16242883,0.916,2,,10,4
+0.5-1.5km,low,墨西哥铸币厂,Mexican Mint,Mexican Mint,Q4582964,1.132,1,,2,2
+0.5-1.5km,low,墨西哥足球协会,Mexican Football Federation,墨西哥足球协会,Q1160682,0.838,1,,2,2
+1.5-3.0km,high,查普尔特佩克站,Chapultepec metro station,Chapultepec,Q3357035,1.511,5,,22,4
+1.5-3.0km,high,革命站,Revolución metro station,Revolución,Q3357042,2.385,4,,22,4
+1.5-3.0km,high,改革大道,Paseo de la Reforma,改革大道,Q1478843,2.015,5,,22,4
+1.5-3.0km,high,医疗中心站,Centro Médico metro station,Centro Médico,Q5810513,1.523,5,,22,4
+1.5-3.0km,mid,墨西哥城世界贸易中心,World Trade Center Mexico City,墨西哥城世界贸易中心,Q2712478,2.978,3,,32,4
+1.5-3.0km,mid,墨西哥外交部,Secretariat of Foreign Affairs,墨西哥外交部,Q500961,2.492,2,,32,4
+1.5-3.0km,mid,弗朗茨·迈耶博物馆,Franz Mayer Museum,Franz Mayer Museum,Q1148324,2.829,2,,32,4
+1.5-3.0km,mid,圣胡安德莱特兰站,San Juan de Letrán metro station,San Juan de Letrán,Q5691609,2.542,3,,32,4
+1.5-3.0km,low,IPADE商学院,Instituto Panamericano de Alta Dirección de Empresa,IPADE商学院,Q1002573,2.987,1,,2,2
+1.5-3.0km,low,天堂之门主教座堂,Porta Coeli Cathedral,天堂之门主教座堂,Q27925183,2.794,1,,2,2
+3.0-6.0km,high,卡尔索广场,Plaza Carso,卡尔索广场,Q17085667,4.961,5,,29,4
+3.0-6.0km,high,查普尔特佩克,Chapultepec,查普堤佩克,Q523194,3.81,5,,29,4
+3.0-6.0km,high,墨西哥城主教座堂,Mexico City Metropolitan Cathedral,墨西哥城主教座堂,Q610961,3.482,5,,29,4
+3.0-6.0km,high,墨西哥城斗牛场,Plaza de Toros México,Plaza México,Q2525012,4.434,4,,29,4
+3.0-6.0km,mid,墨西哥国家美术馆,Museo Nacional de Arte,墨西哥国家美术馆,Q1138147,3.055,3,,60,4
+3.0-6.0km,mid,路易斯·巴拉甘故居和工作室,Luis Barragán House and Studio,路易斯·巴拉甘故居和工作室,Q1046414,3.317,2,,60,4
+3.0-6.0km,mid,迪维西翁德尔诺特站,División del Norte metro station,División del Norte,Q6824558,4.347,3,,60,4
+3.0-6.0km,mid,米苏卡站,Mixiuhca metro station,米苏卡站,Q3431067,5.28,3,,60,4
+3.0-6.0km,low,美洲第一印刷所,House of the First Print Shop in the Americas,House of the First Print Shop in the Americas,Q5915612,3.634,1,,5,4
+3.0-6.0km,low,国家气象局,National Meteorological Service (Mexico),國家氣象局,Q3306386,4.005,1,,5,4
+3.0-6.0km,low,能源部,Secretariat of Energy,能源秘書處,Q750165,3.83,1,,5,4
+3.0-6.0km,low,巴尔巴内拉圣母主教座堂,"Valvanera Cathedral, Mexico City",巴尔巴内拉圣母主教座堂,Q2942226,3.507,1,,5,4

@@ -1,0 +1,26 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,皇居,Tokyo Imperial Palace,皇居,Q500681,0.924,5,,4,4
+0.5-1.5km,high,丸之内,Marunouchi,丸之內,Q1196955,1.435,4,,4,4
+0.5-1.5km,high,日本武道馆,Nippon Budokan,日本武道館,Q386246,0.521,5,,4,4
+0.5-1.5km,high,大手町站,Ōtemachi Station,大手町站,Q1326767,1.212,5,,4,4
+0.5-1.5km,mid,明治大学,Meiji University,明治大学,Q46492,0.993,3,,5,4
+0.5-1.5km,mid,日本国立剧场,National Theatre of Japan,日本国立剧场,Q1369225,1.461,3,,5,4
+0.5-1.5km,mid,复活大教堂,Holy Resurrection Cathedral,復活大教堂,Q2660430,1.288,3,,5,4
+0.5-1.5km,mid,神田神保町,Kanda-Jinbōchō,神田神保町,Q1689258,0.785,3,,5,4
+1.5-3.0km,high,神田站,Kanda Station (Tokyo),神田站,Q800989,1.507,4,,20,4
+1.5-3.0km,high,新桥站,Shimbashi Station,新橋站,Q801436,2.721,5,,20,4
+1.5-3.0km,high,御徒町站,Okachimachi Station,御徒町站,Q801296,2.609,4,,20,4
+1.5-3.0km,high,饭田桥站,Iidabashi Station,飯田橋站,Q800953,1.547,4,,20,4
+1.5-3.0km,mid,最高裁判所,Supreme Court of Japan,最高裁判所,Q1142255,1.51,3,,18,4
+1.5-3.0km,mid,日本大学,Nihon University,日本大学,Q1326230,1.539,2,,18,4
+1.5-3.0km,mid,讲道馆,Kodokan Judo Institute,講道館,Q1165384,1.943,2,,18,4
+1.5-3.0km,mid,东京国际论坛,Tokyo International Forum,東京國際論壇,Q1359892,1.741,3,,18,4
+3.0-6.0km,high,西新宿,Nishi-Shinjuku,西新宿,Q430349,5.673,4,,45,4
+3.0-6.0km,high,歌舞伎町,Kabukichō,歌舞伎町,Q665216,4.734,5,,45,4
+3.0-6.0km,high,表参道站,Omote-sandō Station,表參道站,Q1326733,4.739,5,,45,4
+3.0-6.0km,high,涩谷路口,Shibuya Crossing,澀谷路口,Q21083961,5.983,5,,45,4
+3.0-6.0km,mid,汐留,Shiodome,汐留,Q1185910,3.124,3,,16,4
+3.0-6.0km,mid,国立西洋美术馆,National Museum of Western Art,日本國立西洋美術館,Q1362629,3.358,3,,16,4
+3.0-6.0km,mid,东京圣玛利亚主教座堂,"St. Mary's Cathedral, Tokyo",東京聖瑪利亞主教座堂,Q1193480,3.644,2,,16,4
+3.0-6.0km,mid,吉原,Yoshiwara,吉原,Q1859550,5.25,3,,16,4
+3.0-6.0km,low,日本学士院,Japan Academy,日本学士院,Q1683229,3.498,1,,1,1

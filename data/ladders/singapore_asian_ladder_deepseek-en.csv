@@ -1,0 +1,26 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,丹戎巴葛,Tanjong Pagar,丹戎巴葛,Q868368,1.331,4,,39,4
+0.5-1.5km,high,滨海湾站,Marina Bay MRT station,滨海湾站,Q2292422,1.409,4,,39,4
+0.5-1.5km,high,克拉码头,Clarke Quay,克拉码头,Q1095828,0.661,5,,39,4
+0.5-1.5km,high,福康宁站,Fort Canning MRT station,福康宁站,Q3524382,0.85,4,,39,4
+0.5-1.5km,mid,共和大厦,Republic Plaza,共和大廈,Q587586,0.527,3,,19,4
+0.5-1.5km,mid,詹美回教堂,Masjid Jamae,詹美回教堂,Q2993428,0.811,3,,19,4
+0.5-1.5km,mid,新加坡佛牙寺龙华院,Buddha Tooth Relic Temple and Museum,新加坡佛牙寺龙华院,Q839965,1.055,3,,19,4
+0.5-1.5km,mid,亚米尼亚教堂,"Armenian Church, Singapore",亚米尼亚教堂,Q2660779,0.66,2,,19,4
+1.5-3.0km,high,斯里尼瓦沙柏鲁马兴都庙,Sri Srinivasa Perumal Temple,斯里尼瓦沙柏鲁马兴都庙,Q3536077,2.916,4,,30,4
+1.5-3.0km,high,大世界站,Great World MRT station,大世界站,Q5600268,2.174,4,,30,4
+1.5-3.0km,high,中峇鲁站,Tiong Bahru MRT station,中峇魯站,Q3272318,2.72,5,,30,4
+1.5-3.0km,high,滨海南码头站,Marina South Pier MRT station,滨海南码头站,Q3536328,2.264,4,,30,4
+1.5-3.0km,mid,伊丽莎白医院,Mount Elizabeth Hospital,伊丽莎白医院,Q1320916,2.619,3,,10,4
+1.5-3.0km,mid,阿督卡夫回教堂,Masjid Abdul Gaffoor,阿督卡夫回教堂,Q2477287,1.906,2,,10,4
+1.5-3.0km,mid,加冷河,Kallang River,加冷河,Q1094417,2.195,3,,10,4
+1.5-3.0km,mid,露德圣母堂,"Church of Our Lady of Lourdes, Singapore",露德圣母堂,Q1105770,1.816,2,,10,4
+3.0-6.0km,high,港湾站,HarbourFront MRT station,港湾站,Q3272355,4.077,5,,26,4
+3.0-6.0km,high,新加坡植物园,Singapore Botanic Gardens,新加坡植物园,Q3046409,4.972,4,,26,4
+3.0-6.0km,high,体育场站,Stadium MRT station,体育场站,Q1089469,3.16,4,,26,4
+3.0-6.0km,high,拉柏多公园站,Labrador Park MRT station,拉柏多公园站,Q3521325,5.649,4,,26,4
+3.0-6.0km,mid,天猛公达恩·依布拉欣回教堂,Masjid Temenggong Daeng Ibrahim,Masjid Temenggong Daeng Ibrahim,Q6783343,3.821,2,,25,4
+3.0-6.0km,mid,莲山双林禅寺,Siong Lim Temple,莲山双林禅寺,Q2985111,4.805,3,,25,4
+3.0-6.0km,mid,加冷,Kallang,加冷,Q4216846,3.035,3,,25,4
+3.0-6.0km,mid,布莱德站,Braddell MRT station,布莱德站,Q1914874,5.898,3,,25,4
+3.0-6.0km,low,新加坡内部安全局,Internal Security Department (Singapore),新加坡内部安全局,Q1112557,4.095,1,,1,1

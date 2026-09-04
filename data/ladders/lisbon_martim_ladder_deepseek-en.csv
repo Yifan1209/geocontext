@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,圣恩格拉西亚教堂,Santa Engrácia Church,聖恩格拉西亞教堂,Q612059,1.415,4,,29,4
+0.5-1.5km,high,大马路站,Avenida Station,大馬路站,Q430125,0.939,4,,29,4
+0.5-1.5km,high,巴西人咖啡馆,Café A Brasileira,巴西人咖啡馆,Q2547006,0.873,4,,29,4
+0.5-1.5km,high,商业广场站,Terreiro do Paço Station,商業廣場站,Q2038079,1.096,4,,29,4
+0.5-1.5km,mid,法多博物馆,Fado Museum,Fado Museum,Q1954395,0.95,3,,15,4
+0.5-1.5km,mid,里斯本市政厅,Lisbon City Hall,里斯本市政廳,Q20059161,0.987,3,,15,4
+0.5-1.5km,mid,因滕登特站,Intendente Station,因滕登特站,Q1848345,0.595,3,,15,4
+0.5-1.5km,mid,里斯本自治大学,Autonomous University of Lisbon,里斯本自治大學,Q168458,1.219,3,,15,4
+0.5-1.5km,low,欧洲海事安全局,European Maritime Safety Agency,歐洲海事安全局,Q922693,1.328,1,,2,2
+0.5-1.5km,low,葡萄牙宪法法庭,Constitutional Court (Portugal),葡萄牙宪法法庭,Q138324,1.092,1,,2,2
+1.5-3.0km,high,圣塞巴斯蒂安站,São Sebastião Station,聖塞巴斯蒂安站,Q163761,2.508,4,,23,4
+1.5-3.0km,high,国家瓷砖博物馆,National Museum of the Azulejo,National Azulejo Museum,Q2313815,2.076,4,,23,4
+1.5-3.0km,high,庞巴尔侯爵广场,Marquis of Pombal Square,庞巴尔侯爵广场,Q1807096,1.554,5,,23,4
+1.5-3.0km,high,爱德华七世公园,Edward VII Park,爱德华七世公园,Q2034183,1.953,5,,23,4
+1.5-3.0km,mid,阿瓜里弗渡槽,Águas Livres Aqueduct,阿瓜里弗渡槽,Q623228,2.897,3,,13,4
+1.5-3.0km,mid,法蒂玛圣母,Nossa Senhora de Fátima,Nossa Senhora de Fátima,Q1752948,2.809,3,,13,4
+1.5-3.0km,mid,里斯本犹太会堂,Lisbon Synagogue,里斯本猶太會堂,Q3113484,1.563,2,,13,4
+1.5-3.0km,mid,圣安东尼奥,Santo António,聖安東尼奧,Q10368164,2.809,3,,13,4
+1.5-3.0km,low,葡萄牙国家统计局,Instituto Nacional de Estatística (Portugal),葡萄牙國家統計研究所,Q1412194,2.418,1,,2,2
+1.5-3.0km,low,葡萄牙造币厂,Imprensa Nacional-Casa da Moeda,葡萄牙造币厂,Q592584,2.333,1,,2,2
+3.0-6.0km,high,西班牙广场站,Praça de Espanha Station,西班牙廣場站 (里斯本),Q605303,3.108,4,,20,4
+3.0-6.0km,high,泰莱拉斯站,Telheiras Station,泰萊拉斯站,Q2092734,5.487,4,,20,4
+3.0-6.0km,high,奥利瓦伊斯站,Olivais Station,奧利瓦伊斯站,Q376192,5.322,4,,20,4
+3.0-6.0km,high,恩特雷坎波斯火车站,Entrecampos railway station,因特坎普火车站,Q801109,3.282,4,,20,4
+3.0-6.0km,mid,机场站,Aeroporto Station (Lisbon Metro),机场站,Q744682,5.78,3,,30,4
+3.0-6.0km,mid,拉兰热拉斯站,Laranjeiras Station,拉蘭熱拉斯站,Q962631,4.763,3,,30,4
+3.0-6.0km,mid,特茹中心建筑群,Tejo Power Station (architectural ensemble),特茹中心建築群,Q1054039,5.643,3,,30,4
+3.0-6.0km,mid,磨坊高地站,Alto dos Moinhos Station,磨坊高地站,Q639045,5.246,3,,30,4
+3.0-6.0km,low,蒙三托赛道,Circuito de Monsanto,蒙三托賽道,Q174062,5.848,1,,2,2
+3.0-6.0km,low,葡萄牙国家档案馆,Torre do Tombo National Archive,葡萄牙國家檔案館,Q1769248,4.58,1,,2,2

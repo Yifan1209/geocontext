@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,克里斯托弗·哥伦布纪念像,Monument to Christopher Columbus,克里斯托弗·哥伦布纪念像,Q5801988,1.402,4,,10,4
+0.5-1.5km,high,罗马区,Colonia Roma,科洛尼亚罗马,Q584381,0.781,5,,10,4
+0.5-1.5km,high,主塔大厦,Torre Mayor,主塔大廈,Q844813,1.302,4,,10,4
+0.5-1.5km,high,独立纪念柱,Angel of Independence,独立纪念柱,Q928541,0.629,5,,10,4
+0.5-1.5km,mid,,Punto Chapultepec,Punto Chapultepec,Q6093171,1.293,3,,14,4
+0.5-1.5km,mid,内政部秘书处,Secretariat of the Interior,內政部秘書處,Q1507054,1.349,2,,14,4
+0.5-1.5km,mid,查普尔特佩克堤道,Chapultepec aqueduct,查普尔特佩克堤道,Q5073555,0.518,3,,14,4
+0.5-1.5km,mid,少年英雄站,Niños Héroes/Poder Judicial CDMX metro station,Niños Héroes / Poder Judicial CDMX,Q6824647,1.386,3,,14,4
+0.5-1.5km,low,墨西哥足球协会,Mexican Football Federation,墨西哥足球协会,Q1160682,0.932,1,,2,2
+0.5-1.5km,low,墨西哥铸币厂,Mexican Mint,Mexican Mint,Q4582964,0.642,1,,2,2
+1.5-3.0km,high,巴尔德拉斯站,Balderas metro station,巴尔德拉斯站,Q3356947,1.553,5,,22,4
+1.5-3.0km,high,墨西哥城阿拉梅达中央公园,Alameda Central,墨西哥城阿拉梅达中央公园,Q3355305,2.439,5,,22,4
+1.5-3.0km,high,医疗中心站,Centro Médico metro station,Centro Médico,Q5810513,2.009,5,,22,4
+1.5-3.0km,high,革命纪念塔,Monumento a la Revolución,革命纪念塔,Q1389520,1.69,5,,22,4
+1.5-3.0km,mid,墨西哥国家美术馆,Museo Nacional de Arte,墨西哥国家美术馆,Q1138147,2.883,3,,30,4
+1.5-3.0km,mid,诺马尔站,Normal metro station,Normal,Q3356995,2.389,3,,30,4
+1.5-3.0km,mid,瓷砖之家,Casa de los Azulejos,瓷砖之家,Q1267814,2.698,3,,30,4
+1.5-3.0km,mid,圣胡安德莱特兰站,San Juan de Letrán metro station,San Juan de Letrán,Q5691609,2.435,3,,30,4
+1.5-3.0km,low,天堂之门主教座堂,Porta Coeli Cathedral,天堂之门主教座堂,Q27925183,2.661,1,,1,1
+3.0-6.0km,high,索卡洛/特诺奇蒂特兰站,Zócalo/Tenochtitlan metro station,索卡洛站,Q3356920,3.362,4,,27,4
+3.0-6.0km,high,马萨里克总统大道,Avenida Presidente Masaryk,Avenida Presidente Masaryk,Q790480,3.631,4,,27,4
+3.0-6.0km,high,墨西哥城主教座堂,Mexico City Metropolitan Cathedral,墨西哥城主教座堂,Q610961,3.389,5,,27,4
+3.0-6.0km,high,卡尔索广场,Plaza Carso,卡尔索广场,Q17085667,4.615,5,,27,4
+3.0-6.0km,mid,莫里斯科亭,Morisco Kiosk,Morisco Kiosk,Q54820837,3.007,2,,59,4
+3.0-6.0km,mid,城市剧院,Teatro de la Ciudad,Teatro de la Ciudad,Q7691977,3.091,3,,59,4
+3.0-6.0km,mid,圣佩德罗-德洛斯皮诺斯站,San Pedro de los Pinos metro station,San Pedro de los Pinos,Q5841189,4.293,3,,59,4
+3.0-6.0km,mid,墨西哥城世界贸易中心,World Trade Center Mexico City,墨西哥城世界贸易中心,Q2712478,3.374,3,,59,4
+3.0-6.0km,low,美洲第一印刷所,House of the First Print Shop in the Americas,House of the First Print Shop in the Americas,Q5915612,3.564,1,,5,4
+3.0-6.0km,low,能源部,Secretariat of Energy,能源秘書處,Q750165,4.245,1,,5,4
+3.0-6.0km,low,胡斯托谢拉街71号犹太会堂,Historic Synagogue Justo Sierra 71,胡斯托谢拉街71号犹太会堂,Q12220576,3.9,1,,5,4
+3.0-6.0km,low,巴尔巴内拉圣母主教座堂,"Valvanera Cathedral, Mexico City",巴尔巴内拉圣母主教座堂,Q2942226,3.5,1,,5,4

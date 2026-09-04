@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,爱丁堡城堡,Edinburgh Castle,爱丁堡城堡,Q212065,1.349,5,,45,4
+0.5-1.5km,high,詹纳斯百货公司,Jenners,詹纳斯百货公司,Q6177834,0.926,4,,45,4
+0.5-1.5km,high,灰衣修士教堂,Greyfriars Kirk,灰衣修士教堂,Q2113456,0.949,4,,45,4
+0.5-1.5km,high,麦道斯,"The Meadows, Edinburgh",麥道斯,Q7750795,1.456,5,,45,4
+0.5-1.5km,mid,圣保罗和圣乔治教堂,St Paul's and St George's Church,聖保羅和聖喬治教堂,Q7595183,0.818,3,,34,4
+0.5-1.5km,mid,格莱斯顿庄园,Gladstone's Land,Gladstone's Land,Q5566312,0.907,3,,34,4
+0.5-1.5km,mid,乔治·赫里奥特学校,George Heriot's School,乔治·赫里奥特学校,Q5540543,1.119,3,,34,4
+0.5-1.5km,mid,苏格兰皇家学院,Royal Scottish Academy,蘇格蘭皇家學院,Q2070445,1.046,3,,34,4
+0.5-1.5km,low,,Lodge of Edinburgh (Mary's Chapel) No.1,Lodge of Edinburgh (Mary's Chapel) No.1,Q3257879,1.469,1,,1,1
+1.5-3.0km,high,圣玛丽座堂,St Mary's Cathedral,聖馬利亞座堂,Q2324015,2.328,5,,15,4
+1.5-3.0km,high,爱丁堡皇家植物园,Royal Botanic Garden Edinburgh,愛丁堡皇家植物園,Q1807521,2.357,4,,15,4
+1.5-3.0km,high,纽因顿,Newington,紐因頓,Q14948852,1.581,4,,15,4
+1.5-3.0km,high,干草市场站,Haymarket railway station,乾草市場站,Q800709,2.495,5,,15,4
+1.5-3.0km,mid,,Sciennes,Sciennes,Q14948855,1.503,2,,18,4
+1.5-3.0km,mid,圣卡斯伯特教堂,"St Cuthbert's Church, Edinburgh",圣卡斯伯特教堂,Q7756122,1.622,3,,18,4
+1.5-3.0km,mid,喷泉桥,Fountainbridge,喷泉桥,Q5474828,2.019,3,,18,4
+1.5-3.0km,mid,托尔克罗斯,Tollcross,Tollcross,Q7814360,1.718,3,,18,4
+1.5-3.0km,low,,Lochrin,Lochrin,Q6665164,2.029,1,,1,1
+3.0-6.0km,high,波多贝罗,"Portobello, Edinburgh",波多贝罗,Q3399361,4.067,4,,15,4
+3.0-6.0km,high,爱丁堡皇家医院,Royal Infirmary of Edinburgh,愛丁堡皇家醫院,Q3822734,4.157,4,,15,4
+3.0-6.0km,high,苏格兰国立现代美术馆,Scottish National Gallery of Modern Art,蘇格蘭國立現代美術館,Q1889944,3.004,4,,15,4
+3.0-6.0km,high,爱丁堡动物园,Edinburgh Zoo,愛丁堡動物園,Q1284778,5.715,5,,15,4
+3.0-6.0km,mid,利伯顿,Liberton,利伯顿,Q3997687,4.26,3,,9,4
+3.0-6.0km,mid,,Craigentinny,Craigentinny,Q5181666,3.03,2,,9,4
+3.0-6.0km,mid,利斯河,Water of Leith,利斯河,Q3566668,3.492,3,,9,4
+3.0-6.0km,mid,维多利亚码头,Victoria Quay,Victoria Quay,Q7926982,3.004,3,,9,4
+3.0-6.0km,low,,North British Distillery,North British Distillery,Q1432194,3.66,1,,1,1

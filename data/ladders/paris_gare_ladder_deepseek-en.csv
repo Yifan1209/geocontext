@@ -1,0 +1,23 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,巴黎北站,Gare du Nord,巴黎北站,Q745942,0.544,5,,3,3
+0.5-1.5km,high,女神游乐厅,Folies Bergère,女神遊樂廳,Q330375,1.081,4,,3,3
+0.5-1.5km,high,共和国广场,Place de la République,共和国广场,Q175055,1.133,4,,3,3
+0.5-1.5km,mid,工艺美术博物馆,Musée des Arts et Métiers,工藝美術博物館,Q1538826,1.238,2,,1,1
+1.5-3.0km,high,法兰西学会,Institut de France,法兰西学会,Q377066,2.751,4,,31,4
+1.5-3.0km,high,孚日广场,Place des Vosges,孚日广场,Q898629,2.424,5,,31,4
+1.5-3.0km,high,圣礼拜堂,Sainte-Chapelle,聖禮拜堂,Q193193,2.612,4,,31,4
+1.5-3.0km,high,卢浮宫博物馆,Louvre,卢浮宫博物馆,Q19675,2.452,5,,31,4
+1.5-3.0km,mid,巴塔克兰剧院,Bataclan,巴塔克蘭劇院,Q810700,1.764,2,,16,4
+1.5-3.0km,mid,圣厄斯塔什教堂,"Saint-Eustache, Paris",圣厄斯塔什教堂,Q1338207,1.834,3,,16,4
+1.5-3.0km,mid,ESCP欧洲商学院,ESCP Business School,ESCP欧洲商学院,Q29293,2.109,2,,16,4
+1.5-3.0km,mid,巴士底歌剧院,Opéra Bastille,巴士底歌劇院,Q638423,2.902,3,,16,4
+3.0-6.0km,high,蒙帕纳斯大厦,Tour Montparnasse,蒙帕納斯大樓,Q323767,4.733,5,,35,4
+3.0-6.0km,high,蒙索公园,Parc Monceau,蒙索公園,Q1414059,3.662,4,,35,4
+3.0-6.0km,high,巴黎现代艺术博物馆,Musée d'Art Moderne de Paris,巴黎现代艺术博物馆,Q857276,4.703,4,,35,4
+3.0-6.0km,high,雅高體育館,Accor Arena,雅高體育館,Q537720,4.463,4,,35,4
+3.0-6.0km,mid,罗丹博物馆,Musée Rodin,羅丹美術館,Q650519,3.977,3,,40,4
+3.0-6.0km,mid,巴黎高科矿业学院,Mines Paris – PSL,巴黎高科矿业学院,Q1189954,3.846,2,,40,4
+3.0-6.0km,mid,塞纳河畔圣旺,Saint-Ouen-sur-Seine,塞纳河畔圣旺,Q208889,3.843,3,,40,4
+3.0-6.0km,mid,萨尔佩特里耶尔医院,Pitié-Salpêtrière Hospital,萨尔佩特里耶尔医院,Q939883,4.462,3,,40,4
+3.0-6.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,5.287,1,,2,2
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,3.489,1,,2,2

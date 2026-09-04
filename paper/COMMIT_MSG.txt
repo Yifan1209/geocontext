@@ -1,0 +1,37 @@
+GeoContext: measuring how VLMs weigh a user-supplied location hint
+
+One resource supporting two tasks over 109 sites in 30 cities and 5 models.
+
+  GeoHint    open-ended localization given a hint that is true but coarse
+             ("I took this near X"), with the hint's distance and its
+             referenceability manipulated independently while the image is
+             held fixed. 21,933 scored responses.
+
+  GeoVerify  binary verification that a photo was taken within 150 m of a
+             claimed place, scored with signal detection theory so that
+             discrimination is separated from a model's willingness to say
+             yes. 1,448 trials, 6,270 scored responses.
+
+Findings. Reliance on the hint is flat along both manipulated axes while the
+error that relying produces grows steadily with distance, so the cost of
+relying scales and the reliance does not. Where the imagery is illegible the
+median ratio of answer error to hint distance is 1.00 -- the answer is the
+hint. Telling the model the user may be wrong is obeyed everywhere but pays
+only where the image gives it something else to trust; a structured evidence
+checklist pays nowhere. On GeoVerify no model reaches d' = 1 at the tolerance
+a deployment needs, and ranking by accuracy would order the models wrongly
+because they differ sharply in response bias.
+
+Released: the 109 context ladders, every reference-point and image audit
+decision with both the human and the model verdict, GeoVerify trials and raw
+responses, scored GeoHint responses, and the analysis scripts behind each
+claim in the paper. Image IDs and coordinates only, not Mapillary pixels.
+
+Two measurement notes are documented in the code and the paper rather than
+left implicit. Four faults in the geocoding metric are diagnosed in
+geocontext/geocode.py; each produced plausible-looking numbers rather than
+errors. And the regime comparison is corrected for the fact that the
+no-context baseline both assigns a site to a regime and serves as the column
+that comparison reads (analysis/regime_split_half.py), with every p-value
+resampled at the site level rather than the response level
+(analysis/cluster_inference.py).

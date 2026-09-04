@@ -1,0 +1,36 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,圣卢西亚站,Santa Lucía metro station (Santiago),Santa Lucía,Q3296100,0.712,4,,26,4
+0.5-1.5km,high,圣安娜地铁站,Santa Ana metro station,Santa Ana,Q4209989,0.883,4,,26,4
+0.5-1.5km,high,卡尔坎托地铁站,Puente Cal y Canto metro station,Puente Cal y Canto,Q5248987,0.558,5,,26,4
+0.5-1.5km,high,贝拉维斯塔街区,Barrio Bellavista,Barrio Bellavista,Q4863718,1.47,4,,26,4
+0.5-1.5km,mid,智利公共工程部,Ministry of Public Works (Chile),Ministry of Public Works,Q4294544,0.584,2,,20,4
+0.5-1.5km,mid,阿尔韦托·乌尔塔多大学,Alberto Hurtado University,Alberto Hurtado University,Q4712073,1.37,2,,20,4
+0.5-1.5km,mid,圣依纳爵教堂,"St. Ignatius Church, Santiago",Iglesia de San Ignacio (Santiago de Chile),Q5910277,1.211,2,,20,4
+0.5-1.5km,mid,智利国家档案馆,National Archives of Chile,智利國家檔案館,Q6970429,0.649,2,,20,4
+0.5-1.5km,low,工人保险大楼,Edificio del Seguro Obrero,Seguro Obrero Building,Q17629734,0.515,1,,7,4
+0.5-1.5km,low,,Edificio Ariztía,Edificio Ariztía,Q5338042,0.516,1,,7,4
+0.5-1.5km,low,智利玻利瓦尔大学,Bolivarian University of Chile,Bolivarian University of Chile,Q4939500,1.044,1,,7,4
+0.5-1.5km,low,智利矿业部,Ministry of Mining (Chile),Ministry of Mining,Q4294331,0.685,1,,7,4
+1.5-3.0km,high,智利国家自然历史博物馆,Chilean National Museum of Natural History,智利国家自然历史博物馆,Q3064279,2.954,4,,13,4
+1.5-3.0km,high,奥伊金斯公园地铁站,Parque O'Higgins metro station,Parque O'Higgins,Q5574675,2.699,4,,13,4
+1.5-3.0km,high,科西尼奥宫,Palacio Cousiño,Palacio Cousiño,Q7126297,1.683,4,,13,4
+1.5-3.0km,high,幻想乐园,Fantasilandia,Fantasilandia,Q3066554,2.661,5,,13,4
+1.5-3.0km,mid,记忆与人权博物馆,Museum of Memory and Human Rights,记忆与人权博物馆,Q6940940,2.697,3,,39,4
+1.5-3.0km,mid,圣地亚哥当代艺术博物馆,Santiago Museum of Contemporary Art,Santiago Museum of Contemporary Art,Q605703,2.82,3,,39,4
+1.5-3.0km,mid,拉查斯科纳故居,La Chascona,La Chascona,Q5962867,1.665,3,,39,4
+1.5-3.0km,mid,共和国站,República metro station (Santiago),República,Q5249682,1.93,3,,39,4
+1.5-3.0km,low,阿隆索·德·埃尔西利亚学校,Colegio Alonso de Ercilla,Instituto Alonso de Ercilla,Q5142775,1.508,1,,3,3
+1.5-3.0km,low,,Colegio Nuestra Señora de Andacollo,Colegio Nuestra Señora de Andacollo,Q5142932,1.949,1,,3,3
+1.5-3.0km,low,ARCIS大学,ARCIS University,University of Art and Social Sciences,Q7895089,2.325,1,,3,3
+3.0-6.0km,high,金塔诺马尔公园,Quinta Normal Park,金塔诺马尔公园,Q3363897,3.003,4,,20,4
+3.0-6.0km,high,纽尼奥阿广场,Plaza Ñuñoa,Plaza Ñuñoa,Q7203723,5.62,4,,20,4
+3.0-6.0km,high,托巴拉巴站,Tobalaba metro station,Tobalaba,Q5243191,5.035,4,,20,4
+3.0-6.0km,high,中央车站地铁站,Estación Central metro station,Estación Central,Q5244875,3.015,4,,20,4
+3.0-6.0km,mid,智利赛马场,Hipódromo Chile,Hipódromo Chile,Q9003960,3.945,3,,52,4
+3.0-6.0km,mid,圣伊格纳西奥·埃尔博斯克学校,St. Ignatius El Bosque,St. Ignatius El Bosque,Q21202207,5.201,2,,52,4
+3.0-6.0km,mid,拉斯雷哈斯地铁站,Las Rejas metro station,Las Rejas,Q5249655,5.553,3,,52,4
+3.0-6.0km,mid,查卡布科广场站,Plaza Chacabuco metro station,Plaza Chacabuco,Q6079474,3.651,3,,52,4
+3.0-6.0km,low,何塞·多明戈·卡尼亚斯记忆之家,José Domingo Cañas Memory House,Casa Memoria José Domingo Cañas,Q6406008,3.672,1,,6,4
+3.0-6.0km,low,智利体育部,Ministry of Sports (Chile),智利體育部,Q16494119,3.79,1,,6,4
+3.0-6.0km,low,亚斯·色兰清真寺,As-Salam Mosque,亞斯·色蘭清真寺,Q3022918,5.019,1,,6,4
+3.0-6.0km,low,智利信息科学大学,Information Sciences University,University of Informatics Sciences,Q1306537,3.883,1,,6,4

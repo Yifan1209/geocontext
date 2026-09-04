@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,米拉之家,Casa Milà,米拉之家,Q207870,1.105,5,,5,4
+0.5-1.5km,high,格拉西亚大道,Passeig de Gràcia,格拉西亚大道,Q1419892,1.408,5,,5,4
+0.5-1.5km,high,普罗旺斯-对角线大道站,Provença–Diagonal station,普羅旺斯-對角線大道站,Q2472213,1.111,4,,5,4
+0.5-1.5km,high,对角线大道,Avinguda Diagonal,对角线大道,Q791045,0.823,5,,5,4
+0.5-1.5km,mid,圣格瓦西站,Sant Gervasi station,Sant Gervasi,Q1841199,0.524,3,,7,4
+0.5-1.5km,mid,拉蒙·柳利学院,Institut Ramon Llull,拉蒙·尤依基金會,Q1664751,0.97,2,,7,4
+0.5-1.5km,mid,贝达格尔站,Verdaguer station,Verdaguer,Q2514293,1.352,3,,7,4
+0.5-1.5km,mid,特德拉斯之家,Casa de les Punxes,特德拉斯之家,Q2561516,1.056,3,,7,4
+1.5-3.0km,high,卡纳莱特斯喷泉,Font de Canaletes,卡納雷特斯噴泉,Q2723971,2.414,4,,25,4
+1.5-3.0km,high,拉巴尔,El Raval,拉巴尔,Q1758503,2.843,4,,25,4
+1.5-3.0km,high,巴特略之家,Casa Batlló,巴特略之家,Q461371,1.594,5,,25,4
+1.5-3.0km,high,巴塞罗那城市历史博物馆,Museum of the History of Barcelona,巴塞隆納城市歷史博物館,Q3571337,2.944,4,,25,4
+1.5-3.0km,mid,美景屋,Bellesguard,美景屋,Q815935,2.293,2,,25,4
+1.5-3.0km,mid,塔拉戈纳站,Tarragona metro station,塔拉戈納站,Q2548401,2.785,3,,25,4
+1.5-3.0km,mid,蒂比达博大道站,Avinguda Tibidabo station,蒂比達博大道站,Q3504674,1.543,2,,25,4
+1.5-3.0km,mid,加泰罗尼亚政府宫,Palace of the Generalitat of Catalonia,加泰罗尼亚政府宫,Q599118,2.975,3,,25,4
+3.0-6.0km,high,圣乔治宫体育馆,Palau Sant Jordi,聖喬治宮體育館,Q630630,4.363,4,,32,4
+3.0-6.0km,high,巴塞罗内塔站,Barceloneta station,巴塞隆尼塔站,Q591874,3.543,4,,32,4
+3.0-6.0km,high,巴塞罗内塔,La Barceloneta,巴塞罗内塔,Q377070,3.985,5,,32,4
+3.0-6.0km,high,巴塞罗那动物园,Barcelona Zoo,巴塞罗那动物园,Q220013,3.602,4,,32,4
+3.0-6.0km,mid,大学区站,Zona Universitària station,大學區站,Q2072583,3.955,3,,55,4
+3.0-6.0km,mid,纳瓦斯站,Navas (Barcelona Metro),Navas,Q2547614,3.193,2,,55,4
+3.0-6.0km,mid,巴塞罗那萨格雷拉车站,Sagrera railway station,巴塞隆拿薩格雷拉車站,Q618596,4.011,3,,55,4
+3.0-6.0km,mid,庞培法布拉大学,Pompeu Fabra University,龐培法布拉大學,Q24543,3.434,2,,55,4
+3.0-6.0km,low,加泰罗尼亚语语言学院,Institute for Catalan Studies,加泰羅尼亞語語言學院,Q756890,3.149,1,,3,3
+3.0-6.0km,low,加泰罗尼亚开放大学,Open University of Catalonia,加泰罗尼亚开放大学,Q3042433,3.504,1,,3,3
+3.0-6.0km,low,迷你球场,Mini Estadi,迷你球場,Q725581,3.855,1,,3,3

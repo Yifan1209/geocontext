@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,圣日耳曼德佩修道院,Saint-Germain-des-Prés church,圣日耳曼德佩修道院,Q334186,0.534,5,,19,4
+0.5-1.5km,high,卢浮宫博物馆,Louvre,卢浮宫博物馆,Q19675,0.683,5,,19,4
+0.5-1.5km,high,巴黎皇家宫殿,Palais-Royal,巴黎皇家宮殿,Q329948,0.868,4,,19,4
+0.5-1.5km,high,索邦大学,Sorbonne University,索邦大学,Q41497113,0.6,5,,19,4
+0.5-1.5km,mid,国立现代艺术博物馆,Musée National d'Art Moderne,國立現代藝術博物館,Q1895953,0.973,3,,15,4
+0.5-1.5km,mid,圣路易岛,Île Saint-Louis,聖路易島,Q211034,1.225,3,,15,4
+0.5-1.5km,mid,巴黎国立高等美术学院,Beaux-Arts de Paris,國立巴黎美術學院,Q273593,0.572,2,,15,4
+0.5-1.5km,mid,马提尼翁府,Hôtel Matignon,马提尼翁府,Q912192,1.486,2,,15,4
+1.5-3.0km,high,巴黎大清真寺,Grand Mosque of Paris,巴黎大清真寺,Q392564,1.869,4,,27,4
+1.5-3.0km,high,蒙帕纳斯大厦,Tour Montparnasse,蒙帕納斯大樓,Q323767,2.079,5,,27,4
+1.5-3.0km,high,巴黎歌劇院,Palais Garnier,巴黎歌劇院,Q187840,1.9,5,,27,4
+1.5-3.0km,high,巴黎地下墓穴,Catacombs of Paris,巴黎地下墓穴,Q28924,2.528,4,,27,4
+1.5-3.0km,mid,工艺美术博物馆,Musée des Arts et Métiers,工藝美術博物館,Q1538826,1.535,2,,17,4
+1.5-3.0km,mid,橘园美术馆,Musée de l'Orangerie,橘園美術館,Q726781,1.608,3,,17,4
+1.5-3.0km,mid,罗丹博物馆,Musée Rodin,羅丹美術館,Q650519,1.844,3,,17,4
+1.5-3.0km,mid,萨尔佩特里耶尔医院,Pitié-Salpêtrière Hospital,萨尔佩特里耶尔医院,Q939883,2.747,3,,17,4
+1.5-3.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,2.77,1,,1,1
+3.0-6.0km,high,蒙索公园,Parc Monceau,蒙索公園,Q1414059,3.489,4,,15,4
+3.0-6.0km,high,戴高乐广场,Place Charles de Gaulle,戴高乐广场,Q390243,3.926,5,,15,4
+3.0-6.0km,high,战神广场,Champ de Mars,戰神廣場,Q217925,3.144,5,,15,4
+3.0-6.0km,high,夏乐宫,Palais de Chaillot,夏乐宫,Q13360213,3.936,5,,15,4
+3.0-6.0km,mid,巴黎第三大学,Sorbonne Nouvelle University,巴黎第三大学,Q571293,4.279,3,,27,4
+3.0-6.0km,mid,巴黎第九大学,Paris Dauphine-PSL University,巴黎第九大学,Q1546437,5.169,3,,27,4
+3.0-6.0km,mid,蒙鲁日,Montrouge,蒙鲁日,Q241021,4.639,3,,27,4
+3.0-6.0km,mid,巴尼奥莱,Bagnolet,巴尼奥莱,Q208943,5.687,3,,27,4
+3.0-6.0km,low,法国电视台,France Télévisions,法國電視台,Q1124861,5.437,1,,2,2
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,5.224,1,,2,2

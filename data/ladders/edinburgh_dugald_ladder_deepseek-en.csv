@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,爱丁堡新城,"New Town, Edinburgh",愛丁堡新城,Q590710,0.92,5,,42,4
+0.5-1.5km,high,旧学院,"Old College, University of Edinburgh",舊學院,Q4283940,0.783,4,,42,4
+0.5-1.5km,high,苏格兰议会大楼,Scottish Parliament Building,蘇格蘭議會大樓,Q2746031,0.658,5,,42,4
+0.5-1.5km,high,暗箱,"Camera Obscura, Edinburgh",「暗箱」,Q4211494,0.922,4,,42,4
+0.5-1.5km,mid,福音书作者约翰教堂,"St John's, Edinburgh",福音書作者約翰教堂,Q5117460,1.434,2,,30,4
+0.5-1.5km,mid,爱丁堡会议中心,"The Hub, Edinburgh",爱丁堡会议中心,Q1453649,0.911,3,,30,4
+0.5-1.5km,mid,西港,"West Port, Edinburgh",West Port,Q4019090,1.321,3,,30,4
+0.5-1.5km,mid,爱丁堡大学商学院,University of Edinburgh Business School,爱丁堡大学商学院,Q624403,0.988,2,,30,4
+0.5-1.5km,low,,Scottish Poetry Library,Scottish Poetry Library,Q15275733,0.507,1,,1,1
+1.5-3.0km,high,爱丁堡卡利多尼亚华尔道夫酒店,The Caledonian Edinburgh Hotel,爱丁堡华道夫-阿斯多里亚-卡利多尼亚酒店,Q16256099,1.505,5,,19,4
+1.5-3.0km,high,亚瑟王座,Arthur's Seat,亞瑟王座,Q712311,1.814,5,,19,4
+1.5-3.0km,high,西区,West End,West End,Q4109563,2.002,5,,19,4
+1.5-3.0km,high,亚瑟厅,Usher Hall,亞瑟廳,Q1636910,1.511,5,,19,4
+1.5-3.0km,mid,美度宾克运动场,Meadowbank Stadium,美度賓克運動場,Q6803308,1.632,3,,17,4
+1.5-3.0km,mid,,Lochend,Lochend,Q6665089,1.646,3,,17,4
+1.5-3.0km,mid,喷泉桥,Fountainbridge,喷泉桥,Q5474828,1.944,3,,17,4
+1.5-3.0km,mid,纽黑文,Newhaven,Newhaven,Q15262151,2.835,3,,17,4
+1.5-3.0km,low,,Lochrin,Lochrin,Q6665164,1.98,1,,1,1
+3.0-6.0km,high,科斯托菲娜山,Corstorphine Hill,科斯托菲娜山,Q5173199,5.437,4,,13,4
+3.0-6.0km,high,爱丁堡纳皮尔大学,Edinburgh Napier University,愛丁堡納皮爾大學,Q1277357,4.435,4,,13,4
+3.0-6.0km,high,海运中心,Ocean Terminal,海运中心,Q593075,3.026,4,,13,4
+3.0-6.0km,high,波多贝罗,"Portobello, Edinburgh",波多贝罗,Q3399361,4.373,4,,13,4
+3.0-6.0km,mid,利斯河,Water of Leith,利斯河,Q3566668,3.192,3,,5,4
+3.0-6.0km,mid,利伯顿,Liberton,利伯顿,Q3997687,4.676,3,,5,4
+3.0-6.0km,mid,爱丁堡皇家天文台,"Royal Observatory, Edinburgh",愛丁堡皇家天文台,Q3106882,3.488,3,,5,4
+3.0-6.0km,mid,,Seafield,Seafield,Q7440342,3.011,3,,5,4
+3.0-6.0km,low,,Duddingston House,Duddingston House,Q5311665,3.416,1,,1,1

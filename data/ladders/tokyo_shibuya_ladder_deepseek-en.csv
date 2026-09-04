@@ -1,0 +1,25 @@
+﻿band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,国立代代木竞技场,Yoyogi National Stadium,國立代代木競技場,Q1069457,0.89,4,,6,4
+0.5-1.5km,high,原宿,Harajuku,原宿,Q746573,1.203,5,,6,4
+0.5-1.5km,high,代代木公园,Yoyogi Park,代代木公園,Q1204253,1.41,5,,6,4
+0.5-1.5km,high,原宿站,Harajuku Station,原宿站,Q800894,1.21,5,,6,4
+0.5-1.5km,mid,青山学院大学,Aoyama Gakuin University,青山學院大學,Q616359,0.826,3,,2,2
+0.5-1.5km,mid,联合国大学,United Nations University,联合国大学,Q492442,0.779,3,,2,2
+1.5-3.0km,high,惠比寿站,Ebisu Station (Tokyo),惠比壽站,Q800715,1.668,5,,17,4
+1.5-3.0km,high,中目黑站,Naka-Meguro Station,中目黑站,Q1132605,1.694,4,,17,4
+1.5-3.0km,high,国立竞技场,Japan National Stadium,國立競技場,Q14862239,2.396,5,,17,4
+1.5-3.0km,high,六本木,Roppongi,六本木,Q265071,2.82,5,,17,4
+1.5-3.0km,mid,日本新国立剧场,New National Theatre Tokyo,日本新國立劇場,Q1056064,2.892,2,,12,4
+1.5-3.0km,mid,东京歌剧城,Tokyo Opera City Tower,东京歌剧城,Q1201889,2.89,3,,12,4
+1.5-3.0km,mid,东海大学,Tokai University,东海大学,Q963709,1.523,2,,12,4
+1.5-3.0km,mid,NTT Docomo代代木大厦,NTT Docomo Yoyogi Building,NTT DoCoMo代代木大厦,Q2090752,2.776,3,,12,4
+1.5-3.0km,low,陆军大学校,Army War College (Japan),陸軍大學校,Q702605,2.563,1,,1,1
+3.0-6.0km,high,虎之门站,Toranomon Station,虎之門站,Q347972,4.62,5,,47,4
+3.0-6.0km,high,帝国饭店,"Imperial Hotel, Tokyo",帝國飯店,Q712476,5.382,4,,47,4
+3.0-6.0km,high,大久保站,Ōkubo Station,大久保站,Q116259,4.592,4,,47,4
+3.0-6.0km,high,日本武道馆,Nippon Budokan,日本武道館,Q386246,5.843,5,,47,4
+3.0-6.0km,mid,防卫省,Ministry of Defense (Japan),防衛省,Q1062689,4.477,2,,26,4
+3.0-6.0km,mid,东中野站,Higashi-Nakano Station,東中野站,Q800921,5.334,3,,26,4
+3.0-6.0km,mid,迎宾馆赤坂离宫,Akasaka Palace,迎宾馆赤坂离宫,Q555255,3.412,3,,26,4
+3.0-6.0km,mid,高田马场站,Takadanobaba Station,高田馬場站,Q801506,5.932,3,,26,4
+3.0-6.0km,low,东京海洋大学,Tokyo University of Marine Science and Technology,東京海洋大學,Q1187433,5.563,1,,1,1

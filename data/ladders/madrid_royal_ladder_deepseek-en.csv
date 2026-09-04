@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,雷科莱托斯大道,Paseo de Recoletos,雷科莱托斯大道,Q2550870,0.775,4,,28,4
+0.5-1.5km,high,马约尔广场,"Plaza Mayor, Madrid",主廣場,Q1123493,1.395,5,,28,4
+0.5-1.5km,high,水晶宫,Palacio de Cristal del Retiro,水晶宮 (馬德里),Q2420025,0.767,4,,28,4
+0.5-1.5km,high,哥伦布广场,Plaza de Colón,哥伦布广场,Q970525,1.108,4,,28,4
+0.5-1.5km,mid,科尔特斯宫,Palacio de las Cortes,科爾特斯宮,Q9054619,0.501,3,,17,4
+0.5-1.5km,mid,萨尔苏埃拉剧院,Teatro de la Zarzuela,Teatro de la Zarzuela,Q3321632,0.552,3,,17,4
+0.5-1.5km,mid,国家人类学博物馆,National Museum of Anthropology (Madrid),国家人类学博物馆,Q2917041,0.831,3,,17,4
+0.5-1.5km,mid,梅嫩德斯·佩拉约站,Menéndez Pelayo (Madrid Metro),Menéndez Pelayo,Q2479001,1.459,3,,17,4
+0.5-1.5km,low,西班牙皇家历史学院,Royal Academy of History,西班牙王室历史学院,Q2720582,0.699,1,,1,1
+1.5-3.0km,high,歌剧院站,Ópera,歌劇院站 (馬德里),Q2736048,1.597,4,,17,4
+1.5-3.0km,high,戈雅站,Goya (Madrid Metro),戈雅站,Q955699,1.669,4,,17,4
+1.5-3.0km,high,西班牙大厦,Edificio España,西班牙大廈,Q649426,1.979,4,,17,4
+1.5-3.0km,high,阿圭列斯站,Argüelles (Madrid Metro),阿圭列斯站,Q1890537,2.763,5,,17,4
+1.5-3.0km,mid,伊格莱西亚站,Iglesia,Iglesia,Q1113361,2.307,3,,23,4
+1.5-3.0km,mid,钱贝里站,Chamberí metro station,钱贝里站,Q482378,2.006,2,,23,4
+1.5-3.0km,mid,O'Donnell球场,Campo de O'Donnell,O'Donnell球場,Q663849,1.542,2,,23,4
+1.5-3.0km,mid,托莱多门,Puerta de Toledo,托雷多門,Q2657591,1.982,3,,23,4
+1.5-3.0km,low,西班牙皇家科学院,"Royal Academy of Exact, Physical and Natural Sciences",西班牙皇家科学院,Q427318,2.005,1,,2,2
+1.5-3.0km,low,西班牙皇家造币厂,Royal Mint (Spain),西班牙皇家造幣廠,Q733486,1.855,1,,2,2
+3.0-6.0km,high,欧洲之门,Gate of Europe,欧洲门,Q1141262,5.718,4,,12,4
+3.0-6.0km,high,田园之家,Casa de Campo,田园之家,Q1046524,5.575,5,,12,4
+3.0-6.0km,high,拉斯班塔斯斗牛场,Las Ventas,拉斯班塔斯斗牛场,Q756621,3.012,4,,12,4
+3.0-6.0km,high,马德里康普顿斯大学,Complutense University of Madrid,马德里康普顿斯大学,Q219694,4.864,4,,12,4
+3.0-6.0km,mid,维斯塔莱格雷宫,Palacio Vistalegre,維斯塔萊格雷宮,Q1635932,5.181,3,,31,4
+3.0-6.0km,mid,大学城站,Ciudad Universitaria (Madrid Metro),城市大學站,Q2482378,4.392,3,,31,4
+3.0-6.0km,mid,蒙克洛亚宫,Palace of Moncloa,蒙克洛亞宮,Q1367970,5.029,3,,31,4
+3.0-6.0km,mid,西班牙国防部,Ministry of Defence (Spain),西班牙國防部,Q3181026,4.507,2,,31,4
+3.0-6.0km,low,西班牙宪法法院,Constitutional Court of Spain,西班牙宪法法院,Q1566394,3.711,1,,1,1

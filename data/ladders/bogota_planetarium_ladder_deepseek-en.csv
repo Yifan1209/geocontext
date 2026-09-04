@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,法恩扎剧院,Faenza Theatre,Teatro Faenza,Q611811,0.531,4,,20,4
+0.5-1.5km,high,罗萨里奥大学,Universidad del Rosario,罗萨里奥大学,Q3997334,1.427,4,,20,4
+0.5-1.5km,high,波哥大银行大厦,Banco de Bogotá building,Banco de Bogotá building,Q5818022,1.333,4,,20,4
+0.5-1.5km,high,豪尔赫·塔德奥·洛萨诺大学,Jorge Tadeo Lozano University,豪尔赫·塔德奥·洛萨诺大学,Q5937434,0.62,5,,20,4
+0.5-1.5km,mid,记忆、和平与和解中心,"Memory, Peace and Reconciliation Centre","Centro de Memoria, Paz y Reconciliación",Q16490676,1.114,3,,15,4
+0.5-1.5km,mid,拉特尔塞拉教堂,Iglesia La Tercera,Iglesia La Tercera,Q6447215,1.204,3,,15,4
+0.5-1.5km,mid,,Torres Atrio,Torres Atrio,Q19207166,0.527,2,,15,4
+0.5-1.5km,mid,佩德罗·A·洛佩斯大厦,Pedro A. López Building,Edificio Pedro A. López,Q5818250,1.32,3,,15,4
+0.5-1.5km,low,哥伦比亚语言学院,Academia Colombiana de la Lengua,Academia Colombiana de la Lengua,Q3297341,1.184,1,,3,3
+0.5-1.5km,low,曼努埃尔·穆里略·托罗大厦,Manuel Murillo Toro Building,Q111721634,Q111721634,1.437,1,,3,3
+0.5-1.5km,low,哥伦比亚环境与可持续发展部,Ministry of Environment and Sustainable Development (Colombia),Ministry of Environment and Sustainable Development,Q3062233,1.477,1,,3,3
+1.5-3.0km,high,蒂瓜-圣何塞站,Tygua - San José (TransMilenio),Tygua - San José,Q5999295,2.595,4,,30,4
+1.5-3.0km,high,哥伦比亚国会大厦,National Capitol of Colombia,哥伦比亚国会大厦,Q2937493,1.836,4,,30,4
+1.5-3.0km,high,北基多南大道,Norte-Quito-Sur (NQS),Norte-Quito-Sur,Q7053496,2.095,4,,30,4
+1.5-3.0km,high,圣伊格纳西奥教堂,San Ignacio Church,Iglesia San Ignacio - Bogotá,Q5910270,1.881,4,,30,4
+1.5-3.0km,mid,圣巴巴拉教堂,Iglesia de Santa Bárbara,Iglesia de Santa Bárbara,Q5911498,2.471,3,,38,4
+1.5-3.0km,mid,拉斯克鲁塞斯,Las Cruces,Las Cruces,Q16589334,2.905,3,,38,4
+1.5-3.0km,mid,,Avenida 39 station,Avenida 39,Q4828102,1.616,3,,38,4
+1.5-3.0km,mid,米格尔·乌鲁蒂亚艺术博物馆,Miguel Urrutia Art Museum,Museo de Arte Miguel Urrutia,Q6033919,1.84,3,,38,4
+1.5-3.0km,low,实现正义：法律、正义暨社会中心,Dejusticia,實現正義：法律、正義暨社會中心,Q61932619,1.64,1,,3,3
+1.5-3.0km,low,哥伦比亚人类学与历史研究所,Colombian Institute of Anthropology and History,Colombian Institute of Anthropology and History,Q3151868,1.77,1,,3,3
+1.5-3.0km,low,安全行政部大楼,Administrative Department of Security,安全行政部門,Q1190182,2.064,1,,3,3
+3.0-6.0km,high,哥伦比亚国立大学,National University of Colombia,哥倫比亞國立大學,Q1150419,3.017,4,,17,4
+3.0-6.0km,high,波哥大国际会议展览中心,Corferias,波哥大國際會議展覽中心,Q5170481,3.059,4,,17,4
+3.0-6.0km,high,查韦里诺,Chapinero,查韦里诺,Q2647973,3.788,4,,17,4
+3.0-6.0km,high,比尔希略·巴尔科图书馆,Virgilio Barco Library,Biblioteca Pública Virgilio Barco,Q2901319,5.355,4,,17,4
+3.0-6.0km,mid,EAN大学,Ean University,Ean University,Q9091550,5.877,3,,29,4
+3.0-6.0km,mid,阿尔索比斯波河,Arzobispo River,Arzobispo River,Q6114817,4.732,2,,29,4
+3.0-6.0km,mid,安东尼奥·纳里尼奥大学,Universidad Antonio Nariño,Universidad Antonio Nariño,Q6156336,4.461,3,,29,4
+3.0-6.0km,mid,哥伦比亚移民局,Colombia Migration,Migración Colombia,Q18164965,5.062,3,,29,4
+3.0-6.0km,low,哥伦比亚国家印刷局,National Printing Office of Colombia,National Printing Office of Colombia,Q6975050,5.659,1,,1,1

@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,巴黎圣母院,Notre-Dame de Paris,巴黎聖母院,Q2981,1.114,5,,11,4
+0.5-1.5km,high,蓬皮杜中心,Centre Pompidou,龐畢度中心,Q178065,0.737,5,,11,4
+0.5-1.5km,high,圣马丁运河,Canal Saint-Martin,圣马丁运河,Q860172,1.353,4,,11,4
+0.5-1.5km,high,新桥,Pont Neuf,新橋,Q335277,1.497,5,,11,4
+0.5-1.5km,mid,圣厄斯塔什教堂,"Saint-Eustache, Paris",圣厄斯塔什教堂,Q1338207,1.334,3,,9,4
+0.5-1.5km,mid,巴塔克兰剧院,Bataclan,巴塔克蘭劇院,Q810700,0.788,2,,9,4
+0.5-1.5km,mid,巴士底歌剧院,Opéra Bastille,巴士底歌劇院,Q638423,1.004,3,,9,4
+0.5-1.5km,mid,国立现代艺术博物馆,Musée National d'Art Moderne,國立現代藝術博物館,Q1895953,0.734,3,,9,4
+1.5-3.0km,high,杜乐丽花园,Tuileries Garden,杜樂麗花園,Q818517,2.681,4,,29,4
+1.5-3.0km,high,卢森堡宫,Luxembourg Palace,卢森堡宫,Q329852,2.149,5,,29,4
+1.5-3.0km,high,巴黎大清真寺,Grand Mosque of Paris,巴黎大清真寺,Q392564,1.964,4,,29,4
+1.5-3.0km,high,雅高體育館,Accor Arena,雅高體育館,Q537720,2.556,4,,29,4
+1.5-3.0km,mid,ESCP欧洲商学院,ESCP Business School,ESCP欧洲商学院,Q29293,1.5,2,,21,4
+1.5-3.0km,mid,社会科学高等学院,School for Advanced Studies in the Social Sciences,社会科学高等学院,Q273518,2.654,2,,21,4
+1.5-3.0km,mid,萨尔佩特里耶尔医院,Pitié-Salpêtrière Hospital,萨尔佩特里耶尔医院,Q939883,2.456,3,,21,4
+1.5-3.0km,mid,法兰西公学院,Collège de France,法兰西公学院,Q202660,1.626,3,,21,4
+3.0-6.0km,high,爱丽舍宫,Élysée Palace,爱丽舍宫,Q188190,3.564,5,,27,4
+3.0-6.0km,high,香榭丽舍大街,Champs-Élysées,香榭丽舍大街,Q550,4.134,5,,27,4
+3.0-6.0km,high,亚历山大三世桥,Pont Alexandre III,亚历山大三世桥,Q390418,3.577,5,,27,4
+3.0-6.0km,high,埃菲尔铁塔,Eiffel Tower,埃菲尔铁塔,Q243,4.94,5,,27,4
+3.0-6.0km,mid,马恩河,Marne,马恩河,Q41983,5.935,3,,29,4
+3.0-6.0km,mid,莱利拉,Les Lilas,莱利拉,Q256004,4.648,3,,29,4
+3.0-6.0km,mid,巴尼奥莱,Bagnolet,巴尼奥莱,Q208943,4.115,3,,29,4
+3.0-6.0km,mid,庞坦,Pantin,庞坦,Q209086,5.459,3,,29,4
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,3.692,1,,2,2
+3.0-6.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,3.495,1,,2,2

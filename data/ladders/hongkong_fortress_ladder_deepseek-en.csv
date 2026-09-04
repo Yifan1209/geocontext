@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,北角站,North Point station,北角站,Q838864,0.794,4,,5,4
+0.5-1.5km,high,铜锣湾站,Causeway Bay station,銅鑼灣站,Q2106561,1.361,5,,5,4
+0.5-1.5km,high,维多利亚公园,Victoria Park,維多利亞公園,Q1859090,0.891,5,,5,4
+0.5-1.5km,high,天后站,Tin Hau station,天后站,Q839600,0.631,5,,5,4
+0.5-1.5km,mid,宝马山,Braemar Hill,寶馬山,Q4955326,0.782,3,,6,4
+0.5-1.5km,mid,皇仁书院,"Queen's College, Hong Kong",皇仁書院,Q836362,0.824,2,,6,4
+0.5-1.5km,mid,利园一期,Lee Garden One,利園一期,Q2166585,1.428,2,,6,4
+0.5-1.5km,mid,香港中央图书馆,Hong Kong Central Library,香港中央圖書館,Q616184,0.998,3,,6,4
+0.5-1.5km,low,奇力岛,Kellett Island,奇力島,Q287404,1.242,1,,1,1
+1.5-3.0km,high,何文田站,Ho Man Tin station,何文田站,Q8423586,2.597,4,,38,4
+1.5-3.0km,high,佐敦站,Jordan station,佐敦站,Q838389,2.919,5,,38,4
+1.5-3.0km,high,香港体育馆,Hong Kong Coliseum,香港體育館,Q835531,1.909,5,,38,4
+1.5-3.0km,high,金紫荊廣場,Golden Bauhinia Square,金紫荊廣場,Q5579185,2.086,5,,38,4
+1.5-3.0km,mid,新鸿基中心,Sun Hung Kai Centre,新鴻基中心,Q849373,1.924,3,,19,4
+1.5-3.0km,mid,名铸,The Masterpiece,名鑄,Q1983016,2.281,3,,19,4
+1.5-3.0km,mid,合和中心,Hopewell Centre (Hong Kong),合和中心,Q3234973,2.688,3,,19,4
+1.5-3.0km,mid,愛群清真寺暨林士德伊斯蘭中心,Ammar Mosque and Osman Ramju Sadick Islamic Centre,愛群清真寺暨林士德伊斯蘭中心,Q15043712,1.928,2,,19,4
+1.5-3.0km,low,中國網絡中心,China Online Centre,中國網絡中心,Q3756298,1.886,1,,1,1
+3.0-6.0km,high,香港四季酒店,Four Seasons Hotel Hong Kong,香港四季酒店,Q2365550,3.81,5,,79,4
+3.0-6.0km,high,金钟,"Admiralty, Hong Kong",金鐘,Q3270129,3.042,5,,79,4
+3.0-6.0km,high,渣打银行大厦,Standard Chartered Bank Building,渣打銀行大廈,Q7598197,3.669,4,,79,4
+3.0-6.0km,high,环球贸易广场,International Commerce Centre,環球貿易廣場,Q317034,3.837,5,,79,4
+3.0-6.0km,mid,魔鬼山,Devil's Peak,魔鬼山,Q5267200,5.225,2,,45,4
+3.0-6.0km,mid,圣母无原罪主教座堂,Cathedral of the Immaculate Conception,聖母無原罪主教座堂,Q1195474,4.218,3,,45,4
+3.0-6.0km,mid,些利街清真寺,Jamia Mosque,些利街清真寺,Q4022264,4.369,2,,45,4
+3.0-6.0km,mid,香港浸会大学,Hong Kong Baptist University,香港浸會大學,Q603686,5.779,3,,45,4
+3.0-6.0km,low,斧山,Hammer Hill,斧山,Q5645632,5.069,1,,2,2
+3.0-6.0km,low,香港板球总会,Hong Kong Cricket Club,香港板球總會,Q5894461,3.233,1,,2,2

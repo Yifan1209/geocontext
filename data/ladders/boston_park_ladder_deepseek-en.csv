@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,后湾站,Back Bay station,後灣站,Q3675991,1.436,4,,29,4
+0.5-1.5km,high,TD花园,TD Garden,TD花园,Q432105,1.112,5,,29,4
+0.5-1.5km,high,水族馆站,Aquarium station (MBTA),水族馆站 (波士顿地铁),Q4069171,0.911,4,,29,4
+0.5-1.5km,high,约翰汉考克大厦,John Hancock Tower,约翰汉考克大厦,Q798416,1.282,5,,29,4
+0.5-1.5km,mid,查尔斯顿大桥,Bill Russell Bridge,查尔斯顿大桥,Q1066692,1.406,3,,13,4
+0.5-1.5km,mid,贝村,"Bay Village, Boston",貝村,Q812087,0.928,3,,13,4
+0.5-1.5km,mid,鲍登站,Bowdoin station,鲍登站,Q4027126,0.558,2,,13,4
+0.5-1.5km,mid,,One International Place,One International Place,Q2024002,0.857,2,,13,4
+1.5-3.0km,high,波士顿公共图书馆,Boston Public Library,波士顿公共图书馆麦金楼,Q4948040,1.556,5,,22,4
+1.5-3.0km,high,斯塔塔中心,Stata Center,MIT Stata Center,Q3312712,2.376,4,,22,4
+1.5-3.0km,high,肯德尔/麻省理工学院站,Kendall/MIT station,肯德爾/麻省理工鐵路站,Q533238,2.02,4,,22,4
+1.5-3.0km,high,后湾,Back Bay,后湾,Q141690,1.573,5,,22,4
+1.5-3.0km,mid,百老汇站,Broadway station (MBTA),百老匯站,Q4972390,1.628,3,,17,4
+1.5-3.0km,mid,霍特国际商学院,Hult International Business School,霍特國際商學院,Q1047226,1.645,3,,17,4
+1.5-3.0km,mid,波士顿港,Port of Boston,波士頓港,Q1567768,1.956,3,,17,4
+1.5-3.0km,mid,波士顿音乐学院,Boston Conservatory at Berklee,波士頓音樂學院,Q2303621,2.535,3,,17,4
+3.0-6.0km,high,哈佛法学院,Harvard Law School,哈佛法学院,Q49122,5.189,4,,31,4
+3.0-6.0km,high,爱德华·劳伦斯·洛根将军国际机场,Logan International Airport,爱德华·劳伦斯·洛根将军国际机场,Q671475,4.67,5,,31,4
+3.0-6.0km,high,哈佛站,Harvard station,哈佛站,Q5264971,5.024,5,,31,4
+3.0-6.0km,high,哈佛艺术博物馆,Harvard Art Museums,哈佛藝術博物館,Q3783572,4.724,4,,31,4
+3.0-6.0km,mid,独立堡垒,Fort Independence (Massachusetts),独立堡垒,Q1438579,4.648,3,,34,4
+3.0-6.0km,mid,皮博迪考古与民族博物馆,Peabody Museum of Archaeology and Ethnology,皮博迪考古與民族博物館,Q1249027,4.934,3,,34,4
+3.0-6.0km,mid,施莱辛格图书馆,Schlesinger Library,Schlesinger Library,Q7431696,5.426,2,,34,4
+3.0-6.0km,mid,拉德克利夫高等研究院,Harvard Radcliffe Institute,拉德克利夫高等研究院,Q7280030,5.369,2,,34,4
+3.0-6.0km,low,波士顿希腊正教都主教座堂,Greek Orthodox Metropolis of Boston,Greek Orthodox Metropolis of Boston,Q5601859,3.366,1,,3,3
+3.0-6.0km,low,糟糕艺术博物馆,Museum of Bad Art,糟糕艺术博物馆,Q11643,3.83,1,,3,3
+3.0-6.0km,low,剑桥学院,Cambridge College,剑桥学院,Q3695713,4.213,1,,3,3

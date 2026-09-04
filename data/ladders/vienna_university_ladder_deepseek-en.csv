@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,维也纳摩天轮,Wiener Riesenrad,维也纳摩天轮,Q697578,1.38,5,,31,4
+0.5-1.5km,high,维也纳国家歌剧院,Vienna State Opera,维也纳国家歌剧院,Q209937,1.12,5,,31,4
+0.5-1.5km,high,卡尔广场城铁站,Karlsplatz station,卡尔广场城铁站,Q335894,1.281,4,,31,4
+0.5-1.5km,high,维也纳圣弥格教堂,"Church of Saint Michael, Vienna",维也纳圣弥格教堂,Q700199,1.129,4,,31,4
+0.5-1.5km,mid,维也纳莫扎特之家,Mozarthaus Vienna,維也納莫扎特之家,Q387667,0.542,3,,18,4
+0.5-1.5km,mid,城市会堂,Stadttempel,城市会堂,Q253663,0.655,3,,18,4
+0.5-1.5km,mid,罗克斯巷站,Rochusgasse station,羅克斯巷站,Q1262201,1.007,3,,18,4
+0.5-1.5km,mid,维也纳音乐厅,"Konzerthaus, Vienna",维也纳音乐厅,Q695126,0.912,3,,18,4
+0.5-1.5km,low,奥地利宪法法院,Constitutional Court (Austria),奧地利憲法法院,Q873868,1.25,1,,3,3
+0.5-1.5km,low,维也纳国际世界语博物馆,Esperanto Museum and Collection of Planned Languages,维也纳国际世界语博物馆,Q686443,1.258,1,,3,3
+0.5-1.5km,low,基本人权机构,Fundamental Rights Agency,基本人權公署,Q48790,1.269,1,,3,3
+1.5-3.0km,high,体育场站,Stadion station,體育場站 (維也納地鐵),Q2465778,2.84,4,,31,4
+1.5-3.0km,high,维也纳市政厅,Vienna City Hall,维也纳市政厅,Q686468,1.858,4,,31,4
+1.5-3.0km,high,和平桥站,Friedensbrücke station,和平橋站 (維也納),Q2465701,2.467,4,,31,4
+1.5-3.0km,high,奥地利美景宫美术馆,Österreichische Galerie Belvedere,奥地利美景宫美术馆,Q303139,1.896,4,,31,4
+1.5-3.0km,mid,约瑟夫城剧院,Theater in der Josefstadt,约瑟夫城剧院,Q167619,2.311,3,,15,4
+1.5-3.0km,mid,皮亚里斯特教堂,"Piarist Church, Vienna",公教学校司铎修会教堂,Q695388,2.465,3,,15,4
+1.5-3.0km,mid,奥花园宫,Palais Augarten,奥花园宫,Q873332,1.524,2,,15,4
+1.5-3.0km,mid,阿尔瑟格伦德,Alsergrund,阿尔瑟格伦德,Q257780,2.65,3,,15,4
+1.5-3.0km,low,人文科学研究院,Institute for Human Sciences,人文科學研究院,Q1077495,2.476,1,,1,1
+3.0-6.0km,high,美泉宫站,Schönbrunn station,美泉宮站,Q2465770,5.308,5,,13,4
+3.0-6.0km,high,迈德灵大街站,Meidling Hauptstraße station,邁德靈大街站,Q873256,4.875,4,,13,4
+3.0-6.0km,high,帝国桥,Reichsbrücke,帝国桥,Q684821,3.02,4,,13,4
+3.0-6.0km,high,多瑙塔,Donauturm,多瑙塔,Q686544,4.093,4,,13,4
+3.0-6.0km,mid,多瑙岛站,Donauinsel station,多瑙島站,Q518606,3.128,3,,20,4
+3.0-6.0km,mid,贺尔球场,Franz Horr Stadium,賀爾球場,Q696476,5.138,3,,20,4
+3.0-6.0km,mid,旧多瑙站,Alte Donau station,舊多瑙站,Q2465673,4.568,3,,20,4
+3.0-6.0km,mid,圣马克斯公墓,St. Marx Cemetery,聖馬克思墓園,Q695321,3.195,3,,20,4

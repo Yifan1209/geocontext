@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,皇家国家剧院,Royal National Theatre,皇家國立劇場,Q511108,0.822,4,,26,4
+0.5-1.5km,high,霍尔本,Holborn,霍爾本,Q123624,1.138,4,,26,4
+0.5-1.5km,high,国家美术馆,National Gallery,国家美术馆,Q180788,0.506,4,,26,4
+0.5-1.5km,high,威斯敏斯特教堂,Westminster Abbey,西敏寺,Q5933,1.433,5,,26,4
+0.5-1.5km,mid,圣詹姆斯宫,St James's Palace,聖詹姆士宮,Q272162,1.304,2,,14,4
+0.5-1.5km,mid,克拉伦斯府,Clarence House,克拉伦斯府,Q565521,1.394,2,,14,4
+0.5-1.5km,mid,纳尔逊纪念柱,Nelson's Column,纳尔逊纪念柱,Q842089,0.583,2,,14,4
+0.5-1.5km,mid,伦敦博物馆,London Museum,倫敦博物館,Q917820,1.42,2,,14,4
+0.5-1.5km,low,英国皇家学会,Royal Society,英国皇家学会,Q123885,0.914,1,,3,3
+0.5-1.5km,low,外交、联邦及发展事务部,"Foreign, Commonwealth and Development Office",外交及聯邦事務部,Q358834,1.048,1,,3,3
+0.5-1.5km,low,威斯敏斯特圣玛格丽特教堂,"St Margaret's, Westminster",威斯敏斯特圣玛格丽特教堂,Q823412,1.372,1,,3,3
+1.5-3.0km,high,白金汉宫,Buckingham Palace,白金汉宫,Q42182,1.796,5,,26,4
+1.5-3.0km,high,伦敦桥,London Bridge,伦敦桥,Q130206,2.477,5,,26,4
+1.5-3.0km,high,威斯敏斯特,Westminster,西敏,Q189960,1.562,5,,26,4
+1.5-3.0km,high,圣玛丽艾克斯30号大楼,The Gherkin,聖瑪莉艾克斯30號大樓,Q191161,2.969,4,,26,4
+1.5-3.0km,mid,萨瑟克,Southwark,萨瑟克,Q5273898,2.709,3,,12,4
+1.5-3.0km,mid,英国皇家音乐学院,Royal Academy of Music,英國皇家音樂學院,Q1144673,2.355,2,,12,4
+1.5-3.0km,mid,伦敦证券交易所,London Stock Exchange,伦敦证券交易所,Q171240,1.689,3,,12,4
+1.5-3.0km,mid,泰特不列颠美术馆,Tate Britain,泰特不列顛,Q195436,2.352,3,,12,4
+3.0-6.0km,high,自然史博物馆,"Natural History Museum, London",自然史博物馆,Q309388,4.079,5,,23,4
+3.0-6.0km,high,伊斯灵顿,Islington,伊斯靈頓,Q125163,3.825,4,,23,4
+3.0-6.0km,high,哈洛德百货公司,Harrods,哈洛德百貨公司,Q332474,3.126,5,,23,4
+3.0-6.0km,high,伦敦帕丁顿车站,London Paddington station,倫敦帕丁頓車站,Q214788,3.788,5,,23,4
+3.0-6.0km,mid,椭圆体育场,The Oval,橢圓體育場,Q1155836,3.193,3,,6,4
+3.0-6.0km,mid,白教堂,Whitechapel,白教堂,Q124539,3.757,3,,6,4
+3.0-6.0km,mid,汉普斯特德,Hampstead,汉普斯特得,Q25610,5.878,3,,6,4
+3.0-6.0km,mid,阿比路录音室,Abbey Road Studios,阿比路录音室,Q209651,4.424,3,,6,4

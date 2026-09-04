@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,后湾,Back Bay,后湾,Q141690,1.464,5,,33,4
+0.5-1.5km,high,自由之路,Freedom Trail,自由之路,Q49131,0.968,4,,33,4
+0.5-1.5km,high,新英格兰水族馆,New England Aquarium,新英格蘭水族館,Q2859185,1.225,5,,33,4
+0.5-1.5km,high,昆西市场,Quincy Market,昆西市场,Q901885,1.051,5,,33,4
+0.5-1.5km,mid,公园街教堂,Park Street Church,公园街教堂,Q1139853,0.506,3,,17,4
+0.5-1.5km,mid,,One Financial Center,One Financial Center,Q1351185,0.529,2,,17,4
+0.5-1.5km,mid,波士顿联邦储备银行大楼,Federal Reserve Bank Building,Federal Reserve Bank Building,Q1400070,0.697,2,,17,4
+0.5-1.5km,mid,老南教堂,Old South Church,老南教堂,Q1059013,1.289,3,,17,4
+1.5-3.0km,high,查尔斯河,Charles River,查尔斯河,Q794927,2.155,5,,28,4
+1.5-3.0km,high,拉格尔斯站,Ruggles station,盧格斯站,Q3736904,2.805,4,,28,4
+1.5-3.0km,high,伯克利音乐学院,Berklee College of Music,伯克利音樂學院,Q248970,2.109,4,,28,4
+1.5-3.0km,high,查尔斯顿,"Charlestown, Boston",波士頓查爾斯頓,Q1756813,2.548,4,,28,4
+1.5-3.0km,mid,波士顿港,Port of Boston,波士頓港,Q1567768,2.386,3,,15,4
+1.5-3.0km,mid,阿卡迈技术公司,Akamai Technologies,Akamai,Q415598,2.543,2,,15,4
+1.5-3.0km,mid,波士顿当代艺术中心,"Institute of Contemporary Art, Boston",波士頓當代藝術中心,Q3152226,1.619,3,,15,4
+1.5-3.0km,mid,布里德山,Breed's Hill,Breed's Hill,Q2483089,2.669,2,,15,4
+3.0-6.0km,high,惠灵顿站,Wellington station,威靈頓站,Q3539511,5.632,4,,29,4
+3.0-6.0km,high,萨默维尔,"Somerville, Massachusetts",萨默维尔,Q49199,4.967,5,,29,4
+3.0-6.0km,high,城堡岛,Castle Island (Massachusetts),城堡岛,Q1049440,4.522,4,,29,4
+3.0-6.0km,high,哈佛商学院,Harvard Business School,哈佛商学院,Q49126,5.19,4,,29,4
+3.0-6.0km,mid,施莱辛格图书馆,Schlesinger Library,Schlesinger Library,Q7431696,5.61,2,,32,4
+3.0-6.0km,mid,杰克逊广场站,Jackson Square station,傑克遜廣場站,Q3736887,4.468,3,,32,4
+3.0-6.0km,mid,比较动物学博物馆,Museum of Comparative Zoology,比较动物学博物馆,Q1420782,5.233,2,,32,4
+3.0-6.0km,mid,尼克森菲球场,Nickerson Field,尼克森菲球场,Q3339834,4.658,2,,32,4
+3.0-6.0km,low,剑桥学院,Cambridge College,剑桥学院,Q3695713,4.372,1,,2,2
+3.0-6.0km,low,糟糕艺术博物馆,Museum of Bad Art,糟糕艺术博物馆,Q11643,3.387,1,,2,2

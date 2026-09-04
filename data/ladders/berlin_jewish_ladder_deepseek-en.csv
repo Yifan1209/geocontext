@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,德国主教座堂,German Cathedral,德国主教座堂,Q315644,1.178,4,,5,4
+0.5-1.5km,high,波茨坦广场,Potsdamer Platz,波茨坦广场,Q152252,1.489,5,,5,4
+0.5-1.5km,high,御林广场,Gendarmenmarkt,御林广场,Q170103,1.269,5,,5,4
+0.5-1.5km,high,查理检查站,Checkpoint Charlie,查理檢查哨,Q68689,0.675,5,,5,4
+0.5-1.5km,mid,德国外交部,Federal Foreign Office,德國外交部,Q56034,1.406,2,,13,4
+0.5-1.5km,mid,德国技术博物馆,German Museum of Technology,德国科技博物馆,Q706530,1.283,3,,13,4
+0.5-1.5km,mid,兰德韦尔运河,Landwehr Canal,蘭德韋爾運河,Q671428,0.54,3,,13,4
+0.5-1.5km,mid,柏林音乐厅,Konzerthaus Berlin,柏林音乐厅,Q702548,1.275,3,,13,4
+0.5-1.5km,low,柏林-勃兰登堡科学院和人文学院,Berlin-Brandenburg Academy of Sciences and Humanities,柏林－布蘭登堡科學院和人文學院,Q219989,1.291,1,,1,1
+1.5-3.0km,high,诺伦多尔夫广场站,Nollendorfplatz station,诺伦多尔夫广场站,Q571039,2.835,4,,36,4
+1.5-3.0km,high,柏林主教座堂,Berlin Cathedral,柏林主教座堂,Q154563,1.913,5,,36,4
+1.5-3.0km,high,德国国会大厦,Reichstag building,德國國會大廈,Q151897,2.235,5,,36,4
+1.5-3.0km,high,哈克雪庭院,Hackesche Höfe,哈克庭院,Q736425,2.473,4,,36,4
+1.5-3.0km,mid,包豪斯档案馆,Bauhaus Archive,包豪斯設計博物館,Q811389,2.852,2,,33,4
+1.5-3.0km,mid,欧洲被害辛提人和罗姆人纪念碑,Memorial to the Sinti and Roma Victims of National Socialism,纳粹时期欧洲受害辛提人和罗姆人纪念碑,Q151785,2.112,2,,33,4
+1.5-3.0km,mid,塔赫勒斯艺术馆,Kunsthaus Tacheles,塔赫勒斯艺术馆,Q571421,2.626,3,,33,4
+1.5-3.0km,mid,柏林画廊,Gemäldegalerie,畫廊,Q165631,2.194,3,,33,4
+1.5-3.0km,low,铁路塔,Bahntower,铁路塔,Q643536,1.611,1,,1,1
+3.0-6.0km,high,夏里特,Charité,夏里特,Q162684,3.004,4,,22,4
+3.0-6.0km,high,普伦茨劳贝格,Prenzlauer Berg,普伦茨劳贝格,Q313186,3.873,4,,22,4
+3.0-6.0km,high,奥伯鲍姆桥,Oberbaum Bridge,奥伯鲍姆桥,Q695082,3.392,4,,22,4
+3.0-6.0km,high,柏林中央车站,Berlin Hauptbahnhof,柏林站,Q1097,3.086,5,,22,4
+3.0-6.0km,mid,马克斯·施梅林体育馆,Max-Schmeling-Halle,馬克斯－斯邁林大廳,Q705353,4.763,3,,14,4
+3.0-6.0km,mid,罗伯特·科赫研究所,Robert Koch Institute,羅伯特·科赫研究所,Q679041,5.242,2,,14,4
+3.0-6.0km,mid,卡尔·马克思大街,Karl-Marx-Allee,卡尔·马克思大道,Q683226,3.191,3,,14,4
+3.0-6.0km,mid,莫阿比特,Moabit,莫阿比特,Q699800,5.437,3,,14,4
+3.0-6.0km,low,柏林清真寺,Berlin Mosque,柏林阿赫邁底亞清真寺,Q238528,5.906,1,,2,2
+3.0-6.0km,low,伊本·鲁世德-歌德清真寺,Ibn Rushd-Goethe Mosque,Ibn Rushd-Goethe mosque,Q30447692,4.007,1,,2,2

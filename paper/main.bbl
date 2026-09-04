@@ -1,0 +1,102 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Clark et~al.(2023)Clark, Kerrigan, Kulkarni, Cepeda, and
+  Shah]{translocator}
+Brandon Clark, Alec Kerrigan, Parth~Parag Kulkarni, Vicente~Vivanco Cepeda, and
+  Mubarak Shah.
+\newblock Where we are and what we're looking at: Query based worldwide image
+  geo-localization using hierarchies and scenes.
+\newblock \emph{arXiv preprint arXiv:2303.04249}, 2023.
+
+\bibitem[Fan et~al.(2024)Fan, Huang, and Wang]{dumapper}
+Miao Fan, Jizhou Huang, and Haifeng Wang.
+\newblock Dumapper: Towards automatic verification of large-scale pois with
+  street views at baidu maps.
+\newblock \emph{arXiv preprint arXiv:2411.18073}, 2024.
+
+\bibitem[Green and Swets(1966)]{green1966}
+David~M. Green and John~A. Swets.
+\newblock \emph{Signal Detection Theory and Psychophysics}.
+\newblock Wiley, New York, 1966.
+
+\bibitem[Hautus(1995)]{hautus1995}
+Michael~J. Hautus.
+\newblock Corrections for extreme proportions and their biasing effects on
+  estimated values of $d'$.
+\newblock \emph{Behavior Research Methods, Instruments, \& Computers},
+  27\penalty0 (1):\penalty0 46--51, 1995.
+
+\bibitem[Li et~al.(2025)Li, Yu, Hu, Li, Deng, Zhou, and Jia]{imageo}
+Lingyao Li, Runlong Yu, Qikai Hu, Bowei Li, Min Deng, Yang Zhou, and Xiaowei
+  Jia.
+\newblock From pixels to places: A systematic benchmark for evaluating image
+  geolocalization ability in large language models.
+\newblock \emph{arXiv preprint arXiv:2508.01608}, 2025.
+
+\bibitem[Li et~al.(2026)Li, Liu, Dai, Li, Lyu, Zhou, and Zhang]{signpost}
+Sirun Li, Minghao Liu, Ling Dai, Yong Li, Haoxin Lyu, Junting Zhou, and Fan
+  Zhang.
+\newblock Signpost-bench: Benchmarking text--vision conflict resolution in
+  multimodal large language models.
+\newblock \emph{arXiv preprint arXiv:2608.04244}, 2026.
+
+\bibitem[Li et~al.(2018)Li, Qu, Xu, Wang, Tong, and Luo]{imageguard}
+Xiaopeng Li, Xianshan Qu, Wenyuan Xu, Song Wang, Yan Tong, and Lannan Luo.
+\newblock Validating the contextual information of outdoor images for photo
+  misuse detection.
+\newblock \emph{arXiv preprint arXiv:1811.08951}, 2018.
+
+\bibitem[Macmillan and Creelman(2005)]{macmillan2005}
+Neil~A. Macmillan and C.~Douglas Creelman.
+\newblock \emph{Detection Theory: A User's Guide}.
+\newblock Lawrence Erlbaum Associates, 2nd edition, 2005.
+
+\bibitem[Padilha et~al.(2022)Padilha, Salem, Workman, Andal{\'o}, Rocha, and
+  Jacobs]{timestamp}
+Rafael Padilha, Tawfiq Salem, Scott Workman, Fernanda~A. Andal{\'o}, Anderson
+  Rocha, and Nathan Jacobs.
+\newblock Content-aware detection of temporal metadata manipulation.
+\newblock \emph{IEEE Transactions on Information Forensics and Security}, 2022.
+
+\bibitem[Qian et~al.(2025)Qian, Chen, Wang, Zhang, Wang, Huang, Liu, Tang,
+  Zheng, Tu, Xie, and Zhou]{earthwhere}
+Zhaofang Qian, Hardy Chen, Zeyu Wang, Li~Zhang, Zijun Wang, Xiaoke Huang, Hui
+  Liu, Xianfeng Tang, Zeyu Zheng, Haoqin Tu, Cihang Xie, and Yuyin Zhou.
+\newblock Where on earth? a vision-language benchmark for probing model
+  geolocation skills across scales.
+\newblock \emph{arXiv preprint arXiv:2510.10880}, 2025.
+
+\bibitem[Talreja et~al.(2026)Talreja, Diao, James, Casapu, Santanam, Mendes,
+  Ritter, Xu, and Hays]{georc}
+Mohit Talreja, Joshua Diao, Jim~Thannikary James, Radu Casapu, Tejas Santanam,
+  Ethan Mendes, Alan Ritter, Wei Xu, and James Hays.
+\newblock Georc: A benchmark for geolocation reasoning chains.
+\newblock \emph{arXiv preprint arXiv:2601.21278}, 2026.
+
+\bibitem[Wang et~al.(2025)Wang, Shao, and Kim]{koreageo}
+Xiaonan Wang, Bo~Shao, and Hansaem Kim.
+\newblock Toward reliable vlm: A fine-grained benchmark and framework for
+  exposure, bias, and inference in korean street views.
+\newblock \emph{arXiv preprint arXiv:2506.03371}, 2025.
+
+\bibitem[Zheng et~al.(2025)Zheng, Ying, Duan, Li, Zhang, Liu, Liu, and
+  Zhai]{geoxbench}
+Yushuo Zheng, Jiangyong Ying, Huiyu Duan, Chunyi Li, Zicheng Zhang, Jing Liu,
+  Xiaohong Liu, and Guangtao Zhai.
+\newblock Geox-bench: Benchmarking cross-view geo-localization and pose
+  estimation capabilities of large multimodal models.
+\newblock \emph{arXiv preprint arXiv:2511.13259}, 2025.
+
+\bibitem[Zhou et~al.(2026)Zhou, Liu, Yin, Li, Wu, Lee, and Hsu]{hologeo}
+Pengcheng Zhou, Xuanyu Liu, Yanchen Yin, Bobo Li, Shengqiong Wu, Mong-Li Lee,
+  and Wynne Hsu.
+\newblock Hologeo: Mitigating landmark bias in geo-localization via
+  evidence-driven reasoning.
+\newblock \emph{arXiv preprint arXiv:2607.15255}, 2026.
+
+\end{thebibliography}

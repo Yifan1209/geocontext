@@ -1,0 +1,24 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,女王道站,Queensway tube station,女王道站,Q649184,1.32,4,,1,1
+1.5-3.0km,high,罗德板球场,Lord's,羅德板球場,Q331613,2.749,4,,14,4
+1.5-3.0km,high,科学博物馆,"Science Museum, London",科学博物馆,Q674773,2.86,5,,14,4
+1.5-3.0km,high,肯辛顿宫,Kensington Palace,肯辛顿宫,Q207385,1.581,4,,14,4
+1.5-3.0km,high,自然史博物馆,"Natural History Museum, London",自然史博物馆,Q309388,2.9,5,,14,4
+1.5-3.0km,mid,皇家艺术学院,Royal College of Art,皇家艺术学院,Q1753535,2.357,3,,4,4
+1.5-3.0km,mid,阿比路录音室,Abbey Road Studios,阿比路录音室,Q209651,2.637,3,,4,4
+1.5-3.0km,mid,洛夫特斯路球场,Loftus Road,洛夫特斯路球場,Q31670,1.992,3,,4,4
+1.5-3.0km,mid,皇家音乐学院,Royal College of Music,皇家音乐学院,Q304985,2.58,3,,4,4
+1.5-3.0km,low,伯爵宫展览中心,Earls Court Exhibition Centre,伯爵宮展覽中心,Q1130746,2.946,1,,2,2
+1.5-3.0km,low,白城体育场,White City Stadium,白城體育場,Q876286,1.558,1,,2,2
+3.0-6.0km,high,莱斯特广场,Leicester Square,萊斯特廣場,Q848912,5.197,5,,67,4
+3.0-6.0km,high,马里波恩,Marylebone,马里波恩,Q123634,4.025,4,,67,4
+3.0-6.0km,high,南肯辛顿,South Kensington,南肯辛顿,Q1045096,3.284,4,,67,4
+3.0-6.0km,high,杜莎夫人蜡像馆,Madame Tussauds,杜莎夫人蠟像館,Q186309,3.555,4,,67,4
+3.0-6.0km,mid,威斯敏斯特主教座堂,Westminster Cathedral,威斯敏斯特主教座堂,Q739364,5.011,3,,37,4
+3.0-6.0km,mid,圣詹姆斯宫,St James's Palace,聖詹姆士宮,Q272162,4.79,2,,37,4
+3.0-6.0km,mid,威斯敏斯特大学,University of Westminster,威斯敏斯特大學,Q1247544,4.292,2,,37,4
+3.0-6.0km,mid,圣马丁教堂,St Martin-in-the-Fields,圣马田教堂,Q1335201,5.444,3,,37,4
+3.0-6.0km,low,英国皇家学会,Royal Society,英国皇家学会,Q123885,5.133,1,,4,4
+3.0-6.0km,low,威斯敏斯特圣玛格丽特教堂,"St Margaret's, Westminster",威斯敏斯特圣玛格丽特教堂,Q823412,5.672,1,,4,4
+3.0-6.0km,low,马尔博罗宫,Marlborough House,馬爾博羅大樓,Q565532,4.914,1,,4,4
+3.0-6.0km,low,外交、联邦及发展事务部,"Foreign, Commonwealth and Development Office",外交及聯邦事務部,Q358834,5.507,1,,4,4

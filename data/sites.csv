@@ -1,0 +1,110 @@
+﻿site,city,country,continent,landmark,qid,wd_type,lat,lon,sitelinks,sv_perspective,selection_method
+marrakech_cervantes,Marrakech,MA,AF,Cervantes institute library in Marrakesh,Q85726847,library,31.637215,-8.016661,0.0,17.0,algorithm
+marrakech_place,Marrakech,MA,AF,Place des Ferblantiers,Q135395147,square,31.6199,-7.9848,1.0,38.0,algorithm
+marrakech_royal,Marrakech,MA,AF,Royal Theatre,Q113627642,theatre building,31.629444444,-8.014722222,3.0,58.0,algorithm
+boston_chinatown,Boston,US,AN,Chinatown station,Q966028,railway station,42.3524,-71.0626,6.0,49.0,algorithm
+boston_longfellow,Boston,US,AN,Longfellow Bridge,Q1479078,bridge,42.361666666,-71.075277777,7.0,38.0,algorithm
+boston_park,Boston,US,AN,Park Street station,Q4846582,railway station,42.356388888,-71.0625,6.0,49.0,algorithm
+mexicocity_balderas,Mexico City,MX,AN,Balderas,Q3356947,railway station,19.42744,-99.149036,9.0,25.0,algorithm
+mexicocity_centro,Mexico City,MX,AN,Centro Médico,Q5810513,railway station,19.406637,-99.155753,7.0,60.0,algorithm
+mexicocity_insurgentes,Mexico City,MX,AN,Insurgentes,Q3301776,railway station,19.423292,-99.163177,7.0,44.0,algorithm
+newyork_amsterdam,New York,US,AN,New Amsterdam Theatre,Q2004827,theatre building,40.756111111,-73.987777777,15.0,33.0,algorithm
+newyork_morgan,New York,US,AN,The Morgan Library & Museum,Q1478423,library,40.748803,-73.981556,27.0,21.0,algorithm
+newyork_studio,New York,US,AN,Studio 54,Q607212,theatre building,40.764361111,-73.983777777,30.0,39.0,algorithm
+sanfrancisco_cartoon,San Francisco,US,AN,Cartoon Art Museum,Q1045990,museum,37.7871,-122.401,5.0,190.0,algorithm
+sanfrancisco_contemporary,San Francisco,US,AN,Contemporary Jewish Museum,Q5164991,museum,37.7858,-122.404,9.0,155.0,algorithm
+sanfrancisco_joseph,San Francisco,US,AN,Joseph Conrad Square,Q14682534,square,37.8066,-122.419,5.0,18.0,algorithm
+toronto_rosedale,Toronto,CA,AN,Rosedale,Q1040680,railway station,43.67646405,-79.388536741,9.0,26.0,algorithm
+toronto_sherbourne,Toronto,CA,AN,Sherbourne,Q1042227,railway station,43.672222222,-79.376388888,9.0,19.0,algorithm
+toronto_tmu,Toronto,CA,AN,TMU station,Q1074565,railway station,43.6565367,-79.3810223,12.0,35.0,algorithm
+hanoi_botanic,Hanoi,VN,AS,Hanoi Botanic Garden,Q9010921,park,21.040556,105.831667,5.0,32.0,algorithm
+hanoi_college,Hanoi,VN,AS,Hanoi College of Fine Arts,Q3815307,university,21.022136,105.842789,5.0,56.0,algorithm
+hanoi_well,Hanoi,VN,AS,Well of Heavenly Clarity,Q110923596,monument,21.029819712,105.8359249,1.0,215.0,algorithm
+hongkong_fortress,Hong Kong,HK,AS,Fortress Hill station,Q839682,railway station,22.2881,114.1936,11.0,50.0,algorithm
+hongkong_sai,Hong Kong,HK,AS,Sai Ying Pun station,Q2106571,railway station,22.2856,114.143,11.0,23.0,algorithm
+hongkong_statue,Hong Kong,HK,AS,Statue Square,Q840577,square,22.28165,114.16004,8.0,18.0,algorithm
+singapore_asian,Singapore,SG,AS,Asian Civilisations Museum,Q633033,museum,1.2875,103.851388888,16.0,36.0,algorithm
+singapore_national,Singapore,SG,AS,National Library Singapore,Q890364,library,1.29778,103.854,17.0,41.0,algorithm
+singapore_somerset,Singapore,SG,AS,Somerset MRT station,Q2208305,railway station,1.300514,103.839028,15.0,49.0,algorithm
+telaviv_dizengoff,Tel Aviv,IL,AS,Dizengoff Square,Q2889910,square,32.07805556,34.77416667,15.0,26.0,algorithm
+telaviv_habima,Tel Aviv,IL,AS,Habima Square,Q877711,square,32.07305278,34.77951111,11.0,33.0,algorithm
+telaviv_nahum,Tel Aviv,IL,AS,Nahum Gutman Museum of Art,Q7215906,museum,32.0608,34.7667,4.0,8.0,algorithm
+amsterdam_church,Amsterdam,NL,EU,Church of St Nicholas,Q1350750,church building,52.376528,4.901111,16.0,15.0,algorithm
+amsterdam_natura,Amsterdam,NL,EU,Natura Artis Magistra,Q713124,park,52.366111111,4.916666666,30.0,8.0,algorithm
+amsterdam_vondelpark,Amsterdam,NL,EU,Vondelpark,Q1419691,park,52.356944444,4.866388888,26.0,13.0,algorithm
+athens_kotzia,Athens,GR,EU,Kotzia Square,Q3389927,square,37.98166667,23.72777778,13.0,19.0,algorithm
+athens_monastiraki,Athens,GR,EU,Monastiraki metro station,Q428990,railway station,37.975985,23.72539,16.0,14.0,algorithm
+athens_national,Athens,GR,EU,National Garden of Athens,Q646284,park,37.974167,23.738333,23.0,44.0,algorithm
+barcelona_fontana,Barcelona,ES,EU,Fontana,Q535545,railway station,41.40263,2.15275,16.0,45.0,algorithm
+barcelona_lesseps,Barcelona,ES,EU,Lesseps,Q979398,railway station,41.40611111,2.14944444,17.0,43.0,algorithm
+barcelona_sants,Barcelona,ES,EU,Barcelona Sants railway station,Q800453,railway station,41.378888888,2.14,27.0,42.0,algorithm
+berlin_alte,Berlin,DE,EU,Alte Nationalgalerie,Q162111,museum,52.52081,13.398353,38.0,141.0,algorithm
+berlin_jewish,Berlin,DE,EU,Jewish Museum Berlin,Q157003,museum,52.502312,13.395447,39.0,40.0,algorithm
+berlin_st,Berlin,DE,EU,St. Hedwig's Cathedral,Q170123,church building,52.515833333,13.394722222,35.0,10.0,algorithm
+budapest_batthyny,Budapest,HU,EU,Batthyány Square,Q791408,square,47.506222,19.038611,15.0,252.0,algorithm
+budapest_museum,Budapest,HU,EU,Museum of Applied Arts,Q1088467,museum,47.48611111,19.06833333,25.0,8.0,algorithm
+budapest_university,Budapest,HU,EU,Budapest University of Technology and Economics,Q1186843,university,47.47985,19.05608,30.0,50.0,algorithm
+copenhagen_castle,Copenhagen,DK,EU,Copenhagen Castle,Q3306889,castle,55.67722222,12.58,18.0,51.0,algorithm
+copenhagen_det,Copenhagen,DK,EU,Det Ny Theater,Q2562959,theatre building,55.673333333,12.555277777,12.0,23.0,algorithm
+copenhagen_museum,Copenhagen,DK,EU,Museum of Copenhagen,Q2398527,museum,55.674333333,12.572611111,12.0,76.0,algorithm
+edinburgh_dugald,Edinburgh,UK,EU,Dugald Stewart Monument,Q5312471,monument,55.9545,-3.18448,6.0,60.0,algorithm
+edinburgh_greyfriars,Edinburgh,UK,EU,Greyfriars Bobby Fountain,Q17570789,fountain,55.9469,-3.19133,5.0,55.0,algorithm
+edinburgh_museum,Edinburgh,UK,EU,Museum of Edinburgh,Q11838982,museum,55.9514,-3.1796,6.0,36.0,algorithm
+lisbon_cais,Lisbon,PT,EU,Cais do Sodré station,Q14915993,railway station,38.70613,-9.14508,15.0,9.0,algorithm
+lisbon_edward,Lisbon,PT,EU,Edward VII Park,Q2034183,park,38.72825,-9.152833,15.0,34.0,algorithm
+lisbon_martim,Lisbon,PT,EU,Martim Moniz,Q473021,railway station,38.716812,-9.135749,13.0,36.0,algorithm
+london_barbican,London,UK,EU,Barbican Centre,Q653858,museum,51.5202,-0.095,36.0,39.0,algorithm
+london_lambeth,London,UK,EU,Lambeth Palace,Q1130266,church building,51.49556,-0.11972,35.0,37.0,algorithm
+london_royal,London,UK,EU,Royal Academy of Arts,Q270920,museum,51.509166666,-0.139444444,40.0,50.0,algorithm
+madrid_pacfico,Madrid,ES,EU,Pacífico,Q2479769,railway station,40.4013,-3.67508,16.0,21.0,algorithm
+madrid_pera,Madrid,ES,EU,Ópera,Q2736048,railway station,40.4181,-3.70934,16.0,20.0,algorithm
+madrid_royal,Madrid,ES,EU,Royal Spanish Academy,Q11993457,museum,40.41502,-3.69091,45.0,28.0,algorithm
+milan_milano,Milan,IT,EU,Milano Cadorna railway station,Q801185,railway station,45.468618,9.175196,18.0,11.0,algorithm
+milan_museo,Milan,IT,EU,Museo Teatrale alla Scala,Q51099,museum,45.467296,9.189339,14.0,22.0,algorithm
+milan_santa,Milan,IT,EU,Santa Maria presso San Celso Church,Q734515,church building,45.454396,9.187669,14.0,8.0,algorithm
+paris_bataclan,Paris,FR,EU,Bataclan,Q810700,theatre building,48.863055555,2.370833333,43.0,46.0,algorithm
+paris_gare,Paris,FR,EU,Gare de Paris-Est,Q757180,railway station,48.876944444,2.359166666,39.0,46.0,algorithm
+paris_pont,Paris,FR,EU,Pont Neuf,Q335277,bridge,48.8575,2.341666666,45.0,10.0,algorithm
+stockholm_grdet,Stockholm,SE,EU,Gärdet metro station,Q744021,railway station,59.345833333,18.098888888,15.0,37.0,algorithm
+stockholm_karlaplan,Stockholm,SE,EU,Karlaplan metro station,Q1577742,railway station,59.338611,18.090556,15.0,44.0,algorithm
+stockholm_st,Stockholm,SE,EU,"St. Eric's Cathedral, Stockholm",Q15042147,church building,59.313805555,18.0725,20.0,60.0,algorithm
+vienna_heldenplatz,Vienna,AT,EU,Heldenplatz,Q700128,square,48.206280555,16.363761111,25.0,58.0,algorithm
+vienna_naschmarkt,Vienna,AT,EU,Naschmarkt,Q417645,square,48.1989,16.3636,17.0,256.0,algorithm
+vienna_university,Vienna,AT,EU,University of Applied Arts Vienna,Q877686,university,48.208419444,16.382219444,24.0,60.0,algorithm
+bogota_general,Bogota,CO,SA,General Archive of the Nation of Colombia,Q2860532,library,4.593936,-74.0769,7.0,28.0,algorithm
+bogota_national,Bogota,CO,SA,National Library of Colombia,Q2901472,library,4.60955278,-74.06865,15.0,24.0,algorithm
+bogota_planetarium,Bogota,CO,SA,Planetarium of Bogotá,Q6077641,museum,4.61222222,-74.06888889,5.0,16.0,algorithm
+delhi_holy,Delhi,IN,SA,"Holy Trinity Church, Delhi",Q3585844,church building,28.6427,77.2335,1.0,29.0,algorithm
+delhi_national,Delhi,IN,SA,National Gallery of Modern Art,Q1338832,museum,28.610182,77.234401,17.0,36.0,algorithm
+delhi_vijay,Delhi,IN,SA,Vijay Chowk,Q26800612,park,28.61413,77.21716,1.0,16.0,algorithm
+lima_alejandro,Lima,PE,SA,Alejandro Villanueva Stadium,Q1369054,stadium,-12.068542,-77.022886,12.0,36.0,algorithm
+lima_equestrian,Lima,PE,SA,equestrian statue of Simón Bolívar,Q75333943,monument,-12.047611111,-77.026,4.0,24.0,algorithm
+lima_estadio,Lima,PE,SA,Estadio Nacional del Perú (1897),Q3733343,stadium,-12.067138888,-77.033722222,6.0,47.0,algorithm
+mumbai_bowen,Mumbai,IN,SA,Bowen Memorial Methodist Church,Q135511286,church building,18.9233332,72.832656,1.0,41.0,algorithm
+mumbai_girgaon,Mumbai,IN,SA,Girgaon,Q130461623,railway station,18.952103,72.822195,1.0,29.0,algorithm
+mumbai_mughal,Mumbai,IN,SA,Mughal Museum,Q63411215,museum,18.9269,72.8327,5.0,52.0,algorithm
+santiago_baslica,Santiago,CL,SA,Basílica del Salvador,Q5722110,church building,-33.4413,-70.6618,9.0,58.0,algorithm
+santiago_moneda,Santiago,CL,SA,La Moneda,Q5238837,railway station,-33.445028,-70.655667,8.0,16.0,algorithm
+santiago_plaza,Santiago,CL,SA,Plaza de Armas,Q602232,square,-33.43796667,-70.6504,10.0,57.0,algorithm
+tokyo_national,Tokyo,JP,AS,"The National Museum of Modern Art, Tokyo",Q1359908,museum,35.690553,139.754642,23.0,60.0,algorithm
+tokyo_artizon,Tokyo,JP,AS,Artizon Museum,Q913808,museum,35.67888889,139.77194444,17.0,46.0,algorithm
+tokyo_ginza,Tokyo,JP,AS,Ginza Station,Q602372,railway station,35.671230555,139.765,17.0,53.0,algorithm
+nyc_soho,New York,US,AN,New York SoHo,,,40.7233,-74.003,,,manual
+tokyo_shibuya,Tokyo,JP,AS,Tokyo Shibuya,,,35.6595,139.7005,,,manual
+paris_marais,Paris,FR,EU,Paris Marais,,,48.859,2.362,,,manual
+paris_montmartre,Paris,FR,EU,"Abbesses / rue des Martyrs, avoids Sacre-Coeur",,,48.884,2.338,,,manual
+paris_bastille,Paris,FR,EU,blocks east of Place de la Bastille,,,48.853,2.369,,,manual
+paris_cite,Paris,FR,EU,"Place Dauphine, west end of Ile de la Cite, avoids Notre-Dame",,,48.856,2.341,,,manual
+paris_canal,Paris,FR,EU,"Canal Saint-Martin (spare site, very non-iconic)",,,48.871,2.366,,,manual
+london_shoreditch,London,UK,EU,"Shoreditch, brick and street art",,,51.525,-0.078,,,manual
+london_covent,London,UK,EU,streets around Covent Garden,,,51.512,-0.123,,,manual
+london_nottinghill,London,UK,EU,Notting Hill pastel terraces,,,51.515,-0.205,,,manual
+barcelona_gracia,Barcelona,ES,EU,old town of Gracia,,,41.403,2.156,,,manual
+barcelona_born,Barcelona,ES,EU,El Born medieval lanes,,,41.385,2.181,,,manual
+sf_mission,San Francisco,US,AN,"Mission District, murals and Victorians",,,37.76,-122.419,,,manual
+sf_northbeach,San Francisco,US,AN,North Beach,,,37.8,-122.409,,,manual
+sf_hayes,San Francisco,US,AN,Hayes Valley,,,37.776,-122.424,,,manual
+cdmx_roma,Mexico City,MX,AN,Roma Norte,,,19.419,-99.162,,,manual
+cdmx_condesa,Mexico City,MX,AN,Condesa,,,19.411,-99.171,,,manual
+tokyo_shimokita,Tokyo,JP,AS,Shimokitazawa,,,35.661,139.668,,,manual
+tokyo_yanaka,Tokyo,JP,AS,"Yanaka, old-town streets",,,35.727,139.766,,,manual

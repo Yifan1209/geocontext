@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,奇尔潘辛戈站,Chilpancingo metro station,Chilpancingo,Q3431073,1.35,4,,2,2
+0.5-1.5km,high,罗马区,Colonia Roma,科洛尼亚罗马,Q584381,1.253,5,,2,2
+0.5-1.5km,mid,拉萨罗·卡德纳斯站,Lázaro Cárdenas metro station,Lázaro Cárdenas,Q6824617,1.142,3,,5,4
+0.5-1.5km,mid,Obrera站,Obrera metro station,Obrera,Q6824651,1.437,3,,5,4
+0.5-1.5km,mid,埃塞俄比亚-透明广场站,Etiopía/Plaza de la Transparencia metro station,Etiopía-Plaza de la Transparencia,Q3429486,1.23,2,,5,4
+0.5-1.5km,mid,总医院站,Hospital General metro station (Mexico City),Hospital General,Q6824588,0.796,3,,5,4
+1.5-3.0km,high,克里斯托弗·哥伦布纪念像,Monument to Christopher Columbus,克里斯托弗·哥伦布纪念像,Q5801988,2.943,4,,12,4
+1.5-3.0km,high,主塔大厦,Torre Mayor,主塔大廈,Q844813,2.848,4,,12,4
+1.5-3.0km,high,孔德萨,Condesa,Condesa,Q1020125,1.573,5,,12,4
+1.5-3.0km,high,改革塔,Torre Reforma,改革塔,Q3433389,2.788,4,,12,4
+1.5-3.0km,mid,欧亨尼亚站,Eugenia metro station,Eugenia,Q6824568,2.288,3,,28,4
+1.5-3.0km,mid,共和国参议院,Senate of the Republic (Mexico),共和国参议院,Q264113,2.867,3,,28,4
+1.5-3.0km,mid,索拉站,Xola metro station,Xola,Q3356924,2.281,3,,28,4
+1.5-3.0km,mid,比利亚德科尔特斯站,Villa de Cortés metro station,Villa de Cortés,Q3356965,2.757,3,,28,4
+1.5-3.0km,low,墨西哥足球协会,Mexican Football Federation,墨西哥足球协会,Q1160682,1.933,1,,4,4
+1.5-3.0km,low,能源部,Secretariat of Energy,能源秘書處,Q750165,2.968,1,,4,4
+1.5-3.0km,low,,Salón de la Plástica Mexicana,Salón de la Plástica Mexicana,Q845947,1.538,1,,4,4
+1.5-3.0km,low,墨西哥铸币厂,Mexican Mint,Mexican Mint,Q4582964,2.651,1,,4,4
+3.0-6.0km,high,特皮托,Tepito,特皮托,Q932570,5.293,4,,46,4
+3.0-6.0km,high,墨西哥城主教座堂,Mexico City Metropolitan Cathedral,墨西哥城主教座堂,Q610961,3.896,5,,46,4
+3.0-6.0km,high,拉梅尔塞德市场,La Merced Market,"La Merced Market, Mexico City",Q3377015,3.956,4,,46,4
+3.0-6.0km,high,弗里达·卡罗博物馆,Frida Kahlo Museum,芙烈達·卡蘿紀念館,Q2663377,5.77,5,,46,4
+3.0-6.0km,mid,圣玛丽亚拉里贝拉,Colonia Santa María la Ribera,Santa María la Ribera,Q2056718,4.753,3,,68,4
+3.0-6.0km,mid,圣佩德罗-德洛斯皮诺斯站,San Pedro de los Pinos metro station,San Pedro de los Pinos,Q5841189,3.608,3,,68,4
+3.0-6.0km,mid,墨西哥外交部,Secretariat of Foreign Affairs,墨西哥外交部,Q500961,3.247,2,,68,4
+3.0-6.0km,mid,鲁菲诺·塔马约博物馆,Museo Rufino Tamayo,魯菲諾·塔馬約博物館,Q3330551,3.44,3,,68,4
+3.0-6.0km,low,巴尔巴内拉圣母主教座堂,"Valvanera Cathedral, Mexico City",巴尔巴内拉圣母主教座堂,Q2942226,3.669,1,,5,4
+3.0-6.0km,low,国家气象局,National Meteorological Service (Mexico),國家氣象局,Q3306386,4.29,1,,5,4
+3.0-6.0km,low,美洲第一印刷所,House of the First Print Shop in the Americas,House of the First Print Shop in the Americas,Q5915612,3.964,1,,5,4
+3.0-6.0km,low,天堂之门主教座堂,Porta Coeli Cathedral,天堂之门主教座堂,Q27925183,3.399,1,,5,4

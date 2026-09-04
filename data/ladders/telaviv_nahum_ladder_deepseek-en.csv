@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,雅法钟楼,Jaffa Clock Tower,雅法钟楼,Q2919379,1.188,5,,15,4
+0.5-1.5km,high,内夫沙阿南,Neve Sha'anan,Neve Sha'anan,Q2907012,1.34,4,,15,4
+0.5-1.5km,high,,Jaffa railway station,Jaffa railway station,Q1033586,0.538,4,,15,4
+0.5-1.5km,high,海洋清真寺,Al-Bahr Mosque,海洋清真寺,Q2898907,1.436,4,,15,4
+0.5-1.5km,mid,第一国际银行大厦,First International Bank Tower,First International Bank Tower,Q2899925,0.77,3,,24,4
+0.5-1.5km,mid,阿尔罕布拉电影院,Alhambra Cinema,Alhambra Cinema,Q12410997,1.208,3,,24,4
+0.5-1.5km,mid,莱希博物馆,Lehi Museum,Lehi Museum,Q6518785,0.532,2,,24,4
+0.5-1.5km,mid,莱文斯坦塔,Levinstein Tower,Levinstein Tower,Q6535676,1.274,2,,24,4
+0.5-1.5km,low,,Ohel Moed Synagogue,Synagogue Ohel Moed,Q3507999,0.831,1,,1,1
+1.5-3.0km,high,卡普兰街,Kaplan Street,卡普蘭街,Q2920272,2.319,4,,40,4
+1.5-3.0km,high,萨罗纳,Sarona,萨罗纳,Q18199087,2.277,5,,40,4
+1.5-3.0km,high,丹特拉维夫酒店,"Dan Hotel, Tel Aviv",丹特拉維夫酒店,Q2899847,2.083,4,,40,4
+1.5-3.0km,high,特拉维夫南火车站,Tel Aviv South railway station,Tel Aviv South railway station,Q2900072,2.555,4,,40,4
+1.5-3.0km,mid,伊莱克特拉大厦,Electra Tower,Electra Tower,Q2902786,2.795,3,,32,4
+1.5-3.0km,mid,哈提克瓦区,Hatikva Quarter,Hatikva Quarter,Q2906317,1.975,3,,32,4
+1.5-3.0km,mid,卡梅里剧院,Cameri Theatre,卡梅里剧院,Q1028633,2.462,3,,32,4
+1.5-3.0km,mid,特穆纳剧院,Tmu-na Theater,Tmu-na Theater,Q607693,2.084,2,,32,4
+1.5-3.0km,low,特拉维夫动物园,Tel Aviv Zoo,Tel Aviv Zoo,Q7695556,2.741,1,,2,2
+1.5-3.0km,low,,Hasimta Theater,Hasimta Theatre,Q6588250,1.659,1,,2,2
+3.0-6.0km,high,希尔顿特拉维夫,Hilton Tel Aviv,希爾頓特拉維夫,Q7216435,3.182,5,,21,4
+3.0-6.0km,high,依瑞茲以色列博物館,Eretz Israel Museum,依瑞茲以色列博物館,Q840618,5.479,4,,21,4
+3.0-6.0km,high,巴特亚姆-约塞夫塔尔火车站,Bat Yam–Yoseftal railway station,Bat Yam-Yoseftal Railway Station,Q2919760,5.112,4,,21,4
+3.0-6.0km,high,,Basel Street,"Basel street, Tel-Aviv",Q6848068,3.452,4,,21,4
+3.0-6.0km,mid,霍隆设计博物馆,Design Museum Holon,霍隆设计博物馆,Q2297982,5.636,3,,30,4
+3.0-6.0km,mid,马卡比体育场,Maccabiah Stadium,Maccabiah Stadium,Q2920516,4.484,2,,30,4
+3.0-6.0km,mid,霍隆理工学院,Holon Institute of Technology,Holon Institute of Technology,Q5884192,5.211,3,,30,4
+3.0-6.0km,mid,雷丁发电厂,Reading Power Station,雷丁發電廠,Q2904388,4.807,3,,30,4
+3.0-6.0km,low,哈沙哈尔塔,HaShahar Tower,HaShahar Tower,Q20645725,3.813,1,,5,4
+3.0-6.0km,low,贾里沙,Jarisha,Jarisha,Q2906069,5.448,1,,5,4
+3.0-6.0km,low,,HaAliya HaShniya Garden,HaAliya HaShniya Garden,Q18191508,4.639,1,,5,4
+3.0-6.0km,low,马苏迪亚,Al-Mas'udiyya,Al-Mas'udiyya,Q4702857,3.071,1,,5,4

@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,胡志明纪念堂,Ho Chi Minh Mausoleum,胡志明纪念堂,Q874234,0.536,5,,16,4
+0.5-1.5km,high,胡志明博物馆,Ho Chi Minh Museum,胡志明博物馆,Q1055897,0.55,5,,16,4
+0.5-1.5km,high,巴亭广场,Ba Đình Square,巴亭广场,Q2234574,0.611,5,,16,4
+0.5-1.5km,high,河内文庙,"Temple of Literature, Hanoi",河内文庙,Q1202019,1.388,5,,16,4
+0.5-1.5km,mid,圣保罗综合医院,Saint Paul Hospital,聖保羅綜合醫院,Q7402043,1.058,3,,9,4
+0.5-1.5km,mid,巴亭会堂,Ba Đình Hall,巴亭會堂,Q4837050,0.714,2,,9,4
+0.5-1.5km,mid,北门教堂,Cửa Bắc Church,北门教堂,Q1088224,0.943,3,,9,4
+0.5-1.5km,mid,越南国会大厦,National Assembly Building of Vietnam,越南國會大廈,Q91765289,0.71,3,,9,4
+1.5-3.0km,high,龙编站,Long Biên station,龙编站,Q5962539,1.934,4,,27,4
+1.5-3.0km,high,河内乐天中心,Lotte Center Hanoi,河内乐天中心,Q6684904,2.179,5,,27,4
+1.5-3.0km,high,西湖,West Lake,西湖,Q1187394,2.011,4,,27,4
+1.5-3.0km,high,越南妇女博物馆,Vietnamese Women's Museum,越南婦女博物館,Q10743287,2.811,4,,27,4
+1.5-3.0km,mid,河内音乐学院,Vietnam National Academy of Music,河內音樂學院,Q5649320,2.06,2,,27,4
+1.5-3.0km,mid,罗城站,La Thanh station,羅城站,Q56670523,2.35,3,,27,4
+1.5-3.0km,mid,越德医院,Vietnam – Germany Hospital,越德醫院,Q4456887,2.088,3,,27,4
+1.5-3.0km,mid,禅光湖,Thiền Quang Lake,禅光湖,Q7349899,2.851,3,,27,4
+1.5-3.0km,low,努尔清真寺,Al-Noor Mosque (Hanoi),Al-Noor Mosque,Q124982776,1.67,1,,3,3
+1.5-3.0km,low,越南原子能研究所,Vietnam Atomic Energy Institute,越南原子能研究所,Q7928490,2.5,1,,3,3
+1.5-3.0km,low,大罗城,Đại La,大羅城,Q8079948,2.702,1,,3,3
+3.0-6.0km,high,越南民族博物馆,Vietnam Museum of Ethnology,越南民族博物館,Q1048345,3.459,5,,27,4
+3.0-6.0km,high,,Ngã Tư Sở,Ngã Tư Sở,Q10800295,4.2,5,,27,4
+3.0-6.0km,high,顺化街,Phố Huế,Phố Huế,Q10807146,3.908,4,,27,4
+3.0-6.0km,high,嘉林站,Gia Lâm station,嘉林站,Q5557794,5.3,4,,27,4
+3.0-6.0km,mid,越南公安部,Ministry of Public Security (Vietnam),越南公安部,Q6867472,5.36,2,,39,4
+3.0-6.0km,mid,东竹桥,Dong Tru Bridge,Dong Tru Bridge,Q11840154,5.901,3,,39,4
+3.0-6.0km,mid,越南革命博物馆,Vietnam Museum of Revolution,越南革命博物馆,Q5370340,3.279,3,,39,4
+3.0-6.0km,mid,文水,Văn Thủy,Văn Thủy,Q3943097,3.781,2,,39,4
+3.0-6.0km,low,越南考古研究所,Vietnam Institute of Archaeology,Vietnam Institute of Archaeology,Q7928518,3.458,1,,6,4
+3.0-6.0km,low,越南银行业协会,Vietnam Banking Association,越南银行业协会,Q10771894,3.539,1,,6,4
+3.0-6.0km,low,白梅机场,Bach Mai Airfield,白梅機場,Q2886528,4.88,1,,6,4
+3.0-6.0km,low,越南数学高等研究院,Vietnam Institute for Advanced Study in Mathematics,Vietnam Institute for Advanced Study in Mathematics,Q49054837,3.567,1,,6,4

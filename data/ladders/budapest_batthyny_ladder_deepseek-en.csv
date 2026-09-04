@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,多瑙河滨大道,Danube Promenade,多瑙河滨大道,Q5221261,1.404,4,,30,4
+0.5-1.5km,high,塞尔卡尔曼广场站,Széll Kálmán tér metro station,塞爾卡爾曼廣場站,Q2533009,1.046,5,,30,4
+0.5-1.5km,high,小公主雕像,Little Princess statue,小公主雕像,Q1111022,1.355,4,,30,4
+0.5-1.5km,high,匈牙利国家美术馆,Hungarian National Gallery,匈牙利國家美術館,Q252071,1.115,4,,30,4
+0.5-1.5km,mid,布达佩斯历史博物馆,Budapest History Museum,布達佩斯歷史博物館,Q776086,1.226,3,,13,4
+0.5-1.5km,mid,布达佩斯喜剧剧场,Comedy Theatre of Budapest,布達佩斯喜劇劇場,Q897802,1.187,2,,13,4
+0.5-1.5km,mid,布达瓦信义宗教堂,Lutheran Church of Budavár,布達瓦信義宗教堂,Q247254,0.616,3,,13,4
+0.5-1.5km,mid,,Glass House,Glass House,Q5567049,1.13,2,,13,4
+1.5-3.0km,high,盖勒特浴场,Gellért Baths,盖勒特浴场,Q646140,2.67,5,,38,4
+1.5-3.0km,high,圣盖勒特广场-科技经济大学站,Szent Gellért tér – Műegyetem metro station,聖蓋勒特廣場-科技經濟大學站,Q3501475,2.805,4,,38,4
+1.5-3.0km,high,戴阿克·费伦茨广场,Deák Ferenc tér,戴阿克·费伦茨广场,Q904825,1.567,5,,38,4
+1.5-3.0km,high,烟草街会堂,Dohány Street Synagogue,烟草街会堂,Q754397,2.018,5,,38,4
+1.5-3.0km,mid,匈牙利广播电台,Magyar Rádió,匈牙利广播电台,Q765515,2.565,3,,23,4
+1.5-3.0km,mid,布达佩斯隔都,Budapest Ghetto,布达佩斯隔都,Q2605415,2.105,2,,23,4
+1.5-3.0km,mid,布达佩斯地铁博物馆,Underground Railway Museum (Budapest),布達佩斯地鐵博物館,Q1005927,1.532,2,,23,4
+1.5-3.0km,mid,布达佩斯内城,Inner City (Budapest),Inner City,Q648004,2.048,3,,23,4
+3.0-6.0km,high,塞切尼浴场站,Széchenyi fürdő metro station,塞切尼浴场站,Q2301391,3.399,5,,28,4
+3.0-6.0km,high,珍珠市街站,Gyöngyösi utca metro station,珍珠市街站,Q2981913,5.441,4,,28,4
+3.0-6.0km,high,布达佩斯动物园和植物园,Budapest Zoo and Botanical Garden,布達佩斯動物園和植物園,Q922178,3.307,4,,28,4
+3.0-6.0km,high,布达佩斯凯伦福德火车站,Budapest-Kelenföld railway station,布達佩斯凱倫福德車站,Q800998,4.757,4,,28,4
+3.0-6.0km,mid,匈牙利铁路史公园,Hungarian Railway History Park,匈牙利鐵路史公園,Q573257,5.959,3,,36,4
+3.0-6.0km,mid,大屠杀纪念中心,Holocaust Memorial Center (Budapest),大屠杀纪念中心,Q1625053,3.637,3,,36,4
+3.0-6.0km,mid,布达佩斯艺术宫,Müpa Budapest,布达佩斯艺术宫,Q897556,4.785,3,,36,4
+3.0-6.0km,mid,国家田径中心,National Athletics Centre,國家田徑中心,Q60761124,5.32,3,,36,4
+3.0-6.0km,low,匈牙利铸币厂,Hungarian Mint,匈牙利鑄幣廠,Q585461,5.455,1,,2,2
+3.0-6.0km,low,,Constitution Protection Office,Constitution Protection Office,Q652871,4.441,1,,2,2

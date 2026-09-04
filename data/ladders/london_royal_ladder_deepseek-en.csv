@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,查令十字,Charing Cross,查令十字,Q216185,0.849,4,,25,4
+0.5-1.5km,high,查令十字车站,Charing Cross railway station,查令十字車站,Q801128,1.111,4,,25,4
+0.5-1.5km,high,梅费尔,Mayfair,梅费尔,Q124184,0.552,4,,25,4
+0.5-1.5km,high,大英博物馆,British Museum,大英博物馆,Q6373,1.433,5,,25,4
+0.5-1.5km,mid,苏格兰场,Scotland Yard,蘇格蘭場,Q184619,1.32,2,,10,4
+0.5-1.5km,mid,克拉伦斯府,Clarence House,克拉伦斯府,Q565521,0.578,2,,10,4
+0.5-1.5km,mid,圣马丁教堂,St Martin-in-the-Fields,圣马田教堂,Q1335201,0.866,3,,10,4
+0.5-1.5km,mid,圣詹姆斯宫,St James's Palace,聖詹姆士宮,Q272162,0.507,2,,10,4
+0.5-1.5km,low,英国皇家学会,Royal Society,英国皇家学会,Q123885,0.604,1,,3,3
+0.5-1.5km,low,外交、联邦及发展事务部,"Foreign, Commonwealth and Development Office",外交及聯邦事務部,Q358834,1.055,1,,3,3
+0.5-1.5km,low,威斯敏斯特圣玛格丽特教堂,"St Margaret's, Westminster",威斯敏斯特圣玛格丽特教堂,Q823412,1.356,1,,3,3
+1.5-3.0km,high,自然史博物馆,"Natural History Museum, London",自然史博物馆,Q309388,2.924,5,,36,4
+1.5-3.0km,high,杜莎夫人蜡像馆,Madame Tussauds,杜莎夫人蠟像館,Q186309,1.865,4,,36,4
+1.5-3.0km,high,伦敦帕丁顿车站,London Paddington station,倫敦帕丁頓車站,Q214788,2.744,5,,36,4
+1.5-3.0km,high,摄政公园,Regent's Park,摄政公园,Q739341,2.827,4,,36,4
+1.5-3.0km,mid,布卢姆斯伯里,Bloomsbury,布卢姆茨伯里,Q150120,1.84,3,,11,4
+1.5-3.0km,mid,皇家戏剧艺术学院,Royal Academy of Dramatic Art,皇家戏剧艺术学院,Q523926,1.512,2,,11,4
+1.5-3.0km,mid,帝国战争博物馆,Imperial War Museum,帝国战争博物馆,Q749808,2.599,3,,11,4
+1.5-3.0km,mid,伦敦证券交易所,London Stock Exchange,伦敦证券交易所,Q171240,2.869,3,,11,4
+3.0-6.0km,high,莎士比亚环球剧场,Globe Theatre,环球剧场,Q272434,3.108,5,,20,4
+3.0-6.0km,high,斯坦福桥球场,Stamford Bridge,史丹福橋球場,Q171458,4.706,4,,20,4
+3.0-6.0km,high,诺丁山,Notting Hill,諾丁山,Q215354,4.489,4,,20,4
+3.0-6.0km,high,切尔西,"Chelsea, London",切爾西,Q743535,3.134,5,,20,4
+3.0-6.0km,mid,白教堂,Whitechapel,白教堂,Q124539,4.929,3,,10,4
+3.0-6.0km,mid,南华克桥,Southwark Bridge,南華克橋,Q1324578,3.114,2,,10,4
+3.0-6.0km,mid,萨瑟克,Southwark,萨瑟克,Q5273898,3.605,3,,10,4
+3.0-6.0km,mid,伦敦城墙,London Wall,伦敦城墙,Q60308,3.084,3,,10,4

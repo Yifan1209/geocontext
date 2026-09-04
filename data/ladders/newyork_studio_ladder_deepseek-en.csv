@@ -1,0 +1,36 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,特朗普大厦,Trump Tower,杜林普大廈,Q868772,0.835,5,,26,4
+0.5-1.5km,high,茱莉亚学院,Juilliard School,朱利亞德學院,Q503246,1.059,4,,26,4
+0.5-1.5km,high,现代艺术博物馆,Museum of Modern Art,現代藝術博物館,Q188740,0.612,5,,26,4
+0.5-1.5km,high,大中央车站,Grand Central Terminal,大中央車站,Q11290,1.401,5,,26,4
+0.5-1.5km,mid,美国广播公司,American Broadcasting Company,美国广播公司,Q169889,1.028,2,,12,4
+0.5-1.5km,mid,美国银行大厦,Bank of America Tower (Manhattan),美國銀行大廈,Q328505,1.011,3,,12,4
+0.5-1.5km,mid,德意志银行中心,Deutsche Bank Center,德意志銀行中心,Q842578,0.507,3,,12,4
+0.5-1.5km,mid,麦迪逊大道550号,550 Madison Avenue,麦迪逊大道550号,Q1477826,0.94,3,,12,4
+0.5-1.5km,low,贝塔斯曼大厦,1540 Broadway,贝塔斯曼大厦,Q827638,0.709,1,,4,4
+0.5-1.5km,low,第五大道500号,500 Fifth Avenue,第五大道500号,Q133599,1.193,1,,4,4
+0.5-1.5km,low,埃克森大厦,1251 Avenue of the Americas,埃克森大厦,Q173498,0.525,1,,4,4
+0.5-1.5km,low,索罗大厦,Solow Building,索罗大厦,Q632019,0.758,1,,4,4
+1.5-3.0km,high,联合国总部大楼,Headquarters of the United Nations,联合国总部大楼,Q11297,2.142,5,,26,4
+1.5-3.0km,high,第六大道,Sixth Avenue,第六大道,Q109873,2.517,5,,26,4
+1.5-3.0km,high,克莱斯勒大厦,Chrysler Building,克萊斯勒大廈,Q11274,1.59,5,,26,4
+1.5-3.0km,high,所罗门·R·古根海姆博物馆,Solomon R. Guggenheim Museum,所羅門·古根漢美術館,Q201469,2.952,4,,26,4
+1.5-3.0km,mid,洛克菲勒大学,Rockefeller University,洛克菲勒大學,Q270272,2.386,2,,13,4
+1.5-3.0km,mid,叮砰巷,Tin Pan Alley,叮砰巷,Q1121111,2.147,3,,13,4
+1.5-3.0km,mid,达科他公寓,The Dakota,達科他公寓,Q829806,1.503,3,,13,4
+1.5-3.0km,mid,美国戏剧艺术学院,American Academy of Dramatic Arts,美國戲劇藝術學院,Q389336,2.091,2,,13,4
+1.5-3.0km,low,洛克菲勒基金会,Rockefeller Foundation,洛克菲勒基金會,Q862034,1.505,1,,3,3
+1.5-3.0km,low,苏富比,Sotheby's,蘇富比,Q654762,2.551,1,,3,3
+1.5-3.0km,low,国家设计学院,National Academy of Design,國家設計學院,Q502218,2.976,1,,3,3
+3.0-6.0km,high,阿波罗剧院,Apollo Theater,阿波羅歌劇院,Q619124,5.806,4,,29,4
+3.0-6.0km,high,包厘街,Bowery,包厘街,Q785788,5.021,4,,29,4
+3.0-6.0km,high,河滨公园,Riverside Park,河濱公園,Q1339602,4.558,4,,29,4
+3.0-6.0km,high,下东城,Lower East Side,下东城,Q1511813,5.265,5,,29,4
+3.0-6.0km,mid,诺利塔,Nolita,諾麗塔,Q568572,4.748,3,,23,4
+3.0-6.0km,mid,科朗数学研究所,"Courant Institute School of Mathematics, Computing, and Data Science",科朗数学研究所,Q946028,4.097,2,,23,4
+3.0-6.0km,mid,威霍肯,Weehawken,威活肯,Q176410,3.104,3,,23,4
+3.0-6.0km,mid,尤宁城,Union City,尤宁城,Q588834,4.074,3,,23,4
+3.0-6.0km,low,西纽约,"West New York, New Jersey",西紐約,Q950205,3.221,1,,6,4
+3.0-6.0km,low,加滕伯格（新泽西州）,"Guttenberg, New Jersey",加滕伯格,Q1021545,3.616,1,,6,4
+3.0-6.0km,low,五叉路（曼哈顿）,"Five Points, Manhattan",五叉路 (曼哈頓),Q1144561,5.722,1,,6,4
+3.0-6.0km,low,电子淑女录音室,Electric Lady Studios,電子淑女工作室,Q1325913,3.706,1,,6,4

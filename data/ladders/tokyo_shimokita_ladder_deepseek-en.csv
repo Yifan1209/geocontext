@@ -1,0 +1,25 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,笹冢站,Sasazuka Station,笹塚站,Q841861,1.41,4,,1,1
+0.5-1.5km,mid,东北泽站,Higashi-Kitazawa Station,東北澤站,Q4497457,0.656,3,,6,4
+0.5-1.5km,mid,新代田站,Shindaita Station,新代田站,Q263289,0.695,3,,6,4
+0.5-1.5km,mid,代田桥站,Daitabashi Station,代田橋站,Q4154095,1.387,3,,6,4
+0.5-1.5km,mid,东京大清真寺,Tokyo Mosque,東京大清真寺,Q1710283,1.104,3,,6,4
+1.5-3.0km,high,驹场东大前站,Komaba-Tōdaimae Station,駒場東大前站,Q4229113,1.509,4,,7,4
+1.5-3.0km,high,明大前站,Meidaimae Station,明大前站,Q906793,1.78,4,,7,4
+1.5-3.0km,high,涩谷路口,Shibuya Crossing,澀谷路口,Q21083961,2.945,5,,7,4
+1.5-3.0km,high,三轩茶屋站,Sangen-jaya Station,三軒茶屋站,Q7417938,1.967,5,,7,4
+1.5-3.0km,mid,初台站,Hatsudai Station,初台站,Q4496691,2.798,3,,12,4
+1.5-3.0km,mid,永福町站,Eifukuchō Station,永福町站,Q4389461,2.763,3,,12,4
+1.5-3.0km,mid,东海大学,Tokai University,东海大学,Q963709,1.566,2,,12,4
+1.5-3.0km,mid,方南町站,Hōnanchō Station,方南町站,Q1078437,2.683,3,,12,4
+3.0-6.0km,high,新大久保站,Shin-Ōkubo Station,新大久保站,Q589599,5.322,5,,45,4
+3.0-6.0km,high,国立霞丘陆上竞技场,National Stadium (Tokyo),國立霞丘陸上競技場,Q330033,4.627,4,,45,4
+3.0-6.0km,high,惠比寿,"Ebisu, Shibuya",惠比壽,Q1203521,4.662,5,,45,4
+3.0-6.0km,high,六本木,Roppongi,六本木,Q265071,5.735,5,,45,4
+3.0-6.0km,mid,北参道站,Kita-sando Station,北參道站,Q128322,3.895,3,,49,4
+3.0-6.0km,mid,三得利美术馆,Suntory Museum of Art,三得利美術館,Q11249110,5.658,2,,49,4
+3.0-6.0km,mid,不动前站,Fudō-mae Station,不動前站,Q852869,5.68,3,,49,4
+3.0-6.0km,mid,武藏小山站,Musashi-koyama Station,武藏小山站,Q3097145,5.611,3,,49,4
+3.0-6.0km,low,马事公苑,Tokyo Equestrian Park,馬事公苑,Q11667807,4.087,1,,3,3
+3.0-6.0km,low,陆军大学校,Army War College (Japan),陸軍大學校,Q702605,5.117,1,,3,3
+3.0-6.0km,low,日本东京圣殿,Tokyo Japan Temple,日本东京圣殿,Q2036364,5.181,1,,3,3

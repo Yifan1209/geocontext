@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,莱塞普斯地铁站,Lesseps station,Lesseps,Q979398,0.647,4,,6,4
+0.5-1.5km,high,对角线大道,Avinguda Diagonal,对角线大道,Q791045,0.755,5,,6,4
+0.5-1.5km,high,巴特略之家,Casa Batlló,巴特略之家,Q461371,1.472,5,,6,4
+0.5-1.5km,high,米拉之家,Casa Milà,米拉之家,Q207870,0.98,5,,6,4
+0.5-1.5km,mid,圣格瓦西站,Sant Gervasi station,Sant Gervasi,Q1841199,0.793,3,,7,4
+0.5-1.5km,mid,拉蒙·柳利学院,Institut Ramon Llull,拉蒙·尤依基金會,Q1664751,0.827,2,,7,4
+0.5-1.5km,mid,,Vallcarca metro station,Vallcarca,Q1813621,1.34,3,,7,4
+0.5-1.5km,mid,贝达格尔站,Verdaguer station,Verdaguer,Q2514293,1.1,3,,7,4
+1.5-3.0km,high,利塞乌大剧院,Liceu,利塞奧大劇院,Q1130050,2.923,5,,30,4
+1.5-3.0km,high,博盖利亚市场,La Boqueria,博蓋利亞市場,Q1334899,2.691,5,,30,4
+1.5-3.0km,high,哥特区,Gothic Quarter,哥特区,Q17154,2.848,5,,30,4
+1.5-3.0km,high,拉巴尔,El Raval,拉巴尔,Q1758503,2.765,4,,30,4
+1.5-3.0km,mid,四只猫,Els Quatre Gats,四只猫,Q1333395,2.416,2,,26,4
+1.5-3.0km,mid,国王广场,Plaça del Rei,国王广场,Q2067174,2.757,3,,26,4
+1.5-3.0km,mid,莫雷拉之家,Casa Lleó Morera,狮子与桑树之家,Q2330791,1.53,2,,26,4
+1.5-3.0km,mid,玛丽亚·克里斯蒂娜站,Maria Cristina station,Maria Cristina,Q596655,2.976,3,,26,4
+3.0-6.0km,high,巴塞罗那动物园,Barcelona Zoo,巴塞罗那动物园,Q220013,3.383,4,,26,4
+3.0-6.0km,high,艺术酒店,Hotel Arts,藝術酒店,Q1425790,3.807,4,,26,4
+3.0-6.0km,high,皇家广场,Royal Square,皇家广场,Q1519964,3.009,4,,26,4
+3.0-6.0km,high,蒙特惠奇城堡,Montjuïc Castle,蒙特惠奇城堡,Q2500125,4.482,4,,26,4
+3.0-6.0km,mid,蒙德特站,Mundet station,Mundet,Q2226449,3.634,2,,54,4
+3.0-6.0km,mid,佛罗里达站,Florida station,Florida,Q2548194,5.364,3,,54,4
+3.0-6.0km,mid,贝尔内达站,Verneda station,Verneda,Q1832307,5.356,3,,54,4
+3.0-6.0km,mid,巴德罗达站,Bac de Roda station,巴德罗达站,Q969395,3.373,2,,54,4
+3.0-6.0km,low,加泰罗尼亚语语言学院,Institute for Catalan Studies,加泰羅尼亞語語言學院,Q756890,3.097,1,,3,3
+3.0-6.0km,low,加泰罗尼亚开放大学,Open University of Catalonia,加泰罗尼亚开放大学,Q3042433,3.23,1,,3,3
+3.0-6.0km,low,迷你球场,Mini Estadi,迷你球場,Q725581,4.089,1,,3,3

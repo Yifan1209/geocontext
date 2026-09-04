@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,加泰罗尼亚音乐宫,Palau de la Música Catalana,加泰罗尼亚音乐宫,Q327940,0.562,4,,22,4
+0.5-1.5km,high,加泰罗尼亚广场,Plaça de Catalunya,加泰罗尼亚广场,Q822881,0.939,5,,22,4
+0.5-1.5km,high,博盖利亚市场,La Boqueria,博蓋利亞市場,Q1334899,0.865,5,,22,4
+0.5-1.5km,high,城堡公园,Parc de la Ciutadella,城堡公园,Q301135,0.644,4,,22,4
+0.5-1.5km,mid,四只猫,Els Quatre Gats,四只猫,Q1333395,0.618,2,,19,4
+0.5-1.5km,mid,,Urquinaona station,Urquinaona,Q2109006,0.792,3,,19,4
+0.5-1.5km,mid,巴塞罗那海事博物馆,Maritime Museum of Barcelona,Maritime Museum of Barcelona,Q1286354,1.174,3,,19,4
+0.5-1.5km,mid,梅尔塞圣母圣殿,Basilica of Our Lady of Mercy,Basílica de la Mare de Déu de la Mercè,Q2037732,0.621,3,,19,4
+1.5-3.0km,high,巴特略之家,Casa Batlló,巴特略之家,Q461371,1.528,5,,19,4
+1.5-3.0km,high,格洛里亚斯站,Glòries station,Glòries,Q2547599,2.097,4,,19,4
+1.5-3.0km,high,对角线大道,Avinguda Diagonal,对角线大道,Q791045,2.295,5,,19,4
+1.5-3.0km,high,纪念斗牛场,La Monumental,紀念鬥牛場,Q337522,1.668,4,,19,4
+1.5-3.0km,mid,阿马特耶之家,Casa Amatller,阿马特耶之家,Q506814,1.515,2,,16,4
+1.5-3.0km,mid,圣安东尼站,Sant Antoni (Barcelona Metro),Sant Antoni,Q514447,1.655,3,,16,4
+1.5-3.0km,mid,贝达格尔站,Verdaguer station,Verdaguer,Q2514293,1.964,3,,16,4
+1.5-3.0km,mid,女人和鸟,Dona i Ocell,Dona i Ocell,Q593202,2.95,2,,16,4
+1.5-3.0km,low,加泰罗尼亚开放大学,Open University of Catalonia,加泰罗尼亚开放大学,Q3042433,2.65,1,,2,2
+1.5-3.0km,low,加泰罗尼亚语语言学院,Institute for Catalan Studies,加泰羅尼亞語語言學院,Q756890,1.514,1,,2,2
+3.0-6.0km,high,巴塞罗那港,Port of Barcelona,巴塞隆納港,Q1349796,4.071,4,,12,4
+3.0-6.0km,high,桂尔公园,Park Güell,桂尔公园,Q212867,3.958,5,,12,4
+3.0-6.0km,high,蒙特惠奇山,Montjuïc,蒙锥克山,Q1122701,3.005,5,,12,4
+3.0-6.0km,high,莱塞普斯地铁站,Lesseps station,Lesseps,Q979398,3.527,4,,12,4
+3.0-6.0km,mid,拉玛西亚,La Masia,拉瑪西亞,Q932739,4.839,2,,48,4
+3.0-6.0km,mid,瓦尔德希伯伦站,Vall d'Hebron station,瓦尔德希伯伦站,Q2518479,5.502,3,,48,4
+3.0-6.0km,mid,圣欧拉利娅站,Santa Eulàlia station,Santa Eulàlia,Q2035804,4.833,3,,48,4
+3.0-6.0km,mid,圣安德鲁站,Sant Andreu (Barcelona Metro),Sant Andreu,Q2536679,5.731,3,,48,4
+3.0-6.0km,low,巴塞罗那超级计算中心,Barcelona Supercomputing Center,巴塞羅那超級計算中心,Q1580126,5.507,1,,2,2
+3.0-6.0km,low,迷你球场,Mini Estadi,迷你球場,Q725581,5.284,1,,2,2

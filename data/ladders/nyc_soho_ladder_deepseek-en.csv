@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,坚尼街,Canal Street,坚尼街,Q1032558,0.539,4,,19,4
+0.5-1.5km,high,华盛顿广场公园,Washington Square Park,華盛頓廣場公園,Q909592,0.946,5,,19,4
+0.5-1.5km,high,纽约市政厅,New York City Hall,纽约市政厅,Q1065206,1.199,5,,19,4
+0.5-1.5km,high,翠贝卡,Tribeca,翠貝卡,Q766014,0.688,4,,19,4
+0.5-1.5km,mid,新学院,The New School,新学院,Q599316,1.43,3,,10,4
+0.5-1.5km,mid,CBGB,CBGB,CBGB,Q1022965,0.957,2,,10,4
+0.5-1.5km,mid,云杉街8号,8 Spruce,雲杉街8號,Q274916,1.395,3,,10,4
+0.5-1.5km,mid,诺利塔,Nolita,諾麗塔,Q568572,0.667,3,,10,4
+1.5-3.0km,high,斯塔滕岛渡轮,Staten Island Ferry,史泰登島渡輪,Q1048582,2.581,4,,29,4
+1.5-3.0km,high,曼哈顿大桥,Manhattan Bridge,曼哈頓大橋,Q125050,2.061,5,,29,4
+1.5-3.0km,high,曼哈顿下城,Lower Manhattan,曼哈顿下城,Q11253,1.912,5,,29,4
+1.5-3.0km,high,大都会人寿保险大楼,Metropolitan Life Insurance Company Tower,大都會人壽保險大樓,Q652452,2.372,4,,29,4
+1.5-3.0km,mid,叮砰巷,Tin Pan Alley,叮砰巷,Q1121111,2.721,3,,12,4
+1.5-3.0km,mid,交易广场20号,20 Exchange Place,交易广场20号,Q212831,2.053,3,,12,4
+1.5-3.0km,mid,世界贸易中心三号大楼,3 World Trade Center,世界貿易中心三號大樓,Q941908,1.556,3,,12,4
+1.5-3.0km,mid,派恩街70号,70 Pine Street,派恩街70号,Q262041,1.918,3,,12,4
+1.5-3.0km,low,世界贸易中心五号大楼,5 World Trade Center,世界貿易中心五號大樓,Q1586672,1.748,1,,1,1
+3.0-6.0km,high,长岛市,Long Island City,長島市,Q1190597,5.519,4,,46,4
+3.0-6.0km,high,西格拉姆大厦,Seagram Building,西格拉姆大厦,Q737484,4.694,4,,46,4
+3.0-6.0km,high,现代艺术博物馆,Museum of Modern Art,現代藝術博物館,Q188740,4.75,5,,46,4
+3.0-6.0km,high,茱莉亚学院,Juilliard School,朱利亞德學院,Q503246,5.866,4,,46,4
+3.0-6.0km,mid,新闻集团,News Corp,新闻集团,Q14289857,4.289,3,,25,4
+3.0-6.0km,mid,赫斯特大楼,Hearst Tower,赫斯特大樓,Q859452,5.08,3,,25,4
+3.0-6.0km,mid,宾州广场一号,One Penn Plaza,宾州广场一号,Q1138648,3.234,2,,25,4
+3.0-6.0km,mid,洛克菲勒大学,Rockefeller University,洛克菲勒大學,Q270272,5.914,2,,25,4
+3.0-6.0km,low,洛克菲勒基金会,Rockefeller Foundation,洛克菲勒基金會,Q862034,3.481,1,,3,3
+3.0-6.0km,low,埃克森大厦,1251 Avenue of the Americas,埃克森大厦,Q173498,4.468,1,,3,3
+3.0-6.0km,low,索罗大厦,Solow Building,索罗大厦,Q632019,5.101,1,,3,3

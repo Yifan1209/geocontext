@@ -1,0 +1,153 @@
+% ============================================================================
+%  References
+%
+%  ⚠️ 每个条目的 arXiv ID / 作者都必须核实过才能留在这里。
+%  踩过的坑一：2204.09807 被误当成 TransLocator，实际是一篇量子物理论文。
+%  踩过的坑二（2026-09-01 清理）：mc2 / viewdiag / hidden 三条是占位时凭印象
+%  编的标题与作者，本地不存在对应 PDF，无法核实 —— 已整条删除，正文相应论断
+%  也一并删掉。**宁可少引，不可编引。**
+%
+%  以下条目的 title/author 均从 lit/papers/ 下的 PDF 首页逐字抄录。
+% ============================================================================
+
+% VERIFIED via arXiv API
+@article{translocator,
+  title   = {Where We Are and What We're Looking At: Query Based Worldwide Image
+             Geo-localization Using Hierarchies and Scenes},
+  author  = {Clark, Brandon and Kerrigan, Alec and Kulkarni, Parth Parag and
+             Cepeda, Vicente Vivanco and Shah, Mubarak},
+  journal = {arXiv preprint arXiv:2303.04249},
+  year    = {2023}
+}
+
+% VERIFIED -- PDF 首页逐字核对；OpenReview J3DZ8HmbV2 为同一篇
+@article{earthwhere,
+  title   = {Where on Earth? A Vision-Language Benchmark for Probing Model
+             Geolocation Skills Across Scales},
+  author  = {Qian, Zhaofang and Chen, Hardy and Wang, Zeyu and Zhang, Li and
+             Wang, Zijun and Huang, Xiaoke and Liu, Hui and Tang, Xianfeng and
+             Zheng, Zeyu and Tu, Haoqin and Xie, Cihang and Zhou, Yuyin},
+  journal = {arXiv preprint arXiv:2510.10880},
+  year    = {2025}
+}
+
+% VERIFIED -- PDF 首页逐字核对
+@article{signpost,
+  title   = {SIGNPOST-Bench: Benchmarking Text--Vision Conflict Resolution in
+             Multimodal Large Language Models},
+  author  = {Li, Sirun and Liu, Minghao and Dai, Ling and Li, Yong and
+             Lyu, Haoxin and Zhou, Junting and Zhang, Fan},
+  journal = {arXiv preprint arXiv:2608.04244},
+  year    = {2026}
+}
+
+% VERIFIED -- PDF 首页逐字核对。注意正式标题不含 "KoreaGEO"，
+% 该名字是文中给 benchmark 起的名。
+@article{koreageo,
+  title   = {Toward Reliable VLM: A Fine-Grained Benchmark and Framework for
+             Exposure, Bias, and Inference in Korean Street Views},
+  author  = {Wang, Xiaonan and Shao, Bo and Kim, Hansaem},
+  journal = {arXiv preprint arXiv:2506.03371},
+  year    = {2025}
+}
+
+% VERIFIED -- PDF 首页逐字核对
+@article{hologeo,
+  title   = {HoloGeo: Mitigating Landmark Bias in Geo-localization via
+             Evidence-Driven Reasoning},
+  author  = {Zhou, Pengcheng and Liu, Xuanyu and Yin, Yanchen and Li, Bobo and
+             Wu, Shengqiong and Lee, Mong-Li and Hsu, Wynne},
+  journal = {arXiv preprint arXiv:2607.15255},
+  year    = {2026}
+}
+
+% VERIFIED -- PDF 首页逐字核对。我们的 forced_chain 清单即由此文的线索
+% 类别改编而来（刻意排除其 "meta information" 类，在本设定下等于答案泄漏）。
+@article{georc,
+  title   = {GeoRC: A Benchmark for Geolocation Reasoning Chains},
+  author  = {Talreja, Mohit and Diao, Joshua and James, Jim Thannikary and
+             Casapu, Radu and Santanam, Tejas and Mendes, Ethan and
+             Ritter, Alan and Xu, Wei and Hays, James},
+  journal = {arXiv preprint arXiv:2601.21278},
+  year    = {2026}
+}
+
+% VERIFIED -- PDF 首页逐字核对
+@article{imageo,
+  title   = {From Pixels to Places: A Systematic Benchmark for Evaluating Image
+             Geolocalization Ability in Large Language Models},
+  author  = {Li, Lingyao and Yu, Runlong and Hu, Qikai and Li, Bowei and
+             Deng, Min and Zhou, Yang and Jia, Xiaowei},
+  journal = {arXiv preprint arXiv:2508.01608},
+  year    = {2025}
+}
+
+% VERIFIED -- 用户 2026-08-30 指出此文确实存在
+@article{contextvqa,
+  title   = {Context-VQA: Towards Context-Aware and Purposeful Visual Question
+             Answering},
+  author  = {Naik, Nandita Shankar and Potts, Christopher and Kreiss, Elisa},
+  journal = {arXiv preprint arXiv:2307.15745},
+  year    = {2023}
+}
+
+% VERIFIED -- 信号检测论的标准出处。这两本是该领域的经典教科书/奠基作，
+% d' 与 criterion c 的定义、等方差高斯模型的假设都出自这里。
+@book{green1966,
+  title     = {Signal Detection Theory and Psychophysics},
+  author    = {Green, David M. and Swets, John A.},
+  publisher = {Wiley},
+  address   = {New York},
+  year      = {1966}
+}
+
+@book{macmillan2005,
+  title     = {Detection Theory: A User's Guide},
+  author    = {Macmillan, Neil A. and Creelman, C. Douglas},
+  publisher = {Lawrence Erlbaum Associates},
+  edition   = {2nd},
+  year      = {2005}
+}
+
+% VERIFIED -- log-linear（+0.5/+1）修正的出处。命中率或虚警率取到 0/1 时
+% z(.) 发散，这篇比较了几种修正方案并推荐 log-linear。
+@article{hautus1995,
+  title   = {Corrections for extreme proportions and their biasing effects on
+             estimated values of $d'$},
+  author  = {Hautus, Michael J.},
+  journal = {Behavior Research Methods, Instruments, \& Computers},
+  volume  = {27},
+  number  = {1},
+  pages   = {46--51},
+  year    = {1995}
+}
+
+% --- Location / metadata verification (verified against arXiv abstract pages, 2026-09-03) ---
+
+@article{imageguard,
+  title   = {Validating the Contextual Information of Outdoor Images for Photo Misuse Detection},
+  author  = {Li, Xiaopeng and Qu, Xianshan and Xu, Wenyuan and Wang, Song and Tong, Yan and Luo, Lannan},
+  journal = {arXiv preprint arXiv:1811.08951},
+  year    = {2018}
+}
+
+@article{timestamp,
+  title   = {Content-Aware Detection of Temporal Metadata Manipulation},
+  author  = {Padilha, Rafael and Salem, Tawfiq and Workman, Scott and Andal{\'o}, Fernanda A. and Rocha, Anderson and Jacobs, Nathan},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year    = {2022}
+}
+
+@article{dumapper,
+  title   = {DuMapper: Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps},
+  author  = {Fan, Miao and Huang, Jizhou and Wang, Haifeng},
+  journal = {arXiv preprint arXiv:2411.18073},
+  year    = {2024}
+}
+
+@article{geoxbench,
+  title   = {GeoX-Bench: Benchmarking Cross-View Geo-Localization and Pose Estimation Capabilities of Large Multimodal Models},
+  author  = {Zheng, Yushuo and Ying, Jiangyong and Duan, Huiyu and Li, Chunyi and Zhang, Zicheng and Liu, Jing and Liu, Xiaohong and Zhai, Guangtao},
+  journal = {arXiv preprint arXiv:2511.13259},
+  year    = {2025}
+}

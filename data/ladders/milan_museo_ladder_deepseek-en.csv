@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,米兰大学,University of Milan,米蘭大學,Q46210,0.905,4,,24,4
+0.5-1.5km,high,因德罗·蒙塔内利花园,Giardini Pubblici Indro Montanelli,Giardini Pubblici Indro Montanelli,Q169090,1.15,5,,24,4
+0.5-1.5km,high,布雷拉画廊,Pinacoteca di Brera,布雷拉画廊,Q150066,0.532,4,,24,4
+0.5-1.5km,high,圣盎博罗削圣殿,Basilica of Sant'Ambrogio,圣盎博罗削圣殿,Q1071570,1.181,4,,24,4
+0.5-1.5km,mid,市民竞技场,Arena Civica,Arena Civica,Q1088761,1.238,3,,31,4
+0.5-1.5km,mid,圣斯德望圣殿,Basilica di Santo Stefano Maggiore,圣斯德望圣殿,Q384032,0.765,3,,31,4
+0.5-1.5km,mid,帕莱斯特罗地铁站,Palestro (Milan Metro),Palestro,Q549621,1.033,3,,31,4
+0.5-1.5km,mid,圣乔治堂,San Giorgio al Palazzo,圣乔治堂,Q1255733,0.821,2,,31,4
+0.5-1.5km,low,诺悠翩雅,Loro Piana,诺悠翩雅,Q1686544,1.102,1,,2,2
+0.5-1.5km,low,圣彼得罗·因·杰萨泰教堂,San Pietro in Gessate,San Pietro in Gessate Church,Q901469,1.062,1,,2,2
+1.5-3.0km,high,圣欧斯托焦圣殿,Basilica of Sant'Eustorgio,圣欧斯托焦圣殿,Q672082,1.61,4,,8,4
+1.5-3.0km,high,垂直森林,Bosco Verticale,垂直森林,Q2501413,2.063,4,,8,4
+1.5-3.0km,high,威尼斯门站,Porta Venezia (Milan Metro),威尼斯门站,Q936357,1.569,4,,8,4
+1.5-3.0km,high,米兰中央车站,Milano Centrale railway station,米兰中央车站,Q801193,2.34,5,,8,4
+1.5-3.0km,mid,欧洲设计学院,Istituto Europeo di Design,欧洲设计学院,Q2534589,2.38,2,,14,4
+1.5-3.0km,mid,安联大厦,Allianz Tower,安聯大廈,Q3995200,2.75,3,,14,4
+1.5-3.0km,mid,国立科学技术博物馆,Museo Nazionale Scienza e Tecnologia Leonardo da Vinci,國立科學暨李奧納多·達文西科技博物館,Q947082,1.566,3,,14,4
+1.5-3.0km,mid,塞韦索河,Seveso River,塞韋索河,Q597454,2.821,2,,14,4
+3.0-6.0km,high,米兰理工大学,Polytechnic University of Milan,米蘭理工大學,Q392904,3.193,4,,4,4
+3.0-6.0km,high,圣西罗球场站,San Siro Stadio (Milan Metro),聖西路球場站,Q3947983,5.624,4,,4,4
+3.0-6.0km,high,洛雷托广场,Piazzale Loreto,洛雷托广场,Q525297,3.001,4,,4,4
+3.0-6.0km,high,圣西罗球场,San Siro,圣西罗球场,Q133566,5.242,5,,4,4
+3.0-6.0km,mid,米兰语言与传播自由大学,IULM University of Milan,IULM University of Milan,Q1077639,3.356,2,,6,4
+3.0-6.0km,mid,奥洛纳河,Olona River,奧洛納河,Q1075469,3.359,2,,6,4
+3.0-6.0km,mid,米兰比科卡大学,University of Milano-Bicocca,米兰比科卡大学,Q1073674,5.983,3,,6,4
+3.0-6.0km,mid,安联云体育馆,PalaLido,安联云体育馆,Q3889354,4.046,3,,6,4

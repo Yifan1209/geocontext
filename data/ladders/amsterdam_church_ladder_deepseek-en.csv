@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,瘦橋,Magere Brug,瘦橋,Q1344400,1.442,5,,33,4
+0.5-1.5km,high,北市场,Noordermarkt,北市场,Q2915920,1.03,4,,33,4
+0.5-1.5km,high,图申斯基剧场,Tuschinski Theatre,圖申斯基劇場,Q599272,1.244,4,,33,4
+0.5-1.5km,high,滑铁卢广场站,Waterlooplein metro station,滑鐵盧廣場站,Q2486332,1.074,5,,33,4
+0.5-1.5km,mid,摩西与亚伦教堂,Mozes en Aäronkerk,摩西与亚伦教堂,Q1125814,0.951,3,,27,4
+0.5-1.5km,mid,贝居安会院,Begijnhof,贝居安会院,Q1629214,1.091,3,,27,4
+0.5-1.5km,mid,阿拉德·皮尔逊博物馆,Allard Pierson Museum,Allard Pierson,Q130736773,1.016,2,,27,4
+0.5-1.5km,mid,阿提斯微生物博物館,Micropia,阿提斯微生物博物館,Q18169481,1.327,2,,27,4
+0.5-1.5km,low,,Athenaeum Illustre,Athenaeum Illustre of Amsterdam,Q505639,0.873,1,,1,1
+1.5-3.0km,high,王子运河,Prinsengracht,王子運河,Q841583,1.526,4,,18,4
+1.5-3.0km,high,运河区,Grachtengordel,運河區,Q478707,1.532,4,,18,4
+1.5-3.0km,high,美國酒店,"American Hotel, Amsterdam",美國酒店,Q2248135,1.977,4,,18,4
+1.5-3.0km,high,韦斯普广场站,Weesperplein metro station,韦斯普广场站,Q7979626,1.773,4,,18,4
+1.5-3.0km,mid,辛厄尔运河,Singelgracht,辛厄爾運河,Q2788553,1.549,3,,17,4
+1.5-3.0km,mid,范隆博物馆,Museum Van Loon,範隆博物館,Q2191110,1.573,3,,17,4
+1.5-3.0km,mid,荷兰中央银行,De Nederlandsche Bank,荷兰中央银行,Q1180205,1.962,2,,17,4
+1.5-3.0km,mid,,Nieuwendam,Nieuwendam,Q2234321,2.79,3,,17,4
+3.0-6.0km,high,蟒蛇桥,Python Bridge,Python Bridge,Q1912236,3.269,4,,8,4
+3.0-6.0km,high,阿姆斯特丹南站,Amsterdam Zuid station,阿姆斯特丹南站,Q49872,4.599,4,,8,4
+3.0-6.0km,high,冯德尔公园,Vondelpark,馮德爾公園,Q1419691,3.209,5,,8,4
+3.0-6.0km,high,阿姆斯特丹自由大学,Vrije Universiteit Amsterdam,阿姆斯特丹自由大学,Q1065414,5.329,4,,8,4
+3.0-6.0km,mid,北站,Noord metro station,北站,Q3007607,3.503,3,,19,4
+3.0-6.0km,mid,隔离器路站,Isolatorweg metro station,隔離器路站,Q2146949,4.015,3,,19,4
+3.0-6.0km,mid,南阿克西斯区,Zuidas,南阿克西斯区,Q2984693,4.678,3,,19,4
+3.0-6.0km,mid,伊格内修斯文理中学,Ignatius Gymnasium,伊格內修斯文理中學,Q2042382,3.522,2,,19,4
+3.0-6.0km,low,荷兰数学和计算机科学研究学会,Centrum Wiskunde & Informatica,荷兰数学和计算机科学研究学会,Q1054410,4.114,1,,1,1

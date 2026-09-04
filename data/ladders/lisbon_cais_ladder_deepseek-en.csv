@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,马丁·莫尼斯站,Martim Moniz Station,馬汀·莫尼斯站,Q473021,1.437,4,,30,4
+0.5-1.5km,high,光复广场站,Restauradores Station,光復廣場站,Q637915,1.038,5,,30,4
+0.5-1.5km,high,阿尔法马,Alfama,阿尔法马,Q985517,1.211,5,,30,4
+0.5-1.5km,high,葡萄牙共和国议会,Assembly of the Republic (Portugal),葡萄牙共和国议会,Q740564,1.056,4,,30,4
+0.5-1.5km,mid,圣路济亚堂,Igreja de Santa Luzia,圣路济亚堂 (里斯本),Q5994160,1.418,3,,10,4
+0.5-1.5km,mid,葡萄牙銀行,Banco de Portugal,葡萄牙銀行,Q378372,0.664,2,,10,4
+0.5-1.5km,mid,圣多明我堂,Igreja de São Domingos,圣多明我堂,Q1977280,1.115,3,,10,4
+0.5-1.5km,mid,里斯本市政厅,Lisbon City Hall,里斯本市政廳,Q20059161,0.613,3,,10,4
+0.5-1.5km,low,葡萄牙宪法法庭,Constitutional Court (Portugal),葡萄牙宪法法庭,Q138324,0.912,1,,1,1
+1.5-3.0km,high,大马路站,Avenida Station,大馬路站,Q430125,1.551,4,,17,4
+1.5-3.0km,high,埃斯特雷拉,"Estrela, Lisbon",Estrela,Q423043,1.563,4,,17,4
+1.5-3.0km,high,国家先贤祠,Church of Santa Engrácia,国家先贤祠,Q1601019,2.002,4,,17,4
+1.5-3.0km,high,圣恩格拉西亚教堂,Santa Engrácia Church,聖恩格拉西亞教堂,Q612059,2.635,4,,17,4
+1.5-3.0km,mid,坎普德奥里克,Campo de Ourique,Campo de Ourique,Q2883431,2.158,3,,15,4
+1.5-3.0km,mid,阿尔坎塔拉-特拉火车站,Alcântara-Terra railway station,阿尔坎塔拉-特拉火车站,Q801106,2.45,3,,15,4
+1.5-3.0km,mid,法多博物馆,Fado Museum,Fado Museum,Q1954395,1.612,3,,15,4
+1.5-3.0km,mid,坎波利德,Campolide,Campolide,Q1031527,2.754,3,,15,4
+3.0-6.0km,high,帝国广场,Praça do Império,帝国广场,Q1483993,5.513,4,,30,4
+3.0-6.0km,high,七河车站,Sete Rios railway station,七河車站,Q801112,4.231,4,,30,4
+3.0-6.0km,high,阿爾瓦拉德站,Alvalade Station,阿爾瓦拉德站,Q1690706,5.264,4,,30,4
+3.0-6.0km,high,动物园站,Jardim Zoológico Station,動物園站,Q2037057,4.475,4,,30,4
+3.0-6.0km,mid,贝拉多收藏博物馆,Berardo Collection Museum,Berardo Collection Museum,Q2191491,5.618,2,,38,4
+3.0-6.0km,mid,卢索福纳大学,Universidade Lusófona,Universidade Lusófona,Q7894386,5.797,2,,38,4
+3.0-6.0km,mid,里斯本中央清真寺,Central Mosque of Lisbon,里斯本中央清真寺,Q3115759,3.473,3,,38,4
+3.0-6.0km,mid,艺术、建筑与科技博物馆,"Museum of Art, Architecture and Technology",藝術、建築與科技博物館,Q27522479,4.353,3,,38,4
+3.0-6.0km,low,葡萄牙国家统计局,Instituto Nacional de Estatística (Portugal),葡萄牙國家統計研究所,Q1412194,3.667,1,,4,4
+3.0-6.0km,low,葡萄牙国家档案馆,Torre do Tombo National Archive,葡萄牙國家檔案館,Q1769248,5.492,1,,4,4
+3.0-6.0km,low,葡萄牙造币厂,Imprensa Nacional-Casa da Moeda,葡萄牙造币厂,Q592584,3.441,1,,4,4
+3.0-6.0km,low,蒙三托赛道,Circuito de Monsanto,蒙三托賽道,Q174062,5.252,1,,4,4

@@ -1,0 +1,26 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,义安城,Ngee Ann City,義安城,Q3133228,0.613,5,,16,4
+0.5-1.5km,high,多美歌站,Dhoby Ghaut MRT station,多美歌站,Q3234475,0.761,5,,16,4
+0.5-1.5km,high,福康宁,Fort Canning Hill,福康寧,Q1438470,1.114,4,,16,4
+0.5-1.5km,high,克拉码头,Clarke Quay,克拉码头,Q1095828,1.401,5,,16,4
+0.5-1.5km,mid,圣诺犹太庙,Chesed-El Synagogue,圣诺犹太庙,Q1110186,0.574,2,,6,4
+0.5-1.5km,mid,伊丽莎白医院,Mount Elizabeth Hospital,伊丽莎白医院,Q1320916,0.624,3,,6,4
+0.5-1.5km,mid,亚米尼亚教堂,"Armenian Church, Singapore",亚米尼亚教堂,Q2660779,1.412,2,,6,4
+0.5-1.5km,mid,明古连回教堂,Masjid Bencoolen,Masjid Bencoolen,Q6783333,1.202,2,,6,4
+1.5-3.0km,high,滨海中心站,Esplanade MRT station,滨海中心站,Q1089392,2.003,5,,53,4
+1.5-3.0km,high,新加坡中央医院,Singapore General Hospital,新加坡中央醫院,Q7522983,2.484,4,,53,4
+1.5-3.0km,high,艺术科学博物馆,ArtScience Museum,藝術科學博物館,Q2744014,2.738,5,,53,4
+1.5-3.0km,high,莱佛士酒店,Raffles Hotel,萊佛士酒店,Q1538837,1.828,5,,53,4
+1.5-3.0km,mid,资金大厦,Capital Tower,資金大廈,Q2614510,2.741,3,,30,4
+1.5-3.0km,mid,,Masjid Malabar,Masjid Malabar,Q2477275,2.368,2,,30,4
+1.5-3.0km,mid,内政部,Ministry of Home Affairs,內政部,Q4294312,2.677,2,,30,4
+1.5-3.0km,mid,阿尔阿布拉回教堂,Masjid Al-Abrar,阿尔阿布拉回教堂,Q4022275,2.418,2,,30,4
+3.0-6.0km,high,碧山,"Bishan, Singapore",碧山,Q3249777,5.751,5,,39,4
+3.0-6.0km,high,圣淘沙,Sentosa,圣淘沙,Q870844,5.925,5,,39,4
+3.0-6.0km,high,滨海湾花园,Gardens by the Bay,濱海灣花園,Q630135,3.488,5,,39,4
+3.0-6.0km,high,滨海堤坝,Marina Barrage,濱海堤壩,Q6763788,4.23,5,,39,4
+3.0-6.0km,mid,莲山双林禅寺,Siong Lim Temple,莲山双林禅寺,Q2985111,3.895,3,,25,4
+3.0-6.0km,mid,国家初级学院,National Junior College,國家初級學院,Q1507273,5.096,3,,25,4
+3.0-6.0km,mid,明地迷亚站,Bendemeer MRT station,明地迷亚站,Q11005410,3.057,3,,25,4
+3.0-6.0km,mid,西乐索炮台,Fort Siloso,西乐索炮台,Q4419293,5.769,3,,25,4
+3.0-6.0km,low,,Masjid Ahmad,Masjid Ahmad,Q6783326,5.864,1,,1,1

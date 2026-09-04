@@ -1,0 +1,23 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,巴黎老佛爷百货公司,Galeries Lafayette Paris Haussmann,巴黎老佛爺百貨公司,Q218613,1.23,4,,5,4
+0.5-1.5km,high,巴黎歌劇院,Palais Garnier,巴黎歌劇院,Q187840,1.418,5,,5,4
+0.5-1.5km,high,巴黎圣拉扎尔车站,Gare Saint-Lazare,巴黎圣拉扎尔车站,Q747506,1.264,5,,5,4
+0.5-1.5km,high,女神游乐厅,Folies Bergère,女神遊樂廳,Q330375,1.207,4,,5,4
+1.5-3.0km,high,奥林匹亚音乐厅,Olympia (Paris),奥林匹亚音乐厅,Q915451,1.682,4,,22,4
+1.5-3.0km,high,卢浮宫金字塔,Louvre Pyramid,卢浮宫金字塔,Q13397,2.562,5,,22,4
+1.5-3.0km,high,协和广场,Place de la Concorde,协和广场,Q189503,2.382,5,,22,4
+1.5-3.0km,high,巴黎东站,Gare de l'Est,巴黎东站,Q757180,1.735,5,,22,4
+1.5-3.0km,mid,卡鲁塞尔凯旋门,Arc de Triomphe du Carrousel,卡鲁塞尔凯旋门,Q631104,2.513,3,,11,4
+1.5-3.0km,mid,马德莱娜教堂,"La Madeleine, Paris",马德莱娜教堂,Q330564,1.846,3,,11,4
+1.5-3.0km,mid,波旁宫,Palais Bourbon,波旁宫,Q936633,2.818,3,,11,4
+1.5-3.0km,mid,法国国民议会,National Assembly (France),法國國民議會,Q193582,2.833,2,,11,4
+3.0-6.0km,high,战神广场,Champ de Mars,戰神廣場,Q217925,4.26,5,,42,4
+3.0-6.0km,high,索邦大学,Sorbonne University,索邦大学,Q41497113,3.715,5,,42,4
+3.0-6.0km,high,圣日耳曼德佩修道院,Saint-Germain-des-Prés church,圣日耳曼德佩修道院,Q334186,3.358,5,,42,4
+3.0-6.0km,high,埃菲尔铁塔,Eiffel Tower,埃菲尔铁塔,Q243,4.278,5,,42,4
+3.0-6.0km,mid,勒普雷圣热尔韦,Le Pré-Saint-Gervais,勒普雷圣热尔韦,Q175999,4.819,2,,47,4
+3.0-6.0km,mid,萨尔佩特里耶尔医院,Pitié-Salpêtrière Hospital,萨尔佩特里耶尔医院,Q939883,5.587,3,,47,4
+3.0-6.0km,mid,巴黎高等物理化工学院,ESPCI Paris,巴黎高等物理化工学院,Q273638,4.783,3,,47,4
+3.0-6.0km,mid,莱利拉,Les Lilas,莱利拉,Q256004,5.79,3,,47,4
+3.0-6.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,5.884,1,,2,2
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,5.138,1,,2,2

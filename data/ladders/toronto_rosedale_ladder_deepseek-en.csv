@@ -1,0 +1,31 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,多伦多参考图书馆,Toronto Reference Library,多倫多參考書圖書館,Q7826494,0.536,4,,16,4
+0.5-1.5km,high,布罗尔－央街站,Bloor–Yonge station,布羅爾－央街站,Q885413,0.672,5,,16,4
+0.5-1.5km,high,约克维尔,"Yorkville, Toronto",约克维尔,Q1022897,0.716,4,,16,4
+0.5-1.5km,high,安奈克斯区,The Annex,兼併區,Q3048712,1.436,4,,16,4
+0.5-1.5km,mid,罗特曼管理学院,Rotman School of Management,多伦多大学罗特曼管理学院,Q7370553,1.483,2,,12,4
+0.5-1.5km,mid,多伦多巴塔鞋博物馆,Bata Shoe Museum,多倫多巴塔鞋博物館,Q810693,1.382,3,,12,4
+0.5-1.5km,mid,多伦多四季酒店,Four Seasons Hotel and Residences Toronto,多倫多四季酒店,Q593320,0.503,3,,12,4
+0.5-1.5km,mid,多伦多大学三一学院,"Trinity College, Toronto",多倫多大學三一學院,Q3551685,1.347,3,,12,4
+0.5-1.5km,low,,One Bloor West,One Bloor West,Q28163699,0.74,1,,1,1
+1.5-3.0km,high,多伦多都会大学,Toronto Metropolitan University,多倫多都會大學,Q611723,2.192,4,,27,4
+1.5-3.0km,high,多伦多市政厅,Toronto City Hall,多倫多市政廳,Q1093941,2.599,5,,27,4
+1.5-3.0km,high,圣帕特里克站,St. Patrick Station,聖柏德烈站,Q1041132,2.407,4,,27,4
+1.5-3.0km,high,内森·菲利普斯广场,Nathan Phillips Square,内森·菲利普斯广场,Q2915521,2.74,5,,27,4
+1.5-3.0km,mid,西奈山医院,Mount Sinai Hospital,西乃山醫院,Q13650874,2.112,3,,27,4
+1.5-3.0km,mid,圣克莱尔西站,St. Clair West Station,聖克萊西站,Q1041505,2.291,3,,27,4
+1.5-3.0km,mid,巴瑟斯特街,Bathurst Street,巴佛士街,Q4869136,2.119,3,,27,4
+1.5-3.0km,mid,基弗犹太教堂,Kiever Synagogue,Kiever Synagogue,Q6405720,2.776,2,,27,4
+1.5-3.0km,low,,Anshei Minsk,Anshei Minsk,Q4770667,2.615,1,,2,2
+1.5-3.0km,low,多伦多磁学和气象学观测站,Toronto Magnetic and Meteorological Observatory,多伦多磁学和气象学观测站,Q7826439,1.553,1,,2,2
+3.0-6.0km,high,比利·毕晓普多伦多市机场,Billy Bishop Toronto City Airport,比利·畢曉普多倫多市機場,Q117708,5.479,4,,29,4
+3.0-6.0km,high,多伦多联合车站,Union Station (Toronto),多倫多聯合車站,Q511316,3.527,5,,29,4
+3.0-6.0km,high,冰球名人堂,Hockey Hall of Fame,冰球名人堂,Q1136687,3.406,4,,29,4
+3.0-6.0km,high,皇后码头站,Queens Quay station,皇后碼頭站,Q3414031,3.995,4,,29,4
+3.0-6.0km,mid,费尔班克站,Fairbank station,Fairbank,Q18150888,5.381,2,,39,4
+3.0-6.0km,mid,登打士西站,Dundas West station,登打士西站,Q1041603,5.615,3,,39,4
+3.0-6.0km,mid,,One King West Hotel & Residence,One King Street West,Q2024006,3.189,2,,39,4
+3.0-6.0km,mid,索尼演藝中心,Meridian Hall (Toronto),索尼演藝中心,Q2302468,3.462,3,,39,4
+3.0-6.0km,low,,IIHF Hall of Fame,IIHF Hall of Fame,Q58818,3.406,1,,3,3
+3.0-6.0km,low,安大略法语大学,Université de l'Ontario français,安省法文大學,Q83804736,3.889,1,,3,3
+3.0-6.0km,low,贾米清真寺,Jami Mosque,Jami Mosque,Q6146372,5.903,1,,3,3

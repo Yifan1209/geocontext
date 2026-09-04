@@ -1,0 +1,34 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,河内旗台,Flag Tower of Hanoi,河内旗台,Q864752,0.502,4,,18,4
+0.5-1.5km,high,一柱寺,One Pillar Pagoda,一柱寺,Q1186292,0.708,5,,18,4
+0.5-1.5km,high,胡志明主席故居,Presidential Palace Historical Site,胡志明主席故居,Q5370392,0.932,5,,18,4
+0.5-1.5km,high,胡志明纪念堂,Ho Chi Minh Mausoleum,胡志明纪念堂,Q874234,0.772,5,,18,4
+0.5-1.5km,mid,B-52胜利博物馆,B-52 Victory Museum,B-52 Victory Museum,Q10743280,1.202,3,,23,4
+0.5-1.5km,mid,河内师范大学,Vietnam University of Fine Arts,河内师范大学,Q3815307,1.112,2,,23,4
+0.5-1.5km,mid,南门,Cửa Nam,Cửa Nam,Q10752772,0.655,3,,23,4
+0.5-1.5km,mid,,Cát Linh,Cát Linh,Q11840119,1.056,3,,23,4
+0.5-1.5km,low,越南原子能研究所,Vietnam Atomic Energy Institute,越南原子能研究所,Q7928490,1.4,1,,1,1
+1.5-3.0km,high,龙编桥,Long Biên Bridge,龍編橋,Q2670019,2.817,5,,29,4
+1.5-3.0km,high,钱场街,Tràng Tiền Street,钱场街,Q10807155,2.045,4,,29,4
+1.5-3.0km,high,钱场广场,Trang Tien Plaza,Trang Tien Plaza,Q7833421,1.861,4,,29,4
+1.5-3.0km,high,河内乐天中心,Lotte Center Hanoi,河内乐天中心,Q6684904,2.437,5,,29,4
+1.5-3.0km,mid,国家电影中心,National Cinema Center,National Cinema Center,Q36176312,2.596,3,,23,4
+1.5-3.0km,mid,七亩湖,Bảy Mẫu Lake,七畝湖,Q10771941,2.178,2,,23,4
+1.5-3.0km,mid,朱文安高中,Chu Văn An High School,Pomelo高中,Q5115169,1.516,2,,23,4
+1.5-3.0km,mid,北部府,Tonkin Palace,北部府,Q10743330,2.039,3,,23,4
+1.5-3.0km,low,大罗城,Đại La,大羅城,Q8079948,1.9,1,,4,4
+1.5-3.0km,low,越南银行业协会,Vietnam Banking Association,越南银行业协会,Q10771894,2.45,1,,4,4
+1.5-3.0km,low,努尔清真寺,Al-Noor Mosque (Hanoi),Al-Noor Mosque,Q124982776,1.511,1,,4,4
+1.5-3.0km,low,越南考古研究所,Vietnam Institute of Archaeology,Vietnam Institute of Archaeology,Q7928518,2.359,1,,4,4
+3.0-6.0km,high,河内医科大学,Hanoi Medical University,河内医科大学,Q4383725,3.039,4,,19,4
+3.0-6.0km,high,廊站,Láng Station,廊站,Q56670517,3.344,4,,19,4
+3.0-6.0km,high,上亭站,Thuong Dinh station,上亭站,Q56670510,4.355,4,,19,4
+3.0-6.0km,high,清仁,Thanh Nhàn,Thanh Nhàn,Q10824852,3.172,4,,19,4
+3.0-6.0km,mid,河内联合国国际学校,United Nations International School of Hanoi,United Nations International School of Hanoi,Q7888445,5.862,2,,29,4
+3.0-6.0km,mid,河内-阿姆斯特丹高中,Hanoi–Amsterdam High School,Hanoiamsterdam High School,Q29712,4.687,3,,29,4
+3.0-6.0km,mid,越南科技学院,Vietnam Academy of Science and Technology,越南科技学院,Q7928484,4.153,3,,29,4
+3.0-6.0km,mid,电力大学,Electric Power University,電力大學,Q5357466,5.612,2,,29,4
+3.0-6.0km,low,越南数学高等研究院,Vietnam Institute for Advanced Study in Mathematics,Vietnam Institute for Advanced Study in Mathematics,Q49054837,3.481,1,,4,4
+3.0-6.0km,low,白梅机场,Bach Mai Airfield,白梅機場,Q2886528,3.71,1,,4,4
+3.0-6.0km,low,,Institut de la Francophonie pour l'Informatique,Institut de la Francophonie pour l'Informatique,Q2496369,3.211,1,,4,4
+3.0-6.0km,low,密码技术学院,Academy of Cryptography Techniques,Academy of Cryptography Techniques,Q10771890,3.612,1,,4,4

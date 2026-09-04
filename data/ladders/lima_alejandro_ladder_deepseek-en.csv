@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,加马拉商业中心,Gamarra Commercial Emporium,Gamarra Commercial Emporium,Q1492863,0.923,5,,6,4
+0.5-1.5km,high,利马保留公园,Park of the Reserve,Park of the Reserve,Q5201334,1.164,5,,6,4
+0.5-1.5km,high,,Arriola metro station,Nicolás Arriola Station,Q6042096,1.487,4,,6,4
+0.5-1.5km,high,秘鲁国家体育场,Estadio Nacional (1897),秘魯國家體育場,Q3733343,1.189,5,,6,4
+0.5-1.5km,mid,曼科·卡帕克广场,Plaza Manco Cápac,Plaza Manco Cápac,Q34567067,0.931,3,,6,4
+0.5-1.5km,mid,加马拉街,Jirón Gamarra,Jirón Gamarra,Q26207846,1.106,3,,6,4
+0.5-1.5km,mid,,San Jorge Prison,Penal San Jorge,Q122753363,1.458,2,,6,4
+0.5-1.5km,mid,圣贝娅特丽斯,Santa Beatriz,Santa Beatriz,Q6120256,1.113,3,,6,4
+1.5-3.0km,high,法兰西广场,Plaza Francia,Plaza Francia,Q92176353,2.344,4,,55,4
+1.5-3.0km,high,利马展览公园,Lima International Exhibition,Lima International Exhibition,Q30622411,1.788,4,,55,4
+1.5-3.0km,high,玻利瓦尔广场,Plaza Bolívar,Plaza Bolívar,Q6079438,2.353,5,,55,4
+1.5-3.0km,high,利马喜来登历史中心酒店,Sheraton Lima Historic Center,Sheraton Lima Hotel & Convention Center,Q6127014,1.972,5,,55,4
+1.5-3.0km,mid,,Fort of Santa Catalina,Fort of Santa Catalina,Q5870608,1.5,3,,58,4
+1.5-3.0km,mid,德国钟楼,"German Tower, Lima",Torre Alemana,Q17631827,1.849,3,,58,4
+1.5-3.0km,mid,利马坦博大厦,Edificio Limatambo,Edificio Limatambo,Q94528738,2.464,2,,58,4
+1.5-3.0km,mid,普诺街,Jirón Puno,Jirón Puno,Q42847373,2.015,3,,58,4
+1.5-3.0km,low,,Banco Comercial,Banco Comercial,Q123159337,2.136,1,,1,1
+3.0-6.0km,high,纳萨雷纳斯圣殿,Sanctuary and Monastery of Las Nazarenas,Sanctuary of Las Nazarenas,Q5201720,3.003,4,,22,4
+3.0-6.0km,high,国旗广场,Plaza de la Bandera,"Plaza de la bandera, Lima",Q93477608,4.169,4,,22,4
+3.0-6.0km,high,瓦卡瓦亚马尔卡,Huaca Huallamarca,Huaca Huallamarca,Q9005094,3.707,4,,22,4
+3.0-6.0km,high,国家博物馆,Museo de la Nación,国家博物馆,Q1954293,3.056,4,,22,4
+3.0-6.0km,mid,劳尔·波拉斯·巴雷内切亚研究所,Raúl Porras Barrenechea Institute,Raúl Porras Barrenechea Institute,Q16578983,5.563,2,,43,4
+3.0-6.0km,mid,利马乡村俱乐部酒店,Country Club Lima Hotel,Country Club Lima Hotel,Q5400157,4.332,3,,43,4
+3.0-6.0km,mid,利马高尔夫俱乐部,Lima Golf Club,Lima Golf Club,Q5976473,4.341,2,,43,4
+3.0-6.0km,mid,国家肿瘤疾病研究所,National Institute of Neoplastic Diseases,National Institute of Neoplastic Diseases,Q5917528,5.55,2,,43,4
+3.0-6.0km,low,乔卡文托大厦,Chocavento Tower,Chocavento Tower,Q5103499,3.242,1,,4,4
+3.0-6.0km,low,,Circolo Sportivo Italiano,Circolo Sportivo Italiano,Q4115664,3.484,1,,4,4
+3.0-6.0km,low,圣托马斯·阿奎那学校,"Saint Thomas Aquinas School, Lima","Saint Thomas Aquinas School, Lima",Q75135772,3.021,1,,4,4
+3.0-6.0km,low,利马坦博国际机场,Limatambo International Airport,Limatambo International Airport,Q6548902,3.384,1,,4,4

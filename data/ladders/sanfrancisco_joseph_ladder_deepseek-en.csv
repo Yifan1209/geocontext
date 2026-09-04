@@ -1,0 +1,34 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,电报山,Telegraph Hill,电报山,Q1283754,1.254,4,,9,4
+0.5-1.5km,high,俄罗斯山,Russian Hill,俄罗斯山,Q339055,0.544,4,,9,4
+0.5-1.5km,high,北滩（旧金山）,"North Beach, San Francisco",北滩 (旧金山),Q2000502,1.045,4,,9,4
+0.5-1.5km,high,伦巴底街,Lombard Street,倫巴底街,Q930276,0.518,5,,9,4
+0.5-1.5km,mid,榛子街,Filbert Street (San Francisco),榛子街,Q5448303,0.912,3,,5,4
+0.5-1.5km,mid,旧金山缆车博物馆,San Francisco Cable Car Museum,旧金山缆车博物馆,Q5496957,1.498,3,,5,4
+0.5-1.5km,mid,圣伯多禄圣保禄教堂,Saints Peter and Paul Church,圣伯多禄圣保禄教堂,Q251522,0.942,3,,5,4
+0.5-1.5km,mid,范尼斯大道,Van Ness Avenue,雲尼斯大道,Q3554425,0.685,3,,5,4
+0.5-1.5km,low,杰里迈亚·奥布莱恩号,SS Jeremiah O'Brien,歐布萊恩號,Q2464180,1.069,1,,1,1
+1.5-3.0km,high,莫斯康尼会展中心,Moscone Center,馬士孔尼會展中心,Q1752484,2.904,4,,33,4
+1.5-3.0km,high,恶魔岛联邦监狱,Alcatraz Federal Penitentiary,阿爾卡特拉斯聯邦監獄,Q1142661,2.284,4,,33,4
+1.5-3.0km,high,Salesforce塔,Salesforce Tower,Salesforce塔,Q14684154,2.68,4,,33,4
+1.5-3.0km,high,蒙哥马利街站,Montgomery Street station,蒙哥馬利街站,Q5411429,2.427,4,,33,4
+1.5-3.0km,mid,麦克森广场,McKesson Plaza,McKesson Plaza,Q252160,2.437,2,,25,4
+1.5-3.0km,mid,非裔移民博物馆,Museum of the African Diaspora,非裔移民博物馆,Q6941067,2.697,3,,25,4
+1.5-3.0km,mid,加利福尼亚街,California Street,加利福尼亚街,Q719152,1.757,3,,25,4
+1.5-3.0km,mid,加利福尼亚州最高法院,Supreme Court of California,加利福尼亞州最高法院,Q2629503,2.893,2,,25,4
+1.5-3.0km,low,市场街电影院,Market Street Cinema,市街電影院,Q21190968,2.899,1,,10,4
+1.5-3.0km,low,,One Embarcadero Center,One Embarcadero Center,Q7092603,2.144,1,,10,4
+1.5-3.0km,low,市场街425号,425 Market Street,425 Market Street,Q2545137,2.51,1,,10,4
+1.5-3.0km,low,加利福尼亚街580号,580 California Street,580 California Street,Q2817725,2.014,1,,10,4
+3.0-6.0km,high,加利福尼亚州科学院,California Academy of Sciences,加利福尼亚州科学院,Q965731,5.823,4,,31,4
+3.0-6.0km,high,金银岛,"Treasure Island, San Francisco",金銀島,Q778565,4.638,4,,31,4
+3.0-6.0km,high,卡斯特罗区,"Castro District, San Francisco",卡斯楚街,Q956169,5.28,5,,31,4
+3.0-6.0km,high,海特-阿什伯里,Haight-Ashbury,海特-阿什伯里,Q1027700,4.751,5,,31,4
+3.0-6.0km,mid,旧金山铸币局,San Francisco Mint,旧金山铸币局,Q3109253,4.124,2,,24,4
+3.0-6.0km,mid,圣方济各传教站,Mission San Francisco de Asís,圣方济各传教站,Q1000321,4.745,3,,24,4
+3.0-6.0km,mid,旧金山洲际酒店,InterContinental San Francisco,InterContinental San Francisco,Q3153055,3.02,3,,24,4
+3.0-6.0km,mid,粉红三角公园,Pink Triangle Park,Pink Triangle Park,Q1893618,5.148,2,,24,4
+3.0-6.0km,low,阿爾瓦德湖橋,Alvord Lake Bridge,阿爾瓦德湖橋,Q4738344,5.243,1,,4,4
+3.0-6.0km,low,卡斯特罗相机店,Castro Camera,Castro Camera,Q3272800,5.391,1,,4,4
+3.0-6.0km,low,美国联邦第九巡回上诉法院,United States Court of Appeals for the Ninth Circuit,美国联邦第九巡回上诉法院,Q2358778,3.048,1,,4,4
+3.0-6.0km,low,互联网档案馆,Internet Archive,互聯網檔案館,Q461,5.354,1,,4,4

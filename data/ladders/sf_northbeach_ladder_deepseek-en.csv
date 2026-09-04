@@ -1,0 +1,34 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,马克·霍普金斯酒店,Mark Hopkins Hotel,马克·霍普金斯酒店,Q6768099,0.948,4,,24,4
+0.5-1.5km,high,内河码头,Embarcadero,内河码头,Q1027626,1.185,4,,24,4
+0.5-1.5km,high,旧金山唐人街,"Chinatown, San Francisco",旧金山唐人街,Q1073644,0.607,5,,24,4
+0.5-1.5km,high,蒙哥马利街站,Montgomery Street station,蒙哥馬利街站,Q5411429,1.329,4,,24,4
+0.5-1.5km,mid,旧金山艺术学院,San Francisco Art Institute,舊金山藝術學院,Q586735,0.81,3,,16,4
+0.5-1.5km,mid,旧圣玛丽大教堂,Old St. Mary's Cathedral,Old Saint Mary's Cathedral,Q7084891,0.864,3,,16,4
+0.5-1.5km,mid,,Four Embarcadero Center,Four Embarcadero Center,Q3056626,1.24,2,,16,4
+0.5-1.5km,mid,美国艺术剧院,American Conservatory Theater,美國藝術劇院,Q463781,1.448,3,,16,4
+0.5-1.5km,low,市场街425号,425 Market Street,425 Market Street,Q2545137,1.368,1,,9,4
+0.5-1.5km,low,加利福尼亚街580号,580 California Street,580 California Street,Q2817725,0.903,1,,9,4
+0.5-1.5km,low,潘帕尼托号,USS Pampanito,USS Pampanito,Q2548504,1.288,1,,9,4
+0.5-1.5km,low,,650 California Street,650 California Street,Q4642077,0.874,1,,9,4
+1.5-3.0km,high,跑华街站,Powell Street station,跑華街站,Q7236098,1.781,5,,26,4
+1.5-3.0km,high,旧金山公共图书馆,San Francisco Public Library,旧金山公共图书馆,Q2901530,2.415,4,,26,4
+1.5-3.0km,high,Salesforce塔,Salesforce Tower,Salesforce塔,Q14684154,1.54,4,,26,4
+1.5-3.0km,high,旧金山,San Francisco,舊金山,Q62,2.927,5,,26,4
+1.5-3.0km,mid,旧金山艺术大学,Academy of Art University,旧金山艺术大学,Q2822225,1.537,2,,19,4
+1.5-3.0km,mid,范尼斯大道,Van Ness Avenue,雲尼斯大道,Q3554425,1.784,3,,19,4
+1.5-3.0km,mid,旧金山联邦大楼,San Francisco Federal Building,舊金山聯邦大樓,Q7414007,2.331,2,,19,4
+1.5-3.0km,mid,千禧塔,Millennium Tower,千禧塔,Q1833555,1.566,3,,19,4
+1.5-3.0km,low,,C.A. Thayer,C.A. Thayer,Q1022336,1.509,1,,3,3
+1.5-3.0km,low,美国联邦第九巡回上诉法院,United States Court of Appeals for the Ninth Circuit,美国联邦第九巡回上诉法院,Q2358778,2.239,1,,3,3
+1.5-3.0km,low,先驱纪念碑,Pioneer Monument,Pioneer Monument,Q14683658,2.396,1,,3,3
+3.0-6.0km,high,市场街,Market Street,市场街,Q248284,3.13,5,,22,4
+3.0-6.0km,high,海特-阿什伯里,Haight-Ashbury,海特-阿什伯里,Q1027700,4.715,5,,22,4
+3.0-6.0km,high,16街米慎站,16th Street Mission station,16街米慎站,Q4552246,4.032,4,,22,4
+3.0-6.0km,high,恶魔岛,Alcatraz Island,阿爾卡特拉斯島,Q131354,3.21,5,,22,4
+3.0-6.0km,mid,多帕奇,"Dogpatch, San Francisco",多帕奇,Q5288411,4.656,3,,23,4
+3.0-6.0km,mid,华特迪士尼家族博物馆,Walt Disney Family Museum,华特迪士尼家庭博物馆,Q2415048,4.307,3,,23,4
+3.0-6.0km,mid,金门游艇俱乐部,Golden Gate Yacht Club,Golden Gate Yacht Club,Q611962,3.074,2,,23,4
+3.0-6.0km,mid,,"Duboce Triangle, San Francisco",Duboce Triangle,Q5311050,4.279,3,,23,4
+3.0-6.0km,low,互联网档案馆,Internet Archive,互聯網檔案館,Q461,5.842,1,,2,2
+3.0-6.0km,low,卡斯特罗相机店,Castro Camera,Castro Camera,Q3272800,5.02,1,,2,2

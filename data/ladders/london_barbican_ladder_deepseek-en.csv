@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,泰特现代美术馆,Tate Modern,泰特現代藝術館,Q193375,1.415,5,,10,4
+0.5-1.5km,high,银行及纪念碑站,Bank and Monument stations,銀行及紀念碑站,Q806704,0.936,5,,10,4
+0.5-1.5km,high,霍尔本,Holborn,霍爾本,Q123624,1.287,4,,10,4
+0.5-1.5km,high,圣保罗大教堂,St Paul's Cathedral,圣保罗座堂,Q173882,0.75,5,,10,4
+0.5-1.5km,mid,伦敦证券交易所,London Stock Exchange,伦敦证券交易所,Q171240,0.619,3,,5,4
+0.5-1.5km,mid,南华克桥,Southwark Bridge,南華克橋,Q1324578,1.258,2,,5,4
+0.5-1.5km,mid,伦敦博物馆,London Museum,倫敦博物館,Q917820,0.725,2,,5,4
+0.5-1.5km,mid,伦敦城,City of London,倫敦市,Q23311,0.534,3,,5,4
+1.5-3.0km,high,圣潘克拉斯火车站,St Pancras railway station,聖潘克拉斯車站,Q720102,2.361,5,,37,4
+1.5-3.0km,high,伦敦滑铁卢车站,London Waterloo station,滑鐵盧車站,Q795691,2.281,5,,37,4
+1.5-3.0km,high,伦敦塔,Tower of London,倫敦塔,Q62378,1.864,5,,37,4
+1.5-3.0km,high,伦敦大学学院,University College London,倫敦大學學院,Q193196,2.718,4,,37,4
+1.5-3.0km,mid,圣马丁教堂,St Martin-in-the-Fields,圣马田教堂,Q1335201,2.543,3,,15,4
+1.5-3.0km,mid,纳尔逊纪念柱,Nelson's Column,纳尔逊纪念柱,Q842089,2.667,2,,15,4
+1.5-3.0km,mid,帝国战争博物馆贝尔法斯特号馆,HMS Belfast,帝國戰爭博物館貝爾法斯特號館,Q757178,1.775,2,,15,4
+1.5-3.0km,mid,帝国战争博物馆,Imperial War Museum,帝国战争博物馆,Q749808,2.869,3,,15,4
+1.5-3.0km,low,外交、联邦及发展事务部,"Foreign, Commonwealth and Development Office",外交及聯邦事務部,Q358834,2.963,1,,1,1
+3.0-6.0km,high,绿园,Green Park,綠園,Q119892,3.807,4,,28,4
+3.0-6.0km,high,金丝雀码头,Canary Wharf,金丝雀码头,Q124377,5.495,5,,28,4
+3.0-6.0km,high,梅费尔,Mayfair,梅费尔,Q124184,3.778,4,,28,4
+3.0-6.0km,high,海德公园,"Hyde Park, London",海德公园,Q123738,4.92,5,,28,4
+3.0-6.0km,mid,英国最高法院,Supreme Court of the United Kingdom,英国最高法院,Q1122261,3.184,2,,17,4
+3.0-6.0km,mid,兰贝斯宫,Lambeth Palace,兰柏宫,Q1130266,3.23,2,,17,4
+3.0-6.0km,mid,圣詹姆斯宫,St James's Palace,聖詹姆士宮,Q272162,3.424,2,,17,4
+3.0-6.0km,mid,伦敦体育场,London Stadium,伦敦体育场,Q172190,5.811,3,,17,4
+3.0-6.0km,low,威斯敏斯特圣玛格丽特教堂,"St Margaret's, Westminster",威斯敏斯特圣玛格丽特教堂,Q823412,3.151,1,,2,2
+3.0-6.0km,low,英国皇家学会,Royal Society,英国皇家学会,Q123885,3.015,1,,2,2

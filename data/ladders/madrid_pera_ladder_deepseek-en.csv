@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,西班牙大厦,Edificio España,西班牙大廈,Q649426,0.691,4,,25,4
+0.5-1.5km,high,丘埃卡站,Chueca (Madrid Metro),丘埃卡站,Q3676061,1.129,4,,25,4
+0.5-1.5km,high,太阳门,Puerta del Sol,太阳门,Q427163,0.502,5,,25,4
+0.5-1.5km,high,普拉多大道,Paseo del Prado,普拉多大道,Q2079615,1.402,5,,25,4
+0.5-1.5km,mid,皇家圣费尔南多美术学院,Royal Academy of Fine Arts of San Fernando,皇家聖費爾南多美術學院,Q1322403,0.731,3,,16,4
+0.5-1.5km,mid,蒂尔索·德·莫利纳站,Tirso de Molina (Madrid Metro),Tirso de Molina,Q2474438,0.756,3,,16,4
+0.5-1.5km,mid,利里亚宫,Liria Palace,利里亚宫,Q3288223,1.098,3,,16,4
+0.5-1.5km,mid,利纳雷斯宫,Palace of Linares,利纳雷斯宫,Q2628455,1.473,2,,16,4
+0.5-1.5km,low,西班牙皇家历史学院,Royal Academy of History,西班牙王室历史学院,Q2720582,1.02,1,,2,2
+0.5-1.5km,low,西班牙皇家科学院,"Royal Academy of Exact, Physical and Natural Sciences",西班牙皇家科学院,Q427318,0.517,1,,2,2
+1.5-3.0km,high,阿圭列斯站,Argüelles (Madrid Metro),阿圭列斯站,Q1890537,1.511,5,,17,4
+1.5-3.0km,high,普拉多博物馆,Museo del Prado,普拉多博物馆,Q160112,1.523,5,,17,4
+1.5-3.0km,high,马德里皇家植物园,Real Jardín Botánico de Madrid,马德里皇家植物园,Q1794858,1.719,4,,17,4
+1.5-3.0km,high,水晶宫,Palacio de Cristal del Retiro,水晶宮 (馬德里),Q2420025,2.364,4,,17,4
+1.5-3.0km,mid,西班牙最高法院,Supreme Court of Spain,西班牙最高法院,Q19746,1.519,2,,21,4
+1.5-3.0km,mid,梅嫩德斯·佩拉约站,Menéndez Pelayo (Madrid Metro),Menéndez Pelayo,Q2479001,2.864,3,,21,4
+1.5-3.0km,mid,德利西亚斯站,Delicias (Madrid Metro),德里西亞站,Q3306947,2.537,3,,21,4
+1.5-3.0km,mid,西班牙皇家学院,Royal Spanish Academy,西班牙皇家學院,Q11993457,1.597,2,,21,4
+1.5-3.0km,low,西班牙宪法法院,Constitutional Court of Spain,西班牙宪法法院,Q1566394,2.694,1,,1,1
+3.0-6.0km,high,国家自然科学博物馆,"National Museum of Natural Sciences, Madrid",國家自然科學博物館,Q1966699,3.017,4,,17,4
+3.0-6.0km,high,莱加斯皮站,Legazpi (Madrid Metro),萊加斯皮站,Q2056839,3.239,4,,17,4
+3.0-6.0km,high,迭戈·德·莱昂站,Diego de León (Madrid Metro),迭戈·德·萊昂站,Q2055658,3.466,4,,17,4
+3.0-6.0km,high,欧洲之门,Gate of Europe,欧洲门,Q1141262,5.671,4,,17,4
+3.0-6.0km,mid,欧洲塔,Torre Europa,Torre Europa,Q2421828,4.021,3,,34,4
+3.0-6.0km,mid,马德里中央清真寺,Madrid Central Mosque,馬德里中央清真寺,Q183179,4.364,2,,34,4
+3.0-6.0km,mid,巴里奥德拉康塞普西翁站,Barrio de la Concepción (Madrid Metro),原罪社区站,Q2696985,5.383,3,,34,4
+3.0-6.0km,mid,巴尔德萨尔萨站,Valdezarza,巴爾德薩爾薩站,Q2482098,5.223,3,,34,4
+3.0-6.0km,low,西班牙皇家造币厂,Royal Mint (Spain),西班牙皇家造幣廠,Q733486,3.337,1,,1,1

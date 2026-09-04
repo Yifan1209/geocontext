@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,骑士岛,Riddarholmen,骑士岛,Q904462,1.355,4,,13,4
+0.5-1.5km,high,骑士岛教堂,Riddarholmen Church,骑士岛教堂,Q657118,1.292,4,,13,4
+0.5-1.5km,high,斯德哥尔摩南站,Stockholm Södra station,斯德哥爾摩南站,Q54321,0.57,4,,13,4
+0.5-1.5km,high,诺贝尔博物馆,Nobel Prize Museum,諾貝爾博物館,Q1968711,1.272,4,,13,4
+0.5-1.5km,mid,弗兰格尔宫,Wrangel Palace,Wrangel Palace,Q772914,1.368,2,,15,4
+0.5-1.5km,mid,小城堡,"Kastellet, Stockholm",小城堡,Q4176816,1.408,2,,15,4
+0.5-1.5km,mid,卡塔琳娜电梯,Katarina Elevator,Katarina Elevator,Q615365,0.689,3,,15,4
+0.5-1.5km,mid,皇家军械库,Livrustkammaren,皇家軍械庫,Q1636176,1.43,3,,15,4
+1.5-3.0km,high,3Arena体育馆,3Arena,Tele2 體育館,Q2701834,2.596,4,,38,4
+1.5-3.0km,high,利杰霍蒙站,Liljeholmen metro station,利傑霍蒙站,Q1538339,2.864,5,,38,4
+1.5-3.0km,high,斯德哥尔摩,Stockholm,斯德哥尔摩,Q1754,1.753,5,,38,4
+1.5-3.0km,high,斯堪森博物馆,Skansen,斯堪森博物館,Q725108,2.004,5,,38,4
+1.5-3.0km,mid,恩斯克德庄园站,Enskede gård metro station,安斯基得農莊站,Q1344367,2.773,3,,30,4
+1.5-3.0km,mid,霍恩斯图站,Hornstull metro station,霍恩斯圖站,Q942052,2.054,3,,30,4
+1.5-3.0km,mid,瑞典皇家工程科学院,Royal Swedish Academy of Engineering Sciences,瑞典皇家工程科学院,Q3394637,2.458,2,,30,4
+1.5-3.0km,mid,哈瓦立博物馆,Hallwyl Museum,哈瓦立博物館,Q4346239,2.133,2,,30,4
+1.5-3.0km,low,瑞典统计局,Statistics Sweden,瑞典统计局,Q1472511,2.83,1,,2,2
+1.5-3.0km,low,瑞典皇家艺术学院,Royal Swedish Academy of Fine Arts,瑞典皇家藝術學院,Q167920,1.715,1,,2,2
+3.0-6.0km,high,斯德哥尔摩大学,Stockholm University,斯德哥尔摩大学,Q221645,5.518,4,,30,4
+3.0-6.0km,high,斯韦德米拉站,Svedmyra metro station,斯韋德米拉站,Q1811811,4.049,4,,30,4
+3.0-6.0km,high,邦德海根站,Bandhagen metro station,邦德海根站,Q806303,4.984,4,,30,4
+3.0-6.0km,high,林地公墓站,Skogskyrkogården metro station,林地公墓站,Q2037632,4.18,4,,30,4
+3.0-6.0km,mid,瑞典国家档案馆,National Archives of Sweden,瑞典國家檔案館,Q1724971,3.163,2,,19,4
+3.0-6.0km,mid,民族博物馆,"Museum of Ethnography, Sweden",民族博物馆,Q1371375,3.441,3,,19,4
+3.0-6.0km,mid,蒂爾畫廊,Thiel Gallery,蒂爾畫廊,Q252259,4.419,3,,19,4
+3.0-6.0km,mid,海洋博物馆,Maritime Museum (Stockholm),海洋博物館,Q1647895,3.219,3,,19,4
+3.0-6.0km,low,斯德哥尔摩皇家音乐学院,"Royal College of Music, Stockholm",斯德哥尔摩皇家音乐学院,Q1796144,3.381,1,,3,3
+3.0-6.0km,low,瑞典电影学院,Swedish Film Institute,瑞典电影学院,Q1146587,3.397,1,,3,3
+3.0-6.0km,low,特拉内贝里运动场,Tranebergs Idrottsplats,Tranebergs Idrottsplats,Q4266901,5.322,1,,3,3

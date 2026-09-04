@@ -1,0 +1,26 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,筑地市场,Tsukiji fish market,築地市場,Q859471,1.175,4,,9,4
+0.5-1.5km,high,新桥站,Shimbashi Station,新橋站,Q801436,0.791,5,,9,4
+0.5-1.5km,high,东京站,Tokyo Station,東京站,Q283196,1.082,5,,9,4
+0.5-1.5km,high,帝国饭店,"Imperial Hotel, Tokyo",帝國飯店,Q712476,0.655,4,,9,4
+0.5-1.5km,mid,财务省,Ministry of Finance,財務省,Q1322605,1.433,2,,9,4
+0.5-1.5km,mid,东京国际论坛,Tokyo International Forum,東京國際論壇,Q1359892,0.64,3,,9,4
+0.5-1.5km,mid,滨离宫恩赐庭园,Hama-rikyū Gardens,滨离宫恩赐庭园,Q1033333,1.278,3,,9,4
+0.5-1.5km,mid,中银胶囊塔,Nakagin Capsule Tower,中银胶囊塔,Q1633586,0.637,3,,9,4
+1.5-3.0km,high,隅田川,Sumida River,隅田川,Q222149,1.959,4,,11,4
+1.5-3.0km,high,大手町站,Ōtemachi Station,大手町站,Q1326767,1.5,5,,11,4
+1.5-3.0km,high,赤坂,"Akasaka, Tokyo",赤坂,Q416131,2.761,4,,11,4
+1.5-3.0km,high,日本武道馆,Nippon Budokan,日本武道館,Q386246,2.806,5,,11,4
+1.5-3.0km,mid,最高裁判所,Supreme Court of Japan,最高裁判所,Q1142255,2.18,3,,11,4
+1.5-3.0km,mid,货币博物馆,Currency Museum of the Bank of Japan,貨幣博物館,Q865607,1.688,3,,11,4
+1.5-3.0km,mid,神田神保町,Kanda-Jinbōchō,神田神保町,Q1689258,2.956,3,,11,4
+1.5-3.0km,mid,复活大教堂,Holy Resurrection Cathedral,復活大教堂,Q2660430,2.981,3,,11,4
+3.0-6.0km,high,国立科学博物馆,National Museum of Nature and Science,国立科学博物馆,Q74940,5.121,4,,48,4
+3.0-6.0km,high,代代木站,Yoyogi Station,代代木站,Q590162,5.832,4,,48,4
+3.0-6.0km,high,田原町站,Tawaramachi Station,田原町站,Q1196090,4.876,4,,48,4
+3.0-6.0km,high,早稻田大学,Waseda University,早稻田大学,Q274486,5.902,5,,48,4
+3.0-6.0km,mid,东洋大学,Toyo University,东洋大学,Q1321655,5.931,3,,29,4
+3.0-6.0km,mid,东京水上运动中心,Tokyo Aquatics Centre,東京水上運動中心,Q65038183,5.049,3,,29,4
+3.0-6.0km,mid,有明竞技场,Ariake Coliseum,有明競技場,Q3299452,4.497,3,,29,4
+3.0-6.0km,mid,浅草神社,Asakusa Shrine,淺草神社,Q670049,5.694,3,,29,4
+3.0-6.0km,low,日本学士院,Japan Academy,日本学士院,Q1683229,5.111,1,,1,1

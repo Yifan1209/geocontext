@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,体育场站,Stadion metro station,體育場站 (斯德哥爾摩),Q597072,0.729,5,,19,4
+0.5-1.5km,high,东马尔姆广场站,Östermalmstorg metro station,東馬爾姆廣場站,Q298499,1.02,5,,19,4
+0.5-1.5km,high,大酒店,Grand Hôtel (Stockholm),大酒店,Q1221513,1.318,5,,19,4
+0.5-1.5km,high,瑞典军事博物馆,Swedish Army Museum,瑞典軍事博物館,Q690002,0.73,4,,19,4
+0.5-1.5km,mid,东方博物馆,Museum of Far Eastern Antiquities,東方博物館,Q298289,1.386,3,,9,4
+0.5-1.5km,mid,动物园桥,Djurgårdsbron,動物園橋,Q1232277,0.855,3,,9,4
+0.5-1.5km,mid,斯德哥尔摩犹太会堂,Great Synagogue of Stockholm,斯德哥尔摩犹太会堂,Q619484,1.191,3,,9,4
+0.5-1.5km,mid,海德维格·埃莱奥诺拉教堂,Hedvig Eleonora Church,海德维格·埃莱奥诺拉教堂,Q2036739,0.677,3,,9,4
+0.5-1.5km,low,斯德哥尔摩皇家音乐学院,"Royal College of Music, Stockholm",斯德哥尔摩皇家音乐学院,Q1796144,0.795,1,,2,2
+0.5-1.5km,low,瑞典电影学院,Swedish Film Institute,瑞典电影学院,Q1146587,0.741,1,,2,2
+1.5-3.0km,high,大广场,Stortorget,大广场,Q3048023,1.882,5,,40,4
+1.5-3.0km,high,地铁中央站,T-Centralen metro station,地鐵中央站,Q1063602,1.854,5,,40,4
+1.5-3.0km,high,法官街站,Rådmansgatan metro station,法官街站,Q1186184,1.821,4,,40,4
+1.5-3.0km,high,罗普斯腾站,Ropsten metro station,羅普斯騰站,Q2037690,2.163,4,,40,4
+1.5-3.0km,mid,瓦尔德马苏德美术馆,Waldemarsudde,Prince Eugens Waldemarsudde,Q537,2.431,3,,39,4
+1.5-3.0km,mid,骑士湾,Riddarfjärden,騎士灣,Q965439,2.888,3,,39,4
+1.5-3.0km,mid,斯德哥尔摩中世纪博物馆,Museum of Medieval Stockholm,斯德哥爾摩中世紀博物館,Q1632115,1.621,3,,39,4
+1.5-3.0km,mid,小城堡,"Kastellet, Stockholm",小城堡,Q4176816,1.776,2,,39,4
+1.5-3.0km,low,瑞典皇家艺术学院,Royal Swedish Academy of Fine Arts,瑞典皇家藝術學院,Q167920,1.849,1,,1,1
+3.0-6.0km,high,圣埃里克广场站,Sankt Eriksplan metro station,聖埃里克廣場站,Q1208256,3.032,4,,20,4
+3.0-6.0km,high,3Arena体育馆,3Arena,Tele2 體育館,Q2701834,5.259,4,,20,4
+3.0-6.0km,high,索尔纳,Solna,索尔纳市镇,Q109010,5.222,4,,20,4
+3.0-6.0km,high,斯德哥尔摩南站,Stockholm Södra station,斯德哥爾摩南站,Q54321,3.197,4,,20,4
+3.0-6.0km,mid,霍恩斯图站,Hornstull metro station,霍恩斯圖站,Q942052,3.931,3,,24,4
+3.0-6.0km,mid,哈马比高地站,Hammarbyhöjden metro station,哈馬比高地站,Q1573666,4.928,3,,24,4
+3.0-6.0km,mid,津肯斯达姆站,Zinkensdamm metro station,津肯斯達姆站,Q204763,3.265,3,,24,4
+3.0-6.0km,mid,布洛苏特站,Blåsut metro station,布羅蘇特站,Q887053,5.405,3,,24,4
+3.0-6.0km,low,特拉内贝里运动场,Tranebergs Idrottsplats,Tranebergs Idrottsplats,Q4266901,5.826,1,,2,2
+3.0-6.0km,low,,Tranholmen,Tranholmen,Q1820063,4.056,1,,2,2

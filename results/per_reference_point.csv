@@ -1,0 +1,989 @@
+﻿site,ref_en,tier,ref_km,n,echoed,hit,error_gm,echo_pct,hit_pct
+amsterdam_church,Noordermarkt,high,1.03,5,0,2,1.37,0.0,40.0
+amsterdam_church,Begijnhof,mid,1.091,5,0,2,8.42,0.0,40.0
+amsterdam_church,Grachtengordel,high,1.532,5,0,2,1.6,0.0,40.0
+amsterdam_church,Museum Van Loon,mid,1.573,5,2,3,2.81,40.0,60.0
+amsterdam_church,Isolatorweg metro station,mid,4.015,5,1,2,4.2,20.0,40.0
+amsterdam_church,Centrum Wiskunde & Informatica,low,4.114,5,2,2,1.56,40.0,40.0
+amsterdam_church,Amsterdam Zuid station,high,4.599,5,2,2,3.16,40.0,40.0
+amsterdam_natura,Nieuwmarkt metro station,high,1.239,4,2,1,0.82,50.0,25.0
+amsterdam_natura,De Nederlandsche Bank,mid,1.372,4,0,1,0.91,0.0,25.0
+amsterdam_natura,Magna Plaza,mid,1.977,4,2,1,1.01,50.0,25.0
+amsterdam_natura,Singel,high,2.059,4,1,1,1.15,25.0,25.0
+amsterdam_natura,Centrum Wiskunde & Informatica,low,2.628,4,2,1,1.57,50.0,25.0
+amsterdam_natura,Duivendrecht station,high,4.942,4,2,1,3.94,50.0,25.0
+amsterdam_vondelpark,Stedelijk Museum Amsterdam,high,0.91,4,0,0,1.54,0.0,0.0
+amsterdam_vondelpark,Melkweg,mid,1.338,4,0,0,4.46,0.0,0.0
+amsterdam_vondelpark,Kalverstraat,high,2.199,4,0,0,2.26,0.0,0.0
+amsterdam_vondelpark,Allard Pierson Museum,mid,2.242,4,0,0,1.54,0.0,0.0
+amsterdam_vondelpark,Montelbaanstoren,high,3.149,4,0,0,1.66,0.0,0.0
+amsterdam_vondelpark,Amsterdam Muiderpoort railway station,mid,4.416,4,1,0,2.13,25.0,0.0
+amsterdam_vondelpark,Centrum Wiskunde & Informatica,low,5.811,4,0,0,2.51,0.0,0.0
+athens_kotzia,Monument of the Eponymous Heroes,mid,0.875,5,0,5,0.64,0.0,100.0
+athens_kotzia,Temple of Hephaestus,high,0.875,5,0,4,0.7,0.0,80.0
+athens_kotzia,Brauroneion,low,1.153,5,0,3,0.92,0.0,60.0
+athens_kotzia,Philopappos Monument,high,1.701,5,0,2,1.21,0.0,40.0
+athens_kotzia,Leoforos Alexandras Stadium,mid,2.395,5,1,1,2.06,20.0,20.0
+athens_kotzia,Athens Mosque,low,2.49,5,1,3,0.76,20.0,60.0
+athens_kotzia,Nea Smyrni Stadium,high,4.593,5,4,1,3.28,80.0,20.0
+athens_kotzia,Moschato metro station,mid,5.082,5,3,1,2.72,60.0,20.0
+athens_monastiraki,Brauroneion,low,0.502,4,0,4,0.35,0.0,100.0
+athens_monastiraki,National Theatre of Greece,mid,0.972,4,0,4,0.2,0.0,100.0
+athens_monastiraki,"Gazi, Athens",high,0.987,4,0,1,0.64,0.0,25.0
+athens_monastiraki,Panathenaic Stadium,high,1.62,4,0,3,0.57,0.0,75.0
+athens_monastiraki,Athens Mosque,low,2.508,4,0,4,0.19,0.0,100.0
+athens_monastiraki,Leoforos Alexandras Stadium,mid,2.814,4,0,1,0.77,0.0,25.0
+athens_monastiraki,Kallithea metro station,high,3.033,4,3,1,0.64,75.0,25.0
+athens_monastiraki,Psychiko,mid,5.672,4,2,2,1.07,50.0,50.0
+athens_national,Parthenon,high,1.069,4,0,4,0.3,0.0,100.0
+athens_national,Pandroseion,low,1.099,4,0,3,0.41,0.0,75.0
+athens_national,Monument of the Eponymous Heroes,mid,1.403,4,0,4,0.25,0.0,100.0
+athens_national,National and Kapodistrian University of Athens,high,2.564,4,1,3,0.48,25.0,75.0
+athens_national,Kypseli,mid,2.899,4,3,2,0.85,75.0,50.0
+athens_national,Attiki metro station,mid,3.128,4,0,3,0.41,0.0,75.0
+athens_national,Athens Mosque,low,3.624,4,0,3,0.53,0.0,75.0
+athens_national,Egaleo metro station,high,5.312,4,2,2,1.16,50.0,50.0
+barcelona_born,Palau de la Música Catalana,high,0.562,15,2,14,0.32,13.3,93.3
+barcelona_born,Els Quatre Gats,mid,0.618,15,0,11,0.43,0.0,73.3
+barcelona_born,Plaça de Catalunya,high,0.939,15,3,9,0.56,20.0,60.0
+barcelona_born,Institute for Catalan Studies,low,1.514,15,1,10,0.7,6.7,66.7
+barcelona_born,Casa Amatller,mid,1.515,15,3,6,0.89,20.0,40.0
+barcelona_born,Casa Batlló,high,1.528,15,1,6,0.93,6.7,40.0
+barcelona_born,Sant Antoni (Barcelona Metro),mid,1.655,15,13,5,1.31,86.7,33.3
+barcelona_born,Glòries station,high,2.097,15,1,8,0.82,6.7,53.3
+barcelona_born,Open University of Catalonia,low,2.65,15,0,9,0.74,0.0,60.0
+barcelona_born,Park Güell,high,3.958,15,0,9,0.71,0.0,60.0
+barcelona_born,Port of Barcelona,high,4.071,15,1,13,0.44,6.7,86.7
+barcelona_born,La Masia,mid,4.839,15,0,10,0.7,0.0,66.7
+barcelona_born,Mini Estadi,low,5.284,15,0,9,0.85,0.0,60.0
+barcelona_born,Vall d'Hebron station,mid,5.502,15,3,8,1.01,20.0,53.3
+barcelona_born,Barcelona Supercomputing Center,low,5.507,15,0,9,0.91,0.0,60.0
+barcelona_fontana,Institut Ramon Llull,mid,0.97,10,4,4,1.19,40.0,40.0
+barcelona_fontana,Passeig de Gràcia,high,1.408,10,0,3,1.01,0.0,30.0
+barcelona_fontana,Tarragona metro station,mid,2.785,10,1,0,7.2,10.0,0.0
+barcelona_fontana,El Raval,high,2.843,10,0,0,2.63,0.0,0.0
+barcelona_fontana,Institute for Catalan Studies,low,3.149,10,2,0,2.09,20.0,0.0
+barcelona_fontana,Navas (Barcelona Metro),mid,3.193,10,3,1,2.65,30.0,10.0
+barcelona_fontana,Barceloneta station,high,3.543,10,4,0,2.46,40.0,0.0
+barcelona_gracia,Lesseps station,high,0.647,15,3,13,0.44,20.0,86.7
+barcelona_gracia,Avinguda Diagonal,high,0.755,15,2,5,0.86,13.3,33.3
+barcelona_gracia,Sant Gervasi station,mid,0.793,15,13,5,1.19,86.7,33.3
+barcelona_gracia,Institut Ramon Llull,mid,0.827,15,2,7,0.86,13.3,46.7
+barcelona_gracia,Els Quatre Gats,mid,2.416,15,1,4,1.58,6.7,26.7
+barcelona_gracia,La Boqueria,high,2.691,15,0,4,1.64,0.0,26.7
+barcelona_gracia,Plaça del Rei,mid,2.757,15,1,4,1.67,6.7,26.7
+barcelona_gracia,Liceu,high,2.923,15,2,4,1.62,13.3,26.7
+barcelona_gracia,Institute for Catalan Studies,low,3.097,15,1,4,1.57,6.7,26.7
+barcelona_gracia,Open University of Catalonia,low,3.23,15,0,6,1.02,0.0,40.0
+barcelona_gracia,Barcelona Zoo,high,3.383,15,0,4,1.59,0.0,26.7
+barcelona_gracia,Mundet station,mid,3.634,15,1,10,0.61,6.7,66.7
+barcelona_gracia,Hotel Arts,high,3.807,15,2,3,1.62,13.3,20.0
+barcelona_gracia,Florida station,mid,5.364,15,4,5,4.12,26.7,33.3
+barcelona_lesseps,Gràcia station,high,0.744,4,3,4,0.65,75.0,100.0
+barcelona_lesseps,CosmoCaixa Barcelona,mid,1.713,4,0,0,1.64,0.0,0.0
+barcelona_lesseps,Gran Via de les Corts Catalanes,high,2.894,4,0,0,1.95,0.0,0.0
+barcelona_lesseps,Royal Square,high,3.602,4,0,0,12.18,0.0,0.0
+barcelona_lesseps,Institute for Catalan Studies,low,3.613,4,0,0,2.57,0.0,0.0
+barcelona_lesseps,Trinitat Nova station,mid,5.497,4,4,0,5.63,100.0,0.0
+barcelona_sants,Plaça d'Espanya station,high,0.876,4,1,0,3.57,25.0,0.0
+barcelona_sants,Rocafort station,mid,1.205,4,1,0,3.04,25.0,0.0
+barcelona_sants,Mini Estadi,low,1.833,4,2,2,1.28,50.0,50.0
+barcelona_sants,Torrassa station,mid,2.298,4,2,0,3.47,50.0,0.0
+barcelona_sants,Plaça de Catalunya,high,2.668,4,0,1,1.92,0.0,25.0
+barcelona_sants,Park Güell,high,4.005,4,1,0,4.11,25.0,0.0
+barcelona_sants,Esplugues de Llobregat,low,4.526,4,1,0,4.17,25.0,0.0
+barcelona_sants,Bac de Roda station,mid,5.926,4,2,0,19.32,50.0,0.0
+berlin_alte,Berlin State Opera,high,0.522,5,1,5,0.18,20.0,100.0
+berlin_alte,Nikolaiviertel,mid,0.757,5,2,4,0.18,40.0,80.0
+berlin_alte,Berlin-Brandenburg Academy of Sciences and Humanities,low,0.818,5,1,5,0.2,20.0,100.0
+berlin_alte,Berlin Observatory,low,1.903,5,1,4,0.23,20.0,80.0
+berlin_alte,Tiergarten (park),high,2.193,5,1,4,0.21,20.0,80.0
+berlin_alte,Haus der Kulturen der Welt,mid,2.281,5,1,3,0.4,20.0,60.0
+berlin_alte,Ibn Rushd-Goethe Mosque,low,3.342,5,0,3,2.23,0.0,60.0
+berlin_alte,Berlin Wall,high,3.418,5,1,4,0.21,20.0,80.0
+berlin_alte,Straße des 17. Juni,mid,3.442,5,0,3,0.74,0.0,60.0
+berlin_jewish,German Museum of Technology,mid,1.283,4,2,0,1.41,50.0,0.0
+berlin_jewish,Berlin-Brandenburg Academy of Sciences and Humanities,low,1.291,4,3,0,1.53,75.0,0.0
+berlin_jewish,Potsdamer Platz,high,1.489,4,1,0,2.15,25.0,0.0
+berlin_jewish,Bahntower,low,1.611,4,2,0,27.78,50.0,0.0
+berlin_jewish,Berlin Cathedral,high,1.913,4,1,0,2.24,25.0,0.0
+berlin_jewish,Memorial to the Sinti and Roma Victims of National Socialism,mid,2.112,4,2,0,1.9,50.0,0.0
+berlin_jewish,Prenzlauer Berg,high,3.873,4,4,0,4.24,100.0,0.0
+berlin_jewish,Ibn Rushd-Goethe Mosque,low,4.007,4,3,0,45.89,75.0,0.0
+berlin_jewish,Robert Koch Institute,mid,5.242,4,3,0,4.36,75.0,0.0
+berlin_st,Pariser Platz,high,1.073,4,0,1,1.25,0.0,25.0
+berlin_st,Memorial to Homosexuals Persecuted Under Nazism,mid,1.293,4,2,1,1.17,50.0,25.0
+berlin_st,Berlin Observatory,low,1.329,4,3,1,1.13,75.0,25.0
+berlin_st,Berlin Wall Memorial,high,2.158,4,1,0,3.29,25.0,0.0
+berlin_st,Karl-Marx-Allee,mid,2.75,4,2,0,2.68,50.0,0.0
+berlin_st,Ibn Rushd-Goethe Mosque,low,3.229,4,2,0,38.49,50.0,0.0
+berlin_st,Max-Schmeling-Halle,mid,3.287,4,2,1,1.67,50.0,25.0
+berlin_st,Tempelhof,high,5.518,4,0,1,1.23,0.0,25.0
+bogota_general,Colombian Institute of Anthropology and History,low,0.732,5,0,0,1.84,0.0,0.0
+bogota_general,National Institute of Legal Medicine and Forensic Sciences,mid,0.824,5,0,0,45.04,0.0,0.0
+bogota_general,Banco de Bogotá building,high,1.011,5,0,0,23.19,0.0,0.0
+bogota_general,National Museum of Colombia,high,2.58,5,0,0,1.84,0.0,0.0
+bogota_general,Administrative Department of Security,low,2.61,5,0,0,47.06,0.0,0.0
+bogota_general,"Memory, Peace and Reconciliation Centre",mid,2.775,5,0,0,16.19,0.0,0.0
+bogota_general,Dejusticia,low,3.476,5,0,0,6.66,0.0,0.0
+bogota_general,Alfonso López Pumarejo Stadium,mid,5.269,5,0,0,221.1,0.0,0.0
+bogota_general,Santa Lucía (TransMilenio),high,5.884,5,4,0,1.84,80.0,0.0
+bogota_national,Academia Colombiana de la Lengua,low,0.887,4,2,3,0.96,50.0,75.0
+bogota_national,Universidad del Rosario,high,1.166,4,2,0,1.3,50.0,0.0
+bogota_national,Ministry of Information Technologies and Communications,mid,1.262,4,3,0,1.35,75.0,0.0
+bogota_national,Ministry of Environment and Sustainable Development (Colombia),low,1.768,4,2,0,2.19,50.0,0.0
+bogota_national,Church of Our Lady of Carmen,mid,1.808,4,1,0,7.17,25.0,0.0
+bogota_national,Casa de Nariño,high,1.84,4,3,0,2.06,75.0,0.0
+bogota_national,National Pedagogic University,mid,5.511,4,2,0,3.87,50.0,0.0
+bogota_national,National Printing Office of Colombia,low,5.891,4,2,0,4.38,50.0,0.0
+bogota_planetarium,Academia Colombiana de la Lengua,low,1.184,4,0,1,1.3,0.0,25.0
+bogota_planetarium,Iglesia La Tercera,mid,1.204,4,0,1,1.3,0.0,25.0
+bogota_planetarium,Universidad del Rosario,high,1.427,4,0,0,1.45,0.0,0.0
+bogota_planetarium,Dejusticia,low,1.64,4,0,0,1.45,0.0,0.0
+bogota_planetarium,National Capitol of Colombia,high,1.836,4,0,0,1.45,0.0,0.0
+bogota_planetarium,Las Cruces,mid,2.905,4,0,0,1.45,0.0,0.0
+bogota_planetarium,Corferias,high,3.059,4,0,0,3.0,0.0,0.0
+bogota_planetarium,Arzobispo River,mid,4.732,4,0,0,2.15,0.0,0.0
+bogota_planetarium,National Printing Office of Colombia,low,5.659,4,0,0,1.45,0.0,0.0
+boston_chinatown,Freedom Trail,high,0.968,5,0,4,0.52,0.0,80.0
+boston_chinatown,Akamai Technologies,mid,2.543,5,0,4,0.58,0.0,80.0
+boston_chinatown,Ruggles station,high,2.805,5,1,2,1.01,20.0,40.0
+boston_chinatown,Museum of Bad Art,low,3.387,5,0,3,0.58,0.0,60.0
+boston_chinatown,Jackson Square station,mid,4.468,5,0,3,2.49,0.0,60.0
+boston_chinatown,"Somerville, Massachusetts",high,4.967,5,0,3,0.79,0.0,60.0
+boston_longfellow,Leonard P. Zakim Bunker Hill Memorial Bridge,high,1.267,4,0,1,1.55,0.0,25.0
+boston_longfellow,Boston National Historical Park,mid,1.562,4,0,1,1.55,0.0,25.0
+boston_longfellow,Charles River,high,2.039,4,0,1,1.37,0.0,25.0
+boston_longfellow,Cambridge College,low,3.035,4,3,1,3.0,75.0,25.0
+boston_longfellow,Harvard station,high,3.833,4,2,2,3.83,50.0,50.0
+boston_longfellow,Basilica and Shrine of Our Lady of Perpetual Help,mid,3.846,4,2,1,3.94,50.0,25.0
+boston_park,"Bay Village, Boston",mid,0.928,8,3,6,0.45,37.5,75.0
+boston_park,TD Garden,high,1.112,8,0,6,0.43,0.0,75.0
+boston_park,Hult International Business School,mid,1.645,8,1,5,0.56,12.5,62.5
+boston_park,Stata Center,high,2.376,8,0,4,5.6,0.0,50.0
+boston_park,Greek Orthodox Metropolis of Boston,low,3.366,8,0,6,0.56,0.0,75.0
+boston_park,Logan International Airport,high,4.67,8,1,4,0.58,12.5,50.0
+boston_park,Peabody Museum of Archaeology and Ethnology,mid,4.934,8,1,4,5.53,12.5,50.0
+budapest_batthyny,Széll Kálmán tér metro station,high,1.046,5,4,1,1.41,80.0,20.0
+budapest_batthyny,Comedy Theatre of Budapest,mid,1.187,5,0,0,3.97,0.0,0.0
+budapest_batthyny,Budapest Ghetto,mid,2.105,5,0,0,2.1,0.0,0.0
+budapest_batthyny,Szent Gellért tér – Műegyetem metro station,high,2.805,5,2,0,3.65,40.0,0.0
+budapest_batthyny,Holocaust Memorial Center (Budapest),mid,3.637,5,0,1,3.61,0.0,20.0
+budapest_batthyny,Gyöngyösi utca metro station,high,5.441,5,1,0,4.94,20.0,0.0
+budapest_museum,Blaha Lujza tér metro station,high,1.247,4,1,2,0.77,25.0,50.0
+budapest_museum,Kazinczy Street Synagogue,mid,1.424,4,2,1,1.06,50.0,25.0
+budapest_museum,Oktogon (intersection),high,2.168,4,1,1,1.34,25.0,25.0
+budapest_museum,Hungarian Mint,low,2.383,4,0,1,1.23,0.0,25.0
+budapest_museum,National Széchényi Library,mid,2.401,4,0,0,1.98,0.0,0.0
+budapest_museum,Constitutional Court of Hungary,low,3.089,4,0,1,1.47,0.0,25.0
+budapest_museum,Budapest Déli station,high,3.577,4,0,0,4.09,0.0,0.0
+budapest_museum,Forgách utca metro station,mid,5.807,4,0,1,1.7,0.0,25.0
+budapest_university,Móricz Zsigmond körtér metro station,mid,0.708,4,1,0,2.8,25.0,0.0
+budapest_university,Evangelical-Lutheran Church in Hungary,high,1.462,4,0,0,2.16,0.0,0.0
+budapest_university,Matthias Fountain,mid,2.216,4,0,0,2.53,0.0,0.0
+budapest_university,Castle Quarter (Budapest),high,2.972,4,1,0,2.24,25.0,0.0
+budapest_university,Constitutional Court of Hungary,low,3.033,4,0,0,2.56,0.0,0.0
+budapest_university,Andrássy út,high,3.601,4,0,0,2.64,0.0,0.0
+budapest_university,Bajza utca metro station,mid,3.682,4,1,0,2.25,25.0,0.0
+cdmx_condesa,Mexican Football Federation,low,0.764,15,6,5,4.25,40.0,33.3
+cdmx_condesa,Patriotismo metro station,mid,0.986,15,6,4,8.61,40.0,26.7
+cdmx_condesa,Fuente de Cibeles (Mexico City),mid,1.111,15,2,0,3.13,13.3,0.0
+cdmx_condesa,Colonia Roma,high,1.146,15,13,1,1.92,86.7,6.7
+cdmx_condesa,Monumento a los Niños Héroes,high,1.456,15,1,5,2.4,6.7,33.3
+cdmx_condesa,Torre Mayor,high,1.54,15,2,0,4.25,13.3,0.0
+cdmx_condesa,Mexican Mint,low,2.04,15,5,1,14.09,33.3,6.7
+cdmx_condesa,Constituyentes metro station,mid,2.127,15,2,0,4.85,13.3,0.0
+cdmx_condesa,La Feria de Chapultepec,mid,2.649,15,0,6,0.87,0.0,40.0
+cdmx_condesa,Secretariat of Energy,low,2.734,15,5,0,15.53,33.3,0.0
+cdmx_condesa,Auditorio Nacional,high,2.936,15,3,1,2.74,20.0,6.7
+cdmx_condesa,Eugenia metro station,mid,3.122,15,3,1,60.97,20.0,6.7
+cdmx_condesa,Xola metro station,mid,3.909,15,6,0,21.52,40.0,0.0
+cdmx_condesa,Porta Coeli Cathedral,low,4.082,15,3,0,469.09,20.0,0.0
+cdmx_condesa,Museo Nacional de la Estampa,low,4.133,15,4,0,10.86,26.7,0.0
+cdmx_condesa,Pino Suárez metro station,high,4.298,15,3,1,4.9,20.0,6.7
+cdmx_condesa,Zócalo,high,4.633,15,0,0,6.28,0.0,0.0
+cdmx_roma,"Zona Rosa, Mexico City",high,0.786,15,9,10,1.55,60.0,66.7
+cdmx_roma,Mexican Football Federation,low,0.838,15,3,4,4.12,20.0,26.7
+cdmx_roma,Sevilla metro station (Mexico City),mid,0.956,15,2,5,2.97,13.3,33.3
+cdmx_roma,Condesa,high,1.06,15,11,0,2.06,73.3,0.0
+cdmx_roma,Mexican Mint,low,1.132,15,4,2,4.0,26.7,13.3
+cdmx_roma,Torre BBVA México,mid,1.394,15,6,3,2.27,40.0,20.0
+cdmx_roma,Chapultepec metro station,high,1.511,15,3,4,2.33,20.0,26.7
+cdmx_roma,Revolución metro station,high,2.385,15,4,4,2.86,26.7,26.7
+cdmx_roma,Secretariat of Foreign Affairs,mid,2.492,15,4,5,5.92,26.7,33.3
+cdmx_roma,Porta Coeli Cathedral,low,2.794,15,3,2,43.74,20.0,13.3
+cdmx_roma,World Trade Center Mexico City,mid,2.978,15,0,5,2.36,0.0,33.3
+cdmx_roma,Instituto Panamericano de Alta Dirección de Empresa,low,2.987,15,7,0,30.12,46.7,0.0
+cdmx_roma,Museo Nacional de Arte,mid,3.055,15,3,1,16.36,20.0,6.7
+cdmx_roma,Luis Barragán House and Studio,mid,3.317,15,5,0,3.14,33.3,0.0
+cdmx_roma,House of the First Print Shop in the Americas,low,3.634,15,7,0,16.81,46.7,0.0
+cdmx_roma,Chapultepec,high,3.81,15,3,3,2.79,20.0,20.0
+cdmx_roma,National Meteorological Service (Mexico),low,4.005,15,3,6,1.36,20.0,40.0
+cdmx_roma,Plaza Carso,high,4.961,15,3,1,4.71,20.0,6.7
+copenhagen_castle,The David Collection,mid,0.798,5,2,4,0.52,40.0,80.0
+copenhagen_castle,Freetown Christiania,high,1.3,5,0,5,0.27,0.0,100.0
+copenhagen_castle,Statens Serum Institut,low,1.426,5,1,4,0.36,20.0,80.0
+copenhagen_castle,National Film School of Denmark,mid,1.662,5,0,3,0.33,0.0,60.0
+copenhagen_castle,The Little Mermaid,high,2.117,5,2,4,0.36,40.0,80.0
+copenhagen_castle,Nordhavn railway station,high,3.193,5,3,4,0.36,60.0,80.0
+copenhagen_castle,Copenhagen Denmark Temple,low,3.364,5,1,5,0.27,20.0,100.0
+copenhagen_castle,Teglværksbroen,mid,3.794,5,0,4,0.46,0.0,80.0
+copenhagen_det,Vesterport railway station,mid,0.535,4,1,3,1.66,25.0,75.0
+copenhagen_det,Vesterbro,high,0.69,4,4,4,0.69,100.0,100.0
+copenhagen_det,Royal Danish Academy of Sciences and Letters,low,1.171,4,2,1,1.48,50.0,25.0
+copenhagen_det,Copenhagen Denmark Temple,low,2.539,4,0,4,0.69,0.0,100.0
+copenhagen_det,Amalienborg,high,2.666,4,1,1,2.02,25.0,25.0
+copenhagen_det,Grand Mosque of Copenhagen,mid,3.913,4,1,3,1.08,25.0,75.0
+copenhagen_det,Amager Bakke,high,4.284,4,1,2,3.66,25.0,50.0
+copenhagen_det,Danish Meteorological Institute,low,4.695,4,1,2,2.35,25.0,50.0
+copenhagen_museum,Hotel d'Angleterre,high,1.025,4,2,1,1.01,50.0,25.0
+copenhagen_museum,Royal Danish Naval Museum,mid,1.373,4,3,0,1.38,75.0,0.0
+copenhagen_museum,Ungdomshuset,mid,2.658,4,2,0,2.16,50.0,0.0
+copenhagen_museum,Trianglen station,high,2.771,4,1,0,2.81,25.0,0.0
+copenhagen_museum,Copenhagen Denmark Temple,low,3.173,4,2,2,0.93,50.0,50.0
+copenhagen_museum,Superkilen,high,3.492,4,1,0,2.24,25.0,0.0
+copenhagen_museum,Øresund station,mid,3.784,4,2,0,2.85,50.0,0.0
+delhi_holy,Delhi Gate metro station,high,0.732,5,4,4,0.92,80.0,80.0
+delhi_holy,Naya Mandir,mid,1.133,5,3,0,5.0,60.0,0.0
+delhi_holy,Qadam Sharif (Delhi),mid,2.251,5,5,0,2.87,100.0,0.0
+delhi_holy,Supreme Court of India,high,2.32,5,2,0,2.49,40.0,0.0
+delhi_holy,"National Philatelic Museum, New Delhi",low,2.971,5,2,2,1.51,40.0,40.0
+delhi_holy,Indraprastha,low,3.319,5,2,2,2.11,40.0,40.0
+delhi_holy,Dr. Ambedkar National Memorial,mid,4.727,5,3,0,13.22,60.0,0.0
+delhi_holy,Lok Kalyan Marg metro station,high,5.462,5,2,0,3.5,40.0,0.0
+delhi_national,Purana Qila,high,0.957,4,3,2,1.39,75.0,50.0
+delhi_national,Bengali Market,mid,1.173,4,0,1,1.43,0.0,25.0
+delhi_national,Democratic Youth Federation of India,low,1.785,4,1,0,2.26,25.0,0.0
+delhi_national,Shankar's International Dolls Museum,mid,2.344,4,3,0,2.08,75.0,0.0
+delhi_national,Humayun's tomb,high,2.458,4,4,0,2.63,100.0,0.0
+delhi_national,Lodhi Colony,mid,3.254,4,4,1,1.55,100.0,25.0
+delhi_national,Tomb of Safdar Jang,high,3.285,4,3,0,3.78,75.0,0.0
+delhi_vijay,Vigyan Bhawan,mid,0.546,4,3,3,0.74,75.0,75.0
+delhi_vijay,Sansad Marg,high,1.275,4,4,1,1.06,100.0,25.0
+delhi_vijay,Bangabandhu Sheikh Mujib Road,mid,2.305,4,0,0,67.54,0.0,0.0
+delhi_vijay,Purana Qila,high,2.687,4,4,0,1.97,100.0,0.0
+delhi_vijay,Observer Research Foundation,low,2.702,4,4,0,2.7,100.0,0.0
+delhi_vijay,Sunder Nursery,high,3.354,4,4,0,3.17,100.0,0.0
+delhi_vijay,"High Commission of Pakistan, New Delhi",mid,3.437,4,4,0,3.79,100.0,0.0
+delhi_vijay,Naubat Khana,low,5.185,4,2,0,5.15,50.0,0.0
+edinburgh_dugald,"Old College, University of Edinburgh",high,0.783,5,4,5,0.48,80.0,100.0
+edinburgh_dugald,"The Hub, Edinburgh",mid,0.911,5,1,5,0.44,20.0,100.0
+edinburgh_dugald,Arthur's Seat,high,1.814,5,0,5,0.44,0.0,100.0
+edinburgh_dugald,Edinburgh Napier University,high,4.435,5,0,4,0.51,0.0,80.0
+edinburgh_dugald,Liberton,mid,4.676,5,0,3,0.66,0.0,60.0
+edinburgh_greyfriars,"Governor's House, Edinburgh",low,0.797,8,2,7,0.47,25.0,87.5
+edinburgh_greyfriars,Melville Monument,mid,0.82,8,1,5,0.67,12.5,62.5
+edinburgh_greyfriars,Royal Commonwealth Pool,high,1.419,8,3,3,0.87,37.5,37.5
+edinburgh_greyfriars,Royal Botanic Garden Edinburgh,high,2.287,8,4,4,0.86,50.0,50.0
+edinburgh_greyfriars,"Royal Observatory, Edinburgh",mid,2.645,8,4,3,1.0,50.0,37.5
+edinburgh_greyfriars,North Leith Parish Church,mid,3.288,8,4,1,2.64,50.0,12.5
+edinburgh_greyfriars,Edinburgh Zoo,high,4.923,8,3,3,1.21,37.5,37.5
+edinburgh_museum,Gladstone's Land,mid,0.907,4,2,3,0.85,50.0,75.0
+edinburgh_museum,Jenners,high,0.926,4,2,3,0.83,50.0,75.0
+edinburgh_museum,"St Cuthbert's Church, Edinburgh",mid,1.622,4,0,2,0.79,0.0,50.0
+edinburgh_museum,Royal Botanic Garden Edinburgh,high,2.357,4,0,3,1.09,0.0,75.0
+edinburgh_museum,Royal Infirmary of Edinburgh,high,4.157,4,0,3,0.88,0.0,75.0
+hanoi_botanic,Ho Chi Minh Museum,high,0.55,5,0,3,13.31,0.0,60.0
+hanoi_botanic,Ba Đình Hall,mid,0.714,5,0,5,0.68,0.0,100.0
+hanoi_botanic,Al-Noor Mosque (Hanoi),low,1.67,5,3,1,1.47,60.0,20.0
+hanoi_botanic,Lotte Center Hanoi,high,2.179,5,4,2,1.29,80.0,40.0
+hanoi_botanic,La Thanh station,mid,2.35,5,0,1,5.46,0.0,20.0
+hanoi_botanic,Vietnam Banking Association,low,3.539,5,4,2,5.16,80.0,40.0
+hanoi_botanic,Dong Tru Bridge,mid,5.901,5,0,0,14.57,0.0,0.0
+hanoi_college,Supreme People's Court of Vietnam,mid,0.54,4,1,1,1.18,25.0,25.0
+hanoi_college,Vietnam Atomic Energy Institute,low,0.556,4,3,2,0.57,75.0,50.0
+hanoi_college,Lenin Park (Hanoi),high,1.118,4,1,0,1.15,25.0,0.0
+hanoi_college,Al-Noor Mosque (Hanoi),low,1.834,4,1,0,2.02,25.0,0.0
+hanoi_college,Presidential Palace Historical Site,high,1.998,4,1,0,1.75,25.0,0.0
+hanoi_college,Đống Đa Mound,mid,2.253,4,3,0,1.9,75.0,0.0
+hanoi_college,Bach Mai Airfield,low,3.048,4,3,0,3.47,75.0,0.0
+hanoi_college,Hanoi–Amsterdam High School,mid,4.942,4,1,1,2.23,25.0,25.0
+hanoi_college,Vietnam Museum of Ethnology,high,5.048,4,1,0,5.48,25.0,0.0
+hanoi_well,One Pillar Pagoda,high,0.708,8,0,4,1.05,0.0,50.0
+hanoi_well,Vietnam University of Fine Arts,mid,1.112,8,3,4,1.06,37.5,50.0
+hanoi_well,Vietnam Atomic Energy Institute,low,1.4,8,2,3,2.12,25.0,37.5
+hanoi_well,Tràng Tiền Street,high,2.045,8,0,2,1.14,0.0,25.0
+hanoi_well,Bảy Mẫu Lake,mid,2.178,8,1,2,5.59,12.5,25.0
+hanoi_well,Vietnam Banking Association,low,2.45,8,2,3,1.05,25.0,37.5
+hanoi_well,Láng Station,high,3.344,8,2,2,2.51,25.0,25.0
+hanoi_well,Bach Mai Airfield,low,3.71,8,1,1,1.73,12.5,12.5
+hanoi_well,Hanoi–Amsterdam High School,mid,4.687,8,1,3,1.57,12.5,37.5
+hongkong_fortress,"Queen's College, Hong Kong",mid,0.824,5,1,2,3.24,20.0,40.0
+hongkong_fortress,Kellett Island,low,1.242,5,0,1,4.27,0.0,20.0
+hongkong_fortress,Causeway Bay station,high,1.361,5,4,1,10.26,80.0,20.0
+hongkong_fortress,China Online Centre,low,1.886,5,1,1,5.09,20.0,20.0
+hongkong_fortress,The Masterpiece,mid,2.281,5,1,1,4.97,20.0,20.0
+hongkong_fortress,Jordan station,high,2.919,5,4,1,5.3,80.0,20.0
+hongkong_fortress,"Admiralty, Hong Kong",high,3.042,5,0,1,4.73,0.0,20.0
+hongkong_fortress,Hong Kong Cricket Club,low,3.233,5,0,1,4.36,0.0,20.0
+hongkong_fortress,Cathedral of the Immaculate Conception,mid,4.218,5,2,1,3.58,40.0,20.0
+hongkong_sai,The Belcher's,mid,0.926,4,2,3,1.06,50.0,75.0
+hongkong_sai,Pinewood Battery,low,1.136,4,2,0,1.64,50.0,0.0
+hongkong_sai,The Center,high,1.182,4,2,0,1.38,50.0,0.0
+hongkong_sai,St John's Cathedral,high,1.862,4,0,0,1.73,0.0,0.0
+hongkong_sai,Lippo Centre (Hong Kong),mid,2.217,4,2,1,1.48,50.0,25.0
+hongkong_sai,Hong Kong West Kowloon Station,high,3.021,4,0,0,3.29,0.0,0.0
+hongkong_sai,China Online Centre,low,3.671,4,2,1,2.25,50.0,25.0
+hongkong_sai,Sunbeam Theatre,mid,5.899,4,2,0,5.99,50.0,0.0
+hongkong_statue,Tregunter Towers,mid,1.171,4,0,4,0.25,0.0,100.0
+hongkong_statue,Victoria Harbour,high,1.383,4,0,4,0.22,0.0,100.0
+hongkong_statue,China Online Centre,low,1.868,4,1,3,0.41,25.0,75.0
+hongkong_statue,ISQUARE,high,2.095,4,0,4,0.18,0.0,100.0
+hongkong_statue,Shek Tong Tsui,mid,2.547,4,0,4,0.23,0.0,100.0
+hongkong_statue,Hong Kong Cricket Club,low,4.235,4,3,4,0.18,75.0,100.0
+hongkong_statue,Wong Nai Chung Reservoir Park,mid,4.536,4,1,3,0.4,25.0,75.0
+hongkong_statue,Sham Shui Po station,high,5.459,4,2,2,0.8,50.0,50.0
+lima_alejandro,Jirón Gamarra,mid,1.106,5,0,0,2.84,0.0,0.0
+lima_alejandro,Park of the Reserve,high,1.164,5,0,0,3.68,0.0,0.0
+lima_alejandro,Lima International Exhibition,high,1.788,5,0,0,1.85,0.0,0.0
+lima_alejandro,"German Tower, Lima",mid,1.849,5,0,0,2.73,0.0,0.0
+lima_alejandro,Plaza de la Bandera,high,4.169,5,1,0,4.59,20.0,0.0
+lima_alejandro,Country Club Lima Hotel,mid,4.332,5,0,0,1.85,0.0,0.0
+lima_equestrian,Casa Grau Naval Museum,mid,0.807,4,2,1,32.51,50.0,25.0
+lima_equestrian,"Saint Thomas Aquinas School, Lima",low,0.863,4,1,3,0.88,25.0,75.0
+lima_equestrian,Supreme Court of Peru,high,1.472,4,2,1,1.06,50.0,25.0
+lima_equestrian,Plaza Ramón Castilla,mid,1.911,4,1,1,5.56,25.0,25.0
+lima_equestrian,Metropolitan Museum of Lima,high,2.136,4,2,2,0.9,50.0,50.0
+lima_equestrian,"Museum of Natural History, Lima",high,3.538,4,1,1,1.16,25.0,25.0
+lima_equestrian,Residencial San Felipe,mid,5.422,4,0,2,7.45,0.0,50.0
+lima_estadio,El Campo de Marte,high,0.844,4,0,2,0.71,0.0,50.0
+lima_estadio,Edificio Rímac,mid,1.333,4,0,2,1.5,0.0,50.0
+lima_estadio,Plaza Bolívar,high,2.329,4,0,1,2.04,0.0,25.0
+lima_estadio,General Archive of the Nation (Peru),mid,2.593,4,0,0,2.84,0.0,0.0
+lima_estadio,El Ángel metro station,mid,3.505,4,0,1,1.82,0.0,25.0
+lima_estadio,Chocavento Tower,low,3.677,4,1,1,2.14,25.0,25.0
+lima_estadio,National University of San Marcos,high,5.483,4,0,0,1.81,0.0,0.0
+lisbon_cais,Banco de Portugal,mid,0.664,5,1,1,2.66,20.0,20.0
+lisbon_cais,Constitutional Court (Portugal),low,0.912,5,1,1,2.82,20.0,20.0
+lisbon_cais,Restauradores Station,high,1.038,5,3,0,1.06,60.0,0.0
+lisbon_cais,"Estrela, Lisbon",high,1.563,5,0,1,1.69,0.0,20.0
+lisbon_cais,Alcântara-Terra railway station,mid,2.45,5,4,0,2.46,80.0,0.0
+lisbon_cais,Sete Rios railway station,high,4.231,5,5,0,3.41,100.0,0.0
+lisbon_cais,Torre do Tombo National Archive,low,5.492,5,2,0,3.61,40.0,0.0
+lisbon_cais,Universidade Lusófona,mid,5.797,5,1,0,4.94,20.0,0.0
+lisbon_edward,São Sebastião Station,high,0.689,4,0,1,5.64,0.0,25.0
+lisbon_edward,Campolide,mid,0.934,4,1,2,3.38,25.0,50.0
+lisbon_edward,Constitutional Court (Portugal),low,1.638,4,0,0,5.56,0.0,0.0
+lisbon_edward,Chiado,high,2.172,4,0,1,4.55,0.0,25.0
+lisbon_edward,Prazeres,mid,2.564,4,2,0,4.27,50.0,0.0
+lisbon_edward,Circuito de Monsanto,low,4.459,4,0,1,5.92,0.0,25.0
+lisbon_edward,Olivais Station,high,5.085,4,2,1,5.84,50.0,25.0
+lisbon_edward,Electricity Museum,mid,5.227,4,0,0,24.08,0.0,0.0
+lisbon_martim,Avenida Station,high,0.939,8,0,3,4.72,0.0,37.5
+lisbon_martim,Lisbon City Hall,mid,0.987,8,0,3,5.85,0.0,37.5
+lisbon_martim,Constitutional Court (Portugal),low,1.092,8,0,3,4.26,0.0,37.5
+lisbon_martim,National Museum of the Azulejo,high,2.076,8,0,4,1.3,0.0,50.0
+lisbon_martim,Imprensa Nacional-Casa da Moeda,low,2.333,8,0,3,2.81,0.0,37.5
+lisbon_martim,Nossa Senhora de Fátima,mid,2.809,8,8,5,2.11,100.0,62.5
+lisbon_martim,Torre do Tombo National Archive,low,4.58,8,0,6,1.28,0.0,75.0
+lisbon_martim,Laranjeiras Station,mid,4.763,8,2,2,4.65,25.0,25.0
+lisbon_martim,Telheiras Station,high,5.487,8,3,1,4.83,37.5,12.5
+london_barbican,Bank and Monument stations,high,0.936,9,0,8,0.57,0.0,88.9
+london_barbican,Southwark Bridge,mid,1.258,8,5,1,1.46,62.5,12.5
+london_barbican,London Waterloo station,high,2.281,9,1,0,3.63,11.1,0.0
+london_barbican,Nelson's Column,mid,2.667,8,0,2,2.29,0.0,25.0
+london_barbican,"Foreign, Commonwealth and Development Office",low,2.963,8,3,4,1.06,37.5,50.0
+london_barbican,Royal Society,low,3.015,9,7,4,1.12,77.8,44.4
+london_barbican,Lambeth Palace,mid,3.23,8,8,0,5.62,100.0,0.0
+london_barbican,Canary Wharf,high,5.495,9,2,2,2.76,22.2,22.2
+london_covent,Royal National Theatre,high,0.822,15,1,13,0.58,6.7,86.7
+london_covent,Royal Society,low,0.914,15,3,11,0.42,20.0,73.3
+london_covent,"Foreign, Commonwealth and Development Office",low,1.048,15,2,10,0.62,13.3,66.7
+london_covent,Holborn,high,1.138,15,6,8,0.49,40.0,53.3
+london_covent,St James's Palace,mid,1.304,15,0,6,0.68,0.0,40.0
+london_covent,Clarence House,mid,1.394,15,0,6,0.73,0.0,40.0
+london_covent,Buckingham Palace,high,1.796,15,0,7,0.52,0.0,46.7
+london_covent,Royal Academy of Music,mid,2.355,15,3,5,1.0,20.0,33.3
+london_covent,London Bridge,high,2.477,15,2,7,0.75,13.3,46.7
+london_covent,Southwark,mid,2.709,15,4,6,1.07,26.7,40.0
+london_covent,The Oval,mid,3.193,15,7,6,1.27,46.7,40.0
+london_covent,Whitechapel,mid,3.757,15,2,6,1.07,13.3,40.0
+london_covent,Islington,high,3.825,15,5,5,1.08,33.3,33.3
+london_covent,"Natural History Museum, London",high,4.079,15,1,6,1.24,6.7,40.0
+london_lambeth,Westminster Bridge,high,0.606,8,1,5,0.88,12.5,62.5
+london_lambeth,"St Margaret's, Westminster",low,0.683,8,0,8,0.68,0.0,100.0
+london_lambeth,Imperial War Museum,mid,0.77,8,4,7,0.82,50.0,87.5
+london_lambeth,West End of London,high,2.07,8,0,4,1.08,0.0,50.0
+london_lambeth,London Wall,mid,2.905,8,4,1,2.02,50.0,12.5
+london_lambeth,Royal Academy of Dramatic Art,mid,3.028,8,4,1,1.42,50.0,12.5
+london_lambeth,"Science Museum, London",high,3.814,8,0,2,1.58,0.0,25.0
+london_nottinghill,White City Stadium,low,1.558,15,5,4,1.46,33.3,26.7
+london_nottinghill,Royal College of Art,mid,2.357,15,3,2,2.57,20.0,13.3
+london_nottinghill,Abbey Road Studios,mid,2.637,15,9,2,2.45,60.0,13.3
+london_nottinghill,Lord's,high,2.749,15,2,2,2.51,13.3,13.3
+london_nottinghill,"Science Museum, London",high,2.86,15,2,2,2.64,13.3,13.3
+london_nottinghill,Earls Court Exhibition Centre,low,2.946,15,4,2,2.02,26.7,13.3
+london_nottinghill,Marylebone,high,4.025,15,7,5,1.79,46.7,33.3
+london_nottinghill,St James's Palace,mid,4.79,15,0,3,3.09,0.0,20.0
+london_nottinghill,Westminster Cathedral,mid,5.011,15,1,5,2.55,6.7,33.3
+london_nottinghill,Royal Society,low,5.133,15,3,3,3.0,20.0,20.0
+london_nottinghill,Leicester Square,high,5.197,15,1,6,2.39,6.7,40.0
+london_nottinghill,"St Margaret's, Westminster",low,5.672,15,0,4,2.54,0.0,26.7
+london_royal,Clarence House,mid,0.578,12,0,10,0.57,0.0,83.3
+london_royal,Royal Society,low,0.604,12,0,10,0.39,0.0,83.3
+london_royal,Charing Cross railway station,high,1.111,12,2,3,1.08,16.7,25.0
+london_royal,Royal Academy of Dramatic Art,mid,1.512,14,2,9,0.7,14.3,64.3
+london_royal,Madame Tussauds,high,1.865,12,1,9,0.4,8.3,75.0
+london_royal,Southwark Bridge,mid,3.114,14,0,3,1.37,0.0,21.4
+london_royal,Stamford Bridge,high,4.706,14,0,11,0.68,0.0,78.6
+london_shoreditch,Liverpool Street station,high,0.747,15,2,13,0.22,13.3,86.7
+london_shoreditch,Whitechapel,mid,1.136,15,8,7,0.71,53.3,46.7
+london_shoreditch,The Gherkin,high,1.184,15,3,11,0.28,20.0,73.3
+london_shoreditch,Barbican Centre,mid,1.292,15,7,2,1.31,46.7,13.3
+london_shoreditch,"City, University of London",mid,1.711,15,0,4,1.29,0.0,26.7
+london_shoreditch,Blackfriars Bridge,mid,2.497,15,5,3,1.68,33.3,20.0
+london_shoreditch,Holborn,high,2.516,15,7,2,1.89,46.7,13.3
+london_shoreditch,Islington,high,2.717,15,9,4,1.94,60.0,26.7
+london_shoreditch,King's Cross St Pancras tube station,high,3.241,15,10,2,2.63,66.7,13.3
+london_shoreditch,"Foreign, Commonwealth and Development Office",low,4.221,15,0,3,1.87,0.0,20.0
+london_shoreditch,Piccadilly Circus,high,4.247,15,1,4,2.25,6.7,26.7
+london_shoreditch,Royal Society,low,4.3,15,1,3,4.91,6.7,20.0
+london_shoreditch,One Canada Square,mid,4.588,15,2,4,1.46,13.3,26.7
+london_shoreditch,The Oval,mid,5.256,15,7,3,3.09,46.7,20.0
+madrid_pacfico,Menéndez Pelayo (Madrid Metro),mid,0.588,5,2,3,2.41,40.0,60.0
+madrid_pacfico,Palacio de Cristal del Retiro,high,1.485,5,1,2,1.38,20.0,40.0
+madrid_pacfico,Royal Mint (Spain),low,2.123,5,2,0,6.41,40.0,0.0
+madrid_pacfico,Fountain of Cybele,high,2.519,5,1,0,3.19,20.0,0.0
+madrid_pacfico,Teatro de la Zarzuela,mid,2.549,5,2,0,3.39,40.0,0.0
+madrid_pacfico,Diego de León (Madrid Metro),high,3.725,5,2,0,6.01,40.0,0.0
+madrid_pacfico,"Royal Academy of Exact, Physical and Natural Sciences",low,3.931,5,2,0,4.18,40.0,0.0
+madrid_pacfico,Liria Palace,mid,4.313,5,4,0,4.65,80.0,0.0
+madrid_pera,"Royal Academy of Exact, Physical and Natural Sciences",low,0.517,8,1,5,0.74,12.5,62.5
+madrid_pera,Tirso de Molina (Madrid Metro),mid,0.756,8,1,4,0.48,12.5,50.0
+madrid_pera,Chueca (Madrid Metro),high,1.129,8,5,3,0.61,62.5,37.5
+madrid_pera,Museo del Prado,high,1.523,8,1,3,0.71,12.5,37.5
+madrid_pera,Constitutional Court of Spain,low,2.694,8,1,6,0.49,12.5,75.0
+madrid_pera,Menéndez Pelayo (Madrid Metro),mid,2.864,8,1,3,0.8,12.5,37.5
+madrid_pera,Legazpi (Madrid Metro),high,3.239,8,1,3,0.95,12.5,37.5
+madrid_pera,Royal Mint (Spain),low,3.337,8,2,2,2.12,25.0,25.0
+madrid_pera,Madrid Central Mosque,mid,4.364,8,0,7,0.42,0.0,87.5
+madrid_royal,Teatro de la Zarzuela,mid,0.552,4,1,3,0.67,25.0,75.0
+madrid_royal,Royal Academy of History,low,0.699,4,1,1,1.21,25.0,25.0
+madrid_royal,"Plaza Mayor, Madrid",high,1.395,4,2,1,1.29,50.0,25.0
+madrid_royal,Goya (Madrid Metro),high,1.669,4,0,1,1.57,0.0,25.0
+madrid_royal,Royal Mint (Spain),low,1.855,4,0,1,6.73,0.0,25.0
+madrid_royal,Chamberí metro station,mid,2.006,4,4,0,1.89,100.0,0.0
+madrid_royal,Constitutional Court of Spain,low,3.711,4,2,0,2.12,50.0,0.0
+madrid_royal,Ciudad Universitaria (Madrid Metro),mid,4.392,4,1,1,2.24,25.0,25.0
+madrid_royal,Casa de Campo,high,5.575,4,1,0,2.69,25.0,0.0
+marrakech_cervantes,Avicenne Military Hospital,mid,0.507,5,4,3,1.33,80.0,60.0
+marrakech_cervantes,Royal Theatre,high,0.852,5,3,2,1.43,60.0,40.0
+marrakech_cervantes,Marrakech concentration camp,low,1.603,5,0,2,1.79,0.0,40.0
+marrakech_cervantes,Sidi Youssef Ben Ali Stadium,mid,1.77,5,4,1,3.63,80.0,20.0
+marrakech_cervantes,Menara Gardens,high,2.391,5,3,0,2.39,60.0,0.0
+marrakech_cervantes,Cadi Ayyad University,high,3.349,5,2,4,1.1,40.0,80.0
+marrakech_cervantes,Slat al-Azama Synagogue,mid,3.758,5,2,1,2.39,40.0,20.0
+marrakech_place,Jewish Cemetery of Marrakech,mid,0.56,4,2,0,1.38,50.0,0.0
+marrakech_place,Ben Youssef Madrasa,high,1.35,4,1,0,1.12,25.0,0.0
+marrakech_place,Bab Aylan,high,1.547,4,3,0,7.48,75.0,0.0
+marrakech_place,El Harti Park,mid,2.612,4,0,0,12.32,0.0,0.0
+marrakech_place,Kenzi Club Agdal Medina - All Inclusive,mid,4.59,4,0,0,1.43,0.0,0.0
+marrakech_place,Cadi Ayyad University,high,5.148,4,0,0,1.92,0.0,0.0
+marrakech_royal,Avenue Mohammed V,high,0.705,4,0,1,17.34,0.0,25.0
+marrakech_royal,Sidi Youssef Ben Ali Stadium,mid,1.395,4,2,2,1.4,50.0,50.0
+marrakech_royal,Marrakech concentration camp,low,1.48,4,3,2,1.42,75.0,50.0
+marrakech_royal,Mouassine Mosque,mid,2.389,4,1,2,1.42,25.0,50.0
+marrakech_royal,Ben Youssef Madrasa,high,2.734,4,1,2,1.46,25.0,50.0
+marrakech_royal,Bab el-Khemis (Marrakesh),high,3.077,4,2,1,2.06,50.0,25.0
+marrakech_royal,Bab ad-Debbagh,mid,3.418,4,2,1,5.73,50.0,25.0
+mexicocity_balderas,Porta Coeli Cathedral,low,1.143,5,0,0,11.13,0.0,0.0
+mexicocity_balderas,Palace of Iturbide,mid,1.246,5,0,0,5.79,0.0,0.0
+mexicocity_balderas,Palacio de Correos de México,high,1.289,5,0,0,11.73,0.0,0.0
+mexicocity_balderas,Mexican Mint,low,1.737,5,0,0,3.13,0.0,0.0
+mexicocity_balderas,Tenochtitlan,mid,2.032,5,0,0,4.17,0.0,0.0
+mexicocity_balderas,Diana the Huntress Fountain,high,2.389,5,0,0,1.52,0.0,0.0
+mexicocity_balderas,Avenida Presidente Masaryk,high,5.014,5,0,0,3.23,0.0,0.0
+mexicocity_balderas,Secretariat of Energy,low,5.265,5,0,0,3.14,0.0,0.0
+mexicocity_balderas,San Pedro de los Pinos metro station,mid,5.589,5,4,0,4.17,80.0,0.0
+mexicocity_centro,Colonia Roma,high,1.253,4,2,0,2.8,50.0,0.0
+mexicocity_centro,Obrera metro station,mid,1.437,4,2,0,2.37,50.0,0.0
+mexicocity_centro,Torre Mayor,high,2.848,4,3,0,3.34,75.0,0.0
+mexicocity_centro,Senate of the Republic (Mexico),mid,2.867,4,0,0,2.42,0.0,0.0
+mexicocity_centro,Secretariat of Energy,low,2.968,4,1,0,3.47,25.0,0.0
+mexicocity_centro,San Pedro de los Pinos metro station,mid,3.608,4,4,0,3.59,100.0,0.0
+mexicocity_centro,Mexico City Metropolitan Cathedral,high,3.896,4,0,0,3.56,0.0,0.0
+mexicocity_centro,National Meteorological Service (Mexico),low,4.29,4,0,0,7.56,0.0,0.0
+mexicocity_insurgentes,Mexican Mint,low,0.642,4,2,3,0.78,50.0,75.0
+mexicocity_insurgentes,Colonia Roma,high,0.781,4,3,3,1.41,75.0,75.0
+mexicocity_insurgentes,Secretariat of the Interior,mid,1.349,4,3,1,1.63,75.0,25.0
+mexicocity_insurgentes,Normal metro station,mid,2.389,4,2,0,4.12,50.0,0.0
+mexicocity_insurgentes,Alameda Central,high,2.439,4,1,0,6.08,25.0,0.0
+mexicocity_insurgentes,Porta Coeli Cathedral,low,2.661,4,2,0,498.29,50.0,0.0
+mexicocity_insurgentes,Teatro de la Ciudad,mid,3.091,4,4,0,27.62,100.0,0.0
+mexicocity_insurgentes,Avenida Presidente Masaryk,high,3.631,4,0,0,26.32,0.0,0.0
+mexicocity_insurgentes,Secretariat of Energy,low,4.245,4,4,2,1.66,100.0,50.0
+milan_milano,Palazzo dei Giureconsulti,mid,1.079,5,2,0,2.4,40.0,0.0
+milan_milano,Basilica of San Lorenzo,high,1.292,5,2,0,1.69,40.0,0.0
+milan_milano,Loro Piana,low,1.338,5,4,0,1.41,80.0,0.0
+milan_milano,Via Monte Napoleone,high,1.56,5,3,0,1.44,60.0,0.0
+milan_milano,San Pietro in Gessate,low,2.145,5,1,0,2.06,20.0,0.0
+milan_milano,Santa Maria della Passione,mid,2.247,5,1,1,1.42,20.0,20.0
+milan_milano,Seveso River,mid,3.267,5,1,0,1.67,20.0,0.0
+milan_milano,San Siro Stadio (Milan Metro),high,4.513,5,1,0,1.79,20.0,0.0
+milan_museo,Basilica di Santo Stefano Maggiore,mid,0.765,4,0,2,0.15,0.0,50.0
+milan_museo,San Pietro in Gessate,low,1.062,4,0,2,0.13,0.0,50.0
+milan_museo,Giardini Pubblici Indro Montanelli,high,1.15,4,0,2,0.14,0.0,50.0
+milan_museo,Bosco Verticale,high,2.063,4,0,2,0.25,0.0,50.0
+milan_museo,Allianz Tower,mid,2.75,4,0,3,0.19,0.0,75.0
+milan_museo,Olona River,mid,3.359,4,0,4,0.3,0.0,100.0
+milan_museo,San Siro Stadio (Milan Metro),high,5.624,4,0,3,0.16,0.0,75.0
+milan_santa,San Nazaro in Brolo,high,0.637,4,2,1,3.6,50.0,25.0
+milan_santa,Piazza Mercanti,mid,1.138,4,0,0,4.69,0.0,0.0
+milan_santa,San Pietro in Gessate,low,1.441,4,2,1,3.44,50.0,25.0
+milan_santa,Palazzo Castiglioni (Milan),mid,2.094,4,2,0,2.39,50.0,0.0
+milan_santa,Parco Sempione,high,2.317,4,0,1,3.93,0.0,25.0
+milan_santa,Loro Piana,low,2.526,4,2,0,5.9,50.0,0.0
+milan_santa,Allianz Tower,mid,3.504,4,1,0,5.14,25.0,0.0
+milan_santa,Piazzale Loreto,high,4.205,4,0,0,6.53,0.0,0.0
+mumbai_bowen,Naval Dockyard (Mumbai),mid,1.061,10,0,6,0.74,0.0,60.0
+mumbai_bowen,National Centre for the Performing Arts (India),high,1.283,10,0,5,1.26,0.0,50.0
+mumbai_bowen,Crawford Market,high,2.686,10,0,5,1.52,0.0,50.0
+mumbai_bowen,Lamington Road,high,4.658,10,0,5,1.26,0.0,50.0
+mumbai_bowen,Joseph Baptista Gardens,mid,4.821,10,0,6,0.74,0.0,60.0
+mumbai_bowen,Mumbai ship-breaking yard,low,5.855,10,0,5,0.9,0.0,50.0
+mumbai_girgaon,Crawford Market,high,1.416,4,2,0,8.24,50.0,0.0
+mumbai_girgaon,Sandhurst Road railway station,high,2.063,4,1,0,36.42,25.0,0.0
+mumbai_girgaon,Knesset Eliyahoo Synagogue,mid,2.879,4,1,0,12.28,25.0,0.0
+mumbai_girgaon,Kasturba Hospital (Mumbai),mid,3.652,4,1,0,5.94,25.0,0.0
+mumbai_girgaon,Chinchpokli railway station,high,4.011,4,4,0,3.66,100.0,0.0
+mumbai_mughal,Nariman Point,high,1.025,4,1,4,0.19,25.0,100.0
+mumbai_mughal,Mahindra Hockey Stadium,mid,1.367,4,0,3,0.95,0.0,75.0
+mumbai_mughal,Mumba Devi Temple,high,2.584,4,0,4,0.19,0.0,100.0
+mumbai_mughal,"Church of Our Lady of Health, Cavel",low,2.606,4,1,3,0.95,25.0,75.0
+mumbai_mughal,Kamala Nehru Park,high,4.28,4,0,4,0.19,0.0,100.0
+mumbai_mughal,Mumbai ship-breaking yard,low,5.487,4,0,4,0.19,0.0,100.0
+mumbai_mughal,Reay Road railway station,mid,5.749,4,0,4,0.19,0.0,100.0
+newyork_amsterdam,1251 Avenue of the Americas,low,0.69,5,0,5,0.24,0.0,100.0
+newyork_amsterdam,Seventh Avenue,high,1.191,5,0,5,0.22,0.0,100.0
+newyork_amsterdam,Central Park Tower,mid,1.274,5,0,5,0.22,0.0,100.0
+newyork_amsterdam,Ford Foundation,mid,1.573,5,0,5,0.25,0.0,100.0
+newyork_amsterdam,Fifth Avenue,high,2.72,5,0,5,0.22,0.0,100.0
+newyork_amsterdam,Tribeca,high,4.53,5,0,5,0.19,0.0,100.0
+newyork_amsterdam,Brookfield Place,mid,5.347,5,0,5,0.21,0.0,100.0
+newyork_amsterdam,5 World Trade Center,low,5.595,5,0,5,0.22,0.0,100.0
+newyork_morgan,Tin Pan Alley,mid,0.767,4,2,2,1.17,50.0,50.0
+newyork_morgan,Sixth Avenue,high,1.159,4,0,1,1.57,0.0,25.0
+newyork_morgan,1251 Avenue of the Americas,low,1.245,4,1,3,0.8,25.0,75.0
+newyork_morgan,Solow Building,low,1.773,4,3,1,1.4,75.0,25.0
+newyork_morgan,Metropolitan Opera House,high,2.675,4,2,0,2.77,50.0,0.0
+newyork_morgan,American Broadcasting Company,mid,2.728,4,1,2,1.7,25.0,50.0
+newyork_morgan,The Dakota,mid,3.129,4,2,0,3.66,50.0,0.0
+newyork_morgan,Williamsburg Bridge,high,4.098,4,1,0,4.08,25.0,0.0
+newyork_morgan,"Guttenberg, New Jersey",low,5.263,4,0,0,2.78,0.0,0.0
+newyork_studio,Bank of America Tower (Manhattan),mid,1.011,4,0,0,1.69,0.0,0.0
+newyork_studio,Juilliard School,high,1.059,4,0,3,0.9,0.0,75.0
+newyork_studio,500 Fifth Avenue,low,1.193,4,0,0,1.07,0.0,0.0
+newyork_studio,Rockefeller Foundation,low,1.505,4,0,0,1.07,0.0,0.0
+newyork_studio,Tin Pan Alley,mid,2.147,4,0,2,1.1,0.0,50.0
+newyork_studio,Sixth Avenue,high,2.517,4,0,1,1.53,0.0,25.0
+newyork_studio,"Guttenberg, New Jersey",low,3.616,4,0,1,0.99,0.0,25.0
+newyork_studio,"Courant Institute School of Mathematics, Computing, and Data Science",mid,4.097,4,0,0,4.63,0.0,0.0
+newyork_studio,Bowery,high,5.021,4,1,0,4.76,25.0,0.0
+nyc_soho,Canal Street,high,0.539,15,6,10,0.53,40.0,66.7
+nyc_soho,Nolita,mid,0.667,15,6,13,0.48,40.0,86.7
+nyc_soho,Tribeca,high,0.688,15,10,12,0.63,66.7,80.0
+nyc_soho,Washington Square Park,high,0.946,15,6,8,0.79,40.0,53.3
+nyc_soho,CBGB,mid,0.957,15,8,13,0.78,53.3,86.7
+nyc_soho,New York City Hall,high,1.199,15,2,6,0.97,13.3,40.0
+nyc_soho,8 Spruce,mid,1.395,15,0,6,0.79,0.0,40.0
+nyc_soho,The New School,mid,1.43,15,6,4,0.96,40.0,26.7
+nyc_soho,3 World Trade Center,mid,1.556,15,0,5,1.03,0.0,33.3
+nyc_soho,5 World Trade Center,low,1.748,15,0,4,1.09,0.0,26.7
+nyc_soho,Lower Manhattan,high,1.912,15,5,8,0.84,33.3,53.3
+nyc_soho,70 Pine Street,mid,1.918,15,0,4,1.19,0.0,26.7
+nyc_soho,20 Exchange Place,mid,2.053,15,0,5,1.01,0.0,33.3
+nyc_soho,Manhattan Bridge,high,2.061,15,4,5,1.28,26.7,33.3
+nyc_soho,Metropolitan Life Insurance Company Tower,high,2.372,15,8,4,1.39,53.3,26.7
+nyc_soho,Staten Island Ferry,high,2.581,15,0,4,1.27,0.0,26.7
+nyc_soho,Tin Pan Alley,mid,2.721,15,2,3,2.06,13.3,20.0
+nyc_soho,One Penn Plaza,mid,3.234,15,6,2,2.13,40.0,13.3
+nyc_soho,Rockefeller Foundation,low,3.481,15,5,4,1.73,33.3,26.7
+nyc_soho,News Corp,mid,4.289,15,8,4,2.03,53.3,26.7
+nyc_soho,1251 Avenue of the Americas,low,4.468,15,6,4,1.97,40.0,26.7
+nyc_soho,Seagram Building,high,4.694,15,5,5,1.85,33.3,33.3
+nyc_soho,Museum of Modern Art,high,4.75,15,4,5,1.67,26.7,33.3
+nyc_soho,Hearst Tower,mid,5.08,15,8,2,4.8,53.3,13.3
+nyc_soho,Solow Building,low,5.101,15,6,6,1.85,40.0,40.0
+nyc_soho,Long Island City,high,5.519,15,8,4,2.28,53.3,26.7
+nyc_soho,Juilliard School,high,5.866,15,8,3,2.9,53.3,20.0
+nyc_soho,Rockefeller University,mid,5.914,15,5,3,2.53,33.3,20.0
+paris_bastille,Musée Carnavalet,mid,0.668,15,3,10,0.59,20.0,66.7
+paris_bastille,Musée Picasso Paris,high,0.889,15,2,11,0.58,13.3,73.3
+paris_bastille,Île Saint-Louis,mid,0.935,15,2,8,0.64,13.3,53.3
+paris_bastille,Notre-Dame de Paris,high,1.405,15,2,5,1.07,13.3,33.3
+paris_bastille,Paris-Panthéon-Assas University,mid,1.9,15,4,3,1.6,26.7,20.0
+paris_bastille,Père Lachaise Cemetery,high,2.05,15,3,7,1.18,20.0,46.7
+paris_bastille,Sorbonne Nouvelle University,mid,2.238,15,5,6,0.69,33.3,40.0
+paris_bastille,Saint-Sulpice,high,2.503,15,2,3,1.74,13.3,20.0
+paris_bastille,École pratique des hautes études,low,3.23,15,3,4,1.53,20.0,26.7
+paris_bastille,Directorate General for External Security,low,3.643,15,2,4,1.93,13.3,26.7
+paris_bastille,Pont Alexandre III,high,4.22,15,1,3,2.44,6.7,20.0
+paris_bastille,Petit Palais,mid,4.238,15,3,3,2.6,20.0,20.0
+paris_bastille,Arcueil,mid,5.713,15,4,5,1.35,26.7,33.3
+paris_bataclan,Musée Picasso Paris,high,0.717,5,1,4,0.92,20.0,80.0
+paris_bataclan,Musée Carnavalet,mid,0.866,5,0,5,0.8,0.0,100.0
+paris_bataclan,Gare d'Austerlitz,mid,2.345,5,2,1,1.89,40.0,20.0
+paris_bataclan,Latin Quarter,high,2.531,5,5,0,2.53,100.0,0.0
+paris_bataclan,Directorate General for External Security,low,2.912,5,0,2,1.96,0.0,40.0
+paris_bataclan,Gare Saint-Lazare,high,3.728,5,2,0,3.94,40.0,0.0
+paris_bataclan,Montparnasse Cemetery,mid,4.192,5,5,0,4.27,100.0,0.0
+paris_bataclan,École pratique des hautes études,low,4.209,5,0,0,2.39,0.0,0.0
+paris_canal,Bataclan,mid,0.951,15,5,5,1.47,33.3,33.3
+paris_canal,Musée des Arts et Métiers,mid,0.954,15,2,7,1.15,13.3,46.7
+paris_canal,The Marais,high,1.28,15,3,3,1.22,20.0,20.0
+paris_canal,Gare du Nord,high,1.371,15,6,7,1.07,40.0,46.7
+paris_canal,Musée National d'Art Moderne,mid,1.528,15,2,1,1.51,13.3,6.7
+paris_canal,Musée Carnavalet,mid,1.534,15,2,1,1.56,13.3,6.7
+paris_canal,Louvre,high,2.465,15,0,2,1.57,0.0,13.3
+paris_canal,Directorate General for External Security,low,3.002,15,2,1,2.58,13.3,6.7
+paris_canal,ESPCI Paris,mid,3.576,15,4,0,3.05,26.7,0.0
+paris_canal,Élysée Palace,high,3.629,15,4,1,2.63,26.7,6.7
+paris_canal,Bagnolet,mid,3.753,15,3,0,2.01,20.0,0.0
+paris_canal,École pratique des hautes études,low,4.827,15,3,2,2.15,20.0,13.3
+paris_canal,Musée du Quai Branly – Jacques Chirac,high,5.136,15,3,1,2.91,20.0,6.7
+paris_cite,Saint-Germain-des-Prés church,high,0.534,15,9,13,0.51,60.0,86.7
+paris_cite,Louvre,high,0.683,15,1,11,0.51,6.7,73.3
+paris_cite,Musée National d'Art Moderne,mid,0.973,15,1,10,0.72,6.7,66.7
+paris_cite,Île Saint-Louis,mid,1.225,15,5,8,0.62,33.3,53.3
+paris_cite,Musée des Arts et Métiers,mid,1.535,15,1,8,0.67,6.7,53.3
+paris_cite,Musée de l'Orangerie,mid,1.608,15,3,8,0.62,20.0,53.3
+paris_cite,Grand Mosque of Paris,high,1.869,15,0,12,0.53,0.0,80.0
+paris_cite,Tour Montparnasse,high,2.079,15,2,8,0.81,13.3,53.3
+paris_cite,École pratique des hautes études,low,2.77,15,2,9,0.72,13.3,60.0
+paris_cite,Champ de Mars,high,3.144,15,2,7,0.95,13.3,46.7
+paris_cite,Sorbonne Nouvelle University,mid,4.279,15,3,11,0.68,20.0,73.3
+paris_cite,Paris Dauphine-PSL University,mid,5.169,15,3,9,0.86,20.0,60.0
+paris_cite,Directorate General for External Security,low,5.224,15,1,7,1.03,6.7,46.7
+paris_cite,France Télévisions,low,5.437,15,9,7,0.98,60.0,46.7
+paris_gare,Gare du Nord,high,0.544,4,2,3,0.46,50.0,75.0
+paris_gare,Musée des Arts et Métiers,mid,1.238,4,0,1,1.02,0.0,25.0
+paris_gare,"Saint-Eustache, Paris",mid,1.834,4,0,0,2.0,0.0,0.0
+paris_gare,Place des Vosges,high,2.424,4,0,0,1.89,0.0,0.0
+paris_gare,Directorate General for External Security,low,3.489,4,0,1,1.54,0.0,25.0
+paris_gare,Parc Monceau,high,3.662,4,0,0,2.91,0.0,0.0
+paris_gare,Mines Paris – PSL,mid,3.846,4,0,0,2.72,0.0,0.0
+paris_marais,Musée National d'Art Moderne,mid,0.734,15,1,11,0.48,6.7,73.3
+paris_marais,Centre Pompidou,high,0.737,15,3,12,0.39,20.0,80.0
+paris_marais,Bataclan,mid,0.788,15,5,10,0.58,33.3,66.7
+paris_marais,Opéra Bastille,mid,1.004,15,1,12,0.28,6.7,80.0
+paris_marais,Notre-Dame de Paris,high,1.114,15,1,7,0.58,6.7,46.7
+paris_marais,"Saint-Eustache, Paris",mid,1.334,15,0,3,0.89,0.0,20.0
+paris_marais,Canal Saint-Martin,high,1.353,15,6,8,0.46,40.0,53.3
+paris_marais,Pont Neuf,high,1.497,15,1,5,0.72,6.7,33.3
+paris_marais,ESCP Business School,mid,1.5,15,7,3,0.92,46.7,20.0
+paris_marais,Collège de France,mid,1.626,15,3,3,1.17,20.0,20.0
+paris_marais,Grand Mosque of Paris,high,1.964,15,1,3,1.13,6.7,20.0
+paris_marais,Luxembourg Palace,high,2.149,15,5,2,1.43,33.3,13.3
+paris_marais,Pitié-Salpêtrière Hospital,mid,2.456,15,2,5,1.03,13.3,33.3
+paris_marais,Accor Arena,high,2.556,15,3,5,1.02,20.0,33.3
+paris_marais,School for Advanced Studies in the Social Sciences,mid,2.654,15,2,2,1.41,13.3,13.3
+paris_marais,Tuileries Garden,high,2.681,15,4,6,0.92,26.7,40.0
+paris_marais,École pratique des hautes études,low,3.495,15,2,3,1.23,13.3,20.0
+paris_marais,Élysée Palace,high,3.564,15,6,3,2.5,40.0,20.0
+paris_marais,Pont Alexandre III,high,3.577,15,0,5,1.22,0.0,33.3
+paris_marais,Directorate General for External Security,low,3.692,15,1,6,1.13,6.7,40.0
+paris_marais,Bagnolet,mid,4.115,15,5,7,0.65,33.3,46.7
+paris_marais,Champs-Élysées,high,4.134,15,6,6,1.09,40.0,40.0
+paris_marais,Les Lilas,mid,4.648,15,2,10,0.43,13.3,66.7
+paris_marais,Eiffel Tower,high,4.94,15,0,7,0.9,0.0,46.7
+paris_marais,Pantin,mid,5.459,15,3,9,0.54,20.0,60.0
+paris_marais,Marne,mid,5.935,15,0,10,0.48,0.0,66.7
+paris_montmartre,Galeries Lafayette Paris Haussmann,high,1.23,15,4,12,0.69,26.7,80.0
+paris_montmartre,Palais Garnier,high,1.418,15,1,10,0.73,6.7,66.7
+paris_montmartre,Olympia (Paris),high,1.682,15,0,9,0.93,0.0,60.0
+paris_montmartre,"La Madeleine, Paris",mid,1.846,15,0,6,1.14,0.0,40.0
+paris_montmartre,Arc de Triomphe du Carrousel,mid,2.513,15,1,6,1.17,6.7,40.0
+paris_montmartre,Louvre Pyramid,high,2.562,15,3,7,1.1,20.0,46.7
+paris_montmartre,Sorbonne University,high,3.715,15,4,4,1.97,26.7,26.7
+paris_montmartre,Champ de Mars,high,4.26,15,4,5,1.67,26.7,33.3
+paris_montmartre,Directorate General for External Security,low,5.138,15,1,7,1.52,6.7,46.7
+paris_montmartre,École pratique des hautes études,low,5.884,15,4,4,2.24,26.7,26.7
+paris_pont,Paris,high,0.778,4,1,3,0.75,25.0,75.0
+paris_pont,Paris-Panthéon-Assas University,mid,1.195,4,1,2,0.94,25.0,50.0
+paris_pont,Grand Palais,high,2.339,4,1,1,1.5,25.0,25.0
+paris_pont,École pratique des hautes études,low,2.938,4,1,3,1.01,25.0,75.0
+paris_pont,Pasteur Institute,mid,2.944,4,1,2,0.84,25.0,50.0
+paris_pont,Champ de Mars,high,3.196,4,0,2,1.25,0.0,50.0
+paris_pont,Directorate General for External Security,low,5.116,4,1,2,1.27,25.0,50.0
+paris_pont,Le Pré-Saint-Gervais,mid,5.483,4,0,1,1.38,0.0,25.0
+sanfrancisco_cartoon,United States Court of Appeals for the Ninth Circuit,low,1.189,5,0,2,1.31,0.0,40.0
+sanfrancisco_cartoon,Jack Kerouac Alley,mid,1.271,5,0,3,1.28,0.0,60.0
+sanfrancisco_cartoon,Oracle Park,high,1.408,5,0,1,1.52,0.0,20.0
+sanfrancisco_cartoon,Pioneer Monument,low,1.716,5,0,2,1.51,0.0,40.0
+sanfrancisco_cartoon,Fox Plaza,mid,1.793,5,0,2,1.39,0.0,40.0
+sanfrancisco_cartoon,Mission Bay,high,2.422,5,0,1,1.52,0.0,20.0
+sanfrancisco_cartoon,Alcatraz Federal Penitentiary,high,4.829,5,0,3,1.18,0.0,60.0
+sanfrancisco_cartoon,Bernal Heights Summit,mid,5.078,5,0,2,1.42,0.0,40.0
+sanfrancisco_cartoon,KPIX-TV,low,5.776,5,0,2,1.51,0.0,40.0
+sanfrancisco_contemporary,Chevron Tower,low,0.55,4,2,2,0.76,50.0,50.0
+sanfrancisco_contemporary,Golden Gate University,mid,0.58,4,4,3,0.69,100.0,75.0
+sanfrancisco_contemporary,Financial District,high,1.05,4,0,1,5.45,0.0,25.0
+sanfrancisco_contemporary,SS Jeremiah O'Brien,low,2.557,4,0,0,2.24,0.0,0.0
+sanfrancisco_contemporary,Aquarium of the Bay,high,2.595,4,2,0,2.65,50.0,0.0
+sanfrancisco_contemporary,San Francisco Mint,mid,2.691,4,2,0,2.54,50.0,0.0
+sanfrancisco_contemporary,"Castro District, San Francisco",high,3.89,4,4,0,3.87,100.0,0.0
+sanfrancisco_contemporary,Bernal Heights Summit,mid,4.875,4,3,0,4.02,75.0,0.0
+sanfrancisco_contemporary,Internet Archive,low,5.952,4,3,0,3.52,75.0,0.0
+sanfrancisco_joseph,Russian Hill,high,0.544,8,2,7,0.45,25.0,87.5
+sanfrancisco_joseph,SS Jeremiah O'Brien,low,1.069,8,0,6,0.46,0.0,75.0
+sanfrancisco_joseph,San Francisco Cable Car Museum,mid,1.498,8,1,4,0.58,12.5,50.0
+sanfrancisco_joseph,Alcatraz Federal Penitentiary,high,2.284,8,0,6,0.46,0.0,75.0
+sanfrancisco_joseph,Museum of the African Diaspora,mid,2.697,8,1,4,0.88,12.5,50.0
+sanfrancisco_joseph,"Treasure Island, San Francisco",high,4.638,8,0,5,0.58,0.0,62.5
+sanfrancisco_joseph,Mission San Francisco de Asís,mid,4.745,8,3,5,0.98,37.5,62.5
+sanfrancisco_joseph,Castro Camera,low,5.391,8,4,4,1.37,50.0,50.0
+santiago_baslica,Archbishop's Palace of Santiago de Chile,mid,1.029,10,2,3,1.04,20.0,30.0
+santiago_baslica,Universidad de Chile metro station,high,1.097,10,1,0,3.08,10.0,0.0
+santiago_baslica,ARCIS University,low,1.21,10,5,1,9.73,50.0,10.0
+santiago_baslica,Estación Central,mid,1.979,10,10,0,1.9,100.0,0.0
+santiago_baslica,Fantasilandia,high,2.032,10,1,1,4.44,10.0,10.0
+santiago_baslica,Parroquia de Santa Filomena,low,2.136,10,1,0,79.51,10.0,0.0
+santiago_baslica,Ministry of Sports (Chile),low,4.91,10,3,0,4.09,30.0,0.0
+santiago_baslica,San Miguel metro station,mid,5.374,10,8,0,31.07,80.0,0.0
+santiago_baslica,San Pablo metro station,high,5.709,10,6,1,22.94,60.0,10.0
+santiago_moneda,Plaza de Armas (Santiago),high,0.925,4,0,1,0.97,0.0,25.0
+santiago_moneda,Basílica de los Sacramentinos,mid,0.931,4,1,0,306.45,25.0,0.0
+santiago_moneda,Colegio Alonso de Ercilla,low,1.346,4,3,0,2.19,75.0,0.0
+santiago_moneda,Church of the Vera Cruz (Santiago),low,1.501,4,1,0,1.28,25.0,0.0
+santiago_moneda,Museum of Memory and Human Rights,mid,2.274,4,1,1,5.32,25.0,25.0
+santiago_moneda,Chilean National Museum of Natural History,high,2.449,4,1,0,1.59,25.0,0.0
+santiago_moneda,Public Health Institute of Chile,low,4.218,4,1,0,3.22,25.0,0.0
+santiago_moneda,Dorsal metro station,mid,5.473,4,0,0,306.09,0.0,0.0
+santiago_moneda,Chile España metro station,high,5.516,4,0,0,10.38,0.0,0.0
+santiago_plaza,Santa Ana metro station,high,0.883,4,0,3,3.4,0.0,75.0
+santiago_plaza,Alberto Hurtado University,mid,1.37,4,1,3,0.41,25.0,75.0
+santiago_plaza,Colegio Alonso de Ercilla,low,1.508,4,0,4,0.27,0.0,100.0
+santiago_plaza,Parque O'Higgins metro station,high,2.699,4,0,4,0.27,0.0,100.0
+santiago_plaza,Santiago Museum of Contemporary Art,mid,2.82,4,1,4,0.25,25.0,100.0
+santiago_plaza,Ministry of Sports (Chile),low,3.79,4,2,2,1.33,50.0,50.0
+santiago_plaza,St. Ignatius El Bosque,mid,5.201,4,0,4,0.27,0.0,100.0
+santiago_plaza,Plaza Ñuñoa,high,5.62,4,1,4,0.34,25.0,100.0
+sf_hayes,Pioneer Monument,low,0.66,15,2,8,0.82,13.3,53.3
+sf_hayes,Tenderloin,high,1.039,15,8,7,0.7,53.3,46.7
+sf_hayes,San Francisco Federal Building,mid,1.117,15,9,7,0.7,60.0,46.7
+sf_hayes,South of Market,high,1.141,15,8,6,0.66,53.3,40.0
+sf_hayes,United States Court of Appeals for the Ninth Circuit,low,1.221,15,5,7,0.89,33.3,46.7
+sf_hayes,"Eureka Valley, San Francisco",mid,1.274,15,3,5,1.01,20.0,33.3
+sf_hayes,Castro Camera,low,2.044,15,9,6,1.02,60.0,40.0
+sf_hayes,Lotta's Fountain,high,2.238,15,2,6,0.8,13.3,40.0
+sf_hayes,One Montgomery Tower,mid,2.351,15,4,4,1.54,26.7,26.7
+sf_hayes,555 California Street,mid,2.522,15,4,5,1.49,26.7,33.3
+sf_hayes,City Lights Bookstore,high,2.851,15,8,4,1.68,53.3,26.7
+sf_hayes,KPIX-TV,low,3.433,15,6,6,0.92,40.0,40.0
+sf_hayes,San Francisco Ferry Building,high,3.444,15,3,4,1.12,20.0,26.7
+sf_hayes,Musée Mécanique,mid,3.874,15,5,5,1.57,33.3,33.3
+sf_hayes,Internet Archive,low,4.24,15,6,5,1.75,40.0,33.3
+sf_hayes,Glen Park station,high,4.846,15,7,6,1.43,46.7,40.0
+sf_mission,San Francisco Armory,mid,0.885,15,9,14,0.24,60.0,93.3
+sf_mission,Castro Camera,low,1.407,15,13,2,0.99,86.7,13.3
+sf_mission,Castro Theatre,high,1.424,15,13,2,0.97,86.7,13.3
+sf_mission,Market Street,high,1.528,15,2,8,0.35,13.3,53.3
+sf_mission,Pink Triangle Park,mid,1.536,15,2,2,1.04,13.3,13.3
+sf_mission,California Institute of Integral Studies,mid,1.642,15,3,7,0.45,20.0,46.7
+sf_mission,Pioneer Monument,low,2.192,15,1,5,0.98,6.7,33.3
+sf_mission,United States Court of Appeals for the Ninth Circuit,low,2.324,15,3,7,0.47,20.0,46.7
+sf_mission,Golden Gate University,mid,3.692,15,1,5,0.82,6.7,33.3
+sf_mission,Jack Kerouac Alley,mid,4.301,15,2,2,2.69,13.3,13.3
+sf_mission,California Academy of Sciences,high,4.311,15,2,2,1.84,13.3,13.3
+sf_mission,Marina District,high,5.018,15,7,2,2.03,46.7,13.3
+sf_mission,SS Jeremiah O'Brien,low,5.511,15,0,3,1.66,0.0,20.0
+sf_northbeach,San Francisco Art Institute,mid,0.81,15,3,15,0.26,20.0,100.0
+sf_northbeach,Old St. Mary's Cathedral,mid,0.864,15,1,15,0.18,6.7,100.0
+sf_northbeach,580 California Street,low,0.903,15,1,14,0.24,6.7,93.3
+sf_northbeach,Mark Hopkins Hotel,high,0.948,15,1,15,0.34,6.7,100.0
+sf_northbeach,Embarcadero,high,1.185,15,0,15,0.17,0.0,100.0
+sf_northbeach,425 Market Street,low,1.368,15,0,14,0.22,0.0,93.3
+sf_northbeach,Academy of Art University,mid,1.537,15,1,12,0.41,6.7,80.0
+sf_northbeach,Powell Street station,high,1.781,15,1,15,0.26,6.7,100.0
+sf_northbeach,Van Ness Avenue,mid,1.784,15,1,11,0.45,6.7,73.3
+sf_northbeach,United States Court of Appeals for the Ninth Circuit,low,2.239,15,1,13,0.29,6.7,86.7
+sf_northbeach,San Francisco Public Library,high,2.415,15,1,12,0.41,6.7,80.0
+sf_northbeach,Market Street,high,3.13,15,0,13,0.24,0.0,86.7
+sf_northbeach,Walt Disney Family Museum,mid,4.307,15,1,9,0.54,6.7,60.0
+sf_northbeach,"Dogpatch, San Francisco",mid,4.656,15,0,8,0.72,0.0,53.3
+sf_northbeach,Haight-Ashbury,high,4.715,15,3,10,0.49,20.0,66.7
+sf_northbeach,Castro Camera,low,5.02,15,8,7,1.01,53.3,46.7
+sf_northbeach,Internet Archive,low,5.842,15,2,9,0.53,13.3,60.0
+singapore_asian,Masjid Jamae,mid,0.811,5,0,3,1.4,0.0,60.0
+singapore_asian,Marina Bay MRT station,high,1.409,5,3,3,0.72,60.0,60.0
+singapore_asian,Masjid Abdul Gaffoor,mid,1.906,5,1,2,1.38,20.0,40.0
+singapore_asian,Great World MRT station,high,2.174,5,1,2,0.99,20.0,40.0
+singapore_asian,Internal Security Department (Singapore),low,4.095,5,0,3,0.8,0.0,60.0
+singapore_asian,Siong Lim Temple,mid,4.805,5,0,3,1.52,0.0,60.0
+singapore_asian,Singapore Botanic Gardens,high,4.972,5,0,2,1.3,0.0,40.0
+singapore_national,Istana Kampong Glam,high,0.868,4,0,3,1.35,0.0,75.0
+singapore_national,Esplanade Bridge,mid,1.112,4,0,0,2.15,0.0,0.0
+singapore_national,Jalan Besar Stadium,mid,1.533,4,4,0,1.53,100.0,0.0
+singapore_national,"Sri Mariamman Temple, Singapore",high,1.961,4,0,0,1.96,0.0,0.0
+singapore_national,Internal Security Department (Singapore),low,3.073,4,0,0,4.55,0.0,0.0
+singapore_national,Braddell MRT station,mid,4.801,4,1,0,4.5,25.0,0.0
+singapore_national,Universal Studios Singapore,high,5.962,4,0,1,2.08,0.0,25.0
+singapore_somerset,Mount Elizabeth Hospital,mid,0.624,4,0,4,0.11,0.0,100.0
+singapore_somerset,Dhoby Ghaut MRT station,high,0.761,4,0,4,0.11,0.0,100.0
+singapore_somerset,Singapore General Hospital,high,2.484,4,0,4,0.11,0.0,100.0
+singapore_somerset,National Junior College,mid,5.096,4,0,4,0.11,0.0,100.0
+singapore_somerset,Sentosa,high,5.925,4,0,4,0.11,0.0,100.0
+stockholm_grdet,Swedish Film Institute,low,0.696,5,1,3,2.2,20.0,60.0
+stockholm_grdet,Stadion metro station,high,1.054,5,1,0,18.39,20.0,0.0
+stockholm_grdet,Economy Museum – Royal Coin Cabinet,mid,1.328,5,1,0,5.48,20.0,0.0
+stockholm_grdet,Nationalmuseum,high,2.25,5,1,0,2.11,20.0,0.0
+stockholm_grdet,Museum of Far Eastern Antiquities,mid,2.31,5,1,1,1.62,20.0,20.0
+stockholm_grdet,Royal Swedish Academy of Fine Arts,low,2.732,5,1,0,2.28,20.0,0.0
+stockholm_grdet,Mariatorget metro station,high,3.865,5,2,0,3.91,40.0,0.0
+stockholm_grdet,Stadshagen metro station,mid,4.698,5,5,0,12.03,100.0,0.0
+stockholm_karlaplan,Swedish Film Institute,low,0.741,4,0,1,1.75,0.0,25.0
+stockholm_karlaplan,Djurgårdsbron,mid,0.855,4,0,2,0.53,0.0,50.0
+stockholm_karlaplan,Östermalmstorg metro station,high,1.02,4,0,4,0.23,0.0,100.0
+stockholm_karlaplan,Royal Swedish Academy of Fine Arts,low,1.849,4,0,2,0.53,0.0,50.0
+stockholm_karlaplan,T-Centralen metro station,high,1.854,4,0,2,0.83,0.0,50.0
+stockholm_karlaplan,Riddarfjärden,mid,2.888,4,0,1,1.12,0.0,25.0
+stockholm_karlaplan,Hammarbyhöjden metro station,mid,4.928,4,2,1,2.87,50.0,25.0
+stockholm_karlaplan,3Arena,high,5.259,4,0,2,2.58,0.0,50.0
+stockholm_st,Riddarholmen Church,high,1.292,4,0,2,0.45,0.0,50.0
+stockholm_st,"Kastellet, Stockholm",mid,1.408,4,0,2,0.53,0.0,50.0
+stockholm_st,Royal Swedish Academy of Fine Arts,low,1.715,4,1,1,1.04,25.0,25.0
+stockholm_st,Hornstull metro station,mid,2.054,4,1,4,0.1,25.0,100.0
+stockholm_st,Liljeholmen metro station,high,2.864,4,3,2,0.57,75.0,50.0
+stockholm_st,"Royal College of Music, Stockholm",low,3.381,4,1,1,1.14,25.0,25.0
+stockholm_st,"Museum of Ethnography, Sweden",mid,3.441,4,1,1,1.23,25.0,25.0
+stockholm_st,Svedmyra metro station,high,4.049,4,1,3,0.25,25.0,75.0
+telaviv_dizengoff,Tel Aviv Zoo,low,0.775,5,2,0,3.6,40.0,0.0
+telaviv_dizengoff,Tel Aviv Cinematheque,mid,1.179,5,2,1,1.78,40.0,20.0
+telaviv_dizengoff,Tel Aviv Museum of Art,high,1.179,5,1,1,1.68,20.0,20.0
+telaviv_dizengoff,Neve Tzedek Tower,mid,2.16,5,5,0,2.07,100.0,0.0
+telaviv_dizengoff,Tel Aviv central bus station,high,2.539,5,0,0,1.99,0.0,0.0
+telaviv_dizengoff,Yitzhak Rabin Center,mid,3.774,5,2,1,2.66,40.0,20.0
+telaviv_dizengoff,Expo Tel Aviv,high,4.437,5,0,0,2.99,0.0,0.0
+telaviv_habima,Azrieli Sarona Tower,high,0.888,4,1,4,0.69,25.0,100.0
+telaviv_habima,Tel Aviv Zoo,low,1.055,4,1,0,3.67,25.0,0.0
+telaviv_habima,First International Bank Tower,mid,1.164,4,2,1,9.86,50.0,25.0
+telaviv_habima,Sommer Contemporary Art,low,1.521,4,3,1,8.86,75.0,25.0
+telaviv_habima,Israel Defense Forces History Museum,mid,2.204,4,1,1,1.3,25.0,25.0
+telaviv_habima,Tel Aviv Port,high,2.812,4,1,0,2.39,25.0,0.0
+telaviv_habima,Salama,mid,3.583,4,1,0,13.59,25.0,0.0
+telaviv_habima,"Luna Park, Tel Aviv",high,4.799,4,0,0,2.99,0.0,0.0
+telaviv_habima,Begin–Sadat Center for Strategic Studies,low,5.964,4,2,0,8.54,50.0,0.0
+telaviv_nahum,Alhambra Cinema,mid,1.208,4,0,0,19.43,0.0,0.0
+telaviv_nahum,Neve Sha'anan,high,1.34,4,3,0,24.28,75.0,0.0
+telaviv_nahum,Hatikva Quarter,mid,1.975,4,3,0,2.09,75.0,0.0
+telaviv_nahum,Sarona,high,2.277,4,3,0,2.27,75.0,0.0
+telaviv_nahum,Maccabiah Stadium,mid,4.484,4,1,0,3.84,25.0,0.0
+telaviv_nahum,Jarisha,low,5.448,4,0,1,11.76,0.0,25.0
+telaviv_nahum,Eretz Israel Museum,high,5.479,4,0,0,3.27,0.0,0.0
+tokyo_artizon,Tokyo Station,high,0.501,5,1,5,0.37,20.0,100.0
+tokyo_artizon,Currency Museum of the Bank of Japan,mid,0.721,5,1,4,1.52,20.0,80.0
+tokyo_artizon,Awajichō Station,mid,1.828,5,1,3,5.51,20.0,60.0
+tokyo_artizon,Tsukiji fish market,high,1.956,5,3,3,0.79,60.0,60.0
+tokyo_artizon,Ueno Station,high,3.865,5,2,3,0.87,40.0,60.0
+tokyo_artizon,Japan Academy,low,4.166,5,1,2,3.38,20.0,40.0
+tokyo_artizon,Ariake Gymnastics Centre,mid,4.535,5,2,2,1.3,40.0,40.0
+tokyo_ginza,Tokyo International Forum,mid,0.64,4,2,3,0.4,50.0,75.0
+tokyo_ginza,Shimbashi Station,high,0.791,4,4,2,1.1,100.0,50.0
+tokyo_ginza,Ōtemachi Station,high,1.5,4,2,1,1.39,50.0,25.0
+tokyo_ginza,Currency Museum of the Bank of Japan,mid,1.688,4,1,0,1.55,25.0,0.0
+tokyo_ginza,Tokyo Aquatics Centre,mid,5.049,4,1,1,1.67,25.0,25.0
+tokyo_ginza,Japan Academy,low,5.111,4,1,1,2.34,25.0,25.0
+tokyo_ginza,Yoyogi Station,high,5.832,4,2,0,6.04,50.0,0.0
+tokyo_national,Marunouchi,high,1.435,4,3,0,1.83,75.0,0.0
+tokyo_national,National Theatre of Japan,mid,1.461,4,2,0,1.45,50.0,0.0
+tokyo_national,Nihon University,mid,1.539,4,3,1,1.56,75.0,25.0
+tokyo_national,Shimbashi Station,high,2.721,4,2,0,3.35,50.0,0.0
+tokyo_national,National Museum of Western Art,mid,3.358,4,2,0,3.56,50.0,0.0
+tokyo_national,Japan Academy,low,3.498,4,2,1,9.07,50.0,25.0
+tokyo_national,Kabukichō,high,4.734,4,0,0,4.67,0.0,0.0
+tokyo_shibuya,United Nations University,mid,0.779,15,2,10,0.58,13.3,66.7
+tokyo_shibuya,Aoyama Gakuin University,mid,0.826,15,4,13,0.38,26.7,86.7
+tokyo_shibuya,Yoyogi National Stadium,high,0.89,15,1,10,0.41,6.7,66.7
+tokyo_shibuya,Harajuku,high,1.203,15,2,10,0.41,13.3,66.7
+tokyo_shibuya,Harajuku Station,high,1.21,15,2,10,0.4,13.3,66.7
+tokyo_shibuya,Yoyogi Park,high,1.41,15,1,12,0.49,6.7,80.0
+tokyo_shibuya,Tokai University,mid,1.523,15,2,10,0.75,13.3,66.7
+tokyo_shibuya,Ebisu Station (Tokyo),high,1.668,15,7,8,0.73,46.7,53.3
+tokyo_shibuya,Naka-Meguro Station,high,1.694,15,0,8,0.56,0.0,53.3
+tokyo_shibuya,Japan National Stadium,high,2.396,15,1,9,0.66,6.7,60.0
+tokyo_shibuya,Army War College (Japan),low,2.563,15,0,9,0.96,0.0,60.0
+tokyo_shibuya,NTT Docomo Yoyogi Building,mid,2.776,15,4,9,0.75,26.7,60.0
+tokyo_shibuya,Roppongi,high,2.82,15,9,6,0.9,60.0,40.0
+tokyo_shibuya,Tokyo Opera City Tower,mid,2.89,15,5,8,0.74,33.3,53.3
+tokyo_shibuya,New National Theatre Tokyo,mid,2.892,15,1,6,1.13,6.7,40.0
+tokyo_shibuya,Akasaka Palace,mid,3.412,15,7,6,1.06,46.7,40.0
+tokyo_shibuya,Ministry of Defense (Japan),mid,4.477,15,1,7,0.95,6.7,46.7
+tokyo_shibuya,Ōkubo Station,high,4.592,15,3,7,1.01,20.0,46.7
+tokyo_shibuya,Toranomon Station,high,4.62,15,8,7,1.08,53.3,46.7
+tokyo_shibuya,Higashi-Nakano Station,mid,5.334,15,3,9,0.85,20.0,60.0
+tokyo_shibuya,"Imperial Hotel, Tokyo",high,5.382,15,4,6,1.47,26.7,40.0
+tokyo_shibuya,Tokyo University of Marine Science and Technology,low,5.563,15,1,7,1.19,6.7,46.7
+tokyo_shibuya,Nippon Budokan,high,5.843,15,2,7,1.12,13.3,46.7
+tokyo_shibuya,Takadanobaba Station,mid,5.932,15,5,8,1.01,33.3,53.3
+tokyo_shimokita,Higashi-Kitazawa Station,mid,0.656,15,3,14,0.24,20.0,93.3
+tokyo_shimokita,Shindaita Station,mid,0.695,15,5,13,0.38,33.3,86.7
+tokyo_shimokita,Sasazuka Station,high,1.41,15,7,7,0.54,46.7,46.7
+tokyo_shimokita,Komaba-Tōdaimae Station,high,1.509,15,1,8,0.67,6.7,53.3
+tokyo_shimokita,Meidaimae Station,high,1.78,15,3,10,0.38,20.0,66.7
+tokyo_shimokita,Eifukuchō Station,mid,2.763,15,5,7,0.72,33.3,46.7
+tokyo_shimokita,Hatsudai Station,mid,2.798,15,6,8,0.58,40.0,53.3
+tokyo_shimokita,Kita-sando Station,mid,3.895,15,3,7,0.77,20.0,46.7
+tokyo_shimokita,Tokyo Equestrian Park,low,4.087,15,1,8,0.87,6.7,53.3
+tokyo_shimokita,National Stadium (Tokyo),high,4.627,15,0,8,0.78,0.0,53.3
+tokyo_shimokita,Army War College (Japan),low,5.117,15,0,8,1.38,0.0,53.3
+tokyo_shimokita,Shin-Ōkubo Station,high,5.322,15,4,6,1.27,26.7,40.0
+tokyo_shimokita,Suntory Museum of Art,mid,5.658,15,2,8,0.81,13.3,53.3
+tokyo_yanaka,Nezu Shrine,mid,0.892,15,15,15,0.84,100.0,100.0
+tokyo_yanaka,Ueno Zoo,high,1.163,15,9,6,1.36,60.0,40.0
+tokyo_yanaka,Tabata Station (Tokyo),mid,1.286,15,15,0,1.55,100.0,0.0
+tokyo_yanaka,Tokyo National Museum,high,1.301,15,2,5,1.33,13.3,33.3
+tokyo_yanaka,National Museum of Nature and Science,high,1.522,15,2,4,1.27,13.3,26.7
+tokyo_yanaka,Japan Academy,low,1.579,15,3,5,7.75,20.0,33.3
+tokyo_yanaka,Okachimachi Station,high,2.329,15,11,0,2.58,73.3,0.0
+tokyo_yanaka,Kodokan Judo Institute,mid,2.398,15,6,0,4.07,40.0,0.0
+tokyo_yanaka,Chuo University,mid,2.6,15,7,0,7.12,46.7,0.0
+tokyo_yanaka,Hosei University,mid,4.143,15,5,0,13.07,33.3,0.0
+tokyo_yanaka,Kayabachō Station,mid,5.387,15,8,0,13.74,53.3,0.0
+tokyo_yanaka,Kinshichō Station,high,5.537,15,8,0,5.52,53.3,0.0
+tokyo_yanaka,Hibiya Station,high,5.817,15,10,0,6.38,66.7,0.0
+toronto_rosedale,Bloor–Yonge station,high,0.672,5,0,5,0.81,0.0,100.0
+toronto_rosedale,Bata Shoe Museum,mid,1.382,5,2,2,1.9,40.0,40.0
+toronto_rosedale,Toronto Magnetic and Meteorological Observatory,low,1.553,5,2,3,1.08,40.0,60.0
+toronto_rosedale,St. Clair West Station,mid,2.291,5,1,3,1.35,20.0,60.0
+toronto_rosedale,Toronto City Hall,high,2.599,5,2,2,1.31,40.0,40.0
+toronto_rosedale,Union Station (Toronto),high,3.527,5,0,3,1.07,0.0,60.0
+toronto_rosedale,Dundas West station,mid,5.615,5,0,4,1.07,0.0,80.0
+toronto_sherbourne,Church and Wellesley,high,0.813,4,2,3,0.8,50.0,75.0
+toronto_sherbourne,Cabbagetown,mid,1.263,4,3,1,1.29,75.0,25.0
+toronto_sherbourne,Toronto Magnetic and Meteorological Observatory,low,1.775,4,1,0,2.86,25.0,0.0
+toronto_sherbourne,St. Patrick Station,high,2.158,4,2,0,10.0,50.0,0.0
+toronto_sherbourne,Royal Alexandra Theatre,mid,2.922,4,1,0,25.32,25.0,0.0
+toronto_sherbourne,Université de l'Ontario français,low,3.134,4,1,1,13.19,25.0,25.0
+toronto_sherbourne,Fort York,high,4.305,4,1,0,3.97,25.0,0.0
+toronto_sherbourne,Centre for Addiction and Mental Health,mid,4.524,4,2,0,3.36,50.0,0.0
+toronto_tmu,Commerce Court,mid,0.955,4,0,3,0.79,0.0,75.0
+toronto_tmu,Wellesley station,high,1.024,4,1,1,4.91,25.0,25.0
+toronto_tmu,Distillery District,high,1.838,4,2,2,0.98,50.0,50.0
+toronto_tmu,Gerrard Street,mid,2.15,4,2,3,0.89,50.0,75.0
+toronto_tmu,Royal Canadian Yacht Club,low,3.714,4,1,2,1.32,25.0,50.0
+toronto_tmu,Hanlan's Point Beach,mid,4.656,4,0,2,0.89,0.0,50.0
+toronto_tmu,"Midtown, Toronto",high,5.132,4,0,2,0.99,0.0,50.0
+vienna_heldenplatz,Constitutional Court (Austria),low,0.604,5,1,4,0.73,20.0,80.0
+vienna_heldenplatz,Karlsplatz,high,0.913,5,2,3,2.58,40.0,60.0
+vienna_heldenplatz,Austrian Academy of Sciences,mid,1.027,5,2,3,0.51,40.0,60.0
+vienna_heldenplatz,Pilgramgasse station,high,1.669,5,2,3,0.65,40.0,60.0
+vienna_heldenplatz,Institute for Human Sciences,low,2.321,5,2,2,1.12,40.0,40.0
+vienna_heldenplatz,Margaretengürtel station,mid,2.501,5,1,2,0.98,20.0,40.0
+vienna_heldenplatz,Vienna University of Economics and Business,high,3.406,5,1,2,1.38,20.0,40.0
+vienna_heldenplatz,Vienna Observatory,mid,3.593,5,2,3,0.94,40.0,60.0
+vienna_naschmarkt,Neubaugasse station,high,0.809,4,1,1,1.07,25.0,25.0
+vienna_naschmarkt,Fundamental Rights Agency,low,0.819,4,1,1,1.37,25.0,25.0
+vienna_naschmarkt,Haas House,mid,1.207,4,2,0,1.81,50.0,0.0
+vienna_naschmarkt,Haus Wittgenstein,mid,2.322,4,2,0,2.21,50.0,0.0
+vienna_naschmarkt,Wiener Stadthalle,high,2.34,4,1,0,3.23,25.0,0.0
+vienna_naschmarkt,Institute for Human Sciences,low,3.142,4,2,0,2.58,50.0,0.0
+vienna_naschmarkt,Schönbrunn Zoo,high,4.894,4,0,0,2.77,0.0,0.0
+vienna_naschmarkt,Schloss Hetzendorf,mid,5.487,4,0,0,6.02,0.0,0.0
+vienna_university,Stadttempel,mid,0.655,8,2,5,1.03,25.0,62.5
+vienna_university,Vienna State Opera,high,1.12,8,3,2,1.07,37.5,25.0
+vienna_university,Constitutional Court (Austria),low,1.25,8,2,1,1.3,25.0,12.5
+vienna_university,Vienna City Hall,high,1.858,8,3,3,1.1,37.5,37.5
+vienna_university,"Piarist Church, Vienna",mid,2.465,8,2,1,1.75,25.0,12.5
+vienna_university,Institute for Human Sciences,low,2.476,8,3,1,1.76,37.5,12.5
+vienna_university,Meidling Hauptstraße station,high,4.875,8,6,0,5.55,75.0,0.0
+vienna_university,Franz Horr Stadium,mid,5.138,8,2,0,2.64,25.0,0.0

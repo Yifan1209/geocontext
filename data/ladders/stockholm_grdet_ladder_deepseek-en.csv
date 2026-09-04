@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,卡尔广场站,Karlaplan metro station,卡爾廣場站,Q1577742,0.932,4,,6,4
+0.5-1.5km,high,体育场站,Stadion metro station,體育場站 (斯德哥爾摩),Q597072,1.054,5,,6,4
+0.5-1.5km,high,皇家理工学院,KTH Royal Institute of Technology,皇家理工学院,Q854280,1.488,5,,6,4
+0.5-1.5km,high,斯德哥尔摩奥林匹克体育场,Stockholm Olympic Stadium,斯德哥爾摩奧林匹克體育場,Q727078,1.136,4,,6,4
+0.5-1.5km,mid,经济博物馆-王家金库,Economy Museum – Royal Coin Cabinet,經濟博物館-王家金庫,Q1750428,1.328,2,,1,1
+0.5-1.5km,low,瑞典电影学院,Swedish Film Institute,瑞典电影学院,Q1146587,0.696,1,,3,3
+0.5-1.5km,low,斯德哥尔摩皇家音乐学院,"Royal College of Music, Stockholm",斯德哥尔摩皇家音乐学院,Q1796144,1.031,1,,3,3
+0.5-1.5km,low,瑞典统计局,Statistics Sweden,瑞典统计局,Q1472511,1.085,1,,3,3
+1.5-3.0km,high,文化大楼,The House of Culture (Stockholm),文化大楼,Q204298,2.478,4,,42,4
+1.5-3.0km,high,瑞典国立博物馆,Nationalmuseum,瑞典國立博物館,Q842858,2.25,5,,42,4
+1.5-3.0km,high,诺尔马尔姆广场,Norrmalmstorg,諾瑪姆斯托格,Q1750652,2.031,4,,42,4
+1.5-3.0km,high,斯德哥尔摩,Stockholm,斯德哥尔摩,Q1754,2.504,5,,42,4
+1.5-3.0km,mid,萨格尔府,Sager House,萨格尔府,Q1886105,2.603,2,,42,4
+1.5-3.0km,mid,东方博物馆,Museum of Far Eastern Antiquities,東方博物館,Q298289,2.31,3,,42,4
+1.5-3.0km,mid,民族博物馆,"Museum of Ethnography, Sweden",民族博物馆,Q1371375,1.924,3,,42,4
+1.5-3.0km,mid,小城堡,"Kastellet, Stockholm",小城堡,Q4176816,2.625,2,,42,4
+1.5-3.0km,low,瑞典皇家艺术学院,Royal Swedish Academy of Fine Arts,瑞典皇家藝術學院,Q167920,2.732,1,,1,1
+3.0-6.0km,high,利杰霍蒙站,Liljeholmen metro station,利傑霍蒙站,Q1538339,5.866,5,,32,4
+3.0-6.0km,high,馬利亞廣場站,Mariatorget metro station,馬利亞廣場站,Q936958,3.865,5,,32,4
+3.0-6.0km,high,贝里斯汉姆拉站,Bergshamra metro station,貝里斯漢姆拉站,Q2034007,5.312,4,,32,4
+3.0-6.0km,high,哈加宮,Haga Palace,哈加宮,Q5574523,3.906,4,,32,4
+3.0-6.0km,mid,蒂爾畫廊,Thiel Gallery,蒂爾畫廊,Q252259,3.853,3,,26,4
+3.0-6.0km,mid,史达兹哈根站,Stadshagen metro station,史達茲哈根站,Q1811380,4.698,3,,26,4
+3.0-6.0km,mid,萨尔茨湖,Saltsjön,Saltsjön,Q4176307,3.066,3,,26,4
+3.0-6.0km,mid,哈马比高地站,Hammarbyhöjden metro station,哈馬比高地站,Q1573666,5.683,3,,26,4
+3.0-6.0km,low,,Tranholmen,Tranholmen,Q1820063,3.302,1,,1,1

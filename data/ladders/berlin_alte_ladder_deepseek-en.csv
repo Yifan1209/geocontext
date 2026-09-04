@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,柏林新犹太会堂,New Synagogue (Berlin),柏林新犹太会堂,Q246474,0.509,4,,16,4
+0.5-1.5km,high,柏林国家歌剧院,Berlin State Opera,柏林國立歌劇院,Q312576,0.522,4,,16,4
+0.5-1.5km,high,柏林电视塔,Fernsehturm Berlin,柏林电视塔,Q151356,0.75,5,,16,4
+0.5-1.5km,high,巴黎广场,Pariser Platz,巴黎广场,Q156716,1.406,4,,16,4
+0.5-1.5km,mid,弗里德里希韦尔德教堂,Friedrichswerder Church,弗里德里希韦尔德教堂,Q833817,0.559,2,,19,4
+0.5-1.5km,mid,尼古拉街区,Nikolaiviertel,尼古拉街區,Q703927,0.757,3,,19,4
+0.5-1.5km,mid,柏林音乐厅,Konzerthaus Berlin,柏林音乐厅,Q702548,0.902,3,,19,4
+0.5-1.5km,mid,圣母教堂,"St. Mary's Church, Berlin",圣母教堂,Q679101,0.563,3,,19,4
+0.5-1.5km,low,柏林-勃兰登堡科学院和人文学院,Berlin-Brandenburg Academy of Sciences and Humanities,柏林－布蘭登堡科學院和人文學院,Q219989,0.818,1,,1,1
+1.5-3.0km,high,柏林中央车站,Berlin Hauptbahnhof,柏林站,Q1097,2.016,5,,14,4
+1.5-3.0km,high,大蒂尔加滕公园,Tiergarten (park),大蒂尔加滕公园,Q694020,2.193,5,,14,4
+1.5-3.0km,high,德国国会大厦,Reichstag building,德國國會大廈,Q151897,1.525,5,,14,4
+1.5-3.0km,high,柏林爱乐厅,Berliner Philharmonie,柏林愛樂廳,Q32653910,2.264,4,,14,4
+1.5-3.0km,mid,柏林画廊,Berlinische Galerie,柏林畫廊,Q700222,1.88,2,,25,4
+1.5-3.0km,mid,世界文化之家,Haus der Kulturen der Welt,世界文化宮,Q704933,2.281,3,,25,4
+1.5-3.0km,mid,欧洲被害辛提人和罗姆人纪念碑,Memorial to the Sinti and Roma Victims of National Socialism,纳粹时期欧洲受害辛提人和罗姆人纪念碑,Q151785,1.557,2,,25,4
+1.5-3.0km,mid,德国技术博物馆,German Museum of Technology,德国科技博物馆,Q706530,2.843,3,,25,4
+1.5-3.0km,low,铁路塔,Bahntower,铁路塔,Q643536,2.004,1,,2,2
+1.5-3.0km,low,柏林天文台,Berlin Observatory,柏林天文台,Q698950,1.903,1,,2,2
+3.0-6.0km,high,胜利纪念柱,Berlin Victory Column,胜利纪念柱,Q154987,3.339,5,,17,4
+3.0-6.0km,high,柏林墙,Berlin Wall,柏林圍牆,Q5086,3.418,5,,17,4
+3.0-6.0km,high,奥伯鲍姆桥,Oberbaum Bridge,奥伯鲍姆桥,Q695082,3.822,4,,17,4
+3.0-6.0km,high,柏林南十字车站,Berlin Südkreuz station,柏林南十字车站,Q376589,5.528,4,,17,4
+3.0-6.0km,mid,贝尔维尤宫,Bellevue Palace,貝爾維尤宮,Q317091,3.068,3,,19,4
+3.0-6.0km,mid,六月十七日大街,Straße des 17. Juni,六月十七日大街,Q317094,3.442,3,,19,4
+3.0-6.0km,mid,白湖犹太人公墓,Weißensee Cemetery,白湖猶太人公墓,Q675174,4.851,2,,19,4
+3.0-6.0km,mid,柏林健康泉站,Berlin Gesundbrunnen station,柏林健康泉车站,Q678286,3.15,3,,19,4
+3.0-6.0km,low,伊本·鲁世德-歌德清真寺,Ibn Rushd-Goethe Mosque,Ibn Rushd-Goethe mosque,Q30447692,3.342,1,,1,1

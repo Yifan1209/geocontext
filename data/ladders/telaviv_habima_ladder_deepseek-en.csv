@@ -1,0 +1,35 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,沙洛姆大厦,Shalom Meir Tower,沙洛姆大厦,Q2915137,1.361,4,,31,4
+0.5-1.5km,high,阿兹列里萨罗纳塔,Azrieli Sarona Tower,阿茲列里薩羅納塔,Q24885196,0.888,4,,31,4
+0.5-1.5km,high,阿兹列里中心,Azrieli Center,阿茲列里中心,Q555350,1.193,5,,31,4
+0.5-1.5km,high,特拉维夫市政厅,Tel Aviv City Hall,特拉维夫市政厅,Q2904108,0.989,4,,31,4
+0.5-1.5km,mid,哈尤维尔塔,HaYovel Tower,HaYovel Tower,Q2778012,0.914,2,,25,4
+0.5-1.5km,mid,第一国际银行大厦,First International Bank Tower,First International Bank Tower,Q2899925,1.164,3,,25,4
+0.5-1.5km,mid,马萨里克广场,Masaryk Square,马萨里克广场,Q2776314,0.598,3,,25,4
+0.5-1.5km,mid,特拉维夫老中央汽车站,Old Tel Aviv central bus station,Old Tel Aviv central bus station,Q2906663,1.421,2,,25,4
+0.5-1.5km,low,特拉维夫动物园,Tel Aviv Zoo,Tel Aviv Zoo,Q7695556,1.055,1,,3,3
+0.5-1.5km,low,,Ohel Moed Synagogue,Synagogue Ohel Moed,Q3507999,1.17,1,,3,3
+0.5-1.5km,low,马苏迪亚,Al-Mas'udiyya,Al-Mas'udiyya,Q4702857,1.376,1,,3,3
+1.5-3.0km,high,本-古里安故居,Ben-Gurion House,Ben-Gurion House in Tel Aviv,Q1846184,1.55,4,,21,4
+1.5-3.0km,high,特拉维夫港,Tel Aviv Port,特拉维夫港,Q2889387,2.812,5,,21,4
+1.5-3.0km,high,钻石交易区,Diamond Exchange District,鑽石交易區,Q2916896,2.496,4,,21,4
+1.5-3.0km,high,哈亚孔街,HaYarkon Street,哈亞克街,Q2332339,1.552,5,,21,4
+1.5-3.0km,mid,特拉维夫2000终点站,Tel Aviv 2000 Terminal,Tel Aviv 2000 Terminal,Q2904462,1.893,2,,24,4
+1.5-3.0km,mid,以色列国防军历史博物馆,Israel Defense Forces History Museum,以色列国防军历史博物馆,Q629197,2.204,3,,24,4
+1.5-3.0km,mid,贴现银行大厦,Discount Bank Tower,Bank Discount Tower,Q2882599,1.518,3,,24,4
+1.5-3.0km,mid,顶级公园,Tzamarot Ayalon,顶级公园,Q2920006,2.362,3,,24,4
+1.5-3.0km,low,索默当代艺术馆,Sommer Contemporary Art,Sommer Contemporary Art,Q20050750,1.521,1,,3,3
+1.5-3.0km,low,哈沙哈尔塔,HaShahar Tower,HaShahar Tower,Q20645725,2.091,1,,3,3
+1.5-3.0km,low,,Alon Segev Gallery,Alon Segev Gallery,Q4734345,2.855,1,,3,3
+3.0-6.0km,high,雅法港,Jaffa Port,雅法港,Q2911475,3.569,5,,24,4
+3.0-6.0km,high,特拉维夫卢纳公园,"Luna Park, Tel Aviv","Luna Park, Tel Aviv",Q4519503,4.799,5,,24,4
+3.0-6.0km,high,马哈茂迪亚清真寺,Mahmoudiya Mosque,Mahmoudiya Mosque,Q2920688,3.032,4,,24,4
+3.0-6.0km,high,特拉維夫大學,Tel Aviv University,特拉維夫大學,Q319239,5.001,4,,24,4
+3.0-6.0km,mid,哈达尔约瑟夫,Hadar Yosef,Hadar Yosef,Q2776706,5.657,3,,33,4
+3.0-6.0km,mid,萨拉马,Salama,"Salama, Jaffa",Q7403531,3.583,2,,33,4
+3.0-6.0km,mid,拉马特甘以色列艺术博物馆,Ramat Gan Museum of Israeli Art,Ramat Gan Museum of Israeli Art,Q6596032,4.449,2,,33,4
+3.0-6.0km,mid,阿亚隆河,Ayalon River,阿亚隆河,Q412019,3.626,3,,33,4
+3.0-6.0km,low,贾里沙,Jarisha,Jarisha,Q2906069,3.633,1,,4,4
+3.0-6.0km,low,贝京-萨达特战略研究中心,Begin–Sadat Center for Strategic Studies,Begin-Sadat Center for Strategic Studies,Q4880478,5.964,1,,4,4
+3.0-6.0km,low,,Hasimta Theater,Hasimta Theatre,Q6588250,3.434,1,,4,4
+3.0-6.0km,low,吉波爾體育大樓,Gibor Sport House,吉波爾體育大樓,Q6585397,3.684,1,,4,4

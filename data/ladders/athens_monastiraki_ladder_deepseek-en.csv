@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,宪法广场,Syntagma Square,宪法广场,Q1137997,0.819,5,,24,4
+0.5-1.5km,high,加齐,"Gazi, Athens","Gazi, Athens",Q1496656,0.987,4,,24,4
+0.5-1.5km,high,雅典娜胜利神庙,Temple of Athena Nike,雅典娜·尼刻神廟,Q384813,0.501,5,,24,4
+0.5-1.5km,high,希腊议会,Hellenic Parliament,希腊议会,Q477089,0.999,5,,24,4
+0.5-1.5km,mid,希腊国家银行,National Bank of Greece,希腊国家银行,Q1816028,0.69,2,,27,4
+0.5-1.5km,mid,國立希臘劇院,National Theatre of Greece,國立希臘劇院,Q61650955,0.972,3,,27,4
+0.5-1.5km,mid,雅典奖杯亭,Choragic Monument of Lysicrates,雅典獎杯亭,Q1160691,0.701,3,,27,4
+0.5-1.5km,mid,希腊总理府,Maximos Mansion,希臘總理府,Q1141322,1.365,2,,27,4
+0.5-1.5km,low,希腊犹太博物馆,Jewish Museum of Greece,Jewish Museum of Greece,Q930891,0.747,1,,2,2
+0.5-1.5km,low,布劳罗尼翁圣所,Brauroneion,布勞羅尼翁圣所,Q902329,0.502,1,,2,2
+1.5-3.0km,high,阿瑞斯公园,Pedion tou Areos,阿瑞斯公園,Q932606,2.112,4,,10,4
+1.5-3.0km,high,帕那辛纳克体育场,Panathenaic Stadium,帕那辛納克體育場,Q208811,1.62,4,,10,4
+1.5-3.0km,high,雅典火车站,Athens railway station,雅典火车站,Q3560693,1.942,5,,10,4
+1.5-3.0km,high,雅典国家考古博物馆,"National Archaeological Museum, Athens",雅典國家考古博物館,Q637187,1.583,4,,10,4
+1.5-3.0km,mid,瓦西里西斯·索菲亚斯大街,Vasilissis Sofias Avenue,Vasilissis Sofias Avenue,Q2584356,1.528,3,,20,4
+1.5-3.0km,mid,阿波斯托斯·尼古拉迪斯体育场,Leoforos Alexandras Stadium,阿波斯托斯·尼古拉迪斯体育场,Q620473,2.814,3,,20,4
+1.5-3.0km,mid,雅典音樂廳,Athens Concert Hall,雅典音樂廳,Q582203,2.586,3,,20,4
+1.5-3.0km,mid,吕刻昂,Lyceum,吕刻昂,Q1160664,1.588,2,,20,4
+1.5-3.0km,low,雅典清真寺,Athens Mosque,Athens Mosque,Q28465243,2.508,1,,1,1
+3.0-6.0km,high,雅典大学,National and Kapodistrian University of Athens,雅典大学,Q547867,3.005,5,,16,4
+3.0-6.0km,high,卡利塞亚站,Kallithea metro station,卡利塞亞站,Q2455017,3.033,4,,16,4
+3.0-6.0km,high,圣尼古拉奥斯站,Agios Nikolaos metro station,聖尼古拉奧斯站,Q3034196,3.434,4,,16,4
+3.0-6.0km,high,,Papagou,Papagou,Q2531632,5.144,4,,16,4
+3.0-6.0km,mid,佐格拉富,Zografou,佐格拉富,Q218375,3.365,3,,21,4
+3.0-6.0km,mid,普希基科,Psychiko,普希基科,Q2004382,5.672,3,,21,4
+3.0-6.0km,mid,伊利乌波利斯,Ilioupolis,伊利乌波利斯,Q1997239,5.588,3,,21,4
+3.0-6.0km,mid,雅典艺术学院,Athens School of Fine Arts,雅典艺术学院,Q414014,3.613,3,,21,4

@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,希罗德·阿提库斯剧场,Odeon of Herodes Atticus,希羅德·阿提庫斯劇場,Q1328165,1.266,5,,35,4
+0.5-1.5km,high,帕特农神庙,Parthenon,帕德嫩神廟,Q10288,1.069,5,,35,4
+0.5-1.5km,high,利卡维托斯山,Mount Lycabettus,呂卡維多斯,Q1357713,1.244,5,,35,4
+0.5-1.5km,high,雅典娜胜利神庙,Temple of Athena Nike,雅典娜·尼刻神廟,Q384813,1.214,5,,35,4
+0.5-1.5km,mid,,Agii Theodori,Agii Theodori,Q4505190,0.927,2,,28,4
+0.5-1.5km,mid,名祖英雄纪念碑,Monument of the Eponymous Heroes,Monument of the Eponymous Heroes,Q2094507,1.403,2,,28,4
+0.5-1.5km,mid,法国雅典学院,French School at Athens,法国雅典学院,Q273548,0.897,2,,28,4
+0.5-1.5km,mid,埃克萨尔希亚,Exarcheia,埃克萨尔希亚,Q531602,1.365,3,,28,4
+0.5-1.5km,low,潘朵席翁圣所,Pandroseion,潘朵席翁圣所,Q2204137,1.099,1,,3,3
+0.5-1.5km,low,布劳罗尼翁圣所,Brauroneion,布勞羅尼翁圣所,Q902329,1.174,1,,3,3
+0.5-1.5km,low,厄琉希尼翁神庙,Eleusinion,厄琉希尼翁神庙,Q1349784,1.205,1,,3,3
+1.5-3.0km,high,雅典塔,Athens Towers,雅典塔,Q2614287,2.29,4,,14,4
+1.5-3.0km,high,雅典大学,National and Kapodistrian University of Athens,雅典大学,Q547867,2.564,5,,14,4
+1.5-3.0km,high,忒修斯站,Thiseio metro station,忒修斯站,Q2454959,1.621,5,,14,4
+1.5-3.0km,high,彼得拉洛纳,Petralona,彼得拉洛纳,Q2984861,2.592,4,,14,4
+1.5-3.0km,mid,雅典音樂廳,Athens Concert Hall,雅典音樂廳,Q582203,1.588,3,,20,4
+1.5-3.0km,mid,科普瑟里,Kypseli,科普瑟里,Q1795153,2.899,3,,20,4
+1.5-3.0km,mid,扎夫尼,Dafni,扎夫尼,Q2338667,2.709,3,,20,4
+1.5-3.0km,mid,雅典国家技术大学,National Technical University of Athens,雅典国家技术大学,Q1640726,1.633,3,,20,4
+3.0-6.0km,high,圣季米特里奥斯,Agios Dimitrios,圣季米特里奥斯,Q204361,4.562,4,,14,4
+3.0-6.0km,high,埃加莱奥站,Egaleo metro station,埃加萊奧站,Q10275720,5.312,4,,14,4
+3.0-6.0km,high,圣尼古拉奥斯站,Agios Nikolaos metro station,聖尼古拉奧斯站,Q3034196,3.75,4,,14,4
+3.0-6.0km,high,斯塔夫罗斯·尼亚尔霍斯文化中心,Stavros Niarchos Foundation Cultural Center,Stavros Niarchos Foundation Cultural Center,Q17511186,5.604,4,,14,4
+3.0-6.0km,mid,雅典农业大学,Agricultural University of Athens,雅典农业大学,Q1804771,3.07,2,,16,4
+3.0-6.0km,mid,阿提基站,Attiki metro station,阿提基站,Q2454978,3.128,3,,16,4
+3.0-6.0km,mid,,Tourkovounia,Tourkovounia,Q14477440,4.281,3,,16,4
+3.0-6.0km,mid,莫斯哈托站,Moschato metro station,莫斯哈托站,Q2454553,5.492,3,,16,4
+3.0-6.0km,low,雅典清真寺,Athens Mosque,Athens Mosque,Q28465243,3.624,1,,1,1

@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,荷里路德宫,Holyrood Palace,荷里路德宮,Q505950,1.35,5,,38,4
+0.5-1.5km,high,皇家英联邦游泳池,Royal Commonwealth Pool,皇家英联邦游泳池,Q7374052,1.419,4,,38,4
+0.5-1.5km,high,爱丁堡韦弗利站,Edinburgh Waverley railway station,愛丁堡威瓦利站,Q800716,0.585,5,,38,4
+0.5-1.5km,high,王子街花园,Princes Street Gardens,王子大街花園,Q980646,0.806,5,,38,4
+0.5-1.5km,mid,布特大楼,Bute House,布特大樓,Q2928830,1.219,2,,31,4
+0.5-1.5km,mid,梅尔维尔纪念碑,Melville Monument,麥爾維爾紀念碑,Q17570686,0.82,2,,31,4
+0.5-1.5km,mid,杜格尔德·斯图尔特纪念亭,Dugald Stewart Monument,杜格尔德·斯图尔特纪念亭,Q5312471,0.947,3,,31,4
+0.5-1.5km,mid,特拉沃斯剧院,Traverse Theatre,特拉沃斯劇院,Q7836167,0.843,3,,31,4
+0.5-1.5km,low,,Scottish Poetry Library,Scottish Poetry Library,Q15275733,0.946,1,,2,2
+0.5-1.5km,low,卡尔顿山官邸,"Governor's House, Edinburgh",卡尔顿山官邸,Q5589466,0.797,1,,2,2
+1.5-3.0km,high,布莱克福德山,Blackford Hill,布萊克福德山,Q3915784,2.659,4,,13,4
+1.5-3.0km,high,爱丁堡皇家植物园,Royal Botanic Garden Edinburgh,愛丁堡皇家植物園,Q1807521,2.287,4,,13,4
+1.5-3.0km,high,,Bruntsfield,Bruntsfield,Q4979589,1.502,4,,13,4
+1.5-3.0km,high,苏格兰国立美术馆,National Galleries of Scotland,蘇格蘭國立美術館,Q2051997,2.103,5,,13,4
+1.5-3.0km,mid,利斯中央火车站,Leith Central railway station,Leith Central railway station,Q6520384,2.877,2,,13,4
+1.5-3.0km,mid,爱丁堡皇家天文台,"Royal Observatory, Edinburgh",愛丁堡皇家天文台,Q3106882,2.645,3,,13,4
+1.5-3.0km,mid,,Pollock Halls of Residence,Pollock Halls of Residence,Q3394698,1.586,2,,13,4
+1.5-3.0km,mid,斯图尔特梅尔维尔学院,Erskine Stewart Melville,斯圖爾特梅爾維爾學院,Q11839029,2.334,2,,13,4
+1.5-3.0km,low,,North British Distillery,North British Distillery,Q1432194,2.814,1,,1,1
+3.0-6.0km,high,科林顿,Colinton,科林顿,Q5145731,5.637,4,,13,4
+3.0-6.0km,high,爱丁堡动物园,Edinburgh Zoo,愛丁堡動物園,Q1284778,4.923,5,,13,4
+3.0-6.0km,high,默里菲尔德球场,Murrayfield Stadium,默萊菲體育場,Q1024926,3.131,5,,13,4
+3.0-6.0km,high,波多贝罗,"Portobello, Edinburgh",波多贝罗,Q3399361,4.838,4,,13,4
+3.0-6.0km,mid,墨奇斯顿城堡公学,Merchiston Castle School,墨奇斯頓城堡公學,Q6818469,5.578,2,,9,4
+3.0-6.0km,mid,利斯北教堂,North Leith Parish Church,利斯北教堂,Q11838984,3.288,2,,9,4
+3.0-6.0km,mid,利斯河,Water of Leith,利斯河,Q3566668,4.11,3,,9,4
+3.0-6.0km,mid,,Gorgie,Gorgie,Q5586281,3.02,3,,9,4
+3.0-6.0km,low,,Duddingston House,Duddingston House,Q5311665,3.496,1,,1,1

@@ -1,0 +1,25 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,圣玛丽艾克斯30号大楼,The Gherkin,聖瑪莉艾克斯30號大樓,Q191161,1.184,4,,2,2
+0.5-1.5km,high,利物浦街车站,Liverpool Street station,利物浦街車站,Q801124,0.747,5,,2,2
+0.5-1.5km,mid,白教堂,Whitechapel,白教堂,Q124539,1.136,3,,3,3
+0.5-1.5km,mid,巴比肯艺术中心,Barbican Centre,巴比肯藝術中心,Q653858,1.292,3,,3,3
+0.5-1.5km,mid,伦敦城,City of London,倫敦市,Q23311,1.479,3,,3,3
+1.5-3.0km,high,伊斯灵顿,Islington,伊斯靈頓,Q125163,2.717,4,,13,4
+1.5-3.0km,high,霍尔本,Holborn,霍爾本,Q123624,2.516,4,,13,4
+1.5-3.0km,high,银行及纪念碑站,Bank and Monument stations,銀行及紀念碑站,Q806704,1.503,5,,13,4
+1.5-3.0km,high,泰特现代美术馆,Tate Modern,泰特現代藝術館,Q193375,2.423,5,,13,4
+1.5-3.0km,mid,黑衣修士桥,Blackfriars Bridge,黑衣修士橋,Q880843,2.497,3,,10,4
+1.5-3.0km,mid,伦敦城市大学,"City, University of London",倫敦城市大學,Q1094046,1.711,3,,10,4
+1.5-3.0km,mid,南华克桥,Southwark Bridge,南華克橋,Q1324578,2.122,2,,10,4
+1.5-3.0km,mid,伦敦城墙,London Wall,伦敦城墙,Q60308,1.554,3,,10,4
+3.0-6.0km,high,皮卡迪利圆环,Piccadilly Circus,皮卡迪利圓環,Q215255,4.247,5,,55,4
+3.0-6.0km,high,国王十字圣潘克拉斯地铁站,King's Cross St Pancras tube station,国王十字圣潘克拉斯站,Q826120,3.241,5,,55,4
+3.0-6.0km,high,威斯敏斯特宫,Palace of Westminster,威斯敏斯特宫,Q62408,4.276,5,,55,4
+3.0-6.0km,high,滑铁卢地铁站,Waterloo tube station,滑鐵盧站,Q10319641,3.482,5,,55,4
+3.0-6.0km,mid,椭圆体育场,The Oval,橢圓體育場,Q1155836,5.256,3,,30,4
+3.0-6.0km,mid,加拿大广场一号,One Canada Square,加拿大广场一号,Q503477,4.588,3,,30,4
+3.0-6.0km,mid,克拉伦斯府,Clarence House,克拉伦斯府,Q565521,4.794,2,,30,4
+3.0-6.0km,mid,林荫路,The Mall,林荫路,Q842930,4.591,3,,30,4
+3.0-6.0km,low,外交、联邦及发展事务部,"Foreign, Commonwealth and Development Office",外交及聯邦事務部,Q358834,4.221,1,,3,3
+3.0-6.0km,low,英国皇家学会,Royal Society,英国皇家学会,Q123885,4.3,1,,3,3
+3.0-6.0km,low,威斯敏斯特圣玛格丽特教堂,"St Margaret's, Westminster",威斯敏斯特圣玛格丽特教堂,Q823412,4.379,1,,3,3

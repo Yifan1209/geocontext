@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,香港四季酒店,Four Seasons Hotel Hong Kong,香港四季酒店,Q2365550,1.404,5,,12,4
+0.5-1.5km,high,中环中心,The Center,中環中心,Q130478,1.182,4,,12,4
+0.5-1.5km,high,香港大學,University of Hong Kong,香港大學,Q15568,0.56,5,,12,4
+0.5-1.5km,high,太平山,Victoria Peak,太平山,Q17541,1.13,5,,12,4
+0.5-1.5km,mid,猶太教莉亞堂,Ohel Leah Synagogue,猶太教莉亞堂,Q583651,0.73,3,,6,4
+0.5-1.5km,mid,宝翠园,The Belcher's,寶翠園,Q3177231,0.926,3,,6,4
+0.5-1.5km,mid,娱乐行,Entertainment Building,娛樂行,Q5380441,1.464,2,,6,4
+0.5-1.5km,mid,中远大厦,COSCO Tower,中遠大廈,Q432494,1.038,3,,6,4
+0.5-1.5km,low,松林炮台,Pinewood Battery,松林炮台,Q2891719,1.136,1,,1,1
+1.5-3.0km,high,尖沙咀钟楼,"Clock Tower, Hong Kong",尖沙咀鐘樓,Q692288,2.872,4,,32,4
+1.5-3.0km,high,圣约翰座堂,St John's Cathedral,聖約翰座堂,Q2942473,1.862,4,,32,4
+1.5-3.0km,high,太古广场,Pacific Place,太古廣場,Q5292940,2.445,4,,32,4
+1.5-3.0km,high,坚尼地城,Kennedy Town,堅尼地城,Q3497036,1.954,5,,32,4
+1.5-3.0km,mid,,Union Square,Union Square,Q1114839,2.936,2,,29,4
+1.5-3.0km,mid,力宝中心,Lippo Centre (Hong Kong),力寶中心,Q2618145,2.217,2,,29,4
+1.5-3.0km,mid,长江集团中心,Cheung Kong Center,長江集團中心,Q700058,1.905,3,,29,4
+1.5-3.0km,mid,天际100香港观景台,Sky100,天際100香港觀景台,Q7537147,2.652,2,,29,4
+3.0-6.0km,high,香港科學館,Hong Kong Science Museum,香港科學館,Q836319,3.946,4,,69,4
+3.0-6.0km,high,香港西九龙站,Hong Kong West Kowloon Station,香港西九龍站,Q2130136,3.021,4,,69,4
+3.0-6.0km,high,黄竹坑站,Wong Chuk Hang station,黃竹坑站,Q8031972,4.909,5,,69,4
+3.0-6.0km,high,香港藝術館,Hong Kong Museum of Art,香港藝術館,Q908216,3.114,5,,69,4
+3.0-6.0km,mid,聂高信山,Mount Nicholson,聶高信山,Q6922409,5.292,3,,38,4
+3.0-6.0km,mid,新光戏院,Sunbeam Theatre,新光戲院,Q2113185,5.899,2,,38,4
+3.0-6.0km,mid,港景峯,Victoria Towers,港景峯,Q241648,3.216,2,,38,4
+3.0-6.0km,mid,愛群清真寺暨林士德伊斯蘭中心,Ammar Mosque and Osman Ramju Sadick Islamic Centre,愛群清真寺暨林士德伊斯蘭中心,Q15043712,3.797,2,,38,4
+3.0-6.0km,low,中國網絡中心,China Online Centre,中國網絡中心,Q3756298,3.671,1,,3,3
+3.0-6.0km,low,奇力岛,Kellett Island,奇力島,Q287404,4.047,1,,3,3
+3.0-6.0km,low,香港板球总会,Hong Kong Cricket Club,香港板球總會,Q5894461,5.946,1,,3,3

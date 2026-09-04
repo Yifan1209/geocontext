@@ -1,0 +1,30 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,雅典卫城山门,Propylaea,普羅皮來門,Q3407649,1.133,5,,41,4
+0.5-1.5km,high,赫淮斯托斯神庙,Temple of Hephaestus,赫淮斯托斯神庙,Q756824,0.875,5,,41,4
+0.5-1.5km,high,古市集博物馆,Museum of the Ancient Agora,Museum of the Ancient Agora,Q2383284,0.806,4,,41,4
+0.5-1.5km,high,雅典娜胜利神庙,Temple of Athena Nike,雅典娜·尼刻神廟,Q384813,1.158,5,,41,4
+0.5-1.5km,mid,希腊总理府,Maximos Mansion,希臘總理府,Q1141322,1.451,2,,33,4
+0.5-1.5km,mid,名祖英雄纪念碑,Monument of the Eponymous Heroes,Monument of the Eponymous Heroes,Q2094507,0.875,2,,33,4
+0.5-1.5km,mid,雅典国家天文台,National Observatory of Athens,雅典国家天文台,Q1816405,1.243,3,,33,4
+0.5-1.5km,mid,凯拉米克斯,Kerameikos,凯拉米克斯,Q630974,0.885,3,,33,4
+0.5-1.5km,low,希腊犹太博物馆,Jewish Museum of Greece,Jewish Museum of Greece,Q930891,1.069,1,,4,4
+0.5-1.5km,low,布劳罗尼翁圣所,Brauroneion,布勞羅尼翁圣所,Q902329,1.153,1,,4,4
+0.5-1.5km,low,厄琉希尼翁神庙,Eleusinion,厄琉希尼翁神庙,Q1349784,0.93,1,,4,4
+0.5-1.5km,low,潘朵席翁圣所,Pandroseion,潘朵席翁圣所,Q2204137,1.091,1,,4,4
+1.5-3.0km,high,圣尼古拉奥斯站,Agios Nikolaos metro station,聖尼古拉奧斯站,Q3034196,2.797,4,,9,4
+1.5-3.0km,high,菲洛帕波斯紀念碑,Philopappos Monument,菲洛帕波斯紀念碑,Q1760491,1.701,4,,9,4
+1.5-3.0km,high,彼得拉洛纳,Petralona,彼得拉洛纳,Q2984861,2.283,4,,9,4
+1.5-3.0km,high,利卡维托斯山,Mount Lycabettus,呂卡維多斯,Q1357713,1.687,5,,9,4
+1.5-3.0km,mid,总统府,"Presidential Mansion, Athens",總統府,Q2629065,1.524,3,,21,4
+1.5-3.0km,mid,阿波斯托斯·尼古拉迪斯体育场,Leoforos Alexandras Stadium,阿波斯托斯·尼古拉迪斯体育场,Q620473,2.395,3,,21,4
+1.5-3.0km,mid,科普瑟里,Kypseli,科普瑟里,Q1795153,2.289,3,,21,4
+1.5-3.0km,mid,吕刻昂,Lyceum,吕刻昂,Q1160664,1.607,2,,21,4
+1.5-3.0km,low,雅典清真寺,Athens Mosque,Athens Mosque,Q28465243,2.49,1,,1,1
+3.0-6.0km,high,圣季米特里奥斯,Agios Dimitrios,圣季米特里奥斯,Q204361,5.396,4,,13,4
+3.0-6.0km,high,新斯米尔尼体育场,Nea Smyrni Stadium,Nea Smyrni Stadium,Q1196095,4.593,4,,13,4
+3.0-6.0km,high,塔夫罗斯,Tavros,塔夫罗斯,Q1568232,3.199,4,,13,4
+3.0-6.0km,high,新斯米尔尼,Nea Smyrni,新斯米尔尼,Q546634,4.522,5,,13,4
+3.0-6.0km,mid,塔夫羅斯–埃萊夫塞里奧斯·韋尼澤洛斯站,Tavros – Eleftherios Venizelos metro station,塔夫羅斯–埃萊夫塞里奧斯·韋尼澤洛斯站,Q2630757,3.033,2,,22,4
+3.0-6.0km,mid,莫斯哈托站,Moschato metro station,莫斯哈托站,Q2454553,5.082,3,,22,4
+3.0-6.0km,mid,,Peristeri Stadium,Peristeri Stadium,Q3499490,4.213,2,,22,4
+3.0-6.0km,mid,雅典铁路博物馆,Railway Museum of Athens,Railway Museum of Athens,Q1311748,3.183,3,,22,4

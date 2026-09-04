@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,欧贝罗伊三叉戟酒店,Oberoi Trident,奥布罗伊酒店,Q2303685,1.25,5,,23,4
+0.5-1.5km,high,纳里曼点,Nariman Point,纳里曼点,Q3632268,1.025,5,,23,4
+0.5-1.5km,high,孟买高等法院,Bombay High Court,孟买高等法院,Q695852,0.531,5,,23,4
+0.5-1.5km,high,炮台区,Fort (Mumbai precinct),炮台区,Q5470698,0.962,5,,23,4
+0.5-1.5km,mid,悉达多法学院,"Siddharth College of Law, Mumbai","Siddharth College of Law, Mumbai",Q7508100,0.507,2,,20,4
+0.5-1.5km,mid,马恒达曲棍球场,Mahindra Hockey Stadium,Mahindra Hockey Stadium,Q6734042,1.367,3,,20,4
+0.5-1.5km,mid,孟买吉姆卡纳,Bombay Gymkhana,Bombay Gymkhana,Q4940560,1.181,3,,20,4
+0.5-1.5km,mid,圣多马座堂,"St. Thomas Cathedral, Mumbai",聖多馬座堂,Q7591927,0.542,3,,20,4
+0.5-1.5km,low,波兰共和国驻孟买总领事馆,Consulate General of the Republic of Poland in Mumbai,Consulate General of the Republic of Poland in Mumbai,Q48851327,1.101,1,,2,2
+0.5-1.5km,low,,Old Woman's Island,Old Woman's Island,Q7085433,0.971,1,,2,2
+1.5-3.0km,high,万克赫德体育场,Wankhede Stadium,Wankhede Stadium,Q177067,1.525,5,,20,4
+1.5-3.0km,high,孟巴德维寺,Mumba Devi Temple,Mumba Devi Temple,Q3520892,2.584,5,,20,4
+1.5-3.0km,high,曼德维,"Mandvi, Mumbai","Mandvi, Mumbai",Q6748260,2.569,4,,20,4
+1.5-3.0km,high,贾特拉帕蒂·希瓦吉·摩诃罗阇地铁站,Chhatrapati Shivaji Maharaj Terminus metro station,Chhatrapati Shivaji Maharaj Terminus,Q130461620,1.551,4,,20,4
+1.5-3.0km,mid,孟买哈吉大楼,"Haj House, Mumbai","Haj House, Mumbai",Q5639810,2.067,2,,11,4
+1.5-3.0km,mid,,Ballard Pier Mole railway station,Ballard Pier Mole,Q4851513,1.556,3,,11,4
+1.5-3.0km,mid,奇拉巴扎,Chira Bazaar,Chira Bazaar,Q5101784,2.481,3,,11,4
+1.5-3.0km,mid,塔拉波雷瓦拉水族馆,Taraporewala Aquarium,Taraporewala Aquarium,Q31509,2.821,3,,11,4
+1.5-3.0km,low,卡维尔健康圣母教堂,"Church of Our Lady of Health, Cavel","Church of Our Lady of Health, Cavel",Q5116969,2.606,1,,1,1
+3.0-6.0km,high,孟买中央火车站,Mumbai Central railway station,孟買中央車站,Q3539796,5.064,5,,35,4
+3.0-6.0km,high,卡玛拉·尼赫鲁公园,Kamala Nehru Park,Kamala Nehru Park,Q6355601,4.28,4,,35,4
+3.0-6.0km,high,卡达帕西,Khada Parsi,Khada Parsi,Q139501815,4.965,4,,35,4
+3.0-6.0km,high,马拉巴尔山,Malabar Hill,馬拉巴爾山,Q6373912,4.724,4,,35,4
+3.0-6.0km,mid,威尔逊学院,"Wilson College, Mumbai","Wilson College, Mumbai",Q8023015,3.993,3,,49,4
+3.0-6.0km,mid,雷伊路站,Reay Road railway station,雷伊路站,Q5121780,5.749,3,,49,4
+3.0-6.0km,mid,马哈拉克希米地铁站,Mahalaxmi metro station,Mahalaxmi,Q130461629,5.898,2,,49,4
+3.0-6.0km,mid,吉贾玛塔乌迪安公园,Jijamata Udyaan,Jijamata Udyaan,Q647766,5.711,3,,49,4
+3.0-6.0km,low,Edubridge国际学校,Edubridge International School,Edubridge International School,Q16966806,4.09,1,,4,4
+3.0-6.0km,low,孟买拆船厂,Mumbai ship-breaking yard,Mumbai ship-breaking yard,Q336327,5.487,1,,4,4
+3.0-6.0km,low,,Seth Cowasji Behramji Banaji Atash Behram,Seth Cowasji Behramji Banaji Atash Behram,Q140315151,3.012,1,,4,4
+3.0-6.0km,low,E.E.E. 沙逊高中,E.E.E. Sassoon High School,E.E.E. Sassoon High School,Q5321594,4.458,1,,4,4

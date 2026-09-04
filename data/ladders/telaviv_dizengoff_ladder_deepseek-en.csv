@@ -1,0 +1,33 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,哈比马广场,Habima Square,舞台廣場,Q877711,0.75,5,,24,4
+0.5-1.5km,high,特拉维夫艺术博物馆,Tel Aviv Museum of Art,特拉维夫艺术博物馆,Q1267958,1.179,5,,24,4
+0.5-1.5km,high,梅厄公园,Meir Park,"Meir Park, Tel Aviv",Q2911068,0.546,4,,24,4
+0.5-1.5km,high,人质广场,Hostages Square,人質廣場,Q123385026,1.236,4,,24,4
+0.5-1.5km,mid,以色列歌剧院,Israeli Opera,以色列歌剧院,Q7210646,1.069,3,,15,4
+0.5-1.5km,mid,特拉维夫电影资料馆,Tel Aviv Cinematheque,特拉維夫電影資料館,Q2916134,1.179,3,,15,4
+0.5-1.5km,mid,,Yiddishpiel,Yiddishpiel,Q7223595,0.608,2,,15,4
+0.5-1.5km,mid,宝塔屋,Pagoda House,Pagoda House,Q2778028,1.354,2,,15,4
+0.5-1.5km,low,马苏迪亚,Al-Mas'udiyya,Al-Mas'udiyya,Q4702857,1.078,1,,2,2
+0.5-1.5km,low,特拉维夫动物园,Tel Aviv Zoo,Tel Aviv Zoo,Q7695556,0.775,1,,2,2
+1.5-3.0km,high,内夫泽德克,Neve Tzedek,內維茲德克,Q2632900,2.049,5,,24,4
+1.5-3.0km,high,特拉维夫中央车站,Tel Aviv central bus station,特拉維夫中央車站,Q2637357,2.539,5,,24,4
+1.5-3.0km,high,特拉维夫大犹太会堂,Great Synagogue (Tel Aviv),特拉维夫大犹太会堂,Q2916686,1.525,5,,24,4
+1.5-3.0km,high,钻石塔,Diamond Tower,鑽石塔,Q5805111,2.642,4,,24,4
+1.5-3.0km,mid,特拉维夫老中央汽车站,Old Tel Aviv central bus station,Old Tel Aviv central bus station,Q2906663,2.018,2,,34,4
+1.5-3.0km,mid,内夫泽德克大厦,Neve Tzedek Tower,Neve Tzedek Tower,Q2902481,2.16,2,,34,4
+1.5-3.0km,mid,马卡比体育场,Maccabiah Stadium,Maccabiah Stadium,Q2920516,2.48,2,,34,4
+1.5-3.0km,mid,顶级公园,Tzamarot Ayalon,顶级公园,Q2920006,2.433,3,,34,4
+1.5-3.0km,low,,Ohel Moed Synagogue,Synagogue Ohel Moed,Q3507999,1.65,1,,3,3
+1.5-3.0km,low,索默当代艺术馆,Sommer Contemporary Art,Sommer Contemporary Art,Q20050750,1.833,1,,3,3
+1.5-3.0km,low,哈沙哈尔塔,HaShahar Tower,HaShahar Tower,Q20645725,2.446,1,,3,3
+3.0-6.0km,high,雅法,Jaffa,雅法,Q180294,3.494,5,,25,4
+3.0-6.0km,high,特拉维夫会议中心,Expo Tel Aviv,特拉維夫會議中心,Q855110,4.437,4,,25,4
+3.0-6.0km,high,亚德以利亚胡,Yad Eliyahu,亚德以利亚胡,Q2908308,3.003,4,,25,4
+3.0-6.0km,high,瑞馬特甘體育場,Ramat Gan Stadium,瑞馬特甘體育場,Q261666,5.319,4,,25,4
+3.0-6.0km,mid,雅弗街,Yefet Street,雅弗街,Q376308,3.582,3,,34,4
+3.0-6.0km,mid,伊扎克·拉宾中心,Yitzhak Rabin Center,伊扎克·拉宾中心,Q616017,3.774,3,,34,4
+3.0-6.0km,mid,米维克以色列农业学校,Mikveh Israel,以色列米維克農業學校,Q181856,5.047,3,,34,4
+3.0-6.0km,mid,流散博物馆,Anu – Museum of the Jewish People,流散博物馆,Q796764,4.938,3,,34,4
+3.0-6.0km,low,,Alon Segev Gallery,Alon Segev Gallery,Q4734345,3.202,1,,3,3
+3.0-6.0km,low,贾里沙,Jarisha,Jarisha,Q2906069,3.701,1,,3,3
+3.0-6.0km,low,吉波爾體育大樓,Gibor Sport House,吉波爾體育大樓,Q6585397,4.05,1,,3,3

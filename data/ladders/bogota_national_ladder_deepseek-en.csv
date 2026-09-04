@@ -1,0 +1,32 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,桑坦德公园,Parque Santander,Parque Santander,Q541060,0.937,5,,26,4
+0.5-1.5km,high,罗萨里奥大学,Universidad del Rosario,罗萨里奥大学,Q3997334,1.166,4,,26,4
+0.5-1.5km,high,,Universidades (TransMilenio),Universidades - CityU,Q6156869,0.503,5,,26,4
+0.5-1.5km,high,波哥大主教座堂,Primatial Cathedral of Bogotá,波哥大主教座堂,Q2942872,1.482,5,,26,4
+0.5-1.5km,mid,,Edificio Fonade,Edificio Fonade,Q104822366,0.514,2,,21,4
+0.5-1.5km,mid,哥伦比亚信息与通信技术部,Ministry of Information Technologies and Communications,Ministry of Information Technologies and Communications,Q4294414,1.262,2,,21,4
+0.5-1.5km,mid,国家历史记忆中心,National Center for Historical Memory,National Center for Historical Memory,Q21572744,1.223,2,,21,4
+0.5-1.5km,mid,圣弗朗西斯科河,San Francisco River,San Francisco River,Q6115648,0.54,2,,21,4
+0.5-1.5km,low,哥伦比亚语言学院,Academia Colombiana de la Lengua,Academia Colombiana de la Lengua,Q3297341,0.887,1,,3,3
+0.5-1.5km,low,曼努埃尔·穆里略·托罗大厦,Manuel Murillo Toro Building,Q111721634,Q111721634,1.173,1,,3,3
+0.5-1.5km,low,哥伦比亚人类学与历史研究所,Colombian Institute of Anthropology and History,Colombian Institute of Anthropology and History,Q3151868,1.48,1,,3,3
+1.5-3.0km,high,玻利瓦尔广场,Plaza de Bolívar,玻利瓦尔广场,Q3090480,1.504,5,,22,4
+1.5-3.0km,high,纳里尼奥宫,Casa de Nariño,纳里尼奥宫,Q2940775,1.84,5,,22,4
+1.5-3.0km,high,殖民地艺术博物馆,Colonial Museum,Museum of Colonial Art,Q3329577,1.627,4,,22,4
+1.5-3.0km,high,博特罗博物馆,Botero Museum,Botero Museum,Q3329100,1.522,5,,22,4
+1.5-3.0km,mid,拉斯克鲁塞斯,Las Cruces,Las Cruces,Q16589334,2.658,3,,33,4
+1.5-3.0km,mid,卡门圣母教堂,Church of Our Lady of Carmen,"Church of Our Lady of Carmen, Bogota",Q6121481,1.808,3,,33,4
+1.5-3.0km,mid,圣巴巴拉教堂,Iglesia de Santa Bárbara,Iglesia de Santa Bárbara,Q5911498,2.221,3,,33,4
+1.5-3.0km,mid,圣奥古斯丁修道院,Claustro de San Agustín,Claustro de San Agustín,Q5772205,1.931,2,,33,4
+1.5-3.0km,low,哥伦比亚环境与可持续发展部,Ministry of Environment and Sustainable Development (Colombia),Ministry of Environment and Sustainable Development,Q3062233,1.768,1,,3,3
+1.5-3.0km,low,实现正义：法律、正义暨社会中心,Dejusticia,實現正義：法律、正義暨社會中心,Q61932619,1.917,1,,3,3
+1.5-3.0km,low,安全行政部大楼,Administrative Department of Security,安全行政部門,Q1190182,2.154,1,,3,3
+3.0-6.0km,high,圣胡安·德迪奥斯医院,"Hospital San Juan de Dios, Bogotá","Hospital San Juan de Dios, Bogota",Q5908591,3.017,4,,17,4
+3.0-6.0km,high,,Hortúa (TransMilenio),Hortúa,Q5907010,3.184,4,,17,4
+3.0-6.0km,high,波哥大大学城,University City of Bogotá,National University of Colombia at Bogotá,Q7894591,3.569,5,,17,4
+3.0-6.0km,high,72街站,Calle 72 (TransMilenio),Calle 72,Q5021831,5.389,4,,17,4
+3.0-6.0km,mid,阿方索·洛佩斯·普马雷霍体育场,Alfonso López Pumarejo Stadium,Alfonso López Pumarejo Stadium,Q4722060,3.953,3,,28,4
+3.0-6.0km,mid,国立师范大学（哥伦比亚）,National Pedagogic University,National Pedagogic University,Q2495711,5.511,3,,28,4
+3.0-6.0km,mid,拉萨尔大学,"La Salle University, Colombia","La Salle University, Colombia",Q6465150,3.937,3,,28,4
+3.0-6.0km,mid,哥伦比亚国家统计局,National Administrative Department of Statistics,哥倫比亞國家統計部,Q1190181,5.141,2,,28,4
+3.0-6.0km,low,哥伦比亚国家印刷局,National Printing Office of Colombia,National Printing Office of Colombia,Q6975050,5.891,1,,1,1

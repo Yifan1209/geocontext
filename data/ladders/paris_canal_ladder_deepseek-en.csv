@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,玛莱区,The Marais,玛莱区,Q749573,1.28,5,,4,4
+0.5-1.5km,high,巴黎北站,Gare du Nord,巴黎北站,Q745942,1.371,5,,4,4
+0.5-1.5km,high,巴黎东站,Gare de l'Est,巴黎东站,Q757180,0.829,5,,4,4
+0.5-1.5km,high,巴黎毕加索博物馆,Musée Picasso Paris,巴黎畢卡索美術館,Q743206,1.28,4,,4,4
+0.5-1.5km,mid,巴塔克兰剧院,Bataclan,巴塔克蘭劇院,Q810700,0.951,2,,3,3
+0.5-1.5km,mid,工艺美术博物馆,Musée des Arts et Métiers,工藝美術博物館,Q1538826,0.954,2,,3,3
+0.5-1.5km,mid,ESCP欧洲商学院,ESCP Business School,ESCP欧洲商学院,Q29293,1.307,2,,3,3
+1.5-3.0km,high,拉丁区,Latin Quarter,拉丁区,Q321621,2.9,5,,31,4
+1.5-3.0km,high,卢浮宫博物馆,Louvre,卢浮宫博物馆,Q19675,2.465,5,,31,4
+1.5-3.0km,high,旺多姆广场,Place Vendôme,旺多姆广场,Q643520,2.702,5,,31,4
+1.5-3.0km,high,卢浮宫金字塔,Louvre Pyramid,卢浮宫金字塔,Q13397,2.469,5,,31,4
+1.5-3.0km,mid,国立现代艺术博物馆,Musée National d'Art Moderne,國立現代藝術博物館,Q1895953,1.528,3,,16,4
+1.5-3.0km,mid,卡纳瓦莱博物馆,Musée Carnavalet,卡纳瓦莱博物馆,Q640447,1.534,3,,16,4
+1.5-3.0km,mid,巴士底歌剧院,Opéra Bastille,巴士底歌劇院,Q638423,2.145,3,,16,4
+1.5-3.0km,mid,巴黎国立高等美术学院,Beaux-Arts de Paris,國立巴黎美術學院,Q273593,2.867,2,,16,4
+3.0-6.0km,high,凯布朗利博物馆,Musée du Quai Branly – Jacques Chirac,布朗利河岸博物館,Q167863,5.136,4,,35,4
+3.0-6.0km,high,爱丽舍宫,Élysée Palace,爱丽舍宫,Q188190,3.629,5,,35,4
+3.0-6.0km,high,巴黎现代艺术博物馆,Musée d'Art Moderne de Paris,巴黎现代艺术博物馆,Q857276,5.044,4,,35,4
+3.0-6.0km,high,蒙帕纳斯大厦,Tour Montparnasse,蒙帕納斯大樓,Q323767,4.549,5,,35,4
+3.0-6.0km,mid,巴尼奥莱,Bagnolet,巴尼奥莱,Q208943,3.753,3,,37,4
+3.0-6.0km,mid,巴黎高等物理化工学院,ESPCI Paris,巴黎高等物理化工学院,Q273638,3.576,3,,37,4
+3.0-6.0km,mid,勒普雷圣热尔韦,Le Pré-Saint-Gervais,勒普雷圣热尔韦,Q175999,3.178,2,,37,4
+3.0-6.0km,mid,塞纳河畔圣旺,Saint-Ouen-sur-Seine,塞纳河畔圣旺,Q208889,4.667,3,,37,4
+3.0-6.0km,low,对外安全总局,Directorate General for External Security,对外安全总局,Q335827,3.002,1,,3,3
+3.0-6.0km,low,高等研究应用学院,École pratique des hautes études,高等研究應用學院,Q273631,4.827,1,,3,3
+3.0-6.0km,low,巴黎高等管理学院,Paris School of Business,巴黎高等管理学院,Q3578449,5.066,1,,3,3

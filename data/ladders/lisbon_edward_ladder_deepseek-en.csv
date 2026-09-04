@@ -1,0 +1,29 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,西班牙广场站,Praça de Espanha Station,西班牙廣場站 (里斯本),Q605303,1.205,4,,10,4
+0.5-1.5km,high,圣塞巴斯蒂安站,São Sebastião Station,聖塞巴斯蒂安站,Q163761,0.689,4,,10,4
+0.5-1.5km,high,萨尔达尼亚站,Saldanha Station,薩爾達尼亞站,Q1246552,1.012,4,,10,4
+0.5-1.5km,high,皮科阿斯站,Picoas Station,皮科阿斯站,Q1280920,0.628,4,,10,4
+0.5-1.5km,mid,里斯本犹太会堂,Lisbon Synagogue,里斯本猶太會堂,Q3113484,0.885,2,,7,4
+0.5-1.5km,mid,坎波利德,Campolide,Campolide,Q1031527,0.934,3,,7,4
+0.5-1.5km,mid,法蒂玛圣母,Nossa Senhora de Fátima,Nossa Senhora de Fátima,Q1752948,1.226,3,,7,4
+0.5-1.5km,mid,里斯本中央清真寺,Central Mosque of Lisbon,里斯本中央清真寺,Q3115759,0.95,3,,7,4
+1.5-3.0km,high,里斯本主教座堂,Lisbon Cathedral,里斯本主教座堂,Q432290,2.674,5,,45,4
+1.5-3.0km,high,希亚多,Chiado,希亚多,Q601430,2.172,5,,45,4
+1.5-3.0km,high,里斯本動物園,Lisbon Zoo,里斯本動物園,Q220063,2.179,4,,45,4
+1.5-3.0km,high,商业广场站,Terreiro do Paço Station,商業廣場站,Q2038079,2.894,4,,45,4
+1.5-3.0km,mid,ISCTE里斯本大学学院,ISCTE – University Institute of Lisbon,葡萄牙ISCTE里斯本大学学院,Q2886844,2.297,3,,26,4
+1.5-3.0km,mid,普拉泽雷斯,Prazeres,Freguesia dos Prazeres,Q1850965,2.564,3,,26,4
+1.5-3.0km,mid,里斯本高等理工学院,Instituto Superior Técnico,里斯本高等科技研究所,Q1636837,1.529,3,,26,4
+1.5-3.0km,mid,拉兰热拉斯站,Laranjeiras Station,拉蘭熱拉斯站,Q962631,2.832,3,,26,4
+1.5-3.0km,low,葡萄牙宪法法庭,Constitutional Court (Portugal),葡萄牙宪法法庭,Q138324,1.638,1,,3,3
+1.5-3.0km,low,欧洲海事安全局,European Maritime Safety Agency,歐洲海事安全局,Q922693,2.656,1,,3,3
+1.5-3.0km,low,葡萄牙国家档案馆,Torre do Tombo National Archive,葡萄牙國家檔案館,Q1769248,2.96,1,,3,3
+3.0-6.0km,high,圣恩格拉西亚教堂,Santa Engrácia Church,聖恩格拉西亞教堂,Q612059,3.045,4,,22,4
+3.0-6.0km,high,奥利瓦伊斯站,Olivais Station,奧利瓦伊斯站,Q376192,5.085,4,,22,4
+3.0-6.0km,high,阿尔瓦拉德球场,Estádio José Alvalade,阿爾瓦拉德球場,Q287359,3.728,4,,22,4
+3.0-6.0km,high,圣阿波隆尼亚车站,Santa Apolónia railway station,聖阿波隆尼亞車站,Q531789,3.053,5,,22,4
+3.0-6.0km,mid,艺术、建筑与科技博物馆,"Museum of Art, Architecture and Technology",藝術、建築與科技博物館,Q27522479,5.038,3,,34,4
+3.0-6.0km,mid,电力博物馆,Electricity Museum,电力博物馆,Q1262183,5.227,3,,34,4
+3.0-6.0km,mid,阿梅伊绍埃拉站,Ameixoeira Station,阿梅伊紹埃拉站,Q2298625,5.743,2,,34,4
+3.0-6.0km,mid,卡博鲁伊沃站,Cabo Ruivo Station,卡博魯伊沃站,Q1475262,5.725,2,,34,4
+3.0-6.0km,low,蒙三托赛道,Circuito de Monsanto,蒙三托賽道,Q174062,4.459,1,,1,1

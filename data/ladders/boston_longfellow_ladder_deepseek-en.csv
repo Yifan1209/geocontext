@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,州街站,State station,州站,Q2913313,1.473,4,,32,4
+0.5-1.5km,high,伦纳德·保罗·扎基姆邦克山纪念大桥,Leonard P. Zakim Bunker Hill Memorial Bridge,伦纳德·保罗·扎基姆邦克山纪念大桥,Q151914,1.267,4,,32,4
+0.5-1.5km,high,麻省理工学院,Massachusetts Institute of Technology,麻省理工學院,Q49108,1.386,5,,32,4
+0.5-1.5km,high,三一堂,Trinity Church (Boston),三一堂 (波士顿),Q901259,1.309,5,,32,4
+0.5-1.5km,mid,MIT斯隆管理学院,MIT Sloan School of Management,MIT斯隆管理学院,Q142740,0.706,3,,17,4
+0.5-1.5km,mid,,John A. Volpe National Transportation Systems Center,John A. Volpe National Transportation Systems Center,Q3562954,0.89,2,,17,4
+0.5-1.5km,mid,波士顿雅典娜图书馆,Boston Athenæum,波士頓圖書館,Q478013,1.151,2,,17,4
+0.5-1.5km,mid,新英格兰犹太人大屠杀纪念碑,New England Holocaust Memorial,新英格兰犹太人大屠杀纪念碑,Q1532554,1.478,3,,17,4
+1.5-3.0km,high,波士顿南站,South Station,波士顿南站,Q54453,1.967,5,,34,4
+1.5-3.0km,high,查尔斯河,Charles River,查尔斯河,Q794927,2.039,5,,34,4
+1.5-3.0km,high,麻省大道站,Massachusetts Avenue station,麻省大道站 (波士頓地鐵橙線),Q3672576,2.412,4,,34,4
+1.5-3.0km,high,波士顿儿童博物馆,Boston Children's Museum,波士頓兒童博物館,Q901463,2.374,4,,34,4
+1.5-3.0km,mid,贝村,"Bay Village, Boston",貝村,Q812087,1.52,3,,17,4
+1.5-3.0km,mid,波士顿国家历史公园,Boston National Historical Park,波士顿国家历史公园,Q1800033,1.562,2,,17,4
+1.5-3.0km,mid,海因斯会议中心站,Hynes Convention Center station,海因斯会议中心站,Q11221237,1.826,3,,17,4
+1.5-3.0km,mid,沙利文广场站,Sullivan Square station,蘇利文廣場站,Q3562475,2.522,3,,17,4
+3.0-6.0km,high,丹娜-法伯癌症研究所,Dana–Farber Cancer Institute,丹那-法博癌症研究所,Q1159198,3.716,4,,27,4
+3.0-6.0km,high,哈佛站,Harvard station,哈佛站,Q5264971,3.833,5,,27,4
+3.0-6.0km,high,哈佛庭院,Harvard Yard,哈佛庭院,Q2838342,3.729,5,,27,4
+3.0-6.0km,high,波特站,Porter station,波特站,Q5159619,4.659,4,,27,4
+3.0-6.0km,mid,斯托尼布鲁克溪站,Stony Brook station,斯托尼布鲁克溪站,Q3790556,5.476,3,,30,4
+3.0-6.0km,mid,永援圣母朝圣地圣殿,Basilica and Shrine of Our Lady of Perpetual Help,永援圣母朝圣地圣殿,Q810125,3.846,3,,30,4
+3.0-6.0km,mid,杰克逊广场站,Jackson Square station,傑克遜廣場站,Q3736887,4.738,3,,30,4
+3.0-6.0km,mid,莱斯利大学,Lesley University,萊斯利大學,Q6530549,3.995,3,,30,4
+3.0-6.0km,low,糟糕艺术博物馆,Museum of Bad Art,糟糕艺术博物馆,Q11643,4.54,1,,2,2
+3.0-6.0km,low,剑桥学院,Cambridge College,剑桥学院,Q3695713,3.035,1,,2,2

@@ -1,0 +1,27 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,滑铁卢广场,Waterlooplein,滑铁卢广场,Q2301532,1.048,4,,15,4
+0.5-1.5km,high,新市场站,Nieuwmarkt metro station,新市場站,Q1913095,1.239,4,,15,4
+0.5-1.5km,high,熱帶博物館,Wereldmuseum Amsterdam,熱帶博物館,Q1131589,0.502,4,,15,4
+0.5-1.5km,high,阿姆斯特丹測量所,"Waag, Amsterdam",阿姆斯特丹測量所,Q2466999,1.337,4,,15,4
+0.5-1.5km,mid,阿姆斯特丹植物园,Hortus Botanicus,阿姆斯特丹植物園,Q1576733,0.567,3,,20,4
+0.5-1.5km,mid,荷兰中央银行,De Nederlandsche Bank,荷兰中央银行,Q1180205,1.372,2,,20,4
+0.5-1.5km,mid,包包和箱包博物馆,Museum of Bags and Purses,包包和箱包博物馆,Q2077489,1.346,2,,20,4
+0.5-1.5km,mid,东部公园,Oosterpark,东部公园,Q2718912,0.681,3,,20,4
+0.5-1.5km,low,,Athenaeum Illustre,Athenaeum Illustre of Amsterdam,Q505639,1.48,1,,1,1
+1.5-3.0km,high,北市场,Noordermarkt,北市场,Q2915920,2.52,4,,43,4
+1.5-3.0km,high,辛厄尔,Singel,辛厄爾,Q893046,2.059,4,,43,4
+1.5-3.0km,high,运河区,Grachtengordel,運河區,Q478707,2.094,4,,43,4
+1.5-3.0km,high,安妮·弗兰克之家,Anne Frank House,安妮·弗兰克之家,Q165366,2.432,5,,43,4
+1.5-3.0km,mid,阿姆斯特丹舊證券交易所,Beurs van Berlage,阿姆斯特丹舊證券交易所,Q851200,1.695,3,,27,4
+1.5-3.0km,mid,马格纳广场,Magna Plaza,馬格納廣場,Q1962448,1.977,3,,27,4
+1.5-3.0km,mid,貓櫃,KattenKabinet,貓櫃,Q2916386,1.705,2,,27,4
+1.5-3.0km,mid,阿姆斯特丹钻石博物馆,Diamond Museum Amsterdam,阿姆斯特丹鑽石博物館,Q1208561,2.436,3,,27,4
+1.5-3.0km,low,荷兰数学和计算机科学研究学会,Centrum Wiskunde & Informatica,荷兰数学和计算机科学研究学会,Q1054410,2.628,1,,1,1
+3.0-6.0km,high,冯德尔公园,Vondelpark,馮德爾公園,Q1419691,3.563,5,,8,4
+3.0-6.0km,high,德伊芬德雷赫特站,Duivendrecht station,德伊芬德雷赫特,Q49870,4.942,4,,8,4
+3.0-6.0km,high,RAI国际会展中心,RAI Amsterdam,RAI國際會展中心,Q478616,3.28,5,,8,4
+3.0-6.0km,high,阿姆斯特丹斯洛特代克站,Amsterdam Sloterdijk station,阿姆斯特丹斯勞特戴克車站,Q50721,5.92,4,,8,4
+3.0-6.0km,mid,辛厄尔运河,Singelgracht,辛厄爾運河,Q2788553,3.051,3,,18,4
+3.0-6.0km,mid,,Nieuwendam,Nieuwendam,Q2234321,3.061,3,,18,4
+3.0-6.0km,mid,北站,Noord metro station,北站,Q3007607,4.092,3,,18,4
+3.0-6.0km,mid,斯海灵沃德,Schellingwoude,Schellingwoude,Q2264716,3.924,2,,18,4

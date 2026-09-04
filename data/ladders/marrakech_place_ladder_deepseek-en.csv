@@ -1,0 +1,28 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,拉玛穆尼亚酒店,La Mamounia,La Mamounia,Q3210501,1.181,5,,15,4
+0.5-1.5km,high,本优素福伊斯兰学院,Ben Youssef Madrasa,本優素福伊斯蘭學院,Q1560540,1.35,5,,15,4
+0.5-1.5km,high,阿格瑙门,Bab Agnaou,阿格瑙门,Q4837210,0.611,5,,15,4
+0.5-1.5km,high,马拉喀什城墙,Walls of Marrakesh,馬拉喀什城牆,Q58977891,1.391,5,,15,4
+0.5-1.5km,mid,索维拉酒店,Hotel Essaouira,Hotel Essaouira,Q111121374,0.55,3,,18,4
+0.5-1.5km,mid,马拉喀什犹太公墓,Jewish Cemetery of Marrakech,Jewish Cemetery of Marrakech,Q19942087,0.56,3,,18,4
+0.5-1.5km,mid,达尔谢里法,Dar Cherifa,Dar Cherifa,Q105834613,1.148,3,,18,4
+0.5-1.5km,mid,库图比亚花园酒店,Les Jardins De La Koutoubia,Les Jardins De La Koutoubia,Q111409204,0.949,3,,18,4
+0.5-1.5km,low,,Boho 27 hostel Marrakech,Boho 27 hostel Marrakech,Q111121351,0.569,1,,1,1
+1.5-3.0km,high,马赫赞门,Bab al-Makhzen,Bab al-Makhzen (Marrakesh),Q91901826,1.546,5,,17,4
+1.5-3.0km,high,巴布艾兰门,Bab Aylan,Bab Aylan,Q59955610,1.547,4,,17,4
+1.5-3.0km,high,恩科布门,Bab Nkob,Bab Nkob,Q91901868,1.778,4,,17,4
+1.5-3.0km,high,马若雷勒花园,Majorelle Garden,馬若雷勒花園,Q1395431,2.95,5,,17,4
+1.5-3.0km,mid,西迪·贝勒阿贝斯扎维耶,Zawiya of Sidi Bel Abbes,Sidi Bel Abbes Zawiya,Q3574792,2.209,3,,14,4
+1.5-3.0km,mid,哈蒂公园,El Harti Park,Parc El Harti,Q130259699,2.612,3,,14,4
+1.5-3.0km,mid,,Rodamon Riad Marrakech Hostel,Rodamon Riad Marrakech Hostel,Q111121350,1.517,2,,14,4
+1.5-3.0km,mid,柏柏尔博物馆,Berber Museum,Berber Museum,Q30081497,2.987,2,,14,4
+1.5-3.0km,low,马拉喀什集中营,Marrakech concentration camp,Marrakech concentration camp,Q45509383,2.149,1,,2,2
+1.5-3.0km,low,,Riad Adore,Riad Adore,Q111409187,1.501,1,,2,2
+3.0-6.0km,high,奥西里亚水上乐园,Oasiria,Oasiria,Q3347879,5.202,4,,12,4
+3.0-6.0km,high,卡迪·伊亚德大学,Cadi Ayyad University,卡迪·伊亚德大学,Q737095,5.148,4,,12,4
+3.0-6.0km,high,皇家剧院,Royal Theatre,Royal Theatre,Q113627642,3.047,4,,12,4
+3.0-6.0km,high,安曼珍娜度假村,Amanjena,Amanjena,Q19893933,4.967,4,,12,4
+3.0-6.0km,mid,阿维森纳军事医院,Avicenne Military Hospital,Hôpital militaire Avicenne,Q30281418,3.824,3,,24,4
+3.0-6.0km,mid,肯齐俱乐部阿格达尔麦地那酒店,Kenzi Club Agdal Medina - All Inclusive,Kenzi Club Agdal Medina - All Inclusive,Q111409212,4.59,3,,24,4
+3.0-6.0km,mid,达尔埃尔哈纳池,Bassin Dar El Hana,Bassin Dar El Hana,Q58897292,3.071,2,,24,4
+3.0-6.0km,mid,帕尔默拉博物馆,Museum of the Palmeraie,Museum of the Palmeraie,Q3329934,4.923,2,,24,4

@@ -1,0 +1,33 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,印度门,India Gate,印度门,Q245347,0.58,5,,7,4
+0.5-1.5km,high,普拉纳城堡,Purana Qila,Purana Qila,Q1151529,0.957,4,,7,4
+0.5-1.5km,high,印度最高法院,Supreme Court of India,印度最高法院,Q213380,1.455,4,,7,4
+0.5-1.5km,high,可汗市集站,Khan Market metro station,可汗市集站,Q6400082,1.069,4,,7,4
+0.5-1.5km,mid,德里高尔夫俱乐部,Delhi Golf Club,Delhi Golf Club,Q1923182,1.311,3,,12,4
+0.5-1.5km,mid,孟加拉市场,Bengali Market,Bengali Market,Q4887681,1.173,3,,12,4
+0.5-1.5km,mid,凯鲁尔·曼齐尔,Khairul Manazil,Khair-ul-Manzil,Q22680377,0.576,2,,12,4
+0.5-1.5km,mid,婆罗多寺,Bharat Mandapam,婆罗多寺,Q2723163,1.144,3,,12,4
+0.5-1.5km,low,,Lal Bangla,Lal Bangla,Q6480027,1.158,1,,1,1
+1.5-3.0km,high,产业大厦站,Udyog Bhawan metro station,產業大廈站,Q7877392,2.192,4,,27,4
+1.5-3.0km,high,胡马雍陵,Humayun's tomb,胡馬雍陵,Q189648,2.458,5,,27,4
+1.5-3.0km,high,哈兹拉特·尼扎穆丁·达尔加,Hazrat Nizamuddin Dargah,Hazrat Nizamuddin Dargah,Q2983384,2.22,4,,27,4
+1.5-3.0km,high,希瓦吉桥火车站,Shivaji Bridge railway station,希瓦吉橋火車站,Q12454277,2.766,4,,27,4
+1.5-3.0km,mid,阿卜杜勒·拉希姆·汗-汗纳陵墓,Tomb of Abdul Rahim Khan-i-Khanan,阿卜杜勒·拉希姆·汗-汗納,Q317364,2.793,2,,30,4
+1.5-3.0km,mid,尚卡尔国际娃娃博物馆,Shankar's International Dolls Museum,Shankar's International Dolls Museum,Q2721827,2.344,2,,30,4
+1.5-3.0km,mid,玛塔·孙德里谒师所,Gurdwara Mata Sundri,Gurdwara Mata Sundri,Q5619968,2.69,2,,30,4
+1.5-3.0km,mid,印度国家档案馆,National Archives of India,印度國家檔案館,Q6970437,2.475,2,,30,4
+1.5-3.0km,low,,"Gandharva Mahavidyalaya, New Delhi",Gandharva Mahavidyalaya,Q5520666,2.165,1,,11,4
+1.5-3.0km,low,印度民主青年联盟,Democratic Youth Federation of India,印度民主青年聯盟,Q3344913,1.785,1,,11,4
+1.5-3.0km,low,科学与工业研究委员会,Council of Scientific and Industrial Research,科学与工业研究委员会,Q3519967,2.37,1,,11,4
+1.5-3.0km,low,新德里国家集邮博物馆,"National Philatelic Museum, New Delhi","National Philatelic Museum, New Delhi",Q6974901,2.472,1,,11,4
+3.0-6.0km,high,贾瓦哈拉尔·尼赫鲁体育场,"Jawaharlal Nehru Stadium, Delhi",賈瓦哈拉爾·尼赫魯體育場,Q864849,3.037,5,,56,4
+3.0-6.0km,high,萨夫达君陵,Tomb of Safdar Jang,Tomb of Safdar Jang,Q375624,3.285,4,,56,4
+3.0-6.0km,high,德里哈特,Dilli Haat,Dilli Haat,Q3595641,4.831,5,,56,4
+3.0-6.0km,high,印度总理官邸,"7, Race Course Road",印度總理官邸,Q2030145,3.544,4,,56,4
+3.0-6.0km,mid,,Lutyens' Delhi,Lutyens' Delhi,Q3595640,3.006,3,,58,4
+3.0-6.0km,mid,洛迪殖民地,Lodhi Colony,Lodhi Colony,Q13644977,3.254,3,,58,4
+3.0-6.0km,mid,卡达姆谢里夫,Qadam Sharif (Delhi),Qadam Sharif,Q7265722,4.922,2,,58,4
+3.0-6.0km,mid,总理博物馆和图书馆,Prime Ministers' Museum and Library,Prime Ministers Museum & Library,Q619713,3.578,3,,58,4
+3.0-6.0km,low,,Morarji Desai National Institute of Yoga,Morarji Desai National Institute of Yoga,Q18128191,3.363,1,,3,3
+3.0-6.0km,low,红堡考古博物馆,Red Fort Archaeological Museum,Red Fort Archaeological Museum,Q16899203,5.006,1,,3,3
+3.0-6.0km,low,红堡鼓楼,Naubat Khana,鼓楼 (红堡),Q16895720,5.113,1,,3,3

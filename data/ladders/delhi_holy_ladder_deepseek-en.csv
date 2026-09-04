@@ -1,0 +1,35 @@
+band,tier,name_zh,name_en,label_raw,qid,dist_km,familiarity,pageviews,n_in_cell,n_taken
+0.5-1.5km,high,德里门,Delhi Gate,德里门 (德里),Q5253759,0.704,5,,18,4
+0.5-1.5km,high,德里门站,Delhi Gate metro station,德里門站,Q19580569,0.732,5,,18,4
+0.5-1.5km,high,阿伦·贾特利板球场,Arun Jaitley Cricket Stadium,Arun Jaitley Cricket Stadium,Q15217611,1.081,5,,18,4
+0.5-1.5km,high,安贝德卡尔体育场,Ambedkar Stadium,阿姆倍伽爾體育場,Q456749,0.957,4,,18,4
+0.5-1.5km,mid,玛塔·孙德里女子学院,Mata Sundri College for Women,"Mata Sundri College for Women, Delhi",Q39045671,1.052,2,,15,4
+0.5-1.5km,mid,新庙,Naya Mandir,新庙,Q6983043,1.133,2,,15,4
+0.5-1.5km,mid,洛克纳亚克医院,Lok Nayak Hospital,Lok Nayak Hospital,Q30279844,0.625,3,,15,4
+0.5-1.5km,mid,印度战争纪念博物馆,Indian War Memorial Museum,Indian War Memorial Museum,Q16847350,1.344,3,,15,4
+0.5-1.5km,low,观察家研究基金会,Observer Research Foundation,觀察家研究基金會,Q10860333,1.396,1,,2,2
+0.5-1.5km,low,,Madrasa Ghaziuddin Khan,Madrasa Ghaziuddin Khan,Q119597132,1.172,1,,2,2
+1.5-3.0km,high,民迪楼站,Mandi House metro station,民迪樓站,Q6748047,1.881,4,,26,4
+1.5-3.0km,high,印度最高法院,Supreme Court of India,印度最高法院,Q213380,2.32,4,,26,4
+1.5-3.0km,high,帕兰特巷,Gali Paranthe Wali,Gali Paranthe Wali,Q5518544,1.506,4,,26,4
+1.5-3.0km,high,因德拉普拉斯塔站,Indraprastha metro station,因德拉普拉斯塔站,Q6026956,2.947,4,,26,4
+1.5-3.0km,mid,阿格拉森阶梯井,Agrasen Ki Baoli,Agrasen ki Baoli,Q4693773,2.025,3,,27,4
+1.5-3.0km,mid,卡达姆谢里夫,Qadam Sharif (Delhi),Qadam Sharif,Q7265722,2.251,2,,27,4
+1.5-3.0km,mid,圣司提反教堂,"St. Stephen's Church, Delhi",圣司提反教堂 (德里),Q7591739,2.082,3,,27,4
+1.5-3.0km,mid,希瓦吉体育场站,Shivaji Stadium metro station,希瓦吉體育場站,Q11308729,2.654,3,,27,4
+1.5-3.0km,low,红堡考古博物馆,Red Fort Archaeological Museum,Red Fort Archaeological Museum,Q16899203,1.629,1,,5,4
+1.5-3.0km,low,新德里国家集邮博物馆,"National Philatelic Museum, New Delhi","National Philatelic Museum, New Delhi",Q6974901,2.971,1,,5,4
+1.5-3.0km,low,红堡鼓楼,Naubat Khana,鼓楼 (红堡),Q16895720,1.63,1,,5,4
+1.5-3.0km,low,印度工会联盟中心,Centre of Indian Trade Unions,印度工會聯盟中心,Q3595827,1.536,1,,5,4
+3.0-6.0km,high,可汗市集,Khan Market,可汗市集,Q6400083,4.762,5,,47,4
+3.0-6.0km,high,馬場站,Lok Kalyan Marg metro station,馬場站,Q7278893,5.462,5,,47,4
+3.0-6.0km,high,印度总统府,Rashtrapati Bhavan,印度總統府,Q677555,4.556,5,,47,4
+3.0-6.0km,high,哈兹拉特·尼扎穆丁·达尔加,Hazrat Nizamuddin Dargah,Hazrat Nizamuddin Dargah,Q2983384,5.772,4,,47,4
+3.0-6.0km,mid,米尔扎·加利布博物馆,Ghalib Museum,Mirza Ghalib Museum,Q15961642,5.777,3,,44,4
+3.0-6.0km,mid,阿姆倍伽尔国家纪念馆,Dr. Ambedkar National Memorial,Dr. Ambedkar National Memorial,Q58450335,4.727,3,,44,4
+3.0-6.0km,mid,德里高尔夫俱乐部,Delhi Golf Club,Delhi Golf Club,Q1923182,4.925,3,,44,4
+3.0-6.0km,mid,贾夫夫拉巴德,Jaffrabad,贾夫夫拉巴德,Q1609180,5.771,3,,44,4
+3.0-6.0km,low,印度民主青年联盟,Democratic Youth Federation of India,印度民主青年聯盟,Q3344913,3.022,1,,7,4
+3.0-6.0km,low,天帝城,Indraprastha,天帝城,Q1975540,3.319,1,,7,4
+3.0-6.0km,low,印度文化部,Ministry of Culture (India),印度文化部,Q4294433,3.464,1,,7,4
+3.0-6.0km,low,,Morarji Desai National Institute of Yoga,Morarji Desai National Institute of Yoga,Q18128191,3.341,1,,7,4
